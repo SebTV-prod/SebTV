@@ -9,4 +9,6 @@ Si certaines chaînes sont manquantes, mais que des liens officiels et libres d'
 
 Toute copie de ce site est bien sûr interdite, car étant ma propriété, même si Github est en soi un projet open-source, ça ne veut pas dire que tout y est permis.
 
+https://sibprod.github.io/SibTV
+
 ©2024 - Sibprod - Tous droits réservés.
