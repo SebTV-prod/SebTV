@@ -1,4 +1,4 @@
 body{background-color: #F0E68C}
-  h2{color: #A0522D;text-position: align;font-size: bold;16px}
-th{color: #A0522D;text-position: align;font-size: bold;8px}
-footer{color: #A0522D;text-position: center;font-size: bold;4px}
+  h2{color: #A0522D;text-align: center;font-family: helvetica, sans-serif;font-size: bold;16px}
+th{color: #A0522D;text-align: center;font-family: helvetica, sans-serif;font-size: bold;8px}
+footer{color: #A0522D;text-align: center;font-family: helvetica, sans-serif;font-size: bold;4px}
