@@ -19,7 +19,7 @@ jobs:
           git config --global user.name "France3_IleDeFrance bot"
       
       - name: updating fidf
-        run: sh hls/France3_IleDeFrance.sh
+        run: sh hls/FTV/France3_IleDeFrance.sh
         
       - name: git add
         run: |
