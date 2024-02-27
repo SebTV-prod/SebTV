@@ -1,6 +1,6 @@
 #!/bin/bash
 
-input_file="hls/France3_IleDeFrance.m3u8"
+input_file="hls/FTV/France3_IleDeFrance.m3u8"
 output_dir="hls/FTV"
 
 if [ ! -f "$input_file" ]; then
