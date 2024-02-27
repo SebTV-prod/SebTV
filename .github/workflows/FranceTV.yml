@@ -19,7 +19,7 @@ jobs:
           git config --global user.name "FranceTV bot"
       
       - name: updating FranceTV
-        run: sh hls/FranceTV.sh
+        run: sh hls/FTV/FranceTV.sh
         
       - name: git add
         run: |
