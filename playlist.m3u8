@@ -169,6 +169,8 @@ https://ythls.armelin.one/channel/UCvpCjGQASCazC-Vxcp9tgPA.m3u8
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
 #EXTINF:-1 tvg-id="C110.api.telerama.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-110.png" tvg-chno="https://focus.telerama.fr/104x104/60/0000/00/01/clear-110.png" group-title="Religion",[141] KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Religion",[142] EMCI (Europe)
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/emcieurope.m3u8
 #EXTINF:-1 tvg-id="C265.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Melody.png" group-title="Musique",[151] Melody
 https://live.creacast.com/telemelody/smil:telemelody-211112.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="C .api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Mlemedia.png" group-title="Musique",[152] M Le Media
