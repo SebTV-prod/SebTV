@@ -145,7 +145,9 @@ https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/africanewsfr.m3
 https://livevideo.vedge.infomaniak.com/livecast/africa24/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/medi-1-tv-afrique-ma.png" group-title="Information",[106] Médi 1 (Afrique)
 https://streaming1.medi1tv.com/live/smil:medi1fr.smil/.m3u8
-#EXTINF:-1 tvg-id="RAINews24.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_news_24.png" group-title="Information",[107] RAI News 24
+#EXTINF:-1 tvg-id="C.api.telerama.fr" tvg-logo=" " group-title="Information",[107] Telesud
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/telesud.m3u8
+#EXTINF:-1 tvg-id="RAINews24.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_news_24.png" group-title="Information",[108] RAI News 24
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=16
 #EXTINF:-1 tvg-id="C.api.telerama.fr" tvg-logo="https://s2.dmcdn.net/u/7fiM11W1elfKAeKOR/120x120" group-title="Gaming",[111] N31
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/DMTV/n31.m3u8
