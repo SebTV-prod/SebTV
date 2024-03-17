@@ -15,6 +15,8 @@ https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c159
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-id="C445.api.telerama.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-445.png" group-title="TNT",C8
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/c8.m3u8
+#EXTINF:-1 tvg-id="C119.api.telerama.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-119.png" group-title="TNT",W9
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/76.m3u8
 #EXTINF:-1 tvg-id="C195.api.telerama.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-195.png" group-title="TNT",TMC
 https://github.com/BG47510/sniftv/raw/main/bouy/mc.m3u8
 #EXTINF:-1 tvg-id="C446.api.telerama.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-446.png" group-title="TNT",TFX
@@ -39,6 +41,8 @@ https://hls-m007-live-aka-canalplus.akamaized.net/live/disk/canalplusclair-hd/hl
 https://github.com/BG47510/sniftv/raw/main/bouy/ser.m3u8
 #EXTINF:-1 tvg-id="C1401.api.telerama.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1401.png" group-title="TNT",L'Équipe
 http://s2.callofliberty.fr/direct/LEQUIPE/manifest.m3u8
+#EXTINF:-1 tvg-id="C1403.api.telerama.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1403.png" group-title="TNT",6ter
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/95.m3u8
 #EXTINF:-1 tvg-id="C1402.api.telerama.fr" tvg-logo="https://s1.dmcdn.net/u/4XaYa1SL5P3RU_GCd/120x120" group-title="TNT",RMC Story
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="C1400.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/RMCdecouverte.png" group-title="TNT",RMC Découverte
@@ -46,7 +50,7 @@ https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="C1399.api.telerama.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-1399.png" group-title="TNT",Chérie 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 #EXTINF:-1 tvg-id="C112.api.telerama.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-112.png" group-title="TNT",LCI
-https://github.com/BG47510/sniftv/raw/main/bouy/li.m3u
+https://github.com/BG47510/sniftv/raw/main/bouy/li.m3u8
 #EXTINF:-1 tvg-id="C2111.api.telerama.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-2111.png" group-title="TNT",France Info
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceInfo.m3u8
 #EXTINF:-1 tvg-id="C145.api.telerama.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-145.png" group-title="TNT",Paris Première
@@ -111,7 +115,7 @@ http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:-1 tvg-id="La7.it" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1500002NL_20231011T084817SQUARE.png_20231011084818.png" group-title="TNT",La 7
 https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="La7d.it" tvg-logo=" " group-title="TNT",La7d
-
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS/Live.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TNT",RTL 102.5 TV
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TNT",Super!
@@ -148,6 +152,8 @@ https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TNT",RTL 102.5 News
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RadioFrecciaTV.it" tvg-logo="" group-title="TNT",Radio Freccia TV
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
 #EXTINF:-1 tvg-id="BikeChannel.it" tvg-logo="" group-title="TNT",Bike
 https://62becaa5a1e2f.streamlock.net/BIKE/BIKE/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TNT",Giornale Radio TV
@@ -444,6 +450,12 @@ http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
 https://streamtv.mediasector.es/hls/activatv/.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Autres",B Smart
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/bsmart.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://s2.dmcdn.net/u/8z3jP1W-qbVG9x0ES/120x120" group-title="Autres",D5 TV
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/591.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://s2.dmcdn.net/u/8z3l31WNSIhRw3fgN/120x120" group-title="Autres",D5 Music
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/592.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://s2.dmcdn.net/u/8z3lb1WNSKGfcnF9r/120x120" group-title="Autres",My Comedy
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/590.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Autres",Dynamic One
 https://hls.dynamicone.be/hls/dynamicone-1080.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/EarthTV.jpeg" group-title="Autres",Earth TV
