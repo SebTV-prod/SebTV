@@ -188,7 +188,7 @@ https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
 #EXTINF:-1 tvg-id="ATV.ad" tvg-logo=" " group-title="TNT",ATV 
 https://play.cdn.enetres.net/56495F77FD124FECA75590A906965F2C021/021/playlist.m3u8
-#EXTINF:-1 tvg-id="TV3Catalunya.es" tvg-logo=" " group-title="TNT",ATV 2
+#EXTINF:-1 tvg-id="ATV.ad" tvg-logo=" " group-title="TNT",ATV 2
 https://play.cdn.enetres.net/56495F77FD124FECA75590A906965F2C022/022/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/ .png" group-title="TNT",RTP 1
 http://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8
@@ -220,6 +220,10 @@ https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv/playlist/amg01
 https://062e9d49eb79462380d2933b845412cc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_YAAAS/playlist.m3u8?ads.wurl_channel=951&ads.wurl_name=YAAAS&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB1600008R3_20220412T153106SQUARE.png_20220412153107.png" group-title="TNT",GBNews
 https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="RTL.lu" tvg-logo="https://i.imgur.com/zj9aaeB.png" group-title="TNT",RTL-Tele Letzëburg
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="RTL2.lu" tvg-logo="https://i.imgur.com/Zd8tLCe.png" group-title="TNT",RTL Zwee
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Fransat",Equidia
 http://s2.callofliberty.fr/direct/EQUIDIA/master.m3u8
