@@ -384,6 +384,8 @@ https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/arabel.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/BelRTL.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Belgique",Fun Radio (Belgique)
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/funradiobe.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Belgique",Ma Télé 
+https://live.matele.be/hls/live.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/NRJ%20Belgique.png" group-title="Belgique",NRJ (Belgique)
 https://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Belgique",Radio Contact
