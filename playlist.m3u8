@@ -384,9 +384,19 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLbe/Contactv
 #EXTINF:-1 tvg-id=" " tvg-logo="http://www.callofliberty.fr/tv/324-RTLplay/324-RTLplay.png" group-title="Belgique",RTL play
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLbe/RTLPlay.m3u8
 
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/NbZ7Y4j.png" group-title="Bénin",ORTB
+https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/pxFamLr.png" group-title="Bénin",Ado TV
 https://stream01.adotv-fm.bj/ado-tv-live/index.m3u8
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/Z3xZT2p.png" group-title="Bénin",TVC 
+https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/NbZ7Y4j.png" group-title="Bénin",Canal 3 Bénin
+https://live.creacast.com/bluediamond/stream/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/4ClnG0x.png" group-title="Bénin",Eden TV
+https://rtmp.edentv.bj/hls/stream.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/y1eg7OC.png" group-title="Bénin",E Télé
+https://livetvsteam.com:1936/etelebenin/etelebenin/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/CYy4n0N.png" group-title="Bénin",Bénin Web TV
 https://vdo.pro-fhi.net:3244/stream/play.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Burkina Faso",BF1
@@ -403,8 +413,6 @@ http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="C .api.telerama.fr" tvg-logo="https://i.ibb.co/H4VktvG/Plex-TV-237.jpg" group-title="Cameroun",Plex
 http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RDINews.ca" tvg-logo="https://raw.githubusercontent.com/Sibprod/SibTV/main/assets/IciRDI.png" group-title="Canada",Ici RDI
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 tvg-id="CBFT.ca" tvg-logo=" " group-title="Canada",Ici Télé
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
 #EXTINF:-1 tvg-id="Noovo.ca" tvg-logo=" " group-title="Canada",Noovo
@@ -413,12 +421,20 @@ https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/mani
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalSavoir.ca" tvg-logo=" " group-title="Canada",Savoir.Media
 https://hls.savoir.media/live/stream.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/x0vLIWr.png" group-title="Canada",ICI (La Chaîne Internationale)
+https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+#EXTINF:-1 tvg-id="RDINews.ca" tvg-logo="https://raw.githubusercontent.com/Sibprod/SibTV/main/assets/IciRDI.png" group-title="Canada",Ici RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Canada",EMCI (Europe)
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/emcieurope.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqM2dP80gkZP-sc1ZRFQKEColJHeuS5OlbDEl8o8=s48-c-k-c0x00ffffff-no-rj" group-title="Canada",Télé-Mag Québec
 https://ythls.armelin.one/channel/UCNKXYT-Nng5LBMUQrZJ9zWA.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqM4nI5DLEvf2EjD7EG1QoCVPzLBO2s5eJL_wP5s=s176-c-k-c0x00ffffff-no-rj" group-title="Canada",TVC 9
 https://ythls.armelin.one/channel/UC0JP0ek-HhcqisiEpsZiQZA.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Canada",Canal de l'Assemblée Nationale
+https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/512px-2016_CPAC_logo.svg.png" group-title="Canada",CPAC
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Congo",Africanews (Français)
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/africanewsfr.m3u8
