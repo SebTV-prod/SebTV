@@ -1,5 +1,12 @@
 #EXTM3U
 #EXTGRP:Allemagne / Deutschland
+#EXTINF:-1 tvg-id="123TV.de" tvg-logo="https://i.imgur.com/slSUDNX.png" group-title="Allemagne" tvg-chno=" ",1-2-3.tv
+https://123tv-mx1.flex-cdn.net/index.m3u8
+#EXTINF:-1 tvg-id="ARTE.de" tvg-logo="https://i.imgur.com/ecXMjNl.png" group-title="Allemagne" tvg-chno=" ",ARTE (Deutschland)
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+#EXTINF:-1 tvg-id="BR.de" tvg-logo="https://i.imgur.com/26s6V64.png" group-title="Allemagne" tvg-chno=" ",Bayerische Ründfunk
+https://mcdn.br.de/br/fs/bfs_sued/hls/int/master.m3u8
+
 #EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA1500001G6_20231213T033026SQUARE.png_20231213033027.png" group-title="Allemagne",Deluxe Lounge
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8ef13d2a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/EarthTV.jpeg" group-title="Allemagne",Earth TV
