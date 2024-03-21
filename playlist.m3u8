@@ -1,4 +1,7 @@
 #EXTM3U
+
+- France : Chaînes TNT -
+
 #EXTINF:-1 tvg-id="C192.api.telerama.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-192.png" group-title="France",TF1
 https://github.com/BG47510/sniftv/raw/main/bouy/t1.m3u8
 #EXTINF:-1 tvg-id="C4.api.telerama.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-4.png" group-title="France",France 2
@@ -65,6 +68,9 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 https://muutube.sonmezalp.com/proxy.php/https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
 #EXTINF:-1 tvg-id="C140.api.telerama.fr" tvg-logo=" " group-title="France",Euronews (Français)
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/euronewsfr.m3u8
+
+- France : Chaînes cable, satellite et autres -
+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France",Equidia
 http://s2.callofliberty.fr/direct/EQUIDIA/master.m3u8
 #EXTINF:-1 tvg-id="C1073.api.telerama.fr" tvg-logo=" " group-title="France",BFM Business
@@ -179,8 +185,9 @@ https://ythls.armelin.one/channel/UCaEqMbRYYOmI3WrALMhxuIg.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/topsante.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear- .png" group-title="France",TV5 Monde (Info)
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/TV%20Lourdes.png" group-title="France",TV Lourdes
-https://ythls.armelin.one/channel/UC7zlbnNCnuAPiC3goKcFgUg.m3u8
+
+- France : Chaînes régionales et locales -
+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France",7 à Limoges
 https://ythls.armelin.one/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg.m3u8
 #EXTINF:-1 tvg-id="TV8MontBlanc.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/8MontBlanc.png" group-title="France",8 Mont-Blanc
@@ -253,6 +260,8 @@ http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
 https://lives.digiteka.com/stream/17c6dea8-fb3f-46fe-b170-2ac88cd5667b/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France",TV78
 https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/TV%20Lourdes.png" group-title="France",TV Lourdes
+https://ythls.armelin.one/channel/UC7zlbnNCnuAPiC3goKcFgUg.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France",TVPI
 https://new.cache-stream.workers.dev/stream/UCwVQAPo6tjC5w5yBBh0WEdA/live.m3u8
 #EXTINF:-1 tvg-id="TVR.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/TVR.png" group-title="France",TVR
@@ -271,6 +280,9 @@ https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
 https://lives.digiteka.com/stream/c58028c2-a58b-4526-9ec8-389cad4a71e8/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="France",Wéo - Le Courrier Picard
 https://lives.digiteka.com/stream/bbb843db-8540-4156-98a5-b7c85da54d8e/index.m3u8
+
+- France : Chaînes DAB+ -
+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France",Europe 1
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/europe1.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/France%20Info%20Radio.jpeg" group-title="France",France Info
@@ -296,17 +308,23 @@ https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/rtl2fr.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France",Sud Radio
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/sudradio.m3u8
 
+- France : Corse -
+
 #EXTINF:-1 tvg-id="Viatelepaese.fr" tvg-logo="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title="Corse",TelePaese
 #EXTVLCOPT:http-referrer=https://srv.webtvmanager.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 https://srv.webtvmanager.fr:3118/live/viatelepaeselive.m3u8
 
+- France : Guadeloupe -
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Guadeloupe",Éclair TV
+https://etvgp.vedge.infomaniak.com/livecast/etvgp/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Guadeloupe",Madras FM TV
 https://livevideo.vedge.infomaniak.com/livecast/madrasfmtv/manifest.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Guadeloupe",Guadeloupe 4 TV
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Guadeloupe4TV.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Guadeloupe",Éclair TV
-https://etvgp.vedge.infomaniak.com/livecast/etvgp/manifest.m3u8
+
+- France : Martinique - 
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Martinique",Fusion TV
 https://fusiontv.vedge.infomaniak.com/livecast/fusiontv/manifest.m3u8
@@ -315,23 +333,37 @@ https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Martinique",Martinique La 1ère
 https://ythls.armelin.one/channel/UCgA9V57lQlZFXkDfhVGTWSg.m3u8
 
+- France : La Réunion -
+
 #EXTINF:-1 tvg-id="C.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Antennereunion.png" group-title="La Réunion",Antenne Réunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
+
+- France : Polynésie Française -
 
 #EXTINF:-1 tvg-id="C.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/TahitiTV.png" group-title="Polynésie",Tahiti TV
 https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Polynésie",Tahiti Webradio
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Tahitiwebradio.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo="http://www.mmd.mc/images/radio/mcinfo.png" group-title="Monaco",Monaco Info
+- Monaco -
+
+#EXTINF:-1 tvg-id="Monacoinfo.mc" tvg-logo="http://www.mmd.mc/images/radio/mcinfo.png" group-title="Monaco" tvg-chno="70",Monaco Info
 https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/TVMonaco.png" group-title="Monaco",TV Monaco
+#EXTINF:-1 tvg-id="TVMonaco.mc" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/TVMonaco.png" group-title="Monaco" tvg-chno="71",TV Monaco
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/2025/media.m3u8
+#EXTINF:-1 tvg-id="Superyacht.mc" tvg-logo="https://superyacht.tv/media/cache/header_main_logo/bundles/app/img/logo.png" group-title="Monaco" tvg-chno="78",SuperYacht.TV
+https://sy.wns.live/hls/stream.m3u8
+
+https://12992.cdn-live.mobibase.com/abr/776/574ea9e006103.m3u8?hdnts=exp=1711030039~id=4cb27c88-ac21-42a5-8daa-149e623b697b~hmac=bb0d1d36b5d1b4f987524dec68207b49de6a2345f9dcec071265034f8b9e2369
+
+- Algérie -
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Algérie",Canal Algérie 
 https://bozztv.com/inim03/live1/giniko_canalalgerie/chunks.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Algérie",CNA 
 https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
+
+- Allemagne -
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA1500001G6_20231213T033026SQUARE.png_20231213033027.png" group-title="Allemagne",Deluxe Lounge
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8ef13d2a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
@@ -340,12 +372,16 @@ https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/earthtv.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Pearldiffusion.jpg" group-title="Allemagne",Pearl Diffusion (Français)
 https://ythls.armelin.one/channel/UCvpCjGQASCazC-Vxcp9tgPA.m3u8
 
+- Andorre -
+
 #EXTINF:-1 tvg-id="ATV.ad" tvg-logo=" " group-title="Andorre",ATV 
 https://play.cdn.enetres.net/56495F77FD124FECA75590A906965F2C021/021/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV.ad" tvg-logo=" " group-title="Andorre",ATV 2
 https://play.cdn.enetres.net/56495F77FD124FECA75590A906965F2C022/022/playlist.m3u8
 #EXTINF:-1 tvg-id="LoriaTV.ad" tvg-logo=" " group-title="Andorre",Loria TV
 https://ythls.armelin.one/channel/UCCCnrECJpv84QKM4olodZOQ.m3u8
+
+- Autriche -
 
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Autriche",Kronehit
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
@@ -354,20 +390,41 @@ https://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300003IK_20230823T033117SQUARE.png_20230823033117.png" group-title="Autriche",Redbull TV
 https://db38umy8gexon.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f561zwy85csh9/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-id="C168.api.telerama.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-168.png" group-title="Belgique",RTL tvi
+- Belgique -
+
+#EXTINF:-1 tvg-id="C168.api.telerama.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-168.png" group-title="Belgique" tvg-chno="4",RTL tvi
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLbe/RTLtvi.m3u8
-#EXTINF:-1 tvg-id="C50.api.telerama.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-50.png" group-title="Belgique",RTL club
+#EXTINF:-1 tvg-id="C50.api.telerama.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-50.png" group-title="Belgique" tvg-chno="5",RTL club
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLbe/RTLclub.m3u8
-#EXTINF:-1 tvg-id="C377.api.telerama.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-377.png" group-title="Belgique",RTL plug
+#EXTINF:-1 tvg-id="C377.api.telerama.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-377.png" group-title="Belgique" tvg-chno="6",RTL plug
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLbe/RTLplug.m3u8
-#EXTINF:-1 tvg-id="LN24.be" tvg-logo="https://raw.githubusercontent.com/Sibprod/SibTV/main/assets/LN24.png" group-title="Belgique",LN24
+#EXTINF:-1 tvg-id="LN24.be" tvg-logo="https://raw.githubusercontent.com/Sibprod/SibTV/main/assets/LN24.png" group-title="Belgique" tvg-chno="18",LN24
 https://live-ln24.digiteka.com/1911668011/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Belgique",Dynamic One
-https://hls.dynamicone.be/hls/dynamicone-1080.m3u8
-#EXTINF:-1 tvg-id="BX1.be" tvg-logo=" " group-title="Belgique",BX1
+#EXTINF:-1 tvg-id="BX1.be" tvg-logo="https://i.imgur.com/0OkSa6c.png" group-title="Belgique" tvg-chno="160",BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalZoom.be" tvg-logo=" " group-title="Belgique",Canal Zoom
+#EXTINF:-1 tvg-id="ACTV.be" tvg-logo=" " group-title="Belgique" tvg-chno="161",ACTV
+https://tvlocales-live.freecaster.com/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f.isml/master.m3u8
+#EXTINF:-1 tvg-id="Bouke.be" tvg-logo="https://i.imgur.com/STLavel.png" group-title="Belgique" tvg-chno="162",Boukè
+https://tvlocales-live.freecaster.com/95d2f70d-9229-478b-9aed-bc4fa220316d/95d2f70d-9229-478b-9aed-bc4fa220316d.isml/master.m3u8
+#EXTINF:-1 tvg-id="CanalZoom.be" tvg-logo="https://i.imgur.com/hUvYpOA.png" group-title="Belgique" tvg-chno="163",Canal Zoom
 https://tvlocales-live.freecaster.com/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8
+#EXTINF:-1 tvg-id="MaTele.be" tvg-logo="https://i.imgur.com/rw72POr.png" group-title="Belgique" tvg-chno="164",Ma Télé
+https://live.matele.be/hls/live.m3u8
+#EXTINF:-1 tvg-id="QMusic.be" tvg-logo="https://i.imgur.com/J09lNZK.png" group-title="Belgique" tvg-chno="390",Q-Music TV
+https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls.m3u8
+#EXTINF:-1 tvg-id="Radio1.be" tvg-logo="https://i.ibb.co/pwCs0YY/512px-VRT-Radio-1-logo-svg.png" group-title="Belgique" tvg-chno="800",VRT Radio 1
+https://live-radio.vrtcdn.be/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8
+#EXTINF:-1 tvg-id="Radio2.be" tvg-logo=" " group-title="Belgique" tvg-chno="801",VRT Radio 2
+https://live-radio.vrtcdn.be/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/.m3u8
+#EXTINF:-1 tvg-id="StudioBrussel.be" tvg-logo=" " group-title="Belgique" tvg-chno="806",Studio Brussel
+https://live-radio.vrtcdn.be/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.m3u8
+#EXTINF:-1 tvg-id="MNM.be" tvg-logo="https://i.imgur.com/L4cD18H.png" group-title="Belgique" tvg-chno="807",MNM
+https://live-radio.vrtcdn.be/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
+#EXTINF:-1 tvg-id="Joe.be" tvg-logo="https://i.imgur.com/rw72POr.png" group-title="Belgique" tvg-chno="821",Joe
+https://dpp-streamlive-plain.medialaancdn.be/joe_kijklive/plain/hls_hd.m3u8
+
+
+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Belgique",Notélé
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/master.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Belgique",RTC - Télé Liège
@@ -378,6 +435,13 @@ https://tvlocales-live.freecaster.com/95d2f6c9-e85f-4388-8e9c-596260a4206f/95d2f
 https://tvlocales-live.freecaster.com/95d2f631-8941-4efd-b223-0ebd56a033c4/95d2f631-8941-4efd-b223-0ebd56a033c4.isml/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/ " group-title="Belgique",Védia
 https://tvlocales-live.freecaster.com/95d2f480-3c9f-48ba-ba4e-af64b58431ef/95d2f480-3c9f-48ba-ba4e-af64b58431ef.isml/master.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Belgique",Dynamic One
+https://hls.dynamicone.be/hls/dynamicone-1080.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="http://www.callofliberty.fr/tv/324-RTLplay/324-RTLplay.png" group-title="Belgique",RTL play
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLbe/RTLPlay.m3u8
+
+- Belgique : Chaînes DAB+ -
+
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/ .png" group-title="Belgique",Arabel
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/arabel.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Belgique",bel RTL
@@ -390,31 +454,38 @@ https://live.matele.be/hls/live.m3u8
 https://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Belgique",Radio Contact
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLbe/Contactvision.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="http://www.callofliberty.fr/tv/324-RTLplay/324-RTLplay.png" group-title="Belgique",RTL play
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLbe/RTLPlay.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/NbZ7Y4j.png" group-title="Bénin",ORTB
+- Bénin -
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/NbZ7Y4j.png" group-title="Bénin" tvg-chno="1",ORTB
 https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/pxFamLr.png" group-title="Bénin",Ado TV
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/pxFamLr.png" group-title="Bénin" tvg-chno="3",Ado TV
 https://stream01.adotv-fm.bj/ado-tv-live/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/Z3xZT2p.png" group-title="Bénin",TVC 
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/Z3xZT2p.png" group-title="Bénin" tvg-chno="7",TVC 
 https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/NbZ7Y4j.png" group-title="Bénin",Canal 3 Bénin
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/NbZ7Y4j.png" group-title="Bénin" tvg-chno="8",Canal 3 Bénin
 https://live.creacast.com/bluediamond/stream/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/4ClnG0x.png" group-title="Bénin",Eden TV
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/4ClnG0x.png" group-title="Bénin" tvg-chno="10",Eden TV
 https://rtmp.edentv.bj/hls/stream.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/y1eg7OC.png" group-title="Bénin",E Télé
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/y1eg7OC.png" group-title="Bénin" tvg-chno="11",E Télé
 https://livetvsteam.com:1936/etelebenin/etelebenin/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/CYy4n0N.png" group-title="Bénin",Bénin Web TV
 https://vdo.pro-fhi.net:3244/stream/play.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Burkina Faso",BF1
+- Burkina Faso -
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Burkina Faso" tvg-chno="2",BF1
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/7e66f389bec3463dac81e8d55e680431/index.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Cameroun",Vision 4
+- Cameroun : Chaînes TNT -
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Cameroun" tvg-chno="4",Vision 4
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Cameroun",Africa 24
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Cameroun" tvg-chno="24",Africa 24
 https://livevideo.vedge.infomaniak.com/livecast/africa24/manifest.m3u8
+
+- Cameroun : Chaînes cable, satellite et autres -
+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Cameroun",Africa 24 Sport
 https://livevideo.vedge.infomaniak.com/livecast/africa24sport/manifest.m3u8
 #EXTINF:-1 tvg-id="C .api.telerama.fr" tvg-logo="https://i.imgur.com/vh2373L.png" group-title="Cameroun",My TV Channel
@@ -422,16 +493,21 @@ http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="C .api.telerama.fr" tvg-logo="https://i.ibb.co/H4VktvG/Plex-TV-237.jpg" group-title="Cameroun",Plex
 http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CBFT.ca" tvg-logo=" " group-title="Canada",Ici Télé
+- Canada : Chaînes TNT -
+
+#EXTINF:-1 tvg-id="CBFT.ca" tvg-logo=" " group-title="Canada" tvg-chno="2",Ici Télé
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
-#EXTINF:-1 tvg-id="Noovo.ca" tvg-logo=" " group-title="Canada",Noovo
-https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
-#EXTINF:-1 tvg-id="Telequebec.ca" tvg-logo=" " group-title="Canada",Tele-Québec
+#EXTINF:-1 tvg-id="Telequebec.ca" tvg-logo=" " group-title="Canada" tvg-chno="17",Tele-Québec
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalSavoir.ca" tvg-logo=" " group-title="Canada",Savoir.Media
+#EXTINF:-1 tvg-id="CanalSavoir.ca" tvg-logo=" " group-title="Canada" tvg-chno="29",Savoir.Media
 https://hls.savoir.media/live/stream.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/x0vLIWr.png" group-title="Canada",ICI (La Chaîne Internationale)
+#EXTINF:-1 tvg-id="Noovo.ca" tvg-logo=" " group-title="Canada" tvg-chno="35",Noovo
+https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/x0vLIWr.png" group-title="Canada" tvg-chno="47",ICI (La Chaîne Internationale)
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+
+- Canada : Chaînes cable, satellite et autres -
+
 #EXTINF:-1 tvg-id="RDINews.ca" tvg-logo="https://raw.githubusercontent.com/Sibprod/SibTV/main/assets/IciRDI.png" group-title="Canada",Ici RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Canada",EMCI (Europe)
@@ -445,17 +521,24 @@ https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/512px-2016_CPAC_logo.svg.png" group-title="Canada",CPAC
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Congo",Africanews (Français)
+- Congo -
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Congo" tvg-chno="24",Africanews (Français)
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/africanewsfr.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Côte d'Ivoire",RTI 2
+- Côte d'Ivoire : Chaînes TNT -
+
+#EXTINF:-1 tvg-logo=" " group-title="Côte d'Ivoire" tvg-chno="2",RTI 2
 https://www.enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Côte d'Ivoire",NCI
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Côte d'Ivoire" tvg-chno="4",NCI
 https://pixa.cdn.easybroadcast.fr/nci/nci.isml/nci.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Côte d'Ivoire",Life TV
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Côte d'Ivoire" tvg-chno="6",Life TV
 https://strhlslb01.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Côte d'Ivoire",7 Info
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Côte d'Ivoire" tvg-chno="7",7 Info
 https://ythls.armelin.one/channel/UCqA1FRAWs2VIiXf2cUYSQBQ.m3u8
+
+- Côte d'Ivoire : Chaînes satellite et autres -
+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Côte d'Ivoire",L'Intelligent TV
 https://video1.getstreamhosting.com:1936/8210/8210/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Côte d'Ivoire",Ubiznews
@@ -475,20 +558,40 @@ https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Côte d'Ivoire",Business 24 TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/business24_tv/hls_video/business24_tv.m3u8
 
-#EXTINF:-1 tvg-id="Canal24horas.es" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20240117T032718SQUARE.png_20240117032719.png" group-title="Espagne",La 1
+- Espagne : Chaînes TDT - 
+
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20240117T032718SQUARE.png_20240117032719.png" group-title="Espagne" tvg-chno="1",La 1
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id="Canal24horas.es" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20240117T032718SQUARE.png_20240117032719.png" group-title="Espagne",La 2
+#EXTINF:-1 tvg-id="La2.es" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20240117T032718SQUARE.png_20240117032719.png" group-title="Espagne" tvg-chno="2",La 2
 https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id="Canal24horas.es" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100004J1_20230614T005926SQUARE.png_20230614005927.png" group-title="Espagne",24h
-https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main.m3u8
-#EXTINF:-1 tvg-id="ElToroTV.es" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20231213T103944SQUARE.png_20231213103945.png" group-title="Espagne",Teledeporte
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20231213T103944SQUARE.png_20231213103945.png" group-title="Espagne" tvg-chno="11",Teledeporte
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id="ElToroTV.es" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100003WE_20230208T013050SQUARE.png_20230208013050.png" group-title="Espagne",Clan
+#EXTINF:-1 tvg-id="Clan.es" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100003WE_20230208T013050SQUARE.png_20230208013050.png" group-title="Espagne" tvg-chno="12",Clan
 https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="Canal24horas.es" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100004J1_20230614T005926SQUARE.png_20230614005927.png" group-title="Espagne" tvg-chno="20",24h
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main.m3u8
 #EXTINF:-1 tvg-id="ElToroTV.es" tvg-logo=" " group-title="Espagne",El Toro TV
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
-#EXTINF:-1 tvg-id="TV3Catalunya.es" tvg-logo=" " group-title="Espagne",TV3 Catalunya
+
+- Espagne : Chaînes régionales -
+
+#EXTINF:-1 tvg-id="AragonTelevision.es" tvg-logo="https://i.imgur.com/6YSi1zW.png" group-title="Espagne",[Aragon] Aragón Televisión
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF:-1 tvg-id="Bondia.es" tvg-logo="https://i.imgur.com/90WOoro.png",[Catalogne] Bon Dia TV
+https://directes-tv-int.ccma.cat/live-origin/bondia-hls/master.m3u8
+#EXTINF:-1 tvg-id="324.es" tvg-logo="https://i.imgur.com/SG7D0gt.png",[Catalogne] Canal 3/24
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:-1 tvg-id="TV3Catalunya.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png" group-title="Espagne",[Catalogne] TV3 Catalunya
 https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
+#EXTINF:-1 tvg-id="IB3.es" tvg-logo="https://i.imgur.com/iUmWGUh.png",[Îles Baléares] IB3
+https://ythls.armelin.one/channel/UCff_CBVJDTHP4wOHPjP5BMg.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BTJvvBK.png",[Pays Valencien] 8 La Marina
+https://streaming005.gestec-video.com/hls/canal24.m3u8
+#EXTINF:-1 tvg-id="Apunt.es" tvg-logo="https://i.imgur.com/B4OcQwT.png",[Pays Valencien] À Punt 
+https://bcovlive-a.akamaihd.net/a51c31c10f6e42b2bbb7c7649e9f305c/eu-west-1/6057955885001/playlist_dvr.m3u8
+
+- Espagne : Chaînes satellite et autres -
+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Espagne",Star TVE
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 #EXTINF:-1 tvg-id="C208.api.telerama.fr" tvg-logo=" " group-title="Espagne",TVE Internacional (Europa)
@@ -542,93 +645,120 @@ https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Espagne",Activa TV
 https://streamtv.mediasector.es/hls/activatv/.m3u8
 
+- Gabon - 
+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Gabon",Gabon 24
 https://ythls.armelin.one/channel/UC7E__Dp9FSIgt6iMa5_uvlw.m3u8
 
-#EXTINF:-1 tvg-id="C156.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RAI%201.png" group-title="Italie",RAI 1
+- Italie : Chaînes DTT - 
+
+#EXTINF:-1 tvg-id="C156.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RAI%201.png" group-title="Italie" tvg-chno="1",RAI 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://ott-cdn.ucom.am/s29/index.m3u8
-#EXTINF:-1 tvg-id="C155.api.telerama.it" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RAI%203.png" group-title="Italie",RAI 3 (Südtirol)
-http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
-#EXTINF:-1 tvg-id="La7.it" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1500002NL_20231011T084817SQUARE.png_20231011084818.png" group-title="Italie",La 7
+#EXTINF:-1 tvg-id="La7.it" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1500002NL_20231011T084817SQUARE.png_20231011084818.png" group-title="Italie" tvg-chno="7",La 7
 https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id="La7d.it" tvg-logo=" " group-title="Italie",La7d
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/teleradiopace-1-it.png" group-title="Italie" tvg-chno="12",Telepace 1
+https://64b16f23efbee.streamlock.net/telepace1/telepace1/playlist.m3u8
+#EXTINF:-1 tvg-id="La7d.it" tvg-logo=" " group-title="Italie" tvg-chno="29",La7d
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS/Live.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie",RTL 102.5 TV
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie" tvg-chno="36",RTL 102.5 TV
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie",Super!
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie" tvg-chno="47",Super!
 https://vimnitaly.akamaized.net/hls/live/2094034/super/master-2500.m3u8
-#EXTINF:-1 tvg-id="RAINews24.it" tvg-logo="" group-title="Italie",RAI News 24
+#EXTINF:-1 tvg-id="RAINews24.it" tvg-logo="" group-title="Italie" tvg-chno="48",RAI News 24
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=16
-#EXTINF:-1 tvg-id="Sportitalia.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sportitalia-it.png" group-title="Italie",Sportitalia
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sportitalia-it.png" group-title="Italie" tvg-chno="60",Sportitalia
 https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/ .png" group-title="Italie",Donna TV
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/ .png" group-title="Italie" tvg-chno="62",Donna TV
 https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/ .png" group-title="Italie",Go-TV
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/ .png" group-title="Italie" tvg-chno="63",Go-TV
 https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Radio105TV.it" tvg-logo="" group-title="Italie",Radio 105 TV
+#EXTINF:-1 tvg-id="Radio105TV.it" tvg-logo="" group-title="Italie" tvg-chno="66",Radio 105 TV
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="R101TV.it" tvg-logo="" group-title="Italie",R101 TV
+#EXTINF:-1 tvg-id="R101TV.it" tvg-logo="" group-title="Italie" tvg-chno="67",R101 TV
 https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Zerounomusic.it" tvg-logo="" group-title="Italie",Zerouno TV Music 
+#EXTINF:-1 tvg-id="Zerounomusic.it" tvg-logo="" group-title="Italie" tvg-chno="68",Zerouno TV Music 
 https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
-#EXTINF:-1 tvg-id="ZerounoTVNews.it" tvg-logo=" " group-title="Italie",Zerouno TV News
+#EXTINF:-1 tvg-id="ZerounoTVNews.it" tvg-logo=" " group-title="Italie" tvg-chno="68",Zerouno TV News
 https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie",Deejay TV
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie" tvg-chno="69",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioItaliaTV.it" tvg-logo="" group-title="Italie",Radio Italia TV
+#EXTINF:-1 tvg-id="RadioItaliaTV.it" tvg-logo="" group-title="Italie" tvg-chno="70",Radio Italia TV
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
-#EXTINF:-1 tvg-id="Canaleitalia.it" tvg-logo=" " group-title="Italie",Canale Italia
+#EXTINF:-1 tvg-id="Canaleitalia.it" tvg-logo=" " group-title="Italie" tvg-chno="71",Canale Italia
 https://6e94aeeb1b42461d95f973ae34be5167.msvdn.net/ac115_live/canale1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioBrunoTv.it" tvg-logo="" group-title="Italie",Radio Bruno TV
+#EXTINF:-1 tvg-id="RadioBrunoTv.it" tvg-logo="" group-title="Italie" tvg-chno="73",Radio Bruno TV
 https://router.xdevel.com/video0s975758-473/stream/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie",Italia Channel
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie" tvg-chno="123",Italia Channel
 https://stream1.aswifi.it/italiachannel/stream/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie",Padre Pio TV
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie" tvg-chno="145",Padre Pio TV
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie",Radio Kiss Kiss
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie" tvg-chno="158",Radio Kiss Kiss
 https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie",RTL 102.5 News
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie" tvg-chno="233",RTL 102.5 News
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
-#EXTINF:-1 tvg-id="RadioFrecciaTV.it" tvg-logo="" group-title="Italie",Radio Freccia TV
+#EXTINF:-1 tvg-id="RadioFrecciaTV.it" tvg-logo="" group-title="Italie" tvg-chno="258",Radio Freccia TV
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
-#EXTINF:-1 tvg-id="BikeChannel.it" tvg-logo="" group-title="Italie",Bike
+#EXTINF:-1 tvg-id="BikeChannel.it" tvg-logo="" group-title="Italie" tvg-chno="259",Bike
 https://62becaa5a1e2f.streamlock.net/BIKE/BIKE/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie",Giornale Radio TV
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie" tvg-chno="261",Giornale Radio TV
 https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie",RDS Social TV
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie" tvg-chno="265",RDS Social TV
 https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie",Radio Zeta
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie" tvg-chno="266",Radio Zeta
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie",70-80.TV
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie" tvg-chno="351",70-80.TV
 https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3600001Z9_20230926T032334SQUARE.png_20230926032335.png" group-title="Italie",Premio Direct - GCTV
+#EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3600001Z9_20230926T032334SQUARE.png_20230926032335.png" group-title="Italie" tvg-chno="411",Premio Direct - GCTV
 https://dgzghldq8xau4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2cvlr00ubwsjn/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC3000007XK_20231115T012421SQUARE.png_20231115012421.png" group-title="Italie",Premio Sport - TV Play
+#EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC3000007XK_20231115T012421SQUARE.png_20231115012421.png" group-title="Italie" tvg-chno="415",Premio Sport - TV Play
 https://d28j1jdx26ss52.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f85qk4neky7f6-ssai-prd/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA1400003WT_20220404T010007SQUARE.png_20220404010008.png" group-title="Italie",Canale Europa
+#EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA1400003WT_20220404T010007SQUARE.png_20220404010008.png" group-title="Italie" tvg-chno="416",Canale Europa
 https://f123d461fa05419a8d092e49bf7ba9a6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_CanaleEuropaTV/playlist.m3u8?ads.wurl_channel=789&ads.wurl_name=CanaleEuropaTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4100006EE_20231115T012432SQUARE.png_20231115012432.png" group-title="Italie",Dolomiti Life TV
+#EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4100006EE_20231115T012432SQUARE.png_20231115012432.png" group-title="Italie" tvg-chno="441",Dolomiti Life TV
 https://d3b6x1igzwsv34.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-anw1tg4801b4n/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id="RadioTvSerieA.it" tvg-logo="" group-title="Italie",Serie A con RDS TV
+#EXTINF:-1 tvg-id="C155.api.telerama.it" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RAI%203.png" group-title="Italie" tvg-chno="808",RAI 3 (Südtirol)
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioTvSerieA.it" tvg-logo="" group-title="Italie" tvg-chno="899",Serie A con RDS TV
 https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300020W1_20240117T032859SQUARE.png_20240117032900.png" group-title="Italie",Mondo Kids
-https://5609f25938604dc7bf112c01611de124.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_MondoTVKids/playlist.m3u8?ads.wurl_channel=609&ads.wurl_name=MondoTVKids&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA2200008IM_20220713T034459SQUARE.png_20220713034459.png" group-title="Italie",Radio Italia Trend
-https://radioitalia-samsungitaly.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Italie",Radio Monte-Carlo TV
+
+- Italie : Canaux Satellites et Autres -
+
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Italie" tvg-chno="67",Radio Monte-Carlo TV
 https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie",Virgin Radio TV
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie" tvg-chno="68",Virgin Radio TV
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100006SA_20221012T021051SQUARE.png_20221012021052.png" group-title="Italie",Explorer HD Channel
+#EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100006SA_20221012T021051SQUARE.png_20221012021052.png" group-title="Italie" tvg-chno="176",Explorer HD Channel
 https://86ccf2ddbf4249949d488aeac2966def.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_ExplorerHD/playlist.m3u8?ads.wurl_channel=1314&ads.wurl_name=ExplorerHD&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id="ItalianFishing.it" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBB2000001QB_20230208T013137SQUARE.png_20230208013138.png" group-title="Italie",Italian Fishing
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA2200008IM_20220713T034459SQUARE.png_20220713034459.png" group-title="Italie" tvg-chno="726",Radio Italia Trend
+https://radioitalia-samsungitaly.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ItalianFishing.it" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBB2000001QB_20230208T013137SQUARE.png_20230208013138.png" group-title="Italie" tvg-chno="811",Italian Fishing
 https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
+
+- Italie : DAB+ -
+
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/ .png" group-title="Italie",RTL 102.5 Caliente
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
 
+- Italie : Chaînes Régionales -
+
+#EXTINF:-1 tvg-id="Primocanale.it" tvg-logo="https://www.lyngsat-stream.com/logo/tv/pp/primocanale.png" group-title="Italie" tvg-chno="10",[Ligurie] Primocanale
+https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Telenord.it" tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/telenord_it.png" group-title="Italie" tvg-chno="11",[Ligurie] Telenord
+https://5f22d76e220e1.streamlock.net/telenord/telenord/playlist.m3u8
+#EXTINF:-1 tvg-id="Primantenna.it" tvg-logo="https://www.lyngsat-stream.com/logo/tv/pp/primantenna_it.png" group-title="Italie" tvg-chno="14",[Ligurie] Primantenna
+https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleliguriasud.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tele_liguria_it_sud.png" group-title="Italie" tvg-chno="15",[Ligurie] TLS - Tele Liguria Sud
+https://64b16f23efbee.streamlock.net/teleliguriasud/teleliguriasud/playlist.m3u8
+#EXTINF:-1 tvg-id="EntellaTV.it" tvg-logo="https://i.imgur.com/pGJcMmB.png" group-title="Italie" tvg-chno="75",[Ligurie] Entella TV
+https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8
+
+- Maroc -
+
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Maroc",Médi 1 (Afrique)
 https://streaming1.medi1tv.com/live/smil:medi1fr.smil/.m3u8
+
+- Pays-Bas -
 
 #EXTINF:-1 tvg-id="Xite.nl" tvg-logo=" " group-title="Pays-Bas",Xite
 https:/ms2.mx-cd.net/tv/XITE_NL.smil/playlist.m3u8
@@ -636,6 +766,8 @@ https:/ms2.mx-cd.net/tv/XITE_NL.smil/playlist.m3u8
 https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="TV538.nl" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/TV538.png" group-title="Pays-Bas",TV538
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
+
+- Portugal : Chaînes TDT -
 
 #EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/ .png" group-title="Portugal",RTP 1
 http://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8
@@ -653,8 +785,13 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/ .png" group-title="Madère",RTP Madeira
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+
+- Portugal : Chaînes Satellite -
+
 #EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-logo=" " group-title="Portugal",TVI Ficção
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+
+- Roumanie -
 
 #EXTINF-1 tvg-id="MoozDance.ro" tvg-logo="https://i.imgur.com/aX70RD2.png" group-title="Roumanie",Mooz Dance
 https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
@@ -662,6 +799,8 @@ https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
 https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
 #EXTINF-1 tvg-id="MoozRo.ro" tvg-logo=" " group-title="Roumanie",Mooz Ro
 https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
+
+- Royaume-Uni : Chaînes Freeview -
 
 #EXTINF:-1 tvg-id="SkyMix.uk" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100006XM_20231213T033116SQUARE.png_20231213033116.png" group-title="Royaume-Uni",Sky Mix
 https://d2gycgc9ta55s9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cfze07aeomx8b/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
@@ -678,6 +817,8 @@ https://062e9d49eb79462380d2933b845412cc.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB1600008R3_20220412T153106SQUARE.png_20220412153107.png" group-title="Royaume-Uni",GBNews
 https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
+- Royaume-Uni : Chaînes satellite et autres -
+
 #EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA1000008LK_20220713T034405SQUARE.png_20220713034406.png" group-title="Royaume-Uni",BBC Drama (Français)
 https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4900002D4_20220810T012634SQUARE.png_20220810012634.png" group-title="Royaume-Uni",Nature Time
@@ -693,15 +834,21 @@ https://0b0a5371d15f48128cf69b029230eac6.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA2200008YU_20220323T070921SQUARE.png_20220323070923.png" group-title="Royaume-Uni",Horse & Country TV
 https://samsunguk-hnc-free-samsung-uk-uz90u.amagi.tv/playlist/samsunguk-hnc-free-samsung-uk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
+- Russie -
+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Russie",TMF Rus
 https://s.catcast.tv/content/43273/index.m3u8
 #EXTINF:-1 tvg-id="VivaRussia.ru" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/VIVA.jpg" group-title="Russie",VIVA Russia
 https://s.catcast.tv/content/39575/index.m3u8
 
+- Saint-Marin -
+
 #EXTINF:-1 tvg-id="SanMarinoRTV.sm" tvg-logo="https://i.imgur.com/lJpOlLv.png" group-title="Saint-Marin",RTV San Marino 
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMmhydm5vNWJ3NnRnMi5jbG91ZGZyb250Lm5ldC9zbXJ0di1jaDAxL19kZWZpbnN0Xy9zbWlsOmNoLTAxLnNtaWwvcGxheWxpc3QubTN1OCIsIkNvbmRpdGlvbiI6eyJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn0sIkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzA4ODA5NDk5NTkwfX19XX0_&Key-Pair-Id=APKAJXRZCR3BYC6OEKKA&Signature=dV5e24A~t1tZHfgQL4zDSfcLkCOU-pjACMeOSZookmj8kKQ8P67dpLptWbKaGPS3KWvFpZNswdtvNGxKG-Nj3GL~8rW4t59Z9~gRrG7IiC2bHp~4MsYeMQGn~Sa~oa9fS95R1ziXHg83sL0Sc~aIp-ZFLfP7UXH2BaC2-pG-W5uEYSmSpfvxHA2pmA9aEvbQMZj3P0k5-vKSofsh~QSB~JDfBhvZznu-UwIQ938aDXe6sSws5SOJmz7egMwLonF8ROEBg4k6G1I-RLtB2ias0fTqKsTTTRDV5M0NN56qpxoYygp7ZZw8iG0VkHyh-TSq5~5iuza-l7rBrfMUNSg-~g__
 #EXTINF:-1 tvg-id="SanMarinoRTV.sm" tvg-logo="https://i.imgur.com/lJpOlLv.png" group-title="Saint-Marin",RTV San Marino Sport
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita.m3u8
+
+- Suisse : Chaînes TNT -
 
 #EXTINF:-1 tvg-id="RougeTV.ch" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/CARAC1.jpg" group-title="Suisse",Carac 1
 https://livevideo.vedge.infomaniak.com/livecast/rougetv/master.m3u8
@@ -711,6 +858,9 @@ https://livevideo.vedge.infomaniak.com/livecast/onefmhd/master.m3u8
 https://livevideo.vedge.infomaniak.com/livecast/lfmhd/master.m3u8
 #EXTINF:-1 tvg-id="TVSuissePlus.ch" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/CARAC4.jpg" group-title="Suisse",Carac 4
 https://livevideo.vedge.infomaniak.com/livecast/compack_media_1/master.m3u8
+
+- Suisse : Chaînes cable, satellite et autres -
+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Suisse",TVM3
 https://livevideo.vedge.infomaniak.com/livecast/tvm3/master.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Suisse",Dieu TV
@@ -727,13 +877,20 @@ https://livevideo.vedge.infomaniak.com/livecast/latele/playlist.m3u8
 https://livevideo.vedge.infomaniak.com/livecast/naxoo/master.m3u8
 #EXTINF:-1 tvg-id="Telebielingue.ch" tvg-logo=" " group-title="Suisse",TeleBielingue
 https://livevideo.vedge.infomaniak.com/livecast/telebielinguech/playlist.m3u8
+
+- Suisse : Chaînes DAB+ -
+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Suisse",M Le Media
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/mlemedia.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RTS%20Couleur%3.png" group-title="Suisse",RTS Couleur 3
 https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/Couleur3/chunklist-archive.m3u8?startTime=1710238000
 
+- Vatican -
+
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Vatican%20News%20Français.jpg" group-title="Vatican",Vatican News (Français)
 https://ythls.armelin.one/channel/UCQxVySG5g2aC-Uz9NhpyiFg.m3u8
+
+- États-Unis -
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="États-Unis",Pluto TV #1
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6304f115fa5b2d00078cff6b/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
