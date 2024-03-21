@@ -71,7 +71,9 @@ https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/business24_tv/hls_video/business24_tv.m3u8
 
 #EXTGRP:Gabon
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Gabon",Gabon 24
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/K4lOHNw.png" group-title="Gabon",Gabon 1ère
+https://vps94081.serveur-vps.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/0Zq2brb.png" group-title="Gabon",Gabon 24
 https://ythls.armelin.one/channel/UC7E__Dp9FSIgt6iMa5_uvlw.m3u8
 
 #EXTGRP:Maroc / Al-Maghrîbia
