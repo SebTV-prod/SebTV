@@ -165,6 +165,8 @@ https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/590.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceTVSeries.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/vXbAeD0.png" group-title="France",Handicap TV
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://images-sihv2.prd.dlivecdn.com/fit-in/50x50/filters:quality(100)/avatar/468e8c81-5ebd-11ed-8d51-d213acd6fa69" group-title="France",Hitparty
+https://live.prd.dlive.tv/hls/live/hitparty.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France",Le Média
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/lemedia.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="France",M6 International
@@ -179,6 +181,8 @@ https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/mensuptv.m3u8
 https://live.creacast.com/myzentv-france/myzentv-france.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://pancrace.tv/uploads/images/logo_site_small_1485347403.jpg" group-title="France",Pancrace TV
 https://stream2.mandarine.media/pancracetv/pancracetv/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://images-sihv2.prd.dlivecdn.com/fit-in/50x50/filters:quality(100)/avatar/9e36df3e-5be4-11ec-9d2a-76019b1b6859" group-title="IPTV",Pulsradio Dance
+https://live.prd.dlive.tv/hls/live/pulsradiocom.m3u8
 #EXTINF:-1 tvg-id="SqoolTV.fr" tvg-logo="https://yt3.googleusercontent.com/kmBR8wlZ879LmJaVowBubu2v0dC9WotZpd7Sk8fJA5xCIsvwFllb1DS-NtJl7Sh07RREas_vqHI=s176-c-k-c0x00ffffff-no-rj" group-title="France",Sqool TV
 https://ythls.armelin.one/channel/UCaEqMbRYYOmI3WrALMhxuIg.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France",Top Santé TV
@@ -645,7 +649,6 @@ https://livevideo.vedge.infomaniak.com/livecast/onefmhd/master.m3u8
 https://livevideo.vedge.infomaniak.com/livecast/lfmhd/master.m3u8
 #EXTINF:-1 tvg-id="TVSuissePlus.ch" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/CARAC4.jpg" group-title="Suisse" tvg-chno="7",Carac 4
 https://livevideo.vedge.infomaniak.com/livecast/compack_media_1/master.m3u8
-
 #EXTINF:-1 tvg-id="LemanBleu.ch" tvg-logo=" " group-title="Suisse" tvg-chno="21",Léman Bleu
 https://livevideo.vedge.infomaniak.com/livecast/naxoo/master.m3u8
 #EXTINF:-1 tvg-id="LaTele.ch" tvg-logo=" " group-title="Suisse" tvg-chno="22",La Télé (Vaud-Fribourg)
@@ -662,6 +665,8 @@ https://livevideo.vedge.infomaniak.com/livecast/canalalpha/index.m3u8
 https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Suisse" tvg-chno="109",TVM3
 https://livevideo.vedge.infomaniak.com/livecast/tvm3/master.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/YtYhbJD.png" group-title="Suisse" tvg-chno="390",Meteonews
+https://streaming.meteonews.net/hls/stream.m
 
 - Suisse : Chaînes DAB+ -
 
