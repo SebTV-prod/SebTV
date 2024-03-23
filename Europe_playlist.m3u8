@@ -112,7 +112,8 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 
 #EXTGRP:Roumanie
-
+#EXTINF-1 tvg-id=" " tvg-logo="https://images-sihv2.prd.dlivecdn.com/fit-in/50x50/filters:quality(100)/avatar/84edefa1-39f8-11ee-ad88-cef132b032c3" group-title="Roumanie",Clubwave
+https://live.prd.dlive.tv/hls/live/clubwave.m3u8
 #EXTINF-1 tvg-id="MoozDance.ro" tvg-logo="https://i.imgur.com/aX70RD2.png" group-title="Roumanie",Mooz Dance
 https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
 #EXTINF-1 tvg-id="MoozHits.ro" tvg-logo=" " group-title="Roumanie",Mooz Hits
@@ -150,6 +151,10 @@ https://d2u040elo6umri.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://0b0a5371d15f48128cf69b029230eac6.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_TravelXP/playlist.m3u8?ads.wurl_channel=1157&ads.wurl_name=TravelXP&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA2200008YU_20220323T070921SQUARE.png_20220323070923.png" group-title="Royaume-Uni",Horse & Country TV
 https://samsunguk-hnc-free-samsung-uk-uz90u.amagi.tv/playlist/samsunguk-hnc-free-samsung-uk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Royaume-Uni",Vibe To Beat
+https://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://images-sihv2.prd.dlivecdn.com/fit-in/50x50/filters:quality(100)/avatar/eacbef38-b7f5-11ee-92e7-1607cd41fcb2" group-title="Royaume-Uni",Teknival Radio
+https://live.prd.dlive.tv/hls/live/teknivalradio.m3u8
 
 #EXTGRP:Russie
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Russie",TMF Rus
