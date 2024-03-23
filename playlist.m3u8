@@ -307,14 +307,16 @@ https://srv.webtvmanager.fr:3118/live/viatelepaeselive.m3u8
 https://etvgp.vedge.infomaniak.com/livecast/etvgp/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Outremer" tvg-chno="399",Madras FM TV
 https://livevideo.vedge.infomaniak.com/livecast/madrasfmtv/manifest.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Outremer",Guadeloupe 4 TV
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Outremer" tvg-chno=" ",Guadeloupe 4 TV
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Guadeloupe4TV.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Outremer" tvg-chno="41",Fusion TV
 https://fusiontv.vedge.infomaniak.com/livecast/fusiontv/manifest.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Outremer" tvg-chno=" ",TV Famille
 https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Outremer",Martinique La 1ère
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Outremer" tvg-chno=" ",Martinique La 1ère
 https://ythls.armelin.one/channel/UCgA9V57lQlZFXkDfhVGTWSg.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Outremer" tvg-chno=" ",Yanahits TV
+https://rpn3.bozztv.com/ssh101/ssh101/clip/playlist.m3u8
 #EXTINF:-1 tvg-id="C.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Antennereunion.png" group-title="Outremer" tvg-chno="2",Antenne Réunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/7oLUSeO.png" group-title="Outremer" tvg-chno=" ",Mayotte One 
@@ -467,6 +469,8 @@ https://rakuten-topfree-7-fr.plex.wurl.tv/playlist.m3u8
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Espagne",Activa TV
 https://streamtv.mediasector.es/hls/activatv/.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://onsortir.tv/wp-content/uploads/2022/04/ONSORTIR.png" group-title="Espagne",Onsortir TV
+https://rpn3.bozztv.com/ssh101/ssh101/onsortir/playlist.m3u8
 
 EXTGRP:Italie
 #EXTINF:-1 tvg-id="C156.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RAI%201.png" group-title="Italie" tvg-chno="1",RAI 1
