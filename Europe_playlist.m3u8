@@ -139,7 +139,6 @@ https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
 https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
 
 #EXTGRP:Royaume-Uni
-
 #EXTINF:-1 tvg-id="SkyMix.uk" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100006XM_20231213T033116SQUARE.png_20231213033116.png" group-title="Royaume-Uni" tvg-chno="11",Sky Mix
 https://d2gycgc9ta55s9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cfze07aeomx8b/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="TrueCrime.uk" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100007AC_20231115T012326SQUARE.png_20231115012326.png" group-title="Royaume-Uni" tvg-chno="67",True Crime
@@ -182,3 +181,8 @@ https://s.catcast.tv/content/39575/index.m3u8
 #EXTGRP:Suisse / Schweiz
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/YtYhbJD.png" group-title="Suisse" tvg-chno="390",Meteonews
 https://streaming.meteonews.net/hls/stream.m3u8
+
+#EXTGRP:Ukraine
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.radiobells.com/stations/happyradio.jpg" group-title="Ukraine" tvg-chno=" ",Happy Radio
+https://ssh101.bozztv.com/ssh101/happyradio/chunks.m3u8
+
