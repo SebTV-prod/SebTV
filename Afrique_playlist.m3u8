@@ -32,9 +32,11 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.
 https://livevideo.vedge.infomaniak.com/livecast/africa24/manifest.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Cameroun",Africa 24 Sport
 https://livevideo.vedge.infomaniak.com/livecast/africa24sport/manifest.m3u8
-#EXTINF:-1 tvg-id="C .api.telerama.fr" tvg-logo="https://i.imgur.com/vh2373L.png" group-title="Cameroun",My TV Channel
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.facebook.com/photo/?fbid=443569304461160&set=a.443569277794496&__tn__=%3C" group-title="Cameroun",CTV Afrique
+https://ssh101.bozztv.com/ssh101/ctvafrique/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/vh2373L.png" group-title="Cameroun",My TV Channel
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
-#EXTINF:-1 tvg-id="C .api.telerama.fr" tvg-logo="https://i.ibb.co/H4VktvG/Plex-TV-237.jpg" group-title="Cameroun",Plex
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/H4VktvG/Plex-TV-237.jpg" group-title="Cameroun",Plex
 http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
 
 #EXTGRP:Congo
@@ -82,6 +84,10 @@ https://live.prd.dlive.tv/hls/live/mbs-tv.m3u8
 #EXTGRP:Maroc
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Maroc",Médi 1 (Afrique)
 https://streaming1.medi1tv.com/live/smil:medi1fr.smil/.m3u8
+
+#EXTGRP:Togo
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Togo",TBN (Télé Bonne Nouvelle)
+https://ssh101.bozztv.com/ssh101/tbnstream/playlist.m3u8
 
 
 
