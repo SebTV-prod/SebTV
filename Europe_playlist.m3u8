@@ -64,6 +64,23 @@ https://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300003IK_20230823T033117SQUARE.png_20230823033117.png" group-title="Autriche",Redbull TV
 https://db38umy8gexon.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f561zwy85csh9/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
+#EXTGRP:Belgique / België
+#EXTINF:-1 tvg-id="VTM.be" tvg-logo="https://i.imgur.com/djkPc9w.png" group-title="Belgique" tvg-chno="29",VTM
+https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
+#EXTINF:-1 tvg-id="QMusic.be" tvg-logo="https://i.imgur.com/J09lNZK.png" group-title="Belgique" tvg-chno="390",Q-Music TV
+https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls.m3u8
+#EXTINF:-1 tvg-id="Radio1.be" tvg-logo="https://i.ibb.co/pwCs0YY/512px-VRT-Radio-1-logo-svg.png" group-title="Belgique" tvg-chno="800",VRT Radio 1
+https://live-radio.vrtcdn.be/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8
+#EXTINF:-1 tvg-id="Radio2.be" tvg-logo="https://i.ibb.co/47mc8nJ/VRT-Radio-2-2022-svg.png" group-title="Belgique" tvg-chno="801",VRT Radio 2
+https://live-radio.vrtcdn.be/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/.m3u8
+#EXTINF:-1 tvg-id="StudioBrussel.be" tvg-logo="https://i.ibb.co/y0TcsXw/512px-VRT-Stu-Bru-logo-svg.png" group-title="Belgique" tvg-chno="806",Studio Brussel
+https://live-radio.vrtcdn.be/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.m3u8
+#EXTINF:-1 tvg-id="MNM.be" tvg-logo="https://i.imgur.com/L4cD18H.png" group-title="Belgique" tvg-chno="807",MNM
+https://live-radio.vrtcdn.be/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
+#EXTINF:-1 tvg-id="Joe.be" tvg-logo="https://i.imgur.com/rw72POr.png" group-title="Belgique" tvg-chno="821",Joe
+https://dpp-streamlive-plain.medialaancdn.be/joe_kijklive/plain/hls_hd.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/zbCrZG9/hq-hln.png" group-title="Belgique",HLN Live
+https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8
 
 #EXTGRP:Croatie / Hrvatska
 #EXTINF:-1 tvg-id="HRT1.hr" tvg-logo="https://i.imgur.com/lDSctzX.png" group-title="Croatie",HRT 1
@@ -161,3 +178,7 @@ https://live.prd.dlive.tv/hls/live/teknivalradio.m3u8
 https://s.catcast.tv/content/43273/index.m3u8
 #EXTINF:-1 tvg-id="VivaRussia.ru" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/VIVA.jpg" group-title="Russie",VIVA Russia
 https://s.catcast.tv/content/39575/index.m3u8
+
+#EXTGRP:Suisse / Schweiz
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/YtYhbJD.png" group-title="Suisse" tvg-chno="390",Meteonews
+https://streaming.meteonews.net/hls/stream.m3u8
