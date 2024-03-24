@@ -66,6 +66,8 @@ https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_Corse-ViaS
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:-1 tvg-id="C235.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/TV5%20Monde%20(Europe).png" group-title="France" tvg-chno="51",TV5 Monde (Europe)
 https://muutube.sonmezalp.com/proxy.php/https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear- .png" group-title="France" tvg-chno="52",TV5 Monde (Info)
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/M6%20International.png" group-title="France" tvg-chno="60",M6 International
 https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8
 #EXTINF:-1 tvg-id="C145.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Paris%20Premiere.png" group-title="France" tvg-chno="61",Paris Première
@@ -195,8 +197,6 @@ https://live.prd.dlive.tv/hls/live/pulsradiocom.m3u8
 https://ythls.armelin.one/channel/UCaEqMbRYYOmI3WrALMhxuIg.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France",Top Santé TV
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/topsante.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear- .png" group-title="France",TV5 Monde (Info)
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="31",7 à Limoges
 https://ythls.armelin.one/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg.m3u8
 #EXTINF:-1 tvg-id="TV8MontBlanc.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/8MontBlanc.png" group-title="France" tvg-chno="31",8 Mont-Blanc
