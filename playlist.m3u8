@@ -53,18 +53,15 @@ https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 https://github.com/BG47510/sniftv/raw/main/bouy/li.m3u8
 #EXTINF:-1 tvg-id="C2111.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/FranceInfo.png" group-title="France" tvg-chno="27",France Info
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceInfo.m3u8
-#EXTINF:-1 tvg-id="C529.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/France%2024%20(Français).png" group-title="France" tvg-chno="28",France 24 (Français)
-https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
-#EXTINF:-1 tvg-id="C140.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Euronews%20(Français).png" group-title="France" tvg-chno="29",Euronews (Français)
-https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/euronewsfr.m3u8
-#EXTINF:-1 tvg-id="C110.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/KTO.png" group-title="France" tvg-chno="30",KTO
-https://live-kto.akamaized.net/hls/live/2033284/KTO/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/N31.jpeg" group-title="France" tvg-chno="31",N31
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/DMTV/n31.m3u8
-#EXTINF:-1 tvg-id="C540.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Equidia.png" group-title="France" tvg-chno="32",Equidia
-http://s2.callofliberty.fr/direct/EQUIDIA/master.m3u8
-#EXTINF:-1 tvg-id="C318.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/CGTN%20(Français).png" group-title="France" tvg-chno="33",CGTN (Français)
-http://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTINF:-1 tvg-id="BFMVar.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/BFM%20Toulon.png" group-title="France" tvg-chno="30",BFM Régions (Toulon-Var)
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="BFMCotedAzur.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/BFM%20Nice.png" group-title="France" tvg-chno="31",BFM Régions (Nice-Côte d'Azur)
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Noa.svg.png" group-title="France" tvg-chno="32",France 3 Régions (NoA)
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_NoA.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Via%20Stella.png" group-title="France" tvg-chno="33",France 3 Régions (Corse-Via Stella)
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_Corse-ViaStella.m3u8
+
 #EXTINF:-1 tvg-id="C205.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/TV5%20Monde%20(FBSM).png" group-title="France" tvg-chno="50",TV5 Monde [FBSM]
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:-1 tvg-id="C235.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/TV5%20Monde%20(Europe).png" group-title="France" tvg-chno="51",TV5 Monde (Europe)
@@ -77,8 +74,14 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLfr/ParisPre
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLfr/Teva.m3u8
 #EXTINF:-1 tvg-id="C229.api.telerama.fr" tvg-logo=" " group-title="France" tvg-chno="63",TiJi
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
+#EXTINF:-1 tvg-id="C529.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/France%2024%20(Français).png" group-title="France" tvg-chno="70",France 24 (Français)
+https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
+#EXTINF:-1 tvg-id="C140.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Euronews%20(Français).png" group-title="France" tvg-chno="71",Euronews (Français)
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/euronewsfr.m3u8
 #EXTINF:-1 tvg-id="C234.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Public%20Senat.jpeg" group-title="France" tvg-chno="130",Public Sénat
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/publicsenat.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="France" tvg-chno="140",France TV Séries
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceTVSeries.m3u8
 #EXTINF:-1 tvg-id="C1073.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/BFM%20Business.png" group-title="France" tvg-chno="150",BFM Business
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="C1073.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Tech%20%26%20Co.png" group-title="France" tvg-chno="151",Tech & Co
@@ -86,6 +89,14 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&
 #EXTINF:-1 tvg-id="i24NewsFrench.il" tvg-logo="https://github.com/Sibprod/raw/blob/main/logos/i24%20News%20(Français).png" group-title="France" tvg-chno="152",i24 News (Français)
 https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all.m3u8
 
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/N31.jpeg" group-title="France" tvg-chno="431",N31
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/DMTV/n31.m3u8
+#EXTINF:-1 tvg-id="C540.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Equidia.png" group-title="France" tvg-chno="439",Equidia
+http://s2.callofliberty.fr/direct/EQUIDIA/master.m3u8
+#EXTINF:-1 tvg-id="C110.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/KTO.png" group-title="France" tvg-chno="461",KTO
+https://live-kto.akamaized.net/hls/live/2033284/KTO/index.m3u8
+#EXTINF:-1 tvg-id="C318.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/CGTN%20(Français).png" group-title="France" tvg-chno="487",CGTN (Français)
+http://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ4500020YA_20220323T075851SQUARE.png_20220323075854.png" group-title="France",Fashion TV
 https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
@@ -162,8 +173,6 @@ https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/591.m3u8
 https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/592.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://s2.dmcdn.net/u/8z3lb1WNSKGfcnF9r/120x120" group-title="France",My Comedy
 https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/590.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="France",France TV Séries
-https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceTVSeries.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/vXbAeD0.png" group-title="France",Handicap TV
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://images-sihv2.prd.dlivecdn.com/fit-in/50x50/filters:quality(100)/avatar/468e8c81-5ebd-11ed-8d51-d213acd6fa69" group-title="France",Hitparty
@@ -200,10 +209,8 @@ https://livevideo.vedge.infomaniak.com/livecast/adhtv/chunklist.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/angerstele.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="" group-title="France" tvg-chno="33",ASTV
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/ASTV.m3u8
-#EXTINF:-1 tvg-id="BFMCotedAzur.fr" tvg-logo=" " group-title="France" tvg-chno="31",BFM Régions (Nice-Côte d'Azur)
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-id="BFMVar.fr" tvg-logo=" " group-title="France" tvg-chno="30",BFM Régions (Toulon-Var)
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?start=LIVE&end=END
+
+
 #EXTINF:-1 tvg-id="BIPTV.fr" tvg-logo=" " group-title="France" tvg-chno="36",BIP TV
 http://biptv.tv/live/biptvstream_orig/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="" group-title="France",Brionnais TV
@@ -212,8 +219,6 @@ https://stream2.mandarine.media/brionnais_tv/brionnais_tv/playlist.m3u8
 https://livevideo.vedge.infomaniak.com/livecast/canal32/manifest.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Cannes%20Lerins%20TV.png" group-title="France" tvg-chno="365",Cannes Lérins TV
 https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="France" tvg-chno="325",France 3 Régions (NoA)
-https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_NoA.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="481",ILTV
 https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France",Kanaldude
