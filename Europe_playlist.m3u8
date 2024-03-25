@@ -49,6 +49,8 @@ https://streaming.magentamusik.de/csm/573870/magentamusik1/index.m3u8
 https://ythls.armelin.one/channel/UCvpCjGQASCazC-Vxcp9tgPA.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/u8OhwI1.png" group-title="Allemagne",Radio 21 TV
 https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Allemagne",Rockland Radio TV
+https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
 
 #EXTGRP:Andorre / Andorra
 #EXTINF:-1 tvg-id="ATV.ad" tvg-logo=" " group-title="Andorre" tvg-chno="100",ATV 
@@ -124,6 +126,170 @@ https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
 #EXTINF:-1 tvg-id="RTLKocica.hr" tvg-logo="https://i.imgur.com/rzB6Z6u.png" group-title="Croatie",RTL Kocica
 https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
 
+#EXTGRP:Espagne
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20240117T032718SQUARE.png_20240117032719.png" group-title="Espagne" tvg-chno="1",La 1
+https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="La2.es" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20240117T032718SQUARE.png_20240117032719.png" group-title="Espagne" tvg-chno="2",La 2
+https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20231213T103944SQUARE.png_20231213103945.png" group-title="Espagne" tvg-chno="11",Teledeporte
+https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="Clan.es" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100003WE_20230208T013050SQUARE.png_20230208013050.png" group-title="Espagne" tvg-chno="12",Clan
+https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="Canal24horas.es" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100004J1_20230614T005926SQUARE.png_20230614005927.png" group-title="Espagne" tvg-chno="20",24h
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main.m3u8
+#EXTINF:-1 tvg-id="ElToroTV.es" tvg-logo=" " group-title="Espagne",El Toro TV
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+#EXTINF:-1 tvg-id="AragonTelevision.es" tvg-logo="https://i.imgur.com/6YSi1zW.png" group-title="Espagne",[Aragon] Aragón Televisión
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF:-1 tvg-id="Bondia.es" tvg-logo="https://i.imgur.com/90WOoro.png",[Catalogne] Bon Dia TV
+https://directes-tv-int.ccma.cat/live-origin/bondia-hls/master.m3u8
+#EXTINF:-1 tvg-id="324.es" tvg-logo="https://i.imgur.com/SG7D0gt.png",[Catalogne] Canal 3/24
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:-1 tvg-id="TV3Catalunya.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png" group-title="Espagne",[Catalogne] TV3 Catalunya
+https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
+#EXTINF:-1 tvg-id="IB3.es" tvg-logo="https://i.imgur.com/iUmWGUh.png",[Îles Baléares] IB3
+https://ythls.armelin.one/channel/UCff_CBVJDTHP4wOHPjP5BMg.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BTJvvBK.png",[Pays Valencien] 8 La Marina
+https://streaming005.gestec-video.com/hls/canal24.m3u8
+#EXTINF:-1 tvg-id="Apunt.es" tvg-logo="https://i.imgur.com/B4OcQwT.png",[Pays Valencien] À Punt 
+https://bcovlive-a.akamaihd.net/a51c31c10f6e42b2bbb7c7649e9f305c/eu-west-1/6057955885001/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Espagne",Star TVE
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
+#EXTINF:-1 tvg-id="C208.api.telerama.fr" tvg-logo=" " group-title="Espagne",TVE Internacional (Europa)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_1080.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/ .png" group-title="Espagne",Atresmedia Clasicos
+https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/ .png" group-title="Espagne",Atresmedia Comedia
+https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/ .png" group-title="Espagne",Atresmedia Flooxer
+https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/ .png" group-title="Espagne",Atresmedia Kids
+https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/ .png" group-title="Espagne",Atresmedia Multicine
+https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
+#EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/ .png" group-title="Espagne",Canal Andalucía Cocina
+https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
+#EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/ .png" group-title="Espagne",Canal Andalucía Turismo
+https://cloud.fastchannel.es/mic/manifiest/hls/aturismo/aturismo.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300003VN_20231115T012147SQUARE.png_20231115012147.png" group-title="Espagne",Corazón
+https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1400001L8_20221109T010708SQUARE.png_20221109010709.png" group-title="Espagne",El Confidencial
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8?stoken=samsung.zhqJK9905&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC39000033J_20230809T053828SQUARE.png_20230809053829.png" group-title="Espagne",El País
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3400001AA_20240313T073244SQUARE.png" group-title="Espagne",Negocios TV
+https://negociostv-negociostv-samsunges.amagi.tv/amRdirect/device[did]=%7BPSID%7D&device[dnt]=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&tc_string=%7BTC_STRING%7D&coppa=0/hls/amagi_hls_data_negociost-negociostv-samsunges/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400008NE_20220713T034534SQUARE.png_20220713034534.png" group-title="Espagne",¡Hola! Play
+https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8?ads.wurl_channel=790&ads.wurl_name=HolaPlay&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20231011T084725SQUARE.png_20231011084726.png" group-title="Espagne",Sol Música
+https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Espagne",Activa TV
+https://streamtv.mediasector.es/hls/activatv/.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://onsortir.tv/wp-content/uploads/2022/04/ONSORTIR.png" group-title="Espagne",Onsortir TV
+https://rpn3.bozztv.com/ssh101/ssh101/onsortir/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.molatv.cat/images/molahitstv.png" group-title="Espagne",Molahits TV
+https://ventdelnord.tv:8080/mola/directe.m3u8
+
+#EXTGRP:Italie
+#EXTINF:-1 tvg-id="C156.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RAI%201.png" group-title="Italie" tvg-chno="1",RAI 1
+#EXTVLCOPT:http-referrer=http://ott-cdn.ucom.am/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
+http://ott-cdn.ucom.am/s29/index.m3u8
+#EXTINF:-1 tvg-id="La7.it" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1500002NL_20231011T084817SQUARE.png_20231011084818.png" group-title="Italie" tvg-chno="7",La 7
+https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/teleradiopace-1-it.png" group-title="Italie" tvg-chno="12",Telepace 1
+https://64b16f23efbee.streamlock.net/telepace1/telepace1/playlist.m3u8
+#EXTINF:-1 tvg-id="La7d.it" tvg-logo=" " group-title="Italie" tvg-chno="29",La7d
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS/Live.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie" tvg-chno="36",RTL 102.5 TV
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie" tvg-chno="47",Super!
+https://vimnitaly.akamaized.net/hls/live/2094034/super/master-2500.m3u8
+#EXTINF:-1 tvg-id="RAINews24.it" tvg-logo="" group-title="Italie" tvg-chno="48",RAI News 24
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=16
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sportitalia-it.png" group-title="Italie" tvg-chno="60",Sportitalia
+https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/ .png" group-title="Italie" tvg-chno="62",Donna TV
+https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/ .png" group-title="Italie" tvg-chno="63",Go-TV
+https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Radio105TV.it" tvg-logo="" group-title="Italie" tvg-chno="66",Radio 105 TV
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="R101TV.it" tvg-logo="" group-title="Italie" tvg-chno="67",R101 TV
+https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Zerounomusic.it" tvg-logo="" group-title="Italie" tvg-chno="68",Zerouno TV Music 
+https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
+#EXTINF:-1 tvg-id="ZerounoTVNews.it" tvg-logo=" " group-title="Italie" tvg-chno="68",Zerouno TV News
+https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie" tvg-chno="69",Deejay TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioItaliaTV.it" tvg-logo="" group-title="Italie" tvg-chno="70",Radio Italia TV
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+#EXTINF:-1 tvg-id="Canaleitalia.it" tvg-logo=" " group-title="Italie" tvg-chno="71",Canale Italia
+https://6e94aeeb1b42461d95f973ae34be5167.msvdn.net/ac115_live/canale1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioBrunoTv.it" tvg-logo="" group-title="Italie" tvg-chno="73",Radio Bruno TV
+https://router.xdevel.com/video0s975758-473/stream/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie" tvg-chno="123",Italia Channel
+https://stream1.aswifi.it/italiachannel/stream/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie" tvg-chno="145",Padre Pio TV
+https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie" tvg-chno="158",Radio Kiss Kiss
+https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie" tvg-chno="233",RTL 102.5 News
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RadioFrecciaTV.it" tvg-logo="" group-title="Italie" tvg-chno="258",Radio Freccia TV
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+#EXTINF:-1 tvg-id="BikeChannel.it" tvg-logo="" group-title="Italie" tvg-chno="259",Bike
+https://62becaa5a1e2f.streamlock.net/BIKE/BIKE/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie" tvg-chno="261",Giornale Radio TV
+https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie" tvg-chno="265",RDS Social TV
+https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie" tvg-chno="266",Radio Zeta
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie" tvg-chno="351",70-80.TV
+https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3600001Z9_20230926T032334SQUARE.png_20230926032335.png" group-title="Italie" tvg-chno="411",Premio Direct - GCTV
+https://dgzghldq8xau4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2cvlr00ubwsjn/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC3000007XK_20231115T012421SQUARE.png_20231115012421.png" group-title="Italie" tvg-chno="415",Premio Sport - TV Play
+https://d28j1jdx26ss52.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f85qk4neky7f6-ssai-prd/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA1400003WT_20220404T010007SQUARE.png_20220404010008.png" group-title="Italie" tvg-chno="416",Canale Europa
+https://f123d461fa05419a8d092e49bf7ba9a6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_CanaleEuropaTV/playlist.m3u8?ads.wurl_channel=789&ads.wurl_name=CanaleEuropaTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4100006EE_20231115T012432SQUARE.png_20231115012432.png" group-title="Italie" tvg-chno="441",Dolomiti Life TV
+https://d3b6x1igzwsv34.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-anw1tg4801b4n/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="C155.api.telerama.it" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RAI%203.png" group-title="Italie" tvg-chno="808",RAI 3 (Südtirol)
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioTvSerieA.it" tvg-logo="" group-title="Italie" tvg-chno="899",Serie A con RDS TV
+https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Italie" tvg-chno="67",Radio Monte-Carlo TV
+https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie" tvg-chno="68",Virgin Radio TV
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100006SA_20221012T021051SQUARE.png_20221012021052.png" group-title="Italie" tvg-chno="176",Explorer HD Channel
+https://86ccf2ddbf4249949d488aeac2966def.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_ExplorerHD/playlist.m3u8?ads.wurl_channel=1314&ads.wurl_name=ExplorerHD&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA2200008IM_20220713T034459SQUARE.png_20220713034459.png" group-title="Italie" tvg-chno="726",Radio Italia Trend
+https://radioitalia-samsungitaly.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ItalianFishing.it" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBB2000001QB_20230208T013137SQUARE.png_20230208013138.png" group-title="Italie" tvg-chno="811",Italian Fishing
+https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/ .png" group-title="Italie",RTL 102.5 Caliente
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
+#EXTINF:-1 tvg-id="Primocanale.it" tvg-logo="https://www.lyngsat-stream.com/logo/tv/pp/primocanale.png" group-title="Italie" tvg-chno="10",[Ligurie] Primocanale
+https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Telenord.it" tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/telenord_it.png" group-title="Italie" tvg-chno="11",[Ligurie] Telenord
+https://5f22d76e220e1.streamlock.net/telenord/telenord/playlist.m3u8
+#EXTINF:-1 tvg-id="Primantenna.it" tvg-logo="https://www.lyngsat-stream.com/logo/tv/pp/primantenna_it.png" group-title="Italie" tvg-chno="14",[Ligurie] Primantenna
+https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleliguriasud.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tele_liguria_it_sud.png" group-title="Italie" tvg-chno="15",[Ligurie] TLS - Tele Liguria Sud
+https://64b16f23efbee.streamlock.net/teleliguriasud/teleliguriasud/playlist.m3u8
+#EXTINF:-1 tvg-id="EntellaTV.it" tvg-logo="https://i.imgur.com/pGJcMmB.png" group-title="Italie" tvg-chno="75",[Ligurie] Entella TV
+https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8
+
+#EXTGRP:Saint-Marin
+#EXTINF:-1 tvg-id="SanMarinoRTV.sm" tvg-logo="https://i.imgur.com/lJpOlLv.png" group-title="Saint-Marin" tvg-chno="73",RTV San Marino 
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMmhydm5vNWJ3NnRnMi5jbG91ZGZyb250Lm5ldC9zbXJ0di1jaDAxL19kZWZpbnN0Xy9zbWlsOmNoLTAxLnNtaWwvcGxheWxpc3QubTN1OCIsIkNvbmRpdGlvbiI6eyJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn0sIkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzA4ODA5NDk5NTkwfX19XX0_&Key-Pair-Id=APKAJXRZCR3BYC6OEKKA&Signature=dV5e24A~t1tZHfgQL4zDSfcLkCOU-pjACMeOSZookmj8kKQ8P67dpLptWbKaGPS3KWvFpZNswdtvNGxKG-Nj3GL~8rW4t59Z9~gRrG7IiC2bHp~4MsYeMQGn~Sa~oa9fS95R1ziXHg83sL0Sc~aIp-ZFLfP7UXH2BaC2-pG-W5uEYSmSpfvxHA2pmA9aEvbQMZj3P0k5-vKSofsh~QSB~JDfBhvZznu-UwIQ938aDXe6sSws5SOJmz7egMwLonF8ROEBg4k6G1I-RLtB2ias0fTqKsTTTRDV5M0NN56qpxoYygp7ZZw8iG0VkHyh-TSq5~5iuza-l7rBrfMUNSg-~g__
+#EXTINF:-1 tvg-id="SanMarinoRTV.sm" tvg-logo="https://i.imgur.com/lJpOlLv.png" group-title="Saint-Marin" tvg-chno="93",RTV San Marino Sport
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita.m3u8
+
 #EXTGRP:Moldavie
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZbQY56v.png" group-title="Moldavie",Moldova 1
 https://v.trm.md/static/streaming-playlists/hls/27fdea12-5fc4-42b3-afdd-c661399fed1d/0.m3u8
@@ -169,18 +335,88 @@ https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
 https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
 
 #EXTGRP:Royaume-Uni
+#EXTINF-1 tvg-id="BBC1.uk" tvg-logo=" " group-title="Royaume-Uni" tvg-chno="1",BBC One
+https://signal2.livingabroad.tv/live/01B67B309ECA88933F962B33FD6F3059/1.m3u8
+#EXTINF-1 tvg-id="BBC2.uk" tvg-logo=" " group-title="Royaume-Uni" tvg-chno="2",BBC Two
+https://signal2.livingabroad.tv/live/01B67B309ECA88933F962B33FD6F3059/3.m3u8
+#EXTINF-1 tvg-id="ITV1.uk" tvg-logo=" " group-title="Royaume-Uni" tvg-chno="3",ITV 1
+https://signal2.livingabroad.tv/live/01B67B309ECA88933F962B33FD6F3059/21.m3u8
+#EXTINF-1 tvg-id="Channel4.uk" tvg-logo=" " group-title="Royaume-Uni" tvg-chno="4",Channel 4
+https://signal2.livingabroad.tv/live/01B67B309ECA88933F962B33FD6F3059/19.m3u8
+#EXTINF-1 tvg-id="Channel5.uk" tvg-logo=" " group-title="Royaume-Uni" tvg-chno="5",Channel 5
+https://signal2.livingabroad.tv/live/01B67B309ECA88933F962B33FD6F3059/17.m3u8
+#EXTINF-1 tvg-id="ITV2.uk" tvg-logo=" " group-title="Royaume-Uni" tvg-chno="6",ITV 2
+https://signal2.livingabroad.tv/live/01B67B309ECA88933F962B33FD6F3059/22.m3u8
+#EXTINF-1 tvg-id="BBCAlba.uk" tvg-logo=" " group-title="Royaume-Uni" tvg-chno="7",BBC Alba
+https://signal2.livingabroad.tv/live/01B67B309ECA88933F962B33FD6F3059/11.m3u8
+#EXTINF-1 tvg-id="BBC4.uk" tvg-logo=" " group-title="Royaume-Uni" tvg-chno="9",BBC Four
+https://signal2.livingabroad.tv/live/01B67B309ECA88933F962B33FD6F3059/23.m3u8
+#EXTINF-1 tvg-id="ITV3.uk" tvg-logo=" " group-title="Royaume-Uni" tvg-chno="10",ITV 3
+https://signal2.livingabroad.tv/live/01B67B309ECA88933F962B33FD6F3059/26.m3u8
 #EXTINF:-1 tvg-id="SkyMix.uk" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100006XM_20231213T033116SQUARE.png_20231213033116.png" group-title="Royaume-Uni" tvg-chno="11",Sky Mix
 https://d2gycgc9ta55s9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cfze07aeomx8b/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF-1 tvg-id="E4.uk" tvg-logo=" " group-title="Royaume-Uni" tvg-chno="13",E4
+https://signal2.livingabroad.tv/live/AA98F1291DE9489A0ED6B013B0DA76E2/27.m3u8
+#EXTINF-1 tvg-id="Film4.uk" tvg-logo=" " group-title="Royaume-Uni" tvg-chno="14",Film 4
+https://signal2.livingabroad.tv/live/AA98F1291DE9489A0ED6B013B0DA76E2/28.m3u8
+#EXTINF-1 tvg-id="More4.uk" tvg-logo=" " group-title="Royaume-Uni" tvg-chno="18",More 4
+https://signal2.livingabroad.tv/live/AA98F1291DE9489A0ED6B013B0DA76E2/29.m3u8
+#EXTINF-1 tvg-id="More4.uk" tvg-logo=" " group-title="Royaume-Uni" tvg-chno="19",Dave
+https://signal2.livingabroad.tv/live/AA98F1291DE9489A0ED6B013B0DA76E2/38.m3u8
+#EXTINF-1 tvg-id="Drama.uk" tvg-logo=" " group-title="Royaume-Uni" tvg-chno="20",Drama
+https://signal2.livingabroad.tv/live/AA98F1291DE9489A0ED6B013B0DA76E2/39.m3u8
+#EXTINF-1 tvg-id="5USA.uk" tvg-logo=" " group-title="Royaume-Uni" tvg-chno="21",5 USA
+https://signal2.livingabroad.tv/live/AA98F1291DE9489A0ED6B013B0DA76E2/15.m3u8
+#EXTINF-1 tvg-id="ITV4.uk" tvg-logo=" " group-title="Royaume-Uni" tvg-chno="26",ITV 4
+https://signal2.livingabroad.tv/live/01B67B309ECA88933F962B33FD6F3059/24.m3u8
+#EXTINF-1 tvg-id="Yesterday.uk" tvg-logo=" " group-title="Royaume-Uni" tvg-chno="27",Yesterday
+https://signal2.livingabroad.tv/live/AA98F1291DE9489A0ED6B013B0DA76E2/40.m3u8
+#EXTINF-1 tvg-id="ITVBe.uk" tvg-logo=" " group-title="Royaume-Uni" tvg-chno="28",ITV Be
+https://signal2.livingabroad.tv/live/01B67B309ECA88933F962B33FD6F3059/41.m3u8
+#EXTINF-1 tvg-id="5Star.uk" tvg-logo=" " group-title="Royaume-Uni" tvg-chno="32",5 Star
+https://signal2.livingabroad.tv/live/AA98F1291DE9489A0ED6B013B0DA76E2/16.m3u8
+#EXTINF-1 tvg-id="5action.uk" tvg-logo=" " group-title="Royaume-Uni" tvg-chno="33",5 Action
+https://signal2.livingabroad.tv/live/AA98F1291DE9489A0ED6B013B0DA76E2/43.m3u8
+#EXTINF-1 tvg-id="Greatmovies.uk" tvg-logo=" " group-title="Royaume-Uni" tvg-chno="34",Great! Movies
+https://signal2.livingabroad.tv/live/AA98F1291DE9489A0ED6B013B0DA76E2/46.m3u8
+#EXTINF-1 tvg-id="SkyArts.uk" tvg-logo=" " group-title="Royaume-Uni" tvg-chno="36",Sky Arts
+https://signal2.livingabroad.tv/live/AA98F1291DE9489A0ED6B013B0DA76E2/31.m3u8
+#EXTINF-1 tvg-id="Legend.uk" tvg-logo=" " group-title="Royaume-Uni" tvg-chno="41",Legend
+https://signal2.livingabroad.tv/live/AA98F1291DE9489A0ED6B013B0DA76E2/51.m3u8
+#EXTINF-1 tvg-id="Greataction.uk" tvg-logo=" " group-title="Royaume-Uni" tvg-chno="42",Great! Action
+https://signal2.livingabroad.tv/live/AA98F1291DE9489A0ED6B013B0DA76E2/45.m3u8
+#EXTINF-1 tvg-id="Challenge.uk" tvg-logo=" " group-title="Royaume-Uni" tvg-chno="48",Challenge
+https://signal2.livingabroad.tv/live/AA98F1291DE9489A0ED6B013B0DA76E2/33.m3u8
+#EXTINF-1 tvg-id="4Seven.uk" tvg-logo=" " group-title="Royaume-Uni" tvg-chno="49",4/7
+https://signal2.livingabroad.tv/live/AA98F1291DE9489A0ED6B013B0DA76E2/18.m3u8
+#EXTINF-1 tvg-id="GreatTV.uk" tvg-logo=" " group-title="Royaume-Uni" tvg-chno="50",Great! TV
+https://signal2.livingabroad.tv/live/AA98F1291DE9489A0ED6B013B0DA76E2/47.m3u8
+#EXTINF-1 tvg-id="GreatRomance.uk" tvg-logo=" " group-title="Royaume-Uni" tvg-chno="52",Great! Romance
+https://signal2.livingabroad.tv/live/AA98F1291DE9489A0ED6B013B0DA76E2/48.m3u8
+#EXTINF-1 tvg-id="Blaze.uk" tvg-logo=" " group-title="Royaume-Uni" tvg-chno="64",Blaze
+https://signal2.livingabroad.tv/live/AA98F1291DE9489A0ED6B013B0DA76E2/35.m3u8
 #EXTINF:-1 tvg-id="TrueCrime.uk" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100007AC_20231115T012326SQUARE.png_20231115012326.png" group-title="Royaume-Uni" tvg-chno="67",True Crime
 https://0290a18b8e6d442993d0e775c3352c45.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-gb_TrueCrimeUKfromCBSReality/playlist.m3u8?ads.wurl_channel=1473&ads.wurl_name=TrueCrimeUKfromCBSReality&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="Now80.uk" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900003B2_20220914T041027SQUARE.png_20220914041027.png" group-title="Royaume-Uni" tvg-chno="79",Now 80's
 https://samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv/playlist/samsunguk-lightning-now80s-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF-1 tvg-id="TogetherTV.uk" tvg-logo=" " group-title="Royaume-Uni" tvg-chno="83",Together TV
+https://signal2.livingabroad.tv/live/AA98F1291DE9489A0ED6B013B0DA76E2/34.m3u8
+#EXTINF-1 tvg-id="PBSAmerica.uk" tvg-logo=" " group-title="Royaume-Uni" tvg-chno="84",PBS America
+https://signal2.livingabroad.tv/live/AA98F1291DE9489A0ED6B013B0DA76E2/52.m3u8
+#EXTINF-1 tvg-id="CBBC.uk" tvg-logo=" " group-title="Royaume-Uni" tvg-chno="201",CBBC
+https://signal2.livingabroad.tv/live/AA98F1291DE9489A0ED6B013B0DA76E2/8.m3u8
+#EXTINF-1 tvg-id="CBeebies.uk" tvg-logo=" " group-title="Royaume-Uni" tvg-chno="202",C Beebies
+https://signal2.livingabroad.tv/live/AA98F1291DE9489A0ED6B013B0DA76E2/20.m3u8
 #EXTINF:-1 tvg-id="KetchupTV.uk" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB2000004BQ_20231115T012324SQUARE.png_20231115012325.png" group-title="Royaume-Uni" tvg-chno="209",Ketchup TV
 https://aa8019675b784a8f86008d57eaefb016.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_Ketchup/playlist.m3u8?ads.wurl_channel=950&ads.wurl_name=Ketchup&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="TinyPop.uk" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3200003T6_20230913T031540SQUARE.png_20230913031541.png" group-title="Royaume-Uni" tvg-chno="210",Tiny Pop
 https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv/playlist/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=1
 #EXTINF:-1 tvg-id="Yaaas.uk" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300030OP_20231115T012321SQUARE.png_20231115012322.png" group-title="Royaume-Uni" tvg-chno="211",Yaaas !
 https://062e9d49eb79462380d2933b845412cc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_YAAAS/playlist.m3u8?ads.wurl_channel=951&ads.wurl_name=YAAAS&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF-1 tvg-id="BBCNews.uk" tvg-logo=" " group-title="Royaume-Uni" tvg-chno="231",BBC News
+https://signal2.livingabroad.tv/live/AA98F1291DE9489A0ED6B013B0DA76E2/12.m3u8
+#EXTINF-1 tvg-id="BBCNews.uk" tvg-logo=" " group-title="Royaume-Uni" tvg-chno="233",Sky News
+https://signal2.livingabroad.tv/live/AA98F1291DE9489A0ED6B013B0DA76E2/32.m3u8
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB1600008R3_20220412T153106SQUARE.png_20220412153107.png" group-title="Royaume-Uni" tvg-chno="236",GBNews
 https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA1000008LK_20220713T034405SQUARE.png_20220713034406.png" group-title="Royaume-Uni",BBC Drama (Français)
