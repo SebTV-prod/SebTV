@@ -90,6 +90,26 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&e
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="i24NewsFrench.il" tvg-logo="https://github.com/Sibprod/raw/blob/main/logos/i24%20News%20(Français).png" group-title="France" tvg-chno="152",i24 News (Français)
 https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all.m3u8
+#EXTINF:-1 channel-id="samsung-FR300004J5" tvg-id="FR300004J5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300004J5_20240319T052333SQUARE.png" group-title="France" tvg-chno="153",BFM Grands Reportages
+https://d1mw98f2f3pk3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-66e36e9cu2fvd/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
+#EXTINF:-1 tvg-id="FRBC4200004XH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200004XH_20230414T072304SQUARE.png_20230414072305.png" group-title="France" tvg-chno="211",L'Equipe Live 1
+https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
+#EXTINF:-1 tvg-id="FRBC4200005X2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200005X2_20230308T021650SQUARE.png_20230308021650.png" group-title="France" tvg-chno="212",L'Equipe Live 2
+https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8
+#EXTINF:-1 channel-id="samsung-FR300006GF" tvg-id="FR300006GF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300006GF_20240319T052339SQUARE.png" group-title="France" tvg-chno="231",RMC Mystère
+https://d3w0weunrynif9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-30cqeaahzofvb/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
+#EXTINF:-1 channel-id="samsung-FR30000271" tvg-id="FR30000271" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR30000271_20240319T052348SQUARE.png" group-title="France" tvg-chno="232",RMC Alerte Secours
+https://ddt6vdovkiskj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jompzy8pen6vl/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
+#EXTINF:-1 channel-id="samsung-FR300005WY" tvg-id="FR300005WY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300005WY_20240319T052341SQUARE.png" group-title="France" tvg-chno="233",RMC Talk Info
+https://dvvyqyxwlc4tn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n5yqxqrvnujl7/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
+#EXTINF:-1 channel-id="samsung-FR300001M1" tvg-id="FR300001M1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300001M1_20240319T052346SQUARE.png" group-title="France" tvg-chno="241",RMC Wow
+https://d18uxd7zigjv4y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hynzl7bz38ht6/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
+#EXTINF:-1 channel-id="samsung-FRBD4800001P4" tvg-id="FRBD4800001P4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4800001P4_20240319T052416SQUARE.png" group-title="France" tvg-chno="242",RMC J'irai dormir chez vous
+https://dwsx9zc2hxqhl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-k0j7zahecxb3y/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
+#EXTINF:-1 channel-id="samsung-FR300003ZB" tvg-id="FR300003ZB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300003ZB_20240319T052336SQUARE.png" group-title="France" tvg-chno="243",RMC Mecanic
+https://d3bb0xy15a32jc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3gcgvdj5b4sla/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
+#EXTINF:-1 channel-id="samsung-FR300007IY" tvg-id="FR300007IY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300007IY_20240319T052343SQUARE.png" group-title="France" tvg-chno="244",RMC Talk Sport
+https://d21wdmv2hqydbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n239v7ne7hack/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/N31.jpeg" group-title="France" tvg-chno="431",N31
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/DMTV/n31.m3u8
@@ -99,6 +119,81 @@ http://s2.callofliberty.fr/direct/EQUIDIA/master.m3u8
 https://live-kto.akamaized.net/hls/live/2033284/KTO/index.m3u8
 #EXTINF:-1 tvg-id="C318.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/CGTN%20(Français).png" group-title="France" tvg-chno="487",CGTN (Français)
 http://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="France" tvg-chno="30",Angers Télé
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/angerstele.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="30",TVPI
+https://new.cache-stream.workers.dev/stream/UCwVQAPo6tjC5w5yBBh0WEdA/live.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="30",TV Tarn
+https://live.creacast.com/albi-tv-ch1/stream/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="France" tvg-chno="30",Wéo - La Voix du Nord
+https://lives.digiteka.com/stream/c58028c2-a58b-4526-9ec8-389cad4a71e8/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="31",7 à Limoges
+https://ythls.armelin.one/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg.m3u8
+#EXTINF:-1 tvg-id="TV8MontBlanc.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/8MontBlanc.png" group-title="France" tvg-chno="31",8 Mont-Blanc
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="31",Mosaïk Cristal
+https://new.cache-stream.workers.dev/stream/UCQC0xLG_W0QpqAXQ4-yhwBA/live.m3u8
+#EXTINF:-1 tvg-id="Telebielingue.ch" tvg-logo=" " group-title="France" tvg-chno="31",Tébéo
+https://lives.digiteka.com/stream/e0fe6433-554e-4568-9a7e-31969136d8ff/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Telenantes.png" group-title="France" tvg-chno="31",Télénantes
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/telenantes.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="France" tvg-chno="31",Vosges Télévision
+https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
+#EXTINF:-1 tvg-id="C701.api.telerama.fr" tvg-logo=" " group-title="France" tvg-chno="32",20 Minutes TV (IdF)
+https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
+#EXTINF:-1 tvg-id="C534.api.telerama.fr" tvg-logo=" " group-title="France" tvg-chno="32",Canal 32
+https://livevideo.vedge.infomaniak.com/livecast/canal32/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="32",La Chaîne 32
+https://new.cache-stream.workers.dev/stream/UChl0zP89T7yZyEwQkCfmmnQ/live.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="France" tvg-chno="33",ASTV
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/ASTV.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="33",LMTV Sarthe
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/LMTVSarthe.m3u8
+#EXTINF:-1 tvg-id="C1045.api.telerama.fr" tvg-logo="https://moselle.tv/wp-content/uploads/2022/07/LOGO-MOSELLE-TV-BLANC.png" group-title="France" tvg-chno="33",Moselle TV
+https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="33",TLC
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/TLC.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="33",TV7 Sud-Ouest
+https://lives.digiteka.com/stream/17c6dea8-fb3f-46fe-b170-2ac88cd5667b/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/hcPj99k/fgro.png" group-title="France" tvg-chno="34",Le Figaro TV (IdF)
+https://static.lefigaro.fr/secom/tnt.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="34",Ma Télé (France)
+https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="34",TV Vendée
+https://streamer01.myvideoplace.tv/streamer02/hls/VDE_EVEN_PAD_130923.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="35",NA TV
+https://naradio.vedge.infomaniak.com/livecast/naradio/manifest.m3u8
+#EXTINF:-1 tvg-id="TVR.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/TVR.png" group-title="France" tvg-chno="35",TVR
+https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="France" tvg-chno="35",Wéo - Le Courrier Picard
+https://lives.digiteka.com/stream/bbb843db-8540-4156-98a5-b7c85da54d8e/index.m3u8
+#EXTINF:-1 tvg-id="BIPTV.fr" tvg-logo=" " group-title="France" tvg-chno="36",BIP TV
+http://biptv.tv/live/biptvstream_orig/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Cannes%20Lerins%20TV.png" group-title="France" tvg-chno="36",Cannes Lérins TV
+https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="36",TV78
+https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="37",Puissance Télévision
+https://puissancetelevision.vedge.infomaniak.com/livecast/puissancetelevision/manifest.m3u8
+#EXTINF:-1 tvg-id="C540.api.telerama.fr" tvg-logo=" " group-title="France" tvg-chno="37",TV Tours - Val de Loire
+https://lives.digiteka.com/stream/920f083a-9e61-4c09-9bc2-bdb664063aa9/index.m3u8
+#EXTINF:-1 tvg-id="C.api.telerama.fr" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/64e8bf3d-f86e-46a6-9874-978eac737828-profile_image-70x70.png" group-title="France" tvg-chno="38",Télégrenoble Isère
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Telegrenoble.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="40",Maurienne TV
+https://ythls.armelin.one/channel/UCva-htH2wvmKsG6SkcEJ4Vw.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="77",TV7 Colmar
+http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="98",TV3V
+https://tv3v.live-kd.com/live/tv3v/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="476",Lyon Capitale TV
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/lyoncapitale.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="481",ILTV
+https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/ " group-title="France" tvg-chno="485",Télégohelle
+https://videas.agglo-lenslievin.fr/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="801",Alpe d'Huez TV
+https://livevideo.vedge.infomaniak.com/livecast/adhtv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ4500020YA_20220323T075851SQUARE.png_20220323075854.png" group-title="France",Fashion TV
 https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
@@ -147,10 +242,6 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/63921a3d00c96100082a3cb4/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/639b54404cfdf7000729b3c1/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD11000038N_20231011T084907SQUARE.png_20231011084907.png" group-title="France",L'Effet Papillon
 https://amg02162-newenconnect-amg02162c1-samsung-fr-579.playouts.now.amagi.tv/playlist/amg02162-newenconnect-leffetpapillon-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200004XH_20230414T072304SQUARE.png_20230414072305.png" group-title="France" tvg-chno="4501",L'Equipe Live 1
-https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200005X2_20230308T021650SQUARE.png_20230308021650.png" group-title="France" tvg-chno="4502",L'Equipe Live 2
-https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France",L'Esprit Sorcier TV
 https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3900003ZH_20221012T021120SQUARE.png_20221012021120.png" group-title="France",MGG FAST
@@ -191,98 +282,23 @@ https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/mensuptv.m3u8
 https://live.creacast.com/myzentv-france/myzentv-france.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://pancrace.tv/uploads/images/logo_site_small_1485347403.jpg" group-title="France",Pancrace TV
 https://stream2.mandarine.media/pancracetv/pancracetv/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://images-sihv2.prd.dlivecdn.com/fit-in/50x50/filters:quality(100)/avatar/9e36df3e-5be4-11ec-9d2a-76019b1b6859" group-title="IPTV",Pulsradio Dance
+#EXTINF:-1 tvg-id=" " tvg-logo="https://images-sihv2.prd.dlivecdn.com/fit-in/50x50/filters:quality(100)/avatar/9e36df3e-5be4-11ec-9d2a-76019b1b6859" group-title="France",Pulsradio Dance
 https://live.prd.dlive.tv/hls/live/pulsradiocom.m3u8
 #EXTINF:-1 tvg-id="SqoolTV.fr" tvg-logo="https://yt3.googleusercontent.com/kmBR8wlZ879LmJaVowBubu2v0dC9WotZpd7Sk8fJA5xCIsvwFllb1DS-NtJl7Sh07RREas_vqHI=s176-c-k-c0x00ffffff-no-rj" group-title="France",Sqool TV
 https://ythls.armelin.one/channel/UCaEqMbRYYOmI3WrALMhxuIg.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France",Top Santé TV
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/topsante.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="31",7 à Limoges
-https://ythls.armelin.one/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg.m3u8
-#EXTINF:-1 tvg-id="TV8MontBlanc.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/8MontBlanc.png" group-title="France" tvg-chno="31",8 Mont-Blanc
-
-#EXTINF:-1 tvg-id="C701.api.telerama.fr" tvg-logo=" " group-title="France" tvg-chno="32",20 Minutes TV (IdF)
-https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="801",Alpe d'Huez TV
-https://livevideo.vedge.infomaniak.com/livecast/adhtv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="France" tvg-chno="30",Angers Télé
-https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/angerstele.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="France" tvg-chno="33",ASTV
-https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/ASTV.m3u8
-
-
-#EXTINF:-1 tvg-id="BIPTV.fr" tvg-logo=" " group-title="France" tvg-chno="36",BIP TV
-http://biptv.tv/live/biptvstream_orig/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="" group-title="France",Brionnais TV
 https://stream2.mandarine.media/brionnais_tv/brionnais_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="C534.api.telerama.fr" tvg-logo=" " group-title="France" tvg-chno="32",Canal 32
-https://livevideo.vedge.infomaniak.com/livecast/canal32/manifest.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Cannes%20Lerins%20TV.png" group-title="France" tvg-chno="365",Cannes Lérins TV
-https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="481",ILTV
-https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France",Kanaldude
 https://5aa375514fbab.streamlock.net:8090/tbzain/smil:kanaldude.smil/manifest.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="32",La Chaîne 32
-https://new.cache-stream.workers.dev/stream/UChl0zP89T7yZyEwQkCfmmnQ/live.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/hcPj99k/fgro.png" group-title="France" tvg-chno="34",Le Figaro TV (IdF)
-https://static.lefigaro.fr/secom/tnt.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="33",LMTV Sarthe
-https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/LMTVSarthe.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="476",Lyon Capitale TV
-https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/lyoncapitale.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="34",Ma Télé (France)
-https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="40",Maurienne TV
-https://ythls.armelin.one/channel/UCva-htH2wvmKsG6SkcEJ4Vw.m3u8
-#EXTINF:-1 tvg-id="C1045.api.telerama.fr" tvg-logo="https://moselle.tv/wp-content/uploads/2022/07/LOGO-MOSELLE-TV-BLANC.png" group-title="France" tvg-chno="33",Moselle TV
-https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="31",Mosaïk Cristal
-https://new.cache-stream.workers.dev/stream/UCQC0xLG_W0QpqAXQ4-yhwBA/live.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="357",NA TV
-https://naradio.vedge.infomaniak.com/livecast/naradio/manifest.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France",Nancy WebTV
 https://nancy-webtv.vedge.infomaniak.com/livecast/nancy-webtv/manifest.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="373",Puissance Télévision
-https://puissancetelevision.vedge.infomaniak.com/livecast/puissancetelevision/manifest.m3u8
-#EXTINF:-1 tvg-id="Telebielingue.ch" tvg-logo=" " group-title="France" tvg-chno="31",Tébéo
-https://lives.digiteka.com/stream/e0fe6433-554e-4568-9a7e-31969136d8ff/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/ " group-title="France" tvg-chno="485",Télégohelle
-https://videas.agglo-lenslievin.fr/index.m3u8
-#EXTINF:-1 tvg-id="C.api.telerama.fr" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/64e8bf3d-f86e-46a6-9874-978eac737828-profile_image-70x70.png" group-title="France" tvg-chno="38",Télégrenoble Isère
-https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Telegrenoble.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Telenantes.png" group-title="France" tvg-chno="31",Télénantes
-https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/telenantes.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="33",TLC
-https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/TLC.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="98",TV3V
-https://tv3v.live-kd.com/live/tv3v/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="77",TV7 Colmar
-http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="33",TV7 Sud-Ouest
-https://lives.digiteka.com/stream/17c6dea8-fb3f-46fe-b170-2ac88cd5667b/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="368",TV78
-https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/TV%20Lourdes.png" group-title="France",TV Lourdes
 https://ythls.armelin.one/channel/UC7zlbnNCnuAPiC3goKcFgUg.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="30",TVPI
-https://new.cache-stream.workers.dev/stream/UCwVQAPo6tjC5w5yBBh0WEdA/live.m3u8
-#EXTINF:-1 tvg-id="TVR.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/TVR.png" group-title="France" tvg-chno="35",TVR
-https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="30",TV Tarn
-https://live.creacast.com/albi-tv-ch1/stream/master.m3u8
-#EXTINF:-1 tvg-id="C540.api.telerama.fr" tvg-logo=" " group-title="France" tvg-chno="37",TV Tours - Val de Loire
-https://lives.digiteka.com/stream/920f083a-9e61-4c09-9bc2-bdb664063aa9/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="34",TV Vendée
-https://streamer01.myvideoplace.tv/streamer02/hls/VDE_EVEN_PAD_130923.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France",Valloire TV
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/ValloireTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="France" tvg-chno="31",Vosges Télévision
-https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="France" tvg-chno="30",Wéo - La Voix du Nord
-https://lives.digiteka.com/stream/c58028c2-a58b-4526-9ec8-389cad4a71e8/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="France" tvg-chno="35",Wéo - Le Courrier Picard
-https://lives.digiteka.com/stream/bbb843db-8540-4156-98a5-b7c85da54d8e/index.m3u8
+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="510",Europe 1
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/europe1.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/France%20Info%20Radio.jpeg" group-title="France" tvg-chno="505",France Info
@@ -449,6 +465,16 @@ https://rakuten-family-7-fr.samsung.wurl.tv/playlist.m3u8
 https://0bdae209609c4740ab7e2d00231adef2.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-fr_RakutenRomance/playlist.m3u8?ads.wurl_channel=889&ads.wurl_name=RakutenRomance&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300033GO_20221012T021124SQUARE.png_20221012021125.png" group-title="Espagne",Rakuten TV Top Films
 https://rakuten-topfree-7-fr.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 channel-id="samsung-FRBC9000041F" tvg-id="FRBC9000041F" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC9000041F_20240117T032749SQUARE.png_20240117032749.png" tvg-chno="4133" group-title="Espagne",Trailers
+https://i.mjh.nz/SamsungTVPlus/FRBC9000041F.m3u8
+
+#EXTGRP:Royaume-Uni
+#EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA1000008LK_20220713T034405SQUARE.png_20220713034406.png" group-title="Royaume-Uni",BBC Drama (Français)
+https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4900002D4_20220810T012634SQUARE.png_20220810012634.png" group-title="Royaume-Uni",Nature Time
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/61fc0df14159c40007250432/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA330002044_20221026T004322SQUARE.png_20221026004322.png" group-title="Royaume-Uni",Travel XP
+https://0b0a5371d15f48128cf69b029230eac6.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_TravelXP/playlist.m3u8?ads.wurl_channel=1157&ads.wurl_name=TravelXP&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTGRP:Vatican
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Vatican%20News%20Français.jpg" group-title="Vatican",Vatican News (Français)
