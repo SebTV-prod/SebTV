@@ -81,8 +81,12 @@ https://ythls.armelin.one/channel/UC7E__Dp9FSIgt6iMa5_uvlw.m3u8
 
 #EXTGRP:Guinée
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/E1sMcXz.png" group-title="Guinée" tvg-chno="1",RTG 1
+#EXTVLCOPT:http-referrer=https://player.castr.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://stream.castr.com/6358a30fa50e3ae11b6d0424/live_cbde16509c3611ed91f289dac03ffaaf/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/E1sMcXz.png" group-title="Guinée" tvg-chno="2",RTG 2
+#EXTVLCOPT:http-referrer=https://player.castr.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 https://stream.castr.com/6358a30fa50e3ae11b6d0424/live_e05d20809c3611edadb72177341481c3/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/FgKJiHZ.png" group-title="Guinée",Kalac TV
 https://kalactv.vedge.infomaniak.com/livecast/kalactv/manifest.m3u8
