@@ -20,6 +20,8 @@ https://rtmp.edentv.bj/hls/stream.m3u8
 https://livetvsteam.com:1936/etelebenin/etelebenin/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/CYy4n0N.png" group-title="Bénin",Bénin Web TV
 https://vdo.pro-fhi.net:3244/stream/play.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Bénin",Doyi Doslo TV
+https://ssh101.bozztv.com/ssh101/my23a2r/playlist.m3u8
 
 #EXTGRP:Burkina Faso
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Burkina Faso" tvg-chno="2",BF1
@@ -72,10 +74,22 @@ https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/business24_tv/hls_video/business24_tv.m3u8
 
 #EXTGRP:Gabon
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/K4lOHNw.png" group-title="Gabon",Gabon 1ère
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/K4lOHNw.png" group-title="Gabon" tvg-chno="1",Gabon 1ère
 https://vps94081.serveur-vps.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/0Zq2brb.png" group-title="Gabon",Gabon 24
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/0Zq2brb.png" group-title="Gabon" tvg-chno="2",Gabon 24
 https://ythls.armelin.one/channel/UC7E__Dp9FSIgt6iMa5_uvlw.m3u8
+
+#EXTGRP:Guinée
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/E1sMcXz.png" group-title="Guinée" tvg-chno="1",RTG 1
+http://stream.castr.com/6358a30fa50e3ae11b6d0424/live_cbde16509c3611ed91f289dac03ffaaf/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/E1sMcXz.png" group-title="Guinée" tvg-chno="2",RTG 2
+https://stream.castr.com/6358a30fa50e3ae11b6d0424/live_e05d20809c3611edadb72177341481c3/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/FgKJiHZ.png" group-title="Guinée",Kalac TV
+https://kalactv.vedge.infomaniak.com/livecast/kalactv/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/xrV3Qrr.png" group-title="Guinée",Fasso TV Kankan
+https://cageu.bozztv.com/ssh101/ssh101/fassotv1/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/X1AUjHr.png" group-title="Guinée",GTV 1
+https://ssh101.bozztv.com/ssh101/a2fc54rg14yu/playlist.m3u8
 
 #EXTGRP:Madagascar
 #EXTINF:-1 tvg-id=" " tvg-logo="https://images-sihv2.prd.dlivecdn.com/fit-in/50x50/filters:quality(100)/avatar/2fb8ae26-b791-11ee-ac31-36e2f79d4f2e" group-title="Madagascar",MBS TV
