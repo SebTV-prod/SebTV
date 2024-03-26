@@ -74,7 +74,7 @@ https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/business24_tv/hls_video/business24_tv.m3u8
 
 #EXTGRP:Djibouti
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Djibouti" tvg-chno="4",RTD 4
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/GNolVKU.png" group-title="Djibouti" tvg-chno="4",RTD 4
 https://ythls.armelin.one/channel/UCB0NxICFmGabAalD46J2i4A.m3u8
 
 #EXTGRP:Gabon
