@@ -1,5 +1,7 @@
 #EXTM3U
 - FR - Auvergne-Rhône-Alpes -
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/0uiiZRo.png" group-title="France" tvg-chno="30",BFM Régions (Lyon-Métropole)
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-id="C.api.telerama.fr" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/64e8bf3d-f86e-46a6-9874-978eac737828-profile_image-70x70.png" group-title="France" tvg-chno="38",Télégrenoble Isère
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Telegrenoble.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="40",Maurienne TV
@@ -70,8 +72,12 @@ https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Guadeloupe4TV.
 https://rpn3.bozztv.com/ssh101/ssh101/clip/playlist.m3u8
 
 - FR - Hauts-de-France -
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/j7F9MwH.png" group-title="France" tvg-chno="28",BFM Régions (Grand Littoral)
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-id="Weo.fr" tvg-logo=" " group-title="France" tvg-chno="30",Wéo - La Voix du Nord
 https://lives.digiteka.com/stream/c58028c2-a58b-4526-9ec8-389cad4a71e8/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/HE5xP0r.png" group-title="France" tvg-chno="31",BFM Régions (Grand Lille)
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="32",La Chaîne 32
 https://new.cache-stream.workers.dev/stream/UChl0zP89T7yZyEwQkCfmmnQ/live.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="" group-title="France" tvg-chno="33",ASTV
@@ -86,6 +92,8 @@ https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 https://videas.agglo-lenslievin.fr/index.m3u8
 
 - FR - Île-de-France -
+#EXTINF:-1 tvg-id="C701.api.telerama.fr" tvg-logo=" " group-title="France" tvg-chno="30",BFM Régions (Paris-Île-de-France)
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-id="C701.api.telerama.fr" tvg-logo=" " group-title="France" tvg-chno="32",20 Minutes TV (IdF)
 https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/hcPj99k/fgro.png" group-title="France" tvg-chno="34",Le Figaro TV (IdF)
@@ -110,6 +118,10 @@ https://ythls.armelin.one/channel/UCgA9V57lQlZFXkDfhVGTWSg.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/ChiconiFMTV.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/7oLUSeO.png" group-title="Outremer" tvg-chno=" ",Mayotte One 
 https://live.mytv.yt:3946/multi_web/play.m3u8
+
+- FR - Normandie -
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/WWWQ44G.png" group-title="France" tvg-chno="33",BFM Normandie
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?end=END&start=LIVE
 
 - FR - Nouvelle-Aquitaine -
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="30",TVPI
@@ -154,8 +166,14 @@ https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Tahitiwebradio.m3u8
 
 - FR - Provence-Alpes-Côte-d'Azur -
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="30",BFM Régions (Marseille-Provence)
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-id="BFMVar.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/BFM%20Toulon.png" group-title="France" tvg-chno="30",BFM Régions (Toulon-Var)
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/bV77l68.png" group-title="France" tvg-chno="31",BFM Régions (Dici Alpes-du-Sud)
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/bV77l68.png" group-title="France" tvg-chno="31",BFM Régions (Haute-Provence)
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_HAUTEPROVENCE/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-id="BFMCotedAzur.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/BFM%20Nice.png" group-title="France" tvg-chno="31",BFM Régions (Nice-Côte d'Azur)
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Cannes%20Lerins%20TV.png" group-title="France" tvg-chno="365",Cannes Lérins TV
