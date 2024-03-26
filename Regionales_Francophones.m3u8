@@ -1,0 +1,218 @@
+#EXTM3U
+- FR - Auvergne-Rhône-Alpes -
+#EXTINF:-1 tvg-id="C.api.telerama.fr" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/64e8bf3d-f86e-46a6-9874-978eac737828-profile_image-70x70.png" group-title="France" tvg-chno="38",Télégrenoble Isère
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Telegrenoble.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="40",Maurienne TV
+https://ythls.armelin.one/channel/UCva-htH2wvmKsG6SkcEJ4Vw.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="476",Lyon Capitale TV
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/lyoncapitale.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="801",Alpe d'Huez TV
+https://livevideo.vedge.infomaniak.com/livecast/adhtv/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France",Radio Mont-Blanc
+https://live.creacast.com/radiomontblanc-ch1/smil:radiomontblanc-ch1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France",Valloire TV
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/ValloireTV.m3u8
+
+- FR - Bourgogne-Franche-Comté
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="France",Brionnais TV
+https://stream2.mandarine.media/brionnais_tv/brionnais_tv/playlist.m3u8
+
+- FR - Bretagne -
+#EXTINF:-1 tvg-id="Tebeo.fr" tvg-logo=" " group-title="France" tvg-chno="31",Tébéo
+https://lives.digiteka.com/stream/e0fe6433-554e-4568-9a7e-31969136d8ff/index.m3u8
+#EXTINF:-1 tvg-id="TVR.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/TVR.png" group-title="France" tvg-chno="35",TVR
+https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
+
+- FR - Centre-Val-de-Loire
+#EXTINF:-1 tvg-id="BIPTV.fr" tvg-logo=" " group-title="France" tvg-chno="36",BIP TV
+http://biptv.tv/live/biptvstream_orig/index.m3u8
+#EXTINF:-1 tvg-id="C540.api.telerama.fr" tvg-logo=" " group-title="France" tvg-chno="37",TV Tours - Val de Loire
+https://lives.digiteka.com/stream/920f083a-9e61-4c09-9bc2-bdb664063aa9/index.m3u8
+
+- FR - Corse -
+#EXTINF:-1 tvg-id="Viatelepaese.fr" tvg-logo="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title="France" tvg-chno="30",TelePaese
+#EXTVLCOPT:http-referrer=https://srv.webtvmanager.fr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
+https://srv.webtvmanager.fr:3118/live/viatelepaeselive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Via%20Stella.png" group-title="France" tvg-chno="33",France 3 Régions (Corse-Via Stella)
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_Corse-ViaStella.m3u8
+
+- FR - Grand-Est -
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="France" tvg-chno="31",Vosges Télévision
+https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
+#EXTINF:-1 tvg-id="C534.api.telerama.fr" tvg-logo=" " group-title="France" tvg-chno="32",Canal 32
+https://livevideo.vedge.infomaniak.com/livecast/canal32/manifest.m3u8
+#EXTINF:-1 tvg-id="C1045.api.telerama.fr" tvg-logo="https://moselle.tv/wp-content/uploads/2022/07/LOGO-MOSELLE-TV-BLANC.png" group-title="France" tvg-chno="33",Moselle TV
+https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="77",TV7 Colmar
+http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="98",TV3V
+https://tv3v.live-kd.com/live/tv3v/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="355",Mosaïk Cristal
+https://new.cache-stream.workers.dev/stream/UCQC0xLG_W0QpqAXQ4-yhwBA/live.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="373",Puissance Télévision
+https://puissancetelevision.vedge.infomaniak.com/livecast/puissancetelevision/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France",Lor'FM
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/LorFM.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France",Nancy WebTV
+https://nancy-webtv.vedge.infomaniak.com/livecast/nancy-webtv/manifest.m3u8
+
+- FR - Guadeloupe -
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Outremer" tvg-chno="11",Éclair TV
+https://etvgp.vedge.infomaniak.com/livecast/etvgp/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Outremer" tvg-chno="399",Madras FM TV
+https://livevideo.vedge.infomaniak.com/livecast/madrasfmtv/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Outremer" tvg-chno=" ",Guadeloupe 4 TV
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Guadeloupe4TV.m3u8
+
+- FR - Guyane Française -
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/DLvH5LX.png" group-title="Outremer" tvg-chno=" ",Yanahits TV
+https://rpn3.bozztv.com/ssh101/ssh101/clip/playlist.m3u8
+
+- FR - Hauts-de-France -
+#EXTINF:-1 tvg-id="Weo.fr" tvg-logo=" " group-title="France" tvg-chno="30",Wéo - La Voix du Nord
+https://lives.digiteka.com/stream/c58028c2-a58b-4526-9ec8-389cad4a71e8/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="32",La Chaîne 32
+https://new.cache-stream.workers.dev/stream/UChl0zP89T7yZyEwQkCfmmnQ/live.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="France" tvg-chno="33",ASTV
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/ASTV.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="34",Ma Télé (France)
+https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="France" tvg-chno="35",Wéo - Le Courrier Picard
+https://lives.digiteka.com/stream/bbb843db-8540-4156-98a5-b7c85da54d8e/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="481",ILTV
+https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/ " group-title="France" tvg-chno="485",Télégohelle
+https://videas.agglo-lenslievin.fr/index.m3u8
+
+- FR - Île-de-France -
+#EXTINF:-1 tvg-id="C701.api.telerama.fr" tvg-logo=" " group-title="France" tvg-chno="32",20 Minutes TV (IdF)
+https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/hcPj99k/fgro.png" group-title="France" tvg-chno="34",Le Figaro TV (IdF)
+https://static.lefigaro.fr/secom/tnt.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="368",TV78
+https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
+
+- FR - La Réunion -
+#EXTINF:-1 tvg-id="C.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Antennereunion.png" group-title="Outremer" tvg-chno="2",Antenne Réunion
+https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
+
+- FR - Martinique -
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Outremer" tvg-chno="41",Fusion TV
+https://fusiontv.vedge.infomaniak.com/livecast/fusiontv/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Outremer" tvg-chno=" ",TV Famille
+https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Outremer" tvg-chno=" ",Martinique La 1ère
+https://ythls.armelin.one/channel/UCgA9V57lQlZFXkDfhVGTWSg.m3u8
+
+- FR - Mayotte -
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Outremer" tvg-chno="9",Chiconi FM TV
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/ChiconiFMTV.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/7oLUSeO.png" group-title="Outremer" tvg-chno=" ",Mayotte One 
+https://live.mytv.yt:3946/multi_web/play.m3u8
+
+- FR - Nouvelle-Aquitaine -
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="30",TVPI
+https://new.cache-stream.workers.dev/stream/UCwVQAPo6tjC5w5yBBh0WEdA/live.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="31",7 à Limoges
+https://ythls.armelin.one/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="33",TV7 Sud-Ouest
+https://lives.digiteka.com/stream/17c6dea8-fb3f-46fe-b170-2ac88cd5667b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Noa.svg.png" group-title="France" tvg-chno="325",France 3 Régions (NoA)
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_NoA.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="357",NA TV
+https://naradio.vedge.infomaniak.com/livecast/naradio/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="358",Kanaldude
+https://5aa375514fbab.streamlock.net:8090/tbzain/smil:kanaldude.smil/manifest.m3u8
+
+- FR - Occitanie -
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="30",TV Tarn
+https://live.creacast.com/albi-tv-ch1/stream/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Locales" tvg-chno="31",viàOccitanie
+https://lives.digiteka.com/stream/9c424a1c-d202-465c-84e1-3efb89a43fee/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/M%20Le%20Media.png" group-title="France",Littoral TV
+https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/TV%20Lourdes.png" group-title="France",TV Lourdes
+https://ythls.armelin.one/channel/UC7zlbnNCnuAPiC3goKcFgUg.m3u8
+
+- FR - Pays-de-la-Loire -
+#EXTINF:-1 tvg-id="AngersTele.fr" tvg-logo="" group-title="France" tvg-chno="30",Angers Télé
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/angerstele.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Telenantes.png" group-title="France" tvg-chno="31",Télénantes
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/telenantes.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="33",LMTV Sarthe
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/LMTVSarthe.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="33",TLC - Télévision Locale du Choletais
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/TLC.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="34",TV Vendée
+https://streamer01.myvideoplace.tv/streamer02/hls/VDE_EVEN_PAD_130923.m3u8
+
+- FR - Polynésie Française -
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/TahitiTV.png" group-title="Outremer" tvg-chno="2",Tahiti TV
+https://tntv-samsung-fr.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Outremer",Tahiti Webradio
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Tahitiwebradio.m3u8
+
+- FR - Provence-Alpes-Côte-d'Azur -
+#EXTINF:-1 tvg-id="BFMVar.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/BFM%20Toulon.png" group-title="France" tvg-chno="30",BFM Régions (Toulon-Var)
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="BFMCotedAzur.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/BFM%20Nice.png" group-title="France" tvg-chno="31",BFM Régions (Nice-Côte d'Azur)
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Cannes%20Lerins%20TV.png" group-title="France" tvg-chno="365",Cannes Lérins TV
+https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
+
+- MC - Monaco -
+#EXTINF:-1 tvg-id="Monacoinfo.mc" tvg-logo="http://www.mmd.mc/images/radio/mcinfo.png" group-title="Monaco" tvg-chno="70",Monaco Info
+https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
+
+- BE - Belgique -
+#EXTINF:-1 tvg-id="BX1.be" tvg-logo="https://i.imgur.com/0OkSa6c.png" group-title="Belgique" tvg-chno="160",BX1
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ACTV.be" tvg-logo=" " group-title="Belgique" tvg-chno="161",ACTV
+https://tvlocales-live.freecaster.com/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f.isml/master.m3u8
+#EXTINF:-1 tvg-id="Bouke.be" tvg-logo="https://i.imgur.com/STLavel.png" group-title="Belgique" tvg-chno="162",Boukè
+https://tvlocales-live.freecaster.com/95d2f70d-9229-478b-9aed-bc4fa220316d/95d2f70d-9229-478b-9aed-bc4fa220316d.isml/master.m3u8
+#EXTINF:-1 tvg-id="CanalZoom.be" tvg-logo="https://i.imgur.com/hUvYpOA.png" group-title="Belgique" tvg-chno="163",Canal Zoom
+https://tvlocales-live.freecaster.com/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8
+#EXTINF:-1 tvg-id="MaTele.be" tvg-logo="https://i.imgur.com/rw72POr.png" group-title="Belgique" tvg-chno="164",Ma Télé
+https://live.matele.be/hls/live.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/fGS55nR.png" group-title="Belgique" tvg-chno="165",Notélé
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/master.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/TQ51Ktq.png" group-title="Belgique" tvg-chno="166",RTC - Télé Liège
+https://tvlocales-live.freecaster.com/95d2f6eb-6f01-4d1d-8543-d14966de7b04/95d2f6eb-6f01-4d1d-8543-d14966de7b04.isml/master.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/ " group-title="Belgique" tvg-chno="167",Télé MB
+https://tvlocales-live.freecaster.com/95d2f6c9-e85f-4388-8e9c-596260a4206f/95d2f6c9-e85f-4388-8e9c-596260a4206f.isml/master.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/TuIAkA3.png" group-title="Belgique" tvg-chno="168",Télésambre
+https://tvlocales-live.freecaster.com/95d2f67c-de80-486b-9e60-9c72cb2782e2/95d2f67c-de80-486b-9e60-9c72cb2782e2.isml/master.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Belgique" tvg-chno="169",TV Com
+https://tvlocales-live.freecaster.com/95d2f656-50f1-432b-84a6-ce11c6cdb482/95d2f656-50f1-432b-84a6-ce11c6cdb482.isml/master.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/ljbdWkC.png" group-title="Belgique" tvg-chno="170",TV Lux
+https://tvlocales-live.freecaster.com/95d2f631-8941-4efd-b223-0ebd56a033c4/95d2f631-8941-4efd-b223-0ebd56a033c4.isml/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7LnH6yu.png" group-title="Belgique" tvg-chno="171",Védia
+https://tvlocales-live.freecaster.com/95d2f480-3c9f-48ba-ba4e-af64b58431ef/95d2f480-3c9f-48ba-ba4e-af64b58431ef.isml/master.m3u8
+
+- CH - Suisse -
+
+#EXTINF:-1 tvg-id="LemanBleu.ch" tvg-logo=" " group-title="Suisse" tvg-chno="21",Léman Bleu
+https://livevideo.vedge.infomaniak.com/livecast/naxoo/master.m3u8
+#EXTINF:-1 tvg-id="LaTele.ch" tvg-logo=" " group-title="Suisse" tvg-chno="22",La Télé (Vaud-Fribourg)
+https://livevideo.vedge.infomaniak.com/livecast/latele/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal9.ch" tvg-logo="" group-title="Suisse" tvg-chno="23",Canal 9
+https://livevideo.vedge.infomaniak.com/livecast/livehd/playlist.m3u8
+#EXTINF:-1 tvg-id="Telebielingue.ch" tvg-logo=" " group-title="Suisse" tvg-chno="24",TeleBielingue
+https://livevideo.vedge.infomaniak.com/livecast/telebielinguech/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalAlpha.ch" tvg-logo="" group-title="Suisse" tvg-chno="25",Canal Alpha (Neuchâtel)
+https://livevideo.vedge.infomaniak.com/livecast/canalalpha/index.m3u8
+#EXTINF:-1 tvg-id="CanalAlpha.ch" tvg-logo=" " group-title="Suisse" tvg-chno="26",Canal Alpha (Jura)
+https://livevideo.vedge.infomaniak.com/livecast/canalalpha/index.m3u8
+
+- CA - Québec -
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqM4nI5DLEvf2EjD7EG1QoCVPzLBO2s5eJL_wP5s=s176-c-k-c0x00ffffff-no-rj" group-title="Canada" tvg-chno="109",TVC 9
+https://ythls.armelin.one/channel/UC0JP0ek-HhcqisiEpsZiQZA.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqM2dP80gkZP-sc1ZRFQKEColJHeuS5OlbDEl8o8=s48-c-k-c0x00ffffff-no-rj" group-title="Canada" tvg-chno="119",Télé-Mag Québec
+https://ythls.armelin.one/channel/UCNKXYT-Nng5LBMUQrZJ9zWA.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/0eba5085-f93f-4f84-bd0b-bf132e495e3e-profile_image-70x70.png" group-title="Canada",FM 93 Québec
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/FM93Quebec.m3u8
+
+
+
