@@ -252,6 +252,8 @@ https://d26wo0n8c7o4dm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d2xa5gsa25mdru.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ltexleyt5blbd/fast-channel-scenedecrime.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF-1 tvg-id=" " tvg-logo=" " group-title="France",TRACE Brazil
 https://trace-brazuca-lg-fr.amagi.tv/playlist.m3u8
+#EXTINF-1 tvg-id=" " tvg-logo="https://i.imgur.com/G3qimo4.png" group-title="France",TV Finance
+https://strhlslb01.streamakaci.tv/str_tvfinance_tvfinance/str_tvfinance_multi/playlist.m3u8
 #EXTINF-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA2200008H8_20220323T080327SQUARE.png_20220323080330.png" group-title="France",Univers Ciné
 https://samsunguk-universcine-samsung-fre-xxgab.amagi.tv/playlist/samsunguk-universcine-samsung-fre/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300063FP_20230614T005614SQUARE.png_20230614005614.png" group-title="France",Wellbeing TV
@@ -444,6 +446,32 @@ https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/mlemedia.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RTS%20Couleur%3.png" group-title="Suisse",RTS Couleur 3
 https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/Couleur3/chunklist-archive.m3u8?startTime=1710238000
 
+#EXTGRP:Canada
+#EXTINF:-1 tvg-id="CBFT.ca" tvg-logo=" " group-title="Canada" tvg-chno="2",Ici Télé
+https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
+#EXTINF:-1 tvg-id="Telequebec.ca" tvg-logo=" " group-title="Canada" tvg-chno="17",Tele-Québec
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalSavoir.ca" tvg-logo=" " group-title="Canada" tvg-chno="29",Savoir.Media
+https://hls.savoir.media/live/stream.m3u8
+#EXTINF:-1 tvg-id="Noovo.ca" tvg-logo=" " group-title="Canada" tvg-chno="35",Noovo
+https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/x0vLIWr.png" group-title="Canada" tvg-chno="47",ICI (La Chaîne Internationale)
+https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+#EXTINF:-1 tvg-id="RDINews.ca" tvg-logo="https://raw.githubusercontent.com/Sibprod/SibTV/main/assets/IciRDI.png" group-title="Canada" tvg-chno="117",Ici RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Canada",EMCI (Europe)
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/emcieurope.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/uM1v1sd.png" group-title="Canada",Espace Francophone TV
+https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqM2dP80gkZP-sc1ZRFQKEColJHeuS5OlbDEl8o8=s48-c-k-c0x00ffffff-no-rj" group-title="Canada" tvg-chno="119",Télé-Mag Québec
+https://ythls.armelin.one/channel/UCNKXYT-Nng5LBMUQrZJ9zWA.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqM4nI5DLEvf2EjD7EG1QoCVPzLBO2s5eJL_wP5s=s176-c-k-c0x00ffffff-no-rj" group-title="Canada" tvg-chno="109",TVC 9
+https://ythls.armelin.one/channel/UC0JP0ek-HhcqisiEpsZiQZA.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Canada" tvg-chno="143",Canal de l'Assemblée Nationale
+https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/512px-2016_CPAC_logo.svg.png" group-title="Canada" tvg-chno="144",CPAC
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+
 #EXTGRP:Espagne
 #EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3900004DS_20240131T031208SQUARE.png_20240131031209.png" group-title="Espagne",Love The Planet
 https://amg01821-lovetvchannels-lovetheplanetfrsamsung-samsungfr-hfam1.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetfrsamsung-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
@@ -479,6 +507,10 @@ https://0b0a5371d15f48128cf69b029230eac6.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTGRP:Vatican
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Vatican%20News%20Français.jpg" group-title="Vatican",Vatican News (Français)
 https://ythls.armelin.one/channel/UCQxVySG5g2aC-Uz9NhpyiFg.m3u8
+
+#EXTGRP:États-Unis
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="États-Unis",Pluto TV #1
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6304f115fa5b2d00078cff6b/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 
 
 
