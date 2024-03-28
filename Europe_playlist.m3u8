@@ -196,7 +196,7 @@ https://ventdelnord.tv:8080/mola/directe.m3u8
 
 #EXTINF:-1 tvg-id="RAI1.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_1.png" group-title="Italie" tvg-chno="1",RAI 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiuno1/hls/playlist_ma.m3u8?baseuri=%2Fraiuno1%2Fhls%2F&tstart=0&tend=1711635449&tof=86400&tk2=258be2d0a20a9ec6436cb79dde67a933e98c09456232e1bf71ca97d9c9b3abb9
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
 #EXTINF:-1 tvg-id="RAI2.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_2.png" group-title="Italie" tvg-chno="2",RAI 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raidue1/hls/playlist_ma.m3u8?baseuri=%2Fraidue1%2Fhls%2F&tstart=0&tend=1711635526&tof=86400&tk2=949d86b92eae5cd5a211f15099cd7be0e26660858862faa372adbf6903d32112
