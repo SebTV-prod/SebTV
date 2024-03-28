@@ -196,14 +196,14 @@ https://ventdelnord.tv:8080/mola/directe.m3u8
 
 #EXTINF:-1 tvg-id="RAI1.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_1.png" group-title="Italie" tvg-chno="1",RAI 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=16
 #EXTINF:-1 tvg-id="RAI2.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_2.png" group-title="Italie" tvg-chno="2",RAI 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raidue1/hls/playlist_ma.m3u8?baseuri=%2Fraidue1%2Fhls%2F&tstart=0&tend=1711635526&tof=86400&tk2=949d86b92eae5cd5a211f15099cd7be0e26660858862faa372adbf6903d32112
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="RAI3.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_3.png" group-title="Italie" tvg-chno="3",RAI 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rai3nodvr/hls/playlist_ma.m3u8?baseuri=%2Frai3nodvr%2Fhls%2F&tstart=0&tend=1711635561&tof=86400&tk2=d77e1d45a8238e48184052907a6af3bc5ef504121ed3517424118b5c3cc63d36
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=16
 #EXTINF:-1 tvg-id="Rete4.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rete-4-it.png" group-title="Italie" tvg-chno="4",Rete 4
 https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Canale5.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/512px-Canale_5_-_2018_logo.svg.png" group-title="Italie" tvg-chno="5",Canale 5
@@ -222,12 +222,12 @@ https://64b16f23efbee.streamlock.net/telepace1/telepace1/playlist.m3u8
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="RAI4.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_4.png" group-title="Italie" tvg-chno="21",RAI 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiquattro1/hls/playlist_ma.m3u8?baseuri=%2Fraiquattro1%2Fhls%2F&tstart=0&tend=1711635608&tof=86400&tk2=c3e730e220d959e0383bde119efdf325fdd6bf67b94de39b9ad9ea2b9ac85103
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=16
 #EXTINF:-1 tvg-id="Iris.it" tvg-logo="https://i.imgur.com/ZLnSLh4.png" group-title="Italie" tvg-chno="22",Iris
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="RAI5.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_5.png" group-title="Italie" tvg-chno="23",RAI 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raicinque1/hls/playlist_ma.m3u8?baseuri=%2Fraicinque1%2Fhls%2F&tstart=0&tend=1711635626&tof=86400&tk2=85a28d28dc66ee313c949975ca841ff2cd6005287740c9c79f07db0e8729f6de
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=16
 #EXTINF:-1 tvg-id="RAIMovie.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_movie.png" group-title="Italie" tvg-chno="24",RAI Movie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=16
@@ -268,10 +268,10 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
 https://amg16146-wbdi-amg16146c6-samsung-it-1839.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-k2-samsungit/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="RAIGulp.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_gulp.png" group-title="Italie" tvg-chno="42",RAI Gulp
-https://raigulp1-live.akamaized.net/hls/live/598332/raigulp1/raigulp1/playlist_ma.m3u8?hdnea=st=1711635472~exp=1711635622~acl=/*~hmac=26ef6f2e9f5ee37172e590bc434b2c108d03c2eaacb34b4c98f0034aaf2fd73c
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="RAIYoyo.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_yoyo.png" group-title="Italie" tvg-chno="43",RAI YoYo
-https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiyoyo1/hls/playlist_mo.m3u8?baseuri=%2Fraiyoyo1%2Fhls%2F&tstart=0&tend=1711635686&tof=86400&tk2=aed0234ca586034615aa43e4ad0bcb5f73e369555137fa0680ae6d4c40cbac7e
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=16
 #EXTINF:-1 tvg-id="Frisbee.it" tvg-logo="https://i.imgur.com/U1MF1vR.png" group-title="Italie" tvg-chno="44",Frisbee
 https://amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-frisbee-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-id="Cartoonito.it" tvg-logo="https://i.imgur.com/6vYWCD0.png" group-title="Italie" tvg-chno="46",Cartoonito
@@ -292,17 +292,17 @@ https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/
 https://6e94aeeb1b42461d95f973ae34be5167.msvdn.net/ac115_live/canale3.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RAIStoria.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_storia.png" group-title="Italie" tvg-chno="54",RAI Storia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raistoria1/hls/playlist_mo.m3u8?baseuri=%2Fraistoria1%2Fhls%2F&tstart=0&tend=1711635712&tof=86400&tk2=f5c44a76e434c83ea8c0b65fb3c99707d06250cc7b274003b464df79019046ea
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=16
 #EXTINF:-1 tvg-id="MediasetExtra.it" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mediaset_extra.png" group-title="Italie" tvg-chno="55",Mediaset Extra
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="HGTV.it" tvg-logo="https://i.imgur.com/ejPii8T.png" group-title="Italie" tvg-chno="56",HGTV - Home&Garden
 https://amg16146-wbdi-amg16146c9-samsung-it-1842.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-hgtv-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-id="RAIScuola.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_scuola.png" group-title="Italie" tvg-chno="57",RAI Scuola
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiscuola1/hls/playlist_mo.m3u8?baseuri=%2Fraiscuola1%2Fhls%2F&tstart=0&tend=1711635751&tof=86400&tk2=e65c709bfa11dd09ee8ca863c28d0a00b21220d9b7b4422287030dcaf1dc8cc6
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=16
 #EXTINF:-1 tvg-id="RAISport.it" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_scuola.png" group-title="Italie" tvg-chno="58",RAI Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raisportuno1/hls/playlist_mo.m3u8?baseuri=%2Fraisportuno1%2Fhls%2F&tstart=0&tend=1711635807&tof=86400&tk2=b0ab6700b738ef7a7d6cb9782e65420d3072d6be844d92e864a4a2e6ca7cdb6f
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=16
 #EXTINF:-1 tvg-id="MotorTrend.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/512px-Motor_Trend_logo.svg.png" group-title="Italie" tvg-chno="59",Motor Trend
 https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sportitalia-it.png" group-title="Italie" tvg-chno="60",Sportitalia
@@ -339,7 +339,7 @@ https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie" tvg-chno="202",RAI Radio 2 Visual
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rairadiodue1/hls/playlist_mo.m3u8?baseuri=%2Frairadiodue1%2Fhls%2F&tstart=0&tend=1711636347&tof=86400&tk2=9cc73ac8e94a6e3d5ef7fd2530cf8b0c2f6b23d135c6515eeb03b806b8a4b7a1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=16
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie" tvg-chno="233",RTL 102.5 News
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 #EXTINF:-1 tvg-id="RadioFrecciaTV.it" tvg-logo="" group-title="Italie" tvg-chno="258",Radio Freccia TV
