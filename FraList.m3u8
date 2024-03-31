@@ -1,0 +1,62 @@
+#EXTINF:-1 tvg-id="C192.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/TF1.png" group-title="France" tvg-chno="1",TF1
+#EXTVLCOPT:http-referrer=http://callofliberty.fr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
+http://s2.callofliberty.fr/directtv/TF1/master.m3u8
+#EXTINF:-1 tvg-id="C4.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/France%202.png" group-title="France" tvg-chno="2",France 2
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ftv/py/France2.m3u8
+#EXTINF:-1 tvg-id="C80.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/France%203.png" group-title="France" tvg-chno="3",France 3
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ftv/py/France3.m3u8
+#EXTINF:-1 tvg-id="C78.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/France%204.png" group-title="France" tvg-chno="14",France 4
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ftv/py/France4.m3u8
+#EXTINF:-1 tvg-id="C47.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/France%205.png" group-title="France" tvg-chno="5",France 5
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ftv/py/France5.m3u8
+#EXTINF:-1 tvg-id="C118.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/M6.png" group-title="France" tvg-chno="6",M6
+https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
+#EXTINF:-1 tvg-id="C111.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/ARTE.png" group-title="France" tvg-chno="7",ARTE
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTINF:-1 tvg-id="C445.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/C8.png" group-title="France" tvg-chno="8",C8
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/c8.m3u8
+#EXTINF:-1 tvg-id="C119.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/W9.png" group-title="France" tvg-chno="9",W9
+#EXTVLCOPT:http-referrer=http://callofliberty.fr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
+http://s2.callofliberty.fr/directtv/W9/master.m3u8
+#EXTINF:-1 tvg-id="C195.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/TMC.png" group-title="France" tvg-chno="10",TMC
+#EXTVLCOPT:http-referrer=http://callofliberty.fr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
+http://s2.callofliberty.fr/directtv/TMC/master.m3u8
+#EXTINF:-1 tvg-id="C446.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/TFX.png" group-title="France" tvg-chno="11",TFX
+#EXTVLCOPT:http-referrer=http://callofliberty.fr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
+http://s2.callofliberty.fr/directtv/TFX/master.m3u8
+#EXTINF:-1 tvg-id="C444.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/NRJ%2012.png" group-title="France" tvg-chno="12",NRJ 12
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
+#EXTINF:-1 tvg-id="C234.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/LCP.jpeg" group-title="France" tvg-chno="13",LCP 100%
+http://s2.callofliberty.fr/directtv/LCP/manifest.m3u8
+#EXTINF:-1 tvg-id="C481.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/BFM%20TV.png" group-title="France" tvg-chno="15",BFM TV
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="C226.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/CNews.png" group-title="France" tvg-chno="16",CNews
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/cnews.m3u8
+#EXTINF:-1 tvg-id="C481.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/CStar.png" group-title="France" tvg-chno="17",CStar
+http://s2.callofliberty.fr/directtv/CSTAR/index.m3u8
+#EXTINF:-1 tvg-id="C482.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Gulli.png" group-title="France" tvg-chno="18",Gulli
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLfr/Gulli.m3u8
+#EXTINF:-1 tvg-id="C34.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Canal%20Plus.png" group-title="France" tvg-chno="4",Canal+
+https://hls-m007-live-aka-canalplus.akamaized.net/live/disk/canalplusclair-hd/hls-v3-hd-clair/canalplusclair-hd.m3u8
+#EXTINF:-1 tvg-id="C1404.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/TF1%20Series%20Films.png" group-title="France" tvg-chno="20",TF1 Séries et Films 
+#EXTVLCOPT:http-referrer=http://callofliberty.fr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
+http://s2.callofliberty.fr/directtv/TF1SERIESFILMS/master.m3u8
+#EXTINF:-1 tvg-id="C1401.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/L'Equipe.png" group-title="France" tvg-chno="21",L'Équipe
+http://s2.callofliberty.fr/directtv/LEQUIPE/manifest.m3u8
+#EXTINF:-1 tvg-id="C1403.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/6ter.png" group-title="France" tvg-chno="22",6ter
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/95.m3u8
+#EXTINF:-1 tvg-id="C1402.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RMC%20Story.png" group-title="France" tvg-chno="23",RMC Story
+https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="C1400.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RMC%20Decouverte.png" group-title="France" tvg-chno="24",RMC Découverte
+https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="C1399.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Cherie%2025.png" group-title="France" tvg-chno="25",Chérie 25
+https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
+#EXTINF:-1 tvg-id="C112.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/LCI.png" group-title="France" tvg-chno="26",LCI
+https://github.com/BG47510/sniftv/raw/main/bouy/li.m3u8
+#EXTINF:-1 tvg-id="C2111.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/FranceInfo.png" group-title="France" tvg-chno="27",France Info
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceInfo.m3u8
