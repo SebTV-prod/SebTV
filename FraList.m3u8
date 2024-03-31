@@ -88,17 +88,17 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLbe/RTLtvi.m
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLbe/RTLclub.m3u8
 #EXTINF:-1 tvg-id="C377.api.telerama.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-377.png" group-title="Belgique" tvg-chno="35",RTL plug
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLbe/RTLplug.m3u8
-#EXTINF:-1 tvg-id="RougeTV.ch" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/CARAC1.jpg" group-title="Suisse" tvg-chno="36",Carac 1
+#EXTINF:-1 tvg-id="RougeTV.ch" tvg-logo="http://callofliberty.fr/tv/305-carac1/305-carac1.png" group-title="Suisse" tvg-chno="36",Carac 1
 https://livevideo.vedge.infomaniak.com/livecast/rougetv/master.m3u8
-#EXTINF:-1 tvg-id="OneTV.ch" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/CARAC2.jpg" group-title="Suisse" tvg-chno="37",Carac 2
+#EXTINF:-1 tvg-id="OneTV.ch" tvg-logo="http://callofliberty.fr/tv/306-carac2/306-carac2.png" group-title="Suisse" tvg-chno="37",Carac 2
 https://livevideo.vedge.infomaniak.com/livecast/onefmhd/master.m3u8
-#EXTINF:-1 tvg-id="LFMTV.ch" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/CARAC3.jpg" group-title="Suisse" tvg-chno="38",Carac 3
+#EXTINF:-1 tvg-id="LFMTV.ch" tvg-logo="http://callofliberty.fr/tv/307-carac3/307-carac3.png" group-title="Suisse" tvg-chno="38",Carac 3
 https://livevideo.vedge.infomaniak.com/livecast/lfmhd/master.m3u8
-#EXTINF:-1 tvg-id="TVSuissePlus.ch" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/CARAC4.jpg" group-title="Suisse" tvg-chno="39",Carac 4
+#EXTINF:-1 tvg-id="TVSuissePlus.ch" tvg-logo="http://callofliberty.fr/tv/308-carac4/308-carac4.png" group-title="Suisse" tvg-chno="39",Carac 4
 https://livevideo.vedge.infomaniak.com/livecast/compack_media_1/master.m3u8
-#EXTINF:-1 tvg-id="C529.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/France%2024%20(Français).png" group-title="France" tvg-chno="40",France 24 (Français)
+#EXTINF:-1 tvg-id="C529.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/France%2024_Fr.png" group-title="France" tvg-chno="40",France 24 (Français)
 https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
-#EXTINF:-1 tvg-id="C140.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Euronews%20(Français).png" group-title="France" tvg-chno="41",Euronews (Français)
+#EXTINF:-1 tvg-id="C140.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Euronews_Fr.png" group-title="France" tvg-chno="41",Euronews (Français)
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/euronewsfr.m3u8
 #EXTINF:-1 tvg-id="C.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Antennereunion.png" group-title="Outremer" tvg-chno="42",Antenne Réunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
@@ -112,3 +112,17 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 https://muutube.sonmezalp.com/proxy.php/https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear- .png" group-title="France" tvg-chno="47",TV5 Monde (Info)
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
+#EXTINF:-1 tvg-id="C234.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Public%20Senat.jpeg" group-title="France" tvg-chno="130",Public Sénat
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/publicsenat.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="France" tvg-chno="140",France TV Séries
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceTVSeries.m3u8
+#EXTINF:-1 tvg-id="C1073.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/BFM%20Business.png" group-title="France" tvg-chno="150",BFM Business
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="C1073.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Tech%20%26%20Co.png" group-title="France" tvg-chno="151",Tech & Co
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 channel-id="samsung-FR300004J5" tvg-id="FR300004J5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300004J5_20240319T052333SQUARE.png" group-title="France" tvg-chno="152",BFM Grands Reportages
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="FRBC4200004XH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200004XH_20230414T072304SQUARE.png_20230414072305.png" group-title="France" tvg-chno="211",L'Equipe Live 1
+https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
+#EXTINF:-1 tvg-id="FRBC4200005X2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200005X2_20230308T021650SQUARE.png_20230308021650.png" group-title="France" tvg-chno="212",L'Equipe Live 2
+https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8
