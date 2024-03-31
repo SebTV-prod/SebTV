@@ -2,7 +2,9 @@
 
 #EXTGRP:France
 #EXTINF:-1 tvg-id="C192.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/TF1.png" group-title="France" tvg-chno="1",TF1
-https://github.com/BG47510/sniftv/raw/main/bouy/t1.m3u8
+#EXTVLCOPT:http-referrer=http://callofliberty.fr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
+http://s2.callofliberty.fr/directtv/TF1/master.m3u8
 #EXTINF:-1 tvg-id="C4.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/France%202.png" group-title="France" tvg-chno="2",France 2
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ftv/py/France2.m3u8
 #EXTINF:-1 tvg-id="C80.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/France%203.png" group-title="France" tvg-chno="3",France 3
@@ -61,7 +63,6 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?start=L
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_NoA.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Via%20Stella.png" group-title="France" tvg-chno="33",France 3 Régions (Corse-Via Stella)
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_Corse-ViaStella.m3u8
-
 #EXTINF:-1 tvg-id="C205.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/TV5%20Monde%20(FBSM).png" group-title="France" tvg-chno="50",TV5 Monde [FBSM]
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:-1 tvg-id="C235.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/TV5%20Monde%20(Europe).png" group-title="France" tvg-chno="51",TV5 Monde (Europe)
@@ -91,7 +92,7 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&
 #EXTINF:-1 tvg-id="i24NewsFrench.il" tvg-logo="https://github.com/Sibprod/raw/blob/main/logos/i24%20News%20(Français).png" group-title="France" tvg-chno="152",i24 News (Français)
 https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all.m3u8
 #EXTINF:-1 channel-id="samsung-FR300004J5" tvg-id="FR300004J5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300004J5_20240319T052333SQUARE.png" group-title="France" tvg-chno="153",BFM Grands Reportages
-https://d1mw98f2f3pk3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-66e36e9cu2fvd/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="FRBC4200004XH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200004XH_20230414T072304SQUARE.png_20230414072305.png" group-title="France" tvg-chno="211",L'Equipe Live 1
 https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
 #EXTINF:-1 tvg-id="FRBC4200005X2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200005X2_20230308T021650SQUARE.png_20230308021650.png" group-title="France" tvg-chno="212",L'Equipe Live 2
