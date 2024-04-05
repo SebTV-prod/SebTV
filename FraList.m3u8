@@ -14,6 +14,8 @@ https://hls-m007-live-aka-canalplus.akamaized.net/live/disk/canalplusclair-hd/hl
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ftv/py/France5.m3u8
 #EXTINF:-1 tvg-id="C118.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/M6.png" group-title="France" tvg-chno="6",[6] M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="France",[6.1] M6 International
+https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8
 #EXTINF:-1 tvg-id="C111.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/ARTE.png" group-title="France" tvg-chno="7",[7] ARTE
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
@@ -105,7 +107,10 @@ https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 https://d358c6mfrono1y.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ppx9nh29jpk7-prod/490bc6dd-734b-4242-8810-294896740082/2.m3u8
 #EXTINF:-1 tvg-id="C145.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Paris%20Premiere.png" group-title="France" tvg-chno="41",[41] Paris Première
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLfr/ParisPremiere.m3u8
-#EXTINF:-1 tvg-id="TVMonaco.mc" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/TVMonaco.png" group-title="Monaco" tvg-chno="71",[71] TV Monaco
+
+#EXTINF:-1 tvg-id="MonacoInfo.mc" tvg-logo="https://i.ibb.co/MZLCTmN/monacoinfo.png" group-title="Monaco" tvg-chno="70",[8] Monaco Info
+https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
+#EXTINF:-1 tvg-id="TVMonaco.mc" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/TVMonaco.png" group-title="Monaco" tvg-chno="71",[9] TV Monaco
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/2025/media.m3u8
 
 #EXTINF:-1 tvg-id="C202.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RTS%201.png" group-title="Suisse" tvg-chno="31",[1] RTS Un
@@ -132,11 +137,11 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLbe/RTLclub.
 #EXTINF:-1 tvg-id="C377.api.telerama.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-377.png" group-title="Belgique" tvg-chno="35",[5] RTL plug
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLbe/RTLplug.m3u8
 
-#EXTINF:-1 tvg-id="C.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Antennereunion.png" group-title="Outremer" tvg-chno="42",[La Réunion] [2] Antenne Réunion
-https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Outremer" tvg-chno="43",[Guadeloupe] [11] Éclair TV
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Outremer" tvg-chno="223",[Guadeloupe] [11] Éclair TV
 https://etvgp.vedge.infomaniak.com/livecast/etvgp/manifest.m3u8
-#EXTINF:-1 tvg-id="C.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/TahitiTV.png" group-title="Outremer" tvg-chno="44",[Polynésie Française] [2] Tahiti TV
+#EXTINF:-1 tvg-id="C.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Antennereunion.png" group-title="Outremer" tvg-chno="200",[La Réunion] [2] Antenne Réunion
+https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
+#EXTINF:-1 tvg-id="C.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/TahitiTV.png" group-title="Outremer" tvg-chno="246",[Polynésie Française] [2] Tahiti TV
 https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="C235.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/TV5%20Monde%20(Europe).png" group-title="France" tvg-chno="46",[Vallée d'Aoste] [75] TV5 Monde (Europe)
@@ -144,18 +149,26 @@ https://muutube.sonmezalp.com/proxy.php/https://ott.tv5monde.com/Content/HLS/Liv
 #EXTINF:-1 tvg-id="C529.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/France%2024_Fr.png" group-title="France" tvg-chno="40",[Vallée d'Aoste] [76] France 24 (Français)
 https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear- .png" group-title="France" tvg-chno="47",TV5 Monde (Info)
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
-
 #EXTINF:-1 tvg-id="C1073.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/BFM%20Business.png" group-title="France" tvg-chno="150",[Fransat] [51] BFM Business
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="C140.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Euronews_Fr.png" group-title="France" tvg-chno="41",[Fransat] [52] Euronews (Français)
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/euronewsfr.m3u8
-#EXTINF:-1 tvg-id="C205.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/TV5%20Monde%20(FBSM).png" group-title="France" tvg-chno="45",[Fransat] [56] TV5 Monde [FBSM]
+#EXTINF:-1 tvg-id="C205.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/TV5%20Monde%20(FBSM).png" group-title="France" tvg-chno="45",[Fransat] [56] TV5 Monde (FBSM)
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear- .png" group-title="France" tvg-chno="560",[Fransat] [56.1] TV5 Monde (Info)
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 #EXTINF:-1 tvg-id="C191.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Teva.png" group-title="France" tvg-chno="29",[Fransat] [59] Téva
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLfr/Teva.m3u8
 #EXTINF:-1 tvg-id="C1073.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Tech%20%26%20Co.png" group-title="France" tvg-chno="151",[Fransat] [81] Tech & Co
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="C .api.telerama.fr" tvg-logo="https://i.ibb.co/ZgqnqnJ/cgtnfr.png" group-title="France",[Fransat] [87] CGTN (Français)
+https://livefr.cgtn.com/1000f/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="C .api.telerama.fr" tvg-logo="https://i.ibb.co/BPzb19X/melody.png" group-title="France",Melody
+https://live.creacast.com/telemelody/smil:telemelody-211112.smil/master.m3u8
+#EXTINF:-1 tvg-id="SportEnFrance.fr" tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp" group-title="France",Sport En France
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/cCXgWWw/tvfinance.jpg" group-title="France",TV Finance
+https://strhlslb01.streamakaci.tv/str_tvfinance_tvfinance/str_tvfinance_multi/playlist.m3u8
 
 
