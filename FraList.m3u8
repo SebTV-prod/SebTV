@@ -62,7 +62,6 @@ https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/cnews.m3u8
 http://s2.callofliberty.fr/directtv/CSTAR/master.m3u8
 #EXTINF:-1 tvg-id="C482.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Gulli.png" group-title="France" tvg-chno="18",[18] Gulli
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLfr/Gulli.m3u8
-
 #EXTINF:-1 tvg-id="C1404.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/TF1%20Series%20Films.png" group-title="France" tvg-chno="20",[20] TF1 Séries et Films 
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
@@ -83,8 +82,10 @@ http://s2.callofliberty.fr/directtv/6TER/index.m3u8
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
 #EXTINF:-1 tvg-id="C1402.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RMC%20Story.png" group-title="France" tvg-chno="23",[23] RMC Story (variante SSAI)
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai=SSSLIVE
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k4Bs0Cj/rmcti.jpg" group-title="France",[23.1] RMC Talk Info
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/k4Bs0Cj/rmcti.jpg" group-title="France",[23.1] RMC Talk Info
 https://dvvyqyxwlc4tn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n5yqxqrvnujl7/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/gTxbf2C/rmcts.jpg" group-title="France",[23.2] RMC Talk Sport
+https://d21wdmv2hqydbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n239v7ne7hack/index.m3u8
 #EXTINF:-1 tvg-id="C1400.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RMC%20Decouverte.png" group-title="France" tvg-chno="24",[24] RMC Découverte
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
 #EXTINF:-1 tvg-id="C1400.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RMC%20Decouverte.png" group-title="France" tvg-chno="24",[24] RMC Découverte (variante SSAI)
@@ -149,6 +150,8 @@ https://muutube.sonmezalp.com/proxy.php/https://ott.tv5monde.com/Content/HLS/Liv
 #EXTINF:-1 tvg-id="C529.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/France%2024_Fr.png" group-title="France" tvg-chno="40",[Vallée d'Aoste] [76] France 24 (Français)
 https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
 
+#EXTINF:-1 tvg-id="C64.api.telerama.fr" tvg-logo="https://i.ibb.co/p0CLPqT/equidia.png" group-title="France",[Fransat] [39] Équidia
+https://github.com/schumijo/iptv/raw/main/playlists/equidia/equidia-live.m3u8
 #EXTINF:-1 tvg-id="C1073.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/BFM%20Business.png" group-title="France" tvg-chno="150",[Fransat] [51] BFM Business
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="C140.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Euronews_Fr.png" group-title="France" tvg-chno="41",[Fransat] [52] Euronews (Français)
@@ -159,15 +162,27 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 #EXTINF:-1 tvg-id="C191.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Teva.png" group-title="France" tvg-chno="29",[Fransat] [59] Téva
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLfr/Teva.m3u8
+#EXTINF:-1 tvg-id="C .api.telerama.fr" tvg-logo="https://i.ibb.co/883phd1/ktook.png" group-title="France",[Fransat] [61] KTO
+https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 #EXTINF:-1 tvg-id="C1073.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Tech%20%26%20Co.png" group-title="France" tvg-chno="151",[Fransat] [81] Tech & Co
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="C .api.telerama.fr" tvg-logo="https://i.ibb.co/ZgqnqnJ/cgtnfr.png" group-title="France",[Fransat] [87] CGTN (Français)
 https://livefr.cgtn.com/1000f/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="C .api.telerama.fr" tvg-logo="https://i.ibb.co/BPzb19X/melody.png" group-title="France",Melody
+#EXTINF:-1 tvg-id="C1996.api.telerama.fr" tvg-logo="https://i.ibb.co/LYbF1Wt/fashionok.png" group-title="France",Fashion TV
+https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="C265.api.telerama.fr" tvg-logo="https://i.ibb.co/BPzb19X/melody.png" group-title="France",Melody
 https://live.creacast.com/telemelody/smil:telemelody-211112.smil/master.m3u8
+#EXTINF:-1 tvg-id="C1072.api.telerama.fr" tvg-logo="https://i.ibb.co/LgSzMCy/museum.webp" group-title="France",Museum
+https://live.creacast.com/museum-france/smil:museum-france.smil/master.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/VvRpRty/myzen.png" group-title="France",My Zen
+https://live.creacast.com/myzentv-france/myzentv-france.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/VvRpRty/myzen.png" group-title="France",My Zen Wellbeing TV
+https://amg01492-secomsasmediart-myzen-fr-rakuten-spvgz.amagi.tv/hls/amagi_hls_data_rakutenAA-myzen-fr-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-id="SportEnFrance.fr" tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp" group-title="France",Sport En France
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+#EXTINF:-1 tvg-id="C229.api.telerama.fr" tvg-logo="https://i.ibb.co/vmk02Tc/tiji.png" group-title="France",TiJi
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/cCXgWWw/tvfinance.jpg" group-title="France",TV Finance
 https://strhlslb01.streamakaci.tv/str_tvfinance_tvfinance/str_tvfinance_multi/playlist.m3u8
 
