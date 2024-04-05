@@ -16,10 +16,6 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ftv/py/France5
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="France",[6.1] M6 International
 https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8
-#EXTINF:-1 tvg-id="C111.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/ARTE.png" group-title="France" tvg-chno="7",[7] ARTE
-#EXTVLCOPT:http-referrer=http://callofliberty.fr/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
-http://s2.callofliberty.fr/directtv/ARTE/master.m3u8
 #EXTINF:-1 tvg-id="C111.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/ARTE.png" group-title="France" tvg-chno="7",[7.1] ARTE (Flux Web)
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-id="C445.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/C8.png" group-title="France" tvg-chno="8",[8] C8
@@ -80,16 +76,12 @@ https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8
 http://s2.callofliberty.fr/directtv/6TER/index.m3u8
 #EXTINF:-1 tvg-id="C1402.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RMC%20Story.png" group-title="France" tvg-chno="23",[23] RMC Story
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
-#EXTINF:-1 tvg-id="C1402.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RMC%20Story.png" group-title="France" tvg-chno="23",[23] RMC Story (variante SSAI)
-https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/k4Bs0Cj/rmcti.jpg" group-title="France",[23.1] RMC Talk Info
 https://dvvyqyxwlc4tn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n5yqxqrvnujl7/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/gTxbf2C/rmcts.jpg" group-title="France",[23.2] RMC Talk Sport
 https://d21wdmv2hqydbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n239v7ne7hack/index.m3u8
 #EXTINF:-1 tvg-id="C1400.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RMC%20Decouverte.png" group-title="France" tvg-chno="24",[24] RMC Découverte
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
-#EXTINF:-1 tvg-id="C1400.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RMC%20Decouverte.png" group-title="France" tvg-chno="24",[24] RMC Découverte (variante SSAI)
-https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="C1399.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Cherie%2025.png" group-title="France" tvg-chno="25",[25] Chérie 25
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
@@ -100,6 +92,8 @@ https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 https://github.com/BG47510/sniftv/raw/main/bouy/li.m3u8
 #EXTINF:-1 tvg-id="C2111.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/FranceInfo.png" group-title="France" tvg-chno="27",[27] France Info
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceInfo.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="31",[31] N31
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/n31.m3u8
 #EXTINF:-1 tvg-id="C701.api.telerama.fr" tvg-logo="https://i.ibb.co/5j6DZrt/20mn.png" group-title="France" tvg-chno="32",[32] 20 Minutes TV (IdF)
 https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/hcPj99k/fgro.png" group-title="France" tvg-chno="34",[34] Le Figaro TV (IdF)
@@ -122,6 +116,8 @@ http://s2.callofliberty.fr/directtv/RTS1/index.m3u8
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directtv/RTS2/index.m3u8
+#EXTINF:-1 tvg-id="TVM3.ch" tvg-logo="https://i.ibb.co/gz2wbkL/tvm3.png" group-title="Suisse" tvg-chno="803",[3] TVM 3
+https://tvm3.vedge.infomaniak.com/livecast/tvm3/manifest.m3u8
 #EXTINF:-1 tvg-id="RougeTV.ch" tvg-logo="http://callofliberty.fr/tv/305-carac1/305-carac1.png" group-title="Suisse" tvg-chno="36",[4] Carac 1
 https://rougetv.vedge.infomaniak.com/livecast/rougetv/master.m3u8
 #EXTINF:-1 tvg-id="OneTV.ch" tvg-logo="http://callofliberty.fr/tv/306-carac2/306-carac2.png" group-title="Suisse" tvg-chno="37",[5] Carac 2
@@ -130,6 +126,14 @@ https://onefmhd.vedge.infomaniak.com/livecast/onefmhd/master.m3u8
 https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/master.m3u8
 #EXTINF:-1 tvg-id="TVSuissePlus.ch" tvg-logo="http://callofliberty.fr/tv/308-carac4/308-carac4.png" group-title="Suisse" tvg-chno="39",[7] Carac 4
 https://compack_media_1.vedge.infomaniak.com/livecast/compack_media_1/master.m3u8
+#EXTINF:-1 tvg-id="Canal9.ch" tvg-logo="https://i.ibb.co/1XYdy6j/canal9.png" group-title="Suisse" tvg-chno="810",[10] Canal 9
+https://edge12.vedge.infomaniak.com/livecast/ik:livehd/manifest.m3u8
+#EXTINF:-1 tvg-id="LaTele.ch" tvg-logo="https://i.ibb.co/WGHbhfh/latelebe.png" group-title="Suisse" tvg-chno="811",[11] La Télé (Vaud-Fribourg)
+https://latele.vedge.infomaniak.com/livecast/latele/manifest.m3u8
+#EXTINF:-1 tvg-id="LemanBleu.ch" tvg-logo="https://i.ibb.co/CQb8zFT/lemanbleu.jpg" group-title="Suisse" tvg-chno="812",[12] Léman Bleu
+https://livevideo.vedge.infomaniak.com/livecast/naxoo/master.m3u8
+#EXTINF:-1 tvg-id="CanalAlpha.ch" tvg-logo="https://i.ibb.co/st6cDg1/calpha.png" group-title="Suisse" tvg-chno="813",[13] Canal Alpha
+https://livevideo.vedge.infomaniak.com/livecast/ik:canalalpha/manifest.m3u8
 
 #EXTINF:-1 tvg-id="C168.api.telerama.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-168.png" group-title="Belgique" tvg-chno="33",[3] RTL tvi
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLbe/RTLtvi.m3u8
@@ -137,6 +141,15 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLbe/RTLtvi.m
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLbe/RTLclub.m3u8
 #EXTINF:-1 tvg-id="C377.api.telerama.fr" tvg-logo="https://focus.telerama.fr/104x104/60/0000/00/01/clear-377.png" group-title="Belgique" tvg-chno="35",[5] RTL plug
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLbe/RTLplug.m3u8
+#EXTINF:-1 tvg-id="BX1.be" tvg-logo="https://i.ibb.co/4dTPMzK/tlbrux.png" group-title="Belgique" tvg-chno="810",[10] BX1
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Noovo.ca" tvg-logo="https://i.ibb.co/fqq90Z2/noovo.png" group-title="Canada",[Québec] [2] Noovo
+https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/index/de22f34f/live/stream/h264/v1/2048000/manifest.m3u8
+#EXTINF:-1 tvg-id="TeleQuebec.ca" tvg-logo="https://i.ibb.co/hFr5pYb/telequebec.png" group-title="Canada",[Québec] [4] Télé Québec
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+#EXTINF:-1 tvg-id="Canalsavoir.ca" tvg-logo="https://i.ibb.co/LzWqD0s/savoirmedia.png" group-title="Canada",[Québec] [5] Savoir.Media
+https://hls.savoir.media/live/stream.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Outremer" tvg-chno="223",[Guadeloupe] [11] Éclair TV
 https://etvgp.vedge.infomaniak.com/livecast/etvgp/manifest.m3u8
@@ -171,6 +184,8 @@ https://livefr.cgtn.com/1000f/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="C1996.api.telerama.fr" tvg-logo="https://i.ibb.co/LYbF1Wt/fashionok.png" group-title="France",Fashion TV
 https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/tLPxcFn/littoral.png" group-title="France",Littoral TV
+https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="C265.api.telerama.fr" tvg-logo="https://i.ibb.co/BPzb19X/melody.png" group-title="France",Melody
 https://live.creacast.com/telemelody/smil:telemelody-211112.smil/master.m3u8
 #EXTINF:-1 tvg-id="C1072.api.telerama.fr" tvg-logo="https://i.ibb.co/LgSzMCy/museum.webp" group-title="France",Museum
