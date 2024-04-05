@@ -78,8 +78,14 @@ https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://s2.callofliberty.fr/directtv/6TER/index.m3u8
 #EXTINF:-1 tvg-id="C1402.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RMC%20Story.png" group-title="France" tvg-chno="23",[23] RMC Story
+https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
+#EXTINF:-1 tvg-id="C1402.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RMC%20Story.png" group-title="France" tvg-chno="23",[23] RMC Story (variante SSAI)
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k4Bs0Cj/rmcti.jpg" group-title="France",[23.1] RMC Talk Info
+https://dvvyqyxwlc4tn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n5yqxqrvnujl7/index.m3u8
 #EXTINF:-1 tvg-id="C1400.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RMC%20Decouverte.png" group-title="France" tvg-chno="24",[24] RMC Découverte
+https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
+#EXTINF:-1 tvg-id="C1400.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RMC%20Decouverte.png" group-title="France" tvg-chno="24",[24] RMC Découverte (variante SSAI)
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="C1399.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Cherie%2025.png" group-title="France" tvg-chno="25",[25] Chérie 25
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
@@ -91,9 +97,15 @@ https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 https://github.com/BG47510/sniftv/raw/main/bouy/li.m3u8
 #EXTINF:-1 tvg-id="C2111.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/FranceInfo.png" group-title="France" tvg-chno="27",[27] France Info
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceInfo.m3u8
-#EXTINF:-1 tvg-id="C145.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Paris%20Premiere.png" group-title="France" tvg-chno="28",[41] Paris Première
+#EXTINF:-1 tvg-id="C701.api.telerama.fr" tvg-logo="https://i.ibb.co/5j6DZrt/20mn.png" group-title="France" tvg-chno="32",[32] 20 Minutes TV (IdF)
+https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/hcPj99k/fgro.png" group-title="France" tvg-chno="34",[34] Le Figaro TV (IdF)
+https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hcPj99k/fgro.png" group-title="France" tvg-chno="34",[34.1] Le Figaro TV (Live)
+https://d358c6mfrono1y.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ppx9nh29jpk7-prod/490bc6dd-734b-4242-8810-294896740082/2.m3u8
+#EXTINF:-1 tvg-id="C145.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Paris%20Premiere.png" group-title="France" tvg-chno="41",[41] Paris Première
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLfr/ParisPremiere.m3u8
-#EXTINF:-1 tvg-id="TVMonaco.mc" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/TVMonaco.png" group-title="Monaco" tvg-chno="30",[71] TV Monaco
+#EXTINF:-1 tvg-id="TVMonaco.mc" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/TVMonaco.png" group-title="Monaco" tvg-chno="71",[71] TV Monaco
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/2025/media.m3u8
 
 #EXTINF:-1 tvg-id="C202.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RTS%201.png" group-title="Suisse" tvg-chno="31",[1] RTS Un
