@@ -91,7 +91,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-ci
 #EXTINF:-1 tvg-id="ATV.ad" tvg-logo="https://i.ibb.co/ySq76W3/rtva.png" group-title="Andorre",[Andorre] [Catalogne] [100] RTVA
 https://play.cdn.enetres.net/56495F77FD124FECA75590A906965F2C021/021/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CanalsurAndalucia.es" tvg-logo=" " group-title="Espagne",[Andalousie] [Ceuta] [Melilla] [7] Canal Sur Andalucía
+#EXTINF:-1 tvg-id="CanalsurAndalucia.es" tvg-logo=" " group-title="Espagne",[Andalousie] [7] Canal Sur Andalucía
 https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/ .png" group-title="Espagne",[Andalousie] [Ceuta] [Melilla] [7.1] Canal Andalucía Cocina
 https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
@@ -103,9 +103,9 @@ https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 https://limited2.todostreaming.es/live/m95-livestream.m3u8
 #EXTINF:-1 tvg-id="CanalMalaga.es" tvg-logo=" " group-title="Espagne",[Andalousie] [9] Málaga RTV 
 https://canalmalaga-tv-live.flumotion.com/chunks.m3u8
-#EXTINF:-1 tvg-id="RTVCeuta.es" tvg-logo=" " group-title="Espagne",[Andalousie] [Ceuta] [Melilla] [9] RTV Ceuta
+#EXTINF:-1 tvg-id="RTVCeuta.es" tvg-logo=" " group-title="Espagne",[Andalousie] [9] RTV Ceuta
 https://cdnlive.codev8.net/rtvcelive/channel1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMelilla.es" tvg-logo=" " group-title="Espagne",[Andalousie] [Ceuta] [Melilla] [9] TV Melilla 
+#EXTINF:-1 tvg-id="TVMelilla.es" tvg-logo=" " group-title="Espagne",[Andalousie] [9] TV Melilla 
 https://tvmelilla-hls-rm-lw.flumotion.com/tvmelilla/live-fake-ori_high/chunks.m3u8
 
 #EXTINF:-1 tvg-id="AragonTelevision.es" tvg-logo="https://i.imgur.com/6YSi1zW.png" group-title="Espagne",[Aragon] [7] Aragón Televisión
