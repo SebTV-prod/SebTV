@@ -14,7 +14,7 @@ https://hls-m007-live-aka-canalplus.akamaized.net/live/disk/canalplusclair-hd/hl
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/ftv/py/France5.m3u8
 #EXTINF:-1 tvg-id="C118.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/M6.png" group-title="France" tvg-chno="6",[6] M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="France",[6.1] M6 International
+#EXTINF:-1 tvg-id="M6International.il" tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="France",[6.1] M6 International
 https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8
 #EXTINF:-1 tvg-id="C111.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/ARTE.png" group-title="France" tvg-chno="7",[7.1] ARTE (Flux Web)
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
