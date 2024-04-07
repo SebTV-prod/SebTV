@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTGRP:Allemagne / Deutschland
-#EXTREM:Source de la numérotation : Magenta TV - 07/04/2024
+- Source de la numérotation : Magenta TV - 07/04/2024 -
 #EXTINF:-1 tvg-id="DasErste.de" tvg-logo="https://i.imgur.com/slSUDNX.png" group-title="Allemagne" tvg-chno="1",[1] ARD Das Erste
 https://mcdn.daserste.de/daserste/int/master.m3u8
 #EXTINF:-1 tvg-id="ProSieben.de" tvg-logo=" " group-title="Allemagne" tvg-chno="31",[5] ProSieben
 http://85.187.13.40:18000/ProSieben
 #EXTINF:-1 tvg-id="Kika.de" tvg-logo="https://i.imgur.com/vZdNp5S.png" group-title="Allemagne" tvg-chno="3",[10] KiKa
 https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-logo=" " group-title="Allemagne" tvg-chno="" [11] Nickelodeon (Deutschland)
+#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-logo=" " group-title="Allemagne" tvg-chno="",[11] Nickelodeon (Deutschland) [Geo-locked]
 https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
-#EXTINF:-1 tvg-id="Phoenix.de" tvg-logo="https://i.imgur.com/T1532t9.png" group-title="Allemagne" tvg-chno="" [15] Phoenix
+#EXTINF:-1 tvg-id="Phoenix.de" tvg-logo="https://i.imgur.com/T1532t9.png" group-title="Allemagne" tvg-chno="",[15] Phoenix [Geo-locked]
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 #EXTINF:-1 tvg-id="BR.de" tvg-logo="https://i.imgur.com/26s6V64.png" group-title="Allemagne" tvg-chno="12",[21] BR Fernsehen
 https://mcdn.br.de/br/fs/bfs_sued/hls/int/master.m3u8
@@ -27,13 +27,13 @@ https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 https://mcdn.one.ard.de/ardone/hls/master.m3u8
 #EXTINF:-1 tvg-id="ARDAlpha.de" tvg-logo=" " group-title="Allemagne" tvg-chno=" ",[80] ARD Alpha
 https://mcdn.br.de/br/fs/ard_alpha/hls/int/master.m3u8
-#EXTINF:-1 tvg-id="ZDFInfo.de" tvg-logo="https://i.imgur.com/vtq1IWp.png" group-title="Allemagne" tvg-chno=" ",[81] ZDF Info
+#EXTINF:-1 tvg-id="ZDFInfo.de" tvg-logo="https://i.imgur.com/vtq1IWp.png" group-title="Allemagne" tvg-chno=" ",[81] ZDF Info [Geo-locked]
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
 #EXTINF:-1 tvg-id="N24Doku.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/N24Doku.svg/512px-N24Doku.svg.png" group-title="Allemagne" tvg-chno=" ",[91] N24 Doku
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="Tagesschau.de" tvg-logo="https://i.imgur.com/LH0Gctv.png" group-title="Allemagne" tvg-chno="10",[92] Tagesschau 24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1 tvg-id="MTV.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="Allemagne" tvg-chno=" ",[96] MTV (Deutschland) 
+#EXTINF:-1 tvg-id="MTV.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="Allemagne" tvg-chno=" ",[96] MTV (Deutschland) [Geo-locked]
 https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/mtvg18ef.m3u8
 #EXTINF:-1 tvg-id="123TV.de" tvg-logo="https://i.imgur.com/slSUDNX.png" group-title="Allemagne" tvg-chno="25",[107] 1-2-3.tv
 https://123tv-mx1.flex-cdn.net/index.m3u8
@@ -51,21 +51,24 @@ https://d3tugrs0gy1q0e.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTREM:Source de la numérotation : Vodafone TV - 07/04/2024
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/OodehFV.png" group-title="Allemagne" tvg-chno=" ",[50] Saarland Fernsehen 1
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/eTmHk4e.png" group-title="Allemagne" tvg-chno=" ",[Berlin] [51] Alex Berlin
+https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/OodehFV.png" group-title="Allemagne" tvg-chno=" ",[Sarre] [50] Saarland Fernsehen 1
 https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/OodehFV.png" group-title="Allemagne" tvg-chno=" ",[51] Saarland Fernsehen 2
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/OodehFV.png" group-title="Allemagne" tvg-chno=" ",[Sarre] [51] Saarland Fernsehen 2
 https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Allemagne",[508] Rockland Radio TV
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/2EXNdd8.png" group-title="Allemagne" tvg-chno=" ",[] [Saxe] Sachsen Eins
+https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/xCiU1TB.png" group-title="Allemagne" tvg-chno=" ",[382] Studio 47
+https://h057.video-stream-hosting.de/studio47-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/6ve1FTN.png" group-title="Allemagne",[508] Rockland Radio TV
 https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/u8OhwI1.png" group-title="Allemagne",[512] Radio 21 TV
 https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NDRVisualRadio.de" tvg-logo=" " group-title="Allemagne" tvg-chno=" ",[608] NDR 1 Visual Radio
 https://ndrvisualradiohls.akamaized.net/hls/live/2018951/ndrvr_mv_ndr1/master.m3u8
-#EXTINF:-1 tvg-id="SWRVisualRadio.de" tvg-logo="https://i.imgur.com/qn5Vmdu.png" group-title="Allemagne" tvg-chno=" ",[628] SWR 3 Visual Radio
+#EXTINF:-1 tvg-id="SWRVisualRadio.de" tvg-logo="https://i.imgur.com/PxSgxRO.jpg" group-title="Allemagne" tvg-chno=" ",[628] SWR 3 Visual Radio
 https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/2EXNdd8.png" group-title="Allemagne" tvg-chno=" ",[ ] Sachsen Eins
-https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Deluxedance.de" tvg-logo="https://i.imgur.com/Qu7t15Y.png" group-title="Allemagne" tvg-chno=" ",Deluxe Dance
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
@@ -87,10 +90,21 @@ https://streaming.magentamusik.de/csm/573870/magentamusik1/index.m3u8
 https://ythls.armelin.one/channel/UCvpCjGQASCazC-Vxcp9tgPA.m3u8
 
 #EXTGRP:Autriche / Österreich
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/512px-ORF2_logo_n.svg.png" group-title="Autriche",ORF 2
+- Source de la numérotation : Magenta TV - 07/04/2024 -
+#EXTINF:-1 tvg-id="ORF2.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/512px-ORF2_logo_n.svg.png" group-title="Autriche",[2] ORF 2
 #EXTVLCOPT:http-referrer=https://tvthek.orf.at/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.3
 https://orf2.mdn.ors.at/orf/orf2/drmqxa/manifest.m3u8?audio=deu
+#EXTINF:-1 tvg-id="W24.at" tvg-logo="https://i.imgur.com/FpVNrxk.png" group-title="Autriche",[9] W24
+https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ORF3.at" tvg-logo=" " group-title="Autriche",[12] ORF III [Geo-locked]
+https://orf3.mdn.ors.at/orf/orf3/qxb/manifest_6.m3u8
+#EXTINF:-1 tvg-id="OE24.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Oe24TV_Logo_2016.svg/512px-Oe24TV_Logo_2016.svg.png" group-title="Autriche",[28] oe24
+https://oe24.mdn.ors.at/live/eds/oe24tv_hd/hls_small_nodrm/oe24tv_hd-small-nodrm.m3u8
+#EXTINF:-1 tvg-id="R9.at" tvg-logo="https://i.imgur.com/SVJiXxh.png" group-title="Autriche",[50] R9
+https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Okto.at" tvg-logo="https://i.imgur.com/9XfhgbS.png" group-title="Autriche",[53] Okto
+https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hitradio_Ö3.svg/512px-Hitradio_Ö3.svg.png" group-title="Autriche",[128] Hitradio Ö3
 https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/74gMaPK.png" group-title="Autriche",FS1
@@ -120,5 +134,9 @@ https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
 
 
 #EXTGRP:Suisse / Schweiz
+- Source de la numérotation : Magenta TV - 07/04/2024 -
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/YtYhbJD.png" group-title="Suisse" tvg-chno=" ",[57] Die Neue Zeit
+https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8
+- Source de la numérotation : Blue TV -
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/YtYhbJD.png" group-title="Suisse" tvg-chno="390",[390] Meteonews
 https://streaming.meteonews.net/hls/stream.m3u8
