@@ -87,6 +87,10 @@ https://streaming.magentamusik.de/csm/573870/magentamusik1/index.m3u8
 https://ythls.armelin.one/channel/UCvpCjGQASCazC-Vxcp9tgPA.m3u8
 
 #EXTGRP:Autriche / Österreich
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/512px-ORF2_logo_n.svg.png" group-title="Autriche",ORF 2
+#EXTVLCOPT:http-referrer=https://tvthek.orf.at/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.3
+https://orf2.mdn.ors.at/orf/orf2/drmqxa/manifest.m3u8?audio=deu
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hitradio_Ö3.svg/512px-Hitradio_Ö3.svg.png" group-title="Autriche",[128] Hitradio Ö3
 https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/74gMaPK.png" group-title="Autriche",FS1
