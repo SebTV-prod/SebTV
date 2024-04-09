@@ -169,8 +169,6 @@ https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
 https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8
 #EXTINF:-1 tvg-id="OrlerTV.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/orler_tv_it.png" group-title="Italie" tvg-chno="166",[166] Orler TV
 https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="EuroTV.it" tvg-logo="" group-title="Italie" tvg-chno="168",[168] Euro TV
-https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Primafree.it" tvg-logo="" group-title="Italie" tvg-chno="170",[170] Prima Free
 https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie" tvg-chno="202",[202] RAI Radio 2 Visual
@@ -212,12 +210,20 @@ https://global.ssl.nexim.it/bikechannel/ngrp:bikechannel_all/playlist.m3u8
 https://5e73cf528f404.streamlock.net/GR_sport/livestream/playlist.m3u8?FLID=1
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie" tvg-chno="262",[262] Byoblu
 https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie" tvg-chno="264",[264] Cusano 7 News
+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie" tvg-chno="265",[265] RDS Social TV
 https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie" tvg-chno="266",[266] Radio Zeta
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/OKhpyWr.png" group-title="Italie" tvg-chno="268",[268] Paradise TV
 https://tsw.streamingwebtv24.it:1936/paradisetv/paradisetv/playlist.m3u8
+#EXTINF:-1 tvg-id="PaciContemporaryChannel.it" tvg-logo="https://i.imgur.com/RtOvD2M.png" group-title="Italie" tvg-chno="314",[314] Paci Contemporary Channel
+https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8
+#EXTINF:-1 tvg-id="EuroTV.it" tvg-logo="" group-title="Italie" tvg-chno="168",[321] Euro TV
+https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie" tvg-chno="322",[322] Iunior TV
+https://64b16f23efbee.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Italie" tvg-chno="351",[351] 70-80.TV
 https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
 #EXTINF:-1 tvg-id="Business24.it" tvg-logo="https://business24tv.it/wp-content/uploads/elementor/thumbs/logo_b24-pryfkrmu8wj7rt8w8cfpg1cst9dj9igi42gtg3c59y.png" group-title="Italie" tvg-chno="410",[410] Business 24 Italia
@@ -253,18 +259,22 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/playl
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTvSerieA.it" tvg-logo="" group-title="Italie" tvg-chno="899",[899] Serie A con RDS TV
 https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100006SA_20221012T021051SQUARE.png_20221012021052.png" group-title="Italie" tvg-chno="176",[Sky_IT] [1176] Explorer HD Channel
+#EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100006SA_20221012T021051SQUARE.png_20221012021052.png" group-title="Italie" tvg-chno="176",[Sky_IT] [176] Explorer HD Channel
 https://86ccf2ddbf4249949d488aeac2966def.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_ExplorerHD/playlist.m3u8?ads.wurl_channel=1314&ads.wurl_name=ExplorerHD&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id=" " tvg-logo="https://static.milanofinanza.it/videocenter/images/1.gif" group-title="Italie" tvg-chno="180",[Sky_IT] [1180] Class TV Moda
+#EXTINF:-1 tvg-id=" " tvg-logo="https://static.milanofinanza.it/videocenter/images/1.gif" group-title="Italie" tvg-chno="180",[Sky_IT] [180] Class TV Moda
 https://585b1526dec74509b4bacb3edfffa885.msvdn.net/live/S34780352/RcBUa84Fth0C/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioNumberOne.it" tvg-logo="https://i.imgur.com/8cpuaG5.png" group-title="Italie" tvg-chno="631",[Tivùsat] [1631] Radio Number One
+#EXTINF:-1 tvg-id="RadioNumberOne.it" tvg-logo="https://i.imgur.com/8cpuaG5.png" group-title="Italie" tvg-chno="631",[Tivùsat] [631] Radio Number One
 https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="UniNettunoUniversityTV.it" tvg-logo="https://i.imgur.com/BOGMeio.png" group-title="Italie" tvg-chno="701",[Tivùsat] [1701] UniNettuno University TV
+#EXTINF:-1 tvg-id="UniNettunoUniversityTV.it" tvg-logo="https://i.imgur.com/BOGMeio.png" group-title="Italie" tvg-chno="701",[Tivùsat] [701] UniNettuno University TV
 https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
-#EXTINF:-1 tvg-id="PaciContemporaryChannel.it" tvg-logo="https://i.imgur.com/RtOvD2M.png" group-title="Italie" tvg-chno="809",[Sky_IT] [1809] Paci Contemporary Channel
-https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8
 #EXTINF:-1 tvg-id="ItalianFishing.it" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBB2000001QB_20230208T013137SQUARE.png_20230208013138.png" group-title="Italie" tvg-chno="811",[Sky_IT] [1811] Italian Fishing
 https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://net-static.tcccdn.com/template/sportitalia.com/img/streaming/rbn.png" group-title="Italie" tvg-chno="602",[HBBTV] [68.02] RBN TV (Radio Bianco Nera)
+https://tmw.fluid.stream/RadioBianconeraTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Zerounomusic.it" tvg-logo="https://i.imgur.com/RMPVvGR.png" group-title="Italie" tvg-chno="680",[HBBTV] [68.06] Zerouno TV Music 
+https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
+#EXTINF:-1 tvg-id="ZerounoTVNews.it" tvg-logo="https://i0.wp.com/www.zerounotv.it/wp-content/uploads/2021/07/cropped-cropped-cropped-Logo-per-streaming-1920-x-1080-per-facebook-2-768x153-1.png?w=768&ssl=1" group-title="Italie" tvg-chno="681",[HBBTV] [68.15] Zerouno TV News
+https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTL1025TVBest.it" tvg-logo="https://i.imgur.com/ahWJwvT.png" tgroup-title="Italie" vg-chno="360",[HBBTV] [36.1] RTL 102.5 Best 
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
@@ -280,16 +290,13 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/pl
 https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Italie" tvg-chno="601",[HBBTV] [60.2] Sportitalia (SoloCalcio)
 https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://net-static.tcccdn.com/template/sportitalia.com/img/streaming/rbn.png" group-title="Italie" tvg-chno="602",[HBBTV] [60.3] RBN TV (Radio Bianco Nera)
-https://tmw.fluid.stream/RadioBianconeraTV/livestream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.radiofirenzeviola.it/template/radiofirenzeviola.it/default/img/head-logo.png" group-title="Italie" tvg-chno="603",[HBBTV] [60.4] Radio Firenze Viola TV
 https://tmw.fluid.stream/rfviola_tv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.radiofirenzeviola.it/template/radiofirenzeviola.it/default/img/head-logo.png" group-title="DTT" tvg-chno="604",[HBBTV] [60.5] TMW Radio TV
 https://tmw.fluid.stream/TMWRadioTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="Zerounomusic.it" tvg-logo="https://i.imgur.com/RMPVvGR.png" group-title="Italie" tvg-chno="680",[HBBTV] [68.1] Zerouno TV Music 
-https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
-#EXTINF:-1 tvg-id="ZerounoTVNews.it" tvg-logo="https://i0.wp.com/www.zerounotv.it/wp-content/uploads/2021/07/cropped-cropped-cropped-Logo-per-streaming-1920-x-1080-per-facebook-2-768x153-1.png?w=768&ssl=1" group-title="Italie" tvg-chno="681",[HBBTV] [68.2] Zerouno TV News
-https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo=" " group-title="Italie",RAI News Extra 3
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2607831&output=16
