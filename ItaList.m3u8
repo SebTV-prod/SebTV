@@ -181,7 +181,7 @@ http://fms.premio.link/welcomein/index.m3u8
 #EXTINF:-1 tvg-id="TesoryChannel.it" tvg-logo="https://www.prontogold.tv/images/logo_tesory_channel_b.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title="Italie" tvg-chno="228",[228] Tesory Channel
 #EXTVLCOPT:http-referrer=https://player.castr.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
-https://155905.global.ssl.fastly.net/60c888bf1dbff32e46b3304d/live_f64a08e02a9a11ec81174bd4ce952c0e/index.m3u8
+https://155905.global.ssl.fastly.net/60c888bf1dbff32e46b3304d/live_f64a08e02a9a11ec81174bd4ce952c0e/index.fmp4.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/vAtzwXK.png" group-title="Italie" tvg-chno="233",[233] RTL 102.5 News
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cusanonews7.cusanoitaliatv.it/wp-content/uploads/2023/09/logo_news7_01.png" group-title="Italie" tvg-chno="234",[234] Cusano News 7
@@ -295,8 +295,6 @@ https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3
 https://tmw.fluid.stream/rfviola_tv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.radiofirenzeviola.it/template/radiofirenzeviola.it/default/img/head-logo.png" group-title="DTT" tvg-chno="604",[HBBTV] [60.5] TMW Radio TV
 https://tmw.fluid.stream/TMWRadioTV/livestream/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-logo=" " group-title="Italie",RAI News Extra 3
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2607831&output=16
