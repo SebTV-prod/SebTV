@@ -24,8 +24,12 @@ https://vdo.pro-fhi.net:3244/stream/play.m3u8
 https://ssh101.bozztv.com/ssh101/my23a2r/playlist.m3u8
 
 #EXTGRP:Burkina Faso
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Burkina Faso" tvg-chno="2",[BFA] [2] BF1
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/BFfLV0y.png" group-title="Burkina Faso" tvg-chno="1",[BFA] [1] RTB
+http://69.64.57.208/rtb/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/ufNURAC.png" group-title="Burkina Faso" tvg-chno="2",[BFA] [2] BF1
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/7e66f389bec3463dac81e8d55e680431/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/a9v5CbU.png" group-title="Burkina Faso" tvg-chno="",[BFA] [ ] Burkina Info
+http://69.64.57.208/burkinainfo/index.m3u8
 
 #EXTGRP:Cameroun
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Cameroun" tvg-chno="2",[CAM] [2] Canal 2 International
@@ -44,6 +48,8 @@ http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
 
 #EXTGRP:Congo
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Congo" tvg-chno="1",[COG] [1] Télé Congo 
+http://69.64.57.208/telecongo/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Congo" tvg-chno="24",[COG] [COD] [24] Africanews (Français)
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/africanewsfr.m3u8
 
@@ -52,8 +58,12 @@ https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/africanewsfr.m3
 https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WgdvLoK.png" group-title="Côte d'Ivoire" tvg-chno="2",[CIV] [2] RTI 2
 https://www.enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Côte d'Ivoire" tvg-chno="3",[CIV] [3] La 3
+http://69.64.57.208/la3/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/I3pv69r.png" group-title="Côte d'Ivoire" tvg-chno="4",[CIV] [4] NCI
 https://pixa.cdn.easybroadcast.fr/nci/nci.isml/nci.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Côte d'Ivoire" tvg-chno="5",[CIV] [5] A+ Ivoire
+http://69.64.57.208/atv/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/tNl8s4z.png" group-title="Côte d'Ivoire" tvg-chno="6",[CIV] [6] Life TV
 https://strhlslb01.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/jcl1nNR.png" group-title="Côte d'Ivoire" tvg-chno="7",[CIV] [7] 7 Info
@@ -123,6 +133,11 @@ https://live.prd.dlive.tv/hls/live/mbs-tv.m3u8
 #EXTGRP:Maroc
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Maroc",Médi 1 (Afrique)
 https://streaming1.medi1tv.com/live/smil:medi1fr.smil/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Sénégal",[SEN] [1] RTS 1
+http://69.64.57.208/rts1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Sénégal",[SEN] [2] RTS 2
+http://69.64.57.208/rts2/index.m3u8
 
 #EXTGRP:Togo
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Togo",TBN (Télé Bonne Nouvelle)
