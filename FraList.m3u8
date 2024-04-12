@@ -254,6 +254,8 @@ https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
 https://stream.castr.com/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/tLPxcFn/littoral.png" group-title="France",Littoral TV
 https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d66k2fw/maisontrvx.png",Maison & Travaux
+https://d387lnkgycbwl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sdi2aweg8u1y4/761cde02-1df4-4a1a-ad50-7033ede188ef/2.m3u8
 #EXTINF:-1 tvg-id="C265.api.telerama.fr" tvg-logo="https://i.ibb.co/BPzb19X/melody.png" group-title="France",Melody
 https://live.creacast.com/telemelody/smil:telemelody-211112.smil/master.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3900003ZH_20221012T021120SQUARE.png_20221012021120.png" group-title="France",MGG FAST
@@ -264,8 +266,12 @@ https://live.creacast.com/museum-france/smil:museum-france.smil/master.m3u8
 https://live.creacast.com/myzentv-france/myzentv-france.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SportEnFrance.fr" tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp" group-title="France",Sport En France
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HnSphLp/sqool.jpg",Sqool TV
+https://ythls.armelin.one/channel/UCaEqMbRYYOmI3WrALMhxuIg.m3u8
 #EXTINF:-1 tvg-id="C229.api.telerama.fr" tvg-logo="https://i.ibb.co/vmk02Tc/tiji.png" group-title="France",TiJi
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TLPBT2L/topsante.png",Top Santé
+https://d3tuo4zu8l334y.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x8ri0qojo9mfh/e5997ac8-9e9c-42cc-a2ef-633dc0a4f5a3/2.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/cCXgWWw/tvfinance.jpg" group-title="France",TV Finance
 https://strhlslb01.streamakaci.tv/str_tvfinance_tvfinance/str_tvfinance_multi/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/VvRpRty/myzen.png" group-title="France",Wellbeing TV
