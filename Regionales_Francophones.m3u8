@@ -15,7 +15,7 @@ https://live.creacast.com/radiomontblanc-ch1/smil:radiomontblanc-ch1.smil/playli
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France",Valloire TV
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/ValloireTV.m3u8
 
-- FR - Bourgogne-Franche-Comté
+- FR - Bourgogne-Franche-Comté -
 #EXTINF:-1 tvg-id=" " tvg-logo="" group-title="France",Brionnais TV
 https://stream2.mandarine.media/brionnais_tv/brionnais_tv/playlist.m3u8
 
@@ -25,7 +25,7 @@ https://lives.digiteka.com/stream/e0fe6433-554e-4568-9a7e-31969136d8ff/index.m3u
 #EXTINF:-1 tvg-id="TVR.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/TVR.png" group-title="France" tvg-chno="35",TVR
 https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
 
-- FR - Centre-Val-de-Loire
+- FR - Centre-Val-de-Loire -
 #EXTINF:-1 tvg-id="BIPTV.fr" tvg-logo=" " group-title="France" tvg-chno="36",BIP TV
 http://biptv.tv/live/biptvstream_orig/index.m3u8
 #EXTINF:-1 tvg-id="C540.api.telerama.fr" tvg-logo=" " group-title="France" tvg-chno="37",TV Tours - Val de Loire
@@ -101,10 +101,6 @@ https://static.lefigaro.fr/secom/tnt.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="368",TV78
 https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
 
-- FR - La Réunion -
-#EXTINF:-1 tvg-id="C.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Antennereunion.png" group-title="Outremer" tvg-chno="2",Antenne Réunion
-https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
-
 - FR - Martinique -
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Outremer" tvg-chno="41",Fusion TV
 https://fusiontv.vedge.infomaniak.com/livecast/fusiontv/manifest.m3u8
@@ -178,6 +174,10 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_HAUTEPROVENCE/index.m3u8?en
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Cannes%20Lerins%20TV.png" group-title="France" tvg-chno="365",Cannes Lérins TV
 https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
+
+- FR - La Réunion -
+#EXTINF:-1 tvg-id="C.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Antennereunion.png" group-title="Outremer" tvg-chno="200",[FR-REU] [2] Antenne Réunion
+https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
 
 - MC - Monaco -
 #EXTINF:-1 tvg-id="Monacoinfo.mc" tvg-logo="http://www.mmd.mc/images/radio/mcinfo.png" group-title="Monaco" tvg-chno="70",Monaco Info
