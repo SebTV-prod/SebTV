@@ -1,7 +1,9 @@
 #EXTM3U
 - FR - Auvergne-Rhône-Alpes -
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/0uiiZRo.png" group-title="France" tvg-chno="30",BFM Régions (Lyon-Métropole)
+#EXTINF:-1 tvg-id="BFMLyon.fr" tvg-logo="https://i.imgur.com/0uiiZRo.png" group-title="France" tvg-chno="30",BFM Régions (Lyon-Métropole)
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 tvg-id="TV8MontBlanc.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/8%20Mont-Blanc.png" group-title="France" tvg-chno="31",8 Mont-Blanc
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/8montblanc.m3u8
 #EXTINF:-1 tvg-id="C.api.telerama.fr" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/64e8bf3d-f86e-46a6-9874-978eac737828-profile_image-70x70.png" group-title="France" tvg-chno="38",Télégrenoble Isère
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Telegrenoble.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France" tvg-chno="40",Maurienne TV
