@@ -48,14 +48,18 @@ http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/africanewsfr.m3u8
 
 #EXTGRP:Côte d'Ivoire
-#EXTINF:-1 tvg-logo=" " group-title="Côte d'Ivoire" tvg-chno="2",[CIV] [2] RTI 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gbcHybd.png" group-title="Côte d'Ivoire" tvg-chno="1",[CIV] [1] RTI 1
+https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WgdvLoK.png" group-title="Côte d'Ivoire" tvg-chno="2",[CIV] [2] RTI 2
 https://www.enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Côte d'Ivoire" tvg-chno="4",[CIV] [4] NCI
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/I3pv69r.png" group-title="Côte d'Ivoire" tvg-chno="4",[CIV] [4] NCI
 https://pixa.cdn.easybroadcast.fr/nci/nci.isml/nci.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Côte d'Ivoire" tvg-chno="6",[CIV] [6] Life TV
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/tNl8s4z.png" group-title="Côte d'Ivoire" tvg-chno="6",[CIV] [6] Life TV
 https://strhlslb01.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Côte d'Ivoire" tvg-chno="7",[CIV] [7] 7 Info
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/jcl1nNR.png" group-title="Côte d'Ivoire" tvg-chno="7",[CIV] [7] 7 Info
 https://ythls.armelin.one/channel/UCqA1FRAWs2VIiXf2cUYSQBQ.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/EauXR22.png" group-title="Côte d'Ivoire" tvg-chno="8",[CIV] [8] Reflet TV
+https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Côte d'Ivoire",L'Intelligent TV
 https://video1.getstreamhosting.com:1936/8210/8210/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Côte d'Ivoire",Ubiznews
@@ -72,8 +76,19 @@ https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8494/8494/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Seriemax.png" group-title="Côte d'Ivoire",Série Max
 https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Côte d'Ivoire",Business 24 TV
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/2k6HkKH/channels4-profile.jpg" group-title="Côte d'Ivoire",Afrique Maison & Travaux TV
+https://ugftv.stream/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/zZFl3vy.png" group-title="Côte d'Ivoire",Business 24 TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/business24_tv/hls_video/business24_tv.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/UUSAQET.png" group-title="Côte d'Ivoire",Divin Amour TV
+https://voozmedia.fun/divinamourtv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/Lj4WvXZ.png" group-title="Côte d'Ivoire",NTV
+https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/3REBjRk.png" group-title="Côte d'Ivoire",RTVC
+https://cdn140m.panaccess.com/HLS/RTVC/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/aRJtor1.png" group-title="Côte d'Ivoire",Tchaman TV
+https://itelema.stream/live/smil:myStream.smil/playlist.m3u8
+
 
 #EXTGRP:Djibouti
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/GNolVKU.png" group-title="Djibouti" tvg-chno="4",[DJI] [4] RTD 4
