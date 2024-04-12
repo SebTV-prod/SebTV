@@ -6,17 +6,17 @@ https://bozztv.com/inim03/live1/giniko_canalalgerie/chunks.m3u8
 https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
 
 #EXTGRP:Bénin
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/NbZ7Y4j.png" group-title="Bénin" tvg-chno="1",ORTB
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/NbZ7Y4j.png" group-title="Bénin" tvg-chno="1",[BEN] [1] ORTB
 https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/pxFamLr.png" group-title="Bénin" tvg-chno="3",Ado TV
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/pxFamLr.png" group-title="Bénin" tvg-chno="3",[BEN] [3] Ado TV
 https://stream01.adotv-fm.bj/ado-tv-live/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/Z3xZT2p.png" group-title="Bénin" tvg-chno="7",TVC 
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/Z3xZT2p.png" group-title="Bénin" tvg-chno="7",[BEN] [7] TVC 
 https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/NbZ7Y4j.png" group-title="Bénin" tvg-chno="8",Canal 3 Bénin
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/NbZ7Y4j.png" group-title="Bénin" tvg-chno="8",[BEN] [8] Canal 3 Bénin
 https://live.creacast.com/bluediamond/stream/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/4ClnG0x.png" group-title="Bénin" tvg-chno="10",Eden TV
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/4ClnG0x.png" group-title="Bénin" tvg-chno="10",[BEN] [10] Eden TV
 https://rtmp.edentv.bj/hls/stream.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/y1eg7OC.png" group-title="Bénin" tvg-chno="11",E Télé
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/y1eg7OC.png" group-title="Bénin" tvg-chno="11",[BEN] [11] E Télé
 https://livetvsteam.com:1936/etelebenin/etelebenin/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/CYy4n0N.png" group-title="Bénin",Bénin Web TV
 https://vdo.pro-fhi.net:3244/stream/play.m3u8
@@ -24,15 +24,17 @@ https://vdo.pro-fhi.net:3244/stream/play.m3u8
 https://ssh101.bozztv.com/ssh101/my23a2r/playlist.m3u8
 
 #EXTGRP:Burkina Faso
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Burkina Faso" tvg-chno="2",BF1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Burkina Faso" tvg-chno="2",[BFA] [2] BF1
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/7e66f389bec3463dac81e8d55e680431/index.m3u8
 
 #EXTGRP:Cameroun
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Cameroun" tvg-chno="4",Vision 4
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Cameroun" tvg-chno="2",[CAM] [2] Canal 2 International
+https://github.com/Sibprod/streams/main/ressources/dm/py/hls/canal2intcm.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Cameroun" tvg-chno="4",[CAM] [4] Vision 4
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/YWIJdai.png" group-title="Cameroun" tvg-chno="24",Africa 24
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/YWIJdai.png" group-title="Cameroun" tvg-chno="24",[CAM] [24] Africa 24
 https://livevideo.vedge.infomaniak.com/livecast/africa24/manifest.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Cameroun",Africa 24 Sport
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Cameroun",[CAM] [24.1] Africa 24 Sport
 https://livevideo.vedge.infomaniak.com/livecast/africa24sport/manifest.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.facebook.com/photo/?fbid=443569304461160&set=a.443569277794496&__tn__=%3C" group-title="Cameroun",CTV Afrique
 https://ssh101.bozztv.com/ssh101/ctvafrique/playlist.m3u8
@@ -42,17 +44,17 @@ http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
 
 #EXTGRP:Congo
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Congo" tvg-chno="24",Africanews (Français)
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Congo" tvg-chno="24",[COG] [COD] [24] Africanews (Français)
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/africanewsfr.m3u8
 
 #EXTGRP:Côte d'Ivoire
-#EXTINF:-1 tvg-logo=" " group-title="Côte d'Ivoire" tvg-chno="2",RTI 2
+#EXTINF:-1 tvg-logo=" " group-title="Côte d'Ivoire" tvg-chno="2",[CIV] [2] RTI 2
 https://www.enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Côte d'Ivoire" tvg-chno="4",NCI
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Côte d'Ivoire" tvg-chno="4",[CIV] [4] NCI
 https://pixa.cdn.easybroadcast.fr/nci/nci.isml/nci.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Côte d'Ivoire" tvg-chno="6",Life TV
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Côte d'Ivoire" tvg-chno="6",[CIV] [6] Life TV
 https://strhlslb01.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Côte d'Ivoire" tvg-chno="7",7 Info
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Côte d'Ivoire" tvg-chno="7",[CIV] [7] 7 Info
 https://ythls.armelin.one/channel/UCqA1FRAWs2VIiXf2cUYSQBQ.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Côte d'Ivoire",L'Intelligent TV
 https://video1.getstreamhosting.com:1936/8210/8210/playlist.m3u8
@@ -74,21 +76,21 @@ https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/business24_tv/hls_video/business24_tv.m3u8
 
 #EXTGRP:Djibouti
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/GNolVKU.png" group-title="Djibouti" tvg-chno="4",RTD 4
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/GNolVKU.png" group-title="Djibouti" tvg-chno="4",[DJI] [4] RTD 4
 https://ythls.armelin.one/channel/UCB0NxICFmGabAalD46J2i4A.m3u8
 
 #EXTGRP:Gabon
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/K4lOHNw.png" group-title="Gabon" tvg-chno="1",Gabon 1ère
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/K4lOHNw.png" group-title="Gabon" tvg-chno="1",[GAB] [1] Gabon 1ère
 https://vps94081.serveur-vps.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/0Zq2brb.png" group-title="Gabon" tvg-chno="2",Gabon 24
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/0Zq2brb.png" group-title="Gabon" tvg-chno="2",[GAB] [2] Gabon 24
 https://ythls.armelin.one/channel/UC7E__Dp9FSIgt6iMa5_uvlw.m3u8
 
 #EXTGRP:Guinée
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/E1sMcXz.png" group-title="Guinée" tvg-chno="1",RTG 1
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/E1sMcXz.png" group-title="Guinée" tvg-chno="1",[GIN] [1] RTG 1
 #EXTVLCOPT:http-referrer=https://player.castr.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 http://stream.castr.com/6358a30fa50e3ae11b6d0424/live_cbde16509c3611ed91f289dac03ffaaf/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/E1sMcXz.png" group-title="Guinée" tvg-chno="2",RTG 2
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/E1sMcXz.png" group-title="Guinée" tvg-chno="2",[GIN] [2] RTG 2
 #EXTVLCOPT:http-referrer=https://player.castr.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 https://stream.castr.com/6358a30fa50e3ae11b6d0424/live_e05d20809c3611edadb72177341481c3/index.m3u8
