@@ -42,6 +42,8 @@ https://srv.webtvmanager.fr:3118/live/viatelepaeselive.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_Corse-ViaStella.m3u8
 
 - FR - Grand-Est -
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="France" tvg-chno="30",BFM Régions (Alsace)
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="France" tvg-chno="31",Vosges Télévision
 https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
 #EXTINF:-1 tvg-id="C534.api.telerama.fr" tvg-logo=" " group-title="France" tvg-chno="32",Canal 32
