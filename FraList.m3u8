@@ -164,9 +164,9 @@ https://tvlocales-live.freecaster.com/95d2f656-50f1-432b-84a6-ce11c6cdb482/95d2f
 https://tvlocales-live.freecaster.com/95d2f631-8941-4efd-b223-0ebd56a033c4/95d2f631-8941-4efd-b223-0ebd56a033c4.isml/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7LnH6yu.png" group-title="Belgique" tvg-chno="171",[BE-WAL] [10.11] Védia
 https://tvlocales-live.freecaster.com/95d2f480-3c9f-48ba-ba4e-af64b58431ef/95d2f480-3c9f-48ba-ba4e-af64b58431ef.isml/master.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Belgique" tvg-chno="141",[BE-WAL] [14] bel RTL
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Belgique" tvg-chno="141",[BE-WAL] [141] bel RTL
 https://github.com/Sibprod/streams/raw/main/ressources/RTLbe/BelRTL.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Belgique" tvg-chno="143",[BE-WAL] [16] Radio Contact
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Belgique" tvg-chno="143",[BE-WAL] [143] Radio Contact
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLbe/Contactvision.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/NRJ%20Belgique.png" group-title="Belgique" tvg-chno="1600",[BE-WAL] [18] NRJ (Belgique)
 https://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
@@ -244,6 +244,8 @@ https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
 #EXTINF:-1 tvg-id="TVMonaco.mc" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/TVMonaco.png" group-title="Monaco" tvg-chno="71",[MCO] [9] TV Monaco
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/2025/media.m3u8
 
+#EXTINF:-1 tvg-logo=" ",B Smart
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/bsmart.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC900001LB_20230208T013112SQUARE.png_20230208013112.png" group-title="France",Émotion
 https://amg01736-harmonysecomgro-harmonymelody-samsungfr-n25pe.amagi.tv/playlist/amg01736-harmonysecomgro-harmonymelody-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-id="C1996.api.telerama.fr" tvg-logo="https://i.ibb.co/LYbF1Wt/fashionok.png" group-title="France",Fashion TV
@@ -252,12 +254,18 @@ https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://player.castr.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 https://stream.castr.com/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France",Le Média
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/lemedia.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/tLPxcFn/littoral.png" group-title="France",Littoral TV
 https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d66k2fw/maisontrvx.png",Maison & Travaux
 https://d387lnkgycbwl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sdi2aweg8u1y4/761cde02-1df4-4a1a-ad50-7033ede188ef/2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France",MDL
+http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="C265.api.telerama.fr" tvg-logo="https://i.ibb.co/BPzb19X/melody.png" group-title="France",Melody
 https://live.creacast.com/telemelody/smil:telemelody-211112.smil/master.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="France",Men's Up TV
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/mensuptv.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3900003ZH_20221012T021120SQUARE.png_20221012021120.png" group-title="France",MGG FAST
 https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8
 #EXTINF:-1 tvg-id="C1072.api.telerama.fr" tvg-logo="https://i.ibb.co/LgSzMCy/museum.webp" group-title="France",Museum
