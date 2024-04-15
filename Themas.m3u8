@@ -140,8 +140,6 @@ https://live-ln24.digiteka.com/1911668011/playlist.m3u8
 https://streaming1.medi1tv.com/live/smil:medi1fr.smil/.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Information" tvg-chno="230",B Smart
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/bsmart.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/k4Bs0Cj/rmcti.jpg" group-title="Information",[231] RMC Talk Info
-https://dvvyqyxwlc4tn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n5yqxqrvnujl7/index.m3u8
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB1600008R3_20220412T153106SQUARE.png_20220412153107.png" group-title="Information" tvg-chno="236",GBNews
 https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HnSphLp/sqool.jpg" group-title="Information" tvg-chno="247",Sqool TV
@@ -235,6 +233,8 @@ https://new.cache-stream.workers.dev/stream/UChl0zP89T7yZyEwQkCfmmnQ/live.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/ASTV.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Régionales" tvg-chno="40",Maurienne TV
 https://ythls.armelin.one/channel/UCva-htH2wvmKsG6SkcEJ4Vw.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Régionales" tvg-chno="44",MyTV Caraïbes
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/twitch/hls/MyTVCaraibes.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Régionales" tvg-chno="77",TV7 Colmar
 http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Régionales" tvg-chno="98",TV3V
