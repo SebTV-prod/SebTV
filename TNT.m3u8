@@ -220,14 +220,215 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:22_HD.smil/mani
 #EXTINF:-1 tvg-id="Teledeporte.es" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20231213T103944SQUARE.png_20231213103945.png" group-title="Sport" tvg-chno=" ",Tdp TVE
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
 
+#EXTINF:-1 tvg-id="La7.it" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1500002NL_20231011T084817SQUARE.png_20231011084818.png" group-title="Général" tvg-chno="7",La 7
+https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
+#EXTINF:-1 tvg-id="TV2000.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-2000-it.png" group-title="Style de Vie" tvg-chno="28",TV 2000
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+#EXTINF:-1 tvg-id="La7d.it" tvg-logo=" " group-title="Divertissement" tvg-chno="29",La7d
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS/Live.m3u8
+#EXTINF:-1 tvg-id="QVC.it" tvg-logo="https://static.epg.best/it/QVC.it.png" group-title="Style de Vie" tvg-chno="32",QVC (Italia)
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/720p/720p.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radios" tvg-chno="36",RTL 102.5 TV
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Jeunesse" tvg-chno="47",Super!
+https://vimnitaly.akamaized.net/hls/live/2094034/super/master-2500.m3u8
+#EXTINF:-1 tvg-id="RAINews24.it" tvg-logo="" group-title="Information" tvg-chno="48",RAI News 24
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=16
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-tg-24-it.png" group-title="Information" tvg-chno="50",Sky TG24
+https://ythls.armelin.one/channel/UCz6E3lF72mb6uoJ-mOlNo2A.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Style de Vie" tvg-chno="53",Casa Italia 53
+https://6e94aeeb1b42461d95f973ae34be5167.msvdn.net/ac115_live/canale3.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sportitalia-it.png" group-title="Sport" tvg-chno="60",Sportitalia
+https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.grupposciscione.it/wp-content/uploads/2024/02/LOGO-TRAVEL-1080x650-1.png" group-title="Découverte" tvg-chno="61",Travel TV
+https://di-4anhezkv.vo.lswcdn.net/promosrl/smil:byoblu.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.grupposciscione.it/wp-content/uploads/2022/11/donnatv-1080x650-1.png" group-title="Style de Vie" tvg-chno="62",Donna TV
+https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/ .png" group-title="Sport" tvg-chno="63",Go-TV
+https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="AlmaTV.it" tvg-logo="https://www.grupposciscione.it/wp-content/uploads/2023/02/ALMA-tv-nuovo-022023-LOGHI-1080x650.ai-1080-×-650-px.png" group-title="Style de Vie" tvg-chno="65",Alma TV
+https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
+#EXTINF:-1 tvg-id="Radio105TV.it" tvg-logo="" group-title="Radios" tvg-chno="66",Radio 105 TV
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="R101TV.it" tvg-logo="" group-title="Radios" tvg-chno="67",R101 TV
+https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="BomChannel.it" tvg-logo="" group-title="Divertissement" tvg-chno="68",BOM Channel
+https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Musique" tvg-chno="69",Deejay TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioItaliaTV.it" tvg-logo="" group-title="Radios" tvg-chno="70",Radio Italia TV
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+#EXTINF:-1 tvg-id="Canaleitalia.it" tvg-logo=" " group-title="Divertissement" tvg-chno="71",Canale Italia
+https://6e94aeeb1b42461d95f973ae34be5167.msvdn.net/ac115_live/canale1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioBrunoTv.it" tvg-logo="" group-title="Radios" tvg-chno="73",Radio Bruno TV
+https://router.xdevel.com/video0s975758-473/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cusanoitaliatv.it/wp-content/uploads/2020/07/Logo-Radio-Cusano-Tv-Italia.png" group-title="Découverte" tvg-chno="122",Cusano Italia TV
+https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Divertissement" tvg-chno="123",Italia Channel
+https://stream1.aswifi.it/italiachannel/stream/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nkJw03Cf2x_DldMVp8NnbVLcvgzxt8jFOt9yXjag=s176-c-k-c0x00ffffff-no-rj" group-title="Style de Vie" tvg-chno="126",Vimarte
+https://5f22d76e220e1.streamlock.net/vimarte/vimarte/playlist.m3u8
+#EXTINF:-1 tvg-id="GoldTV.it" tvg-logo="https://i.imgur.com/gQzNIg5.png" group-title="Général" tvg-chno="128",Gold TV
+https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
+#EXTINF:-1 tvg-id="GoldTV.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gold-tv-it.png" group-title="Style de Vie" tvg-chno="131",Rete Italia
+https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
+#EXTINF:-1 tvg-id="Lineagem.it" tvg-logo="https://yt3.googleusercontent.com/0CZN4YOO0_6HFSFiZBqdlAOHrGqPvlzTHRGC947CiE25glR0qdOF5Idb2FWo_Q08kDHYIpNHrg=s176-c-k-c0x00ffffff-no-rj" group-title="Style de Vie" tvg-chno="132",Lineagem
+https://ythls.armelin.one/channel/UC-dZ1irw0kSGVg0VoeKLddw.m3u8
+#EXTINF:-1 tvg-id="ArteInvestimenti.it" tvg-logo="https://www.arteinvestimenti.it/ai/wp-content/themes/frontend/immagini/logo-on.png" group-title="Style de Vie" tvg-chno="133",Arte Investimenti
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/twitch/hls/Arteinvestimenti.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqNm0K0bOOGXtvQf5fuaLrM0fGmsS08Ap7AiZV_u=s176-c-k-c0x00ffffff-no-rj" group-title="Style de Vie" tvg-chno="134",Juwelo Italia
+https://ythls.onrender.com/channel/UClnnxbOKTj46d0rc5d9R94w.m3u8
+#EXTINF:-1 tvg-id="CentroSerena.it" tvg-logo="https://www.centroserena.it/wp-content/uploads/2023/08/cropped-Risorsa-1@2x-1.png" group-title="Style de Vie" tvg-chno="144",Centro Serena
+https://streaming.softwarecreation.it/teleitalia/teleitalia/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Style de Vie" tvg-chno="145",Padre Pio TV
+https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="FascinoTV.it" tvg-logo="https://www.donnashopping.tv/wp-content/uploads/2020/10/donnashoppint-tv-logo.png" group-title="Style de Vie" tvg-chno="157",Fascino TV
+https://5f22d76e220e1.streamlock.net/fascinotv/fascinotv/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radios" tvg-chno="158",Radio Kiss Kiss
+https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.grupposciscione.it/wp-content/uploads/2022/11/odeon-1080x650-1-768x462.png" group-title="Découverte" tvg-chno="163",Odeon 24
+https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8
+#EXTINF:-1 tvg-id="OrlerTV.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/orler_tv_it.png" group-title="Style de Vie" tvg-chno="166",Orler TV
+https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Primafree.it" tvg-logo="" group-title="Général" tvg-chno="170",Prima Free
+https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioRomaTelevision.it" tvg-logo="https://i.imgur.com/E2BhLK4.png" group-title="Radios" tvg-chno="222",Radio Roma Television
+https://5926fc9c7c5b2.streamlock.net/rtfeunawfu/rtfeunawfu/playlist.m3u8
+#EXTINF:-1 tvg-id="WelcomeIn.it" tvg-logo=" " group-title="Découverte" tvg-chno="226",Welcome In
+http://fms.premio.link/welcomein/index.m3u8
+#EXTINF:-1 tvg-id="TesoryChannel.it" tvg-logo="https://www.prontogold.tv/images/logo_tesory_channel_b.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title="Style de Vie" tvg-chno="228",Tesory Channel
+#EXTVLCOPT:http-referrer=https://player.castr.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
+https://155905.global.ssl.fastly.net/60c888bf1dbff32e46b3304d/live_f64a08e02a9a11ec81174bd4ce952c0e/index.fmp4.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/vAtzwXK.png" group-title="Radios" tvg-chno="233",RTL 102.5 News
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cusanonews7.cusanoitaliatv.it/wp-content/uploads/2023/09/logo_news7_01.png" group-title="Information" tvg-chno="234",Cusano News 7
+https://stream9.xdevel.com/video1s975363-1596/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://paroledivita.org/images/logo/favicon_blue_1C91F7.png" group-title="Style de Vie" tvg-chno="245",Parole di Vita TV
+https://5db313b643fd8.streamlock.net/Paroledivita/Paroledivita/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radios" tvg-chno="246",Radio 24 TV
+https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/stream/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tci-italia.it/wp-content/uploads/2022/12/LOGO-2023.png" group-title="Style de Vie" tvg-chno="248",TCI
+https://tbn-jw.cdn.vustreams.com/live/tci/live.isml/live.m3u8
+#EXTINF:-1 tvg-id="RadioLiberta.it" tvg-logo="https://i.imgur.com/HRvPlf5.png" group-title="Radios" tvg-chno="252",Radio Libertà
+https://router.xdevel.com/video0s975360-67/stream/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.radioradio.it/media/2018/02/logo4.png" group-title="Radios" tvg-chno="253",Radio Radio TV
+#EXTVLCOPT:http-referrer=https://player.castr.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
+https://200912.global.ssl.fastly.net/646b335e2291a2022444bb7c/live_22f84390fe1411ed919df3da85a483cc/tracks-v1a1/rewind-14400.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.tvdream.net/img/mariavision.png" group-title="Style de Vie" tvg-chno="255",Maria Visión TV
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioFrecciaTV.it" tvg-logo="" group-title="Radios" tvg-chno="258",Radio Freccia TV
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+#EXTINF:-1 tvg-id="BikeChannel.it" tvg-logo="" group-title="Sport" tvg-chno="259",Bike
+https://global.ssl.nexim.it/bikechannel/ngrp:bikechannel_all/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://giornaleradio.fm/wp-content/uploads/2023/03/giornale-radio-logo.png" group-title="Information" tvg-chno="261",Giornale Radio TV
+https://5e73cf528f404.streamlock.net/GR_sport/livestream/playlist.m3u8?FLID=1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Information" tvg-chno="262",Byoblu
+https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Musique" tvg-chno="265",RDS Social TV
+https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Radios" tvg-chno="266",Radio Zeta
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+#EXTINF:-1 tvg-id="PaciContemporaryChannel.it" tvg-logo="https://i.imgur.com/RtOvD2M.png" group-title="Style de Vie" tvg-chno="314",Paci Contemporary Channel
+https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8
+#EXTINF:-1 tvg-id="EuroTV.it" tvg-logo="" group-title="Divertissement" tvg-chno="321",Euro TV
+https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Jeunesse" tvg-chno="322",Iunior TV
+https://64b16f23efbee.streamlock.net/iuniortv/iuniortv/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Musique" tvg-chno="351",70-80.TV
+https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
+#EXTINF:-1 tvg-id="Business24.it" tvg-logo="https://business24tv.it/wp-content/uploads/elementor/thumbs/logo_b24-pryfkrmu8wj7rt8w8cfpg1cst9dj9igi42gtg3c59y.png" group-title="Information" tvg-chno="410",Business 24 Italia
+https://premio.link/business24/smil:business24.smil/playlist.m3u8
+#EXTINF:-1 channel-id="samsung-ITBC3000007XK" tvg-id="samsung-ITBC3000007XK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC3000007XK_20231115T012421SQUARE.png_20231115012421.png" group-title="Sport" tvg-chno="411",Premio Sport - TV Play
+https://d28j1jdx26ss52.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f85qk4neky7f6-ssai-prd/index.m3u8
+#EXTINF:-1 channel-id="samsung-ITBA1400003WT" tvg-id="samsung-ITBA1400003WT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA1400003WT_20220404T010007SQUARE.png_20220404010008.png" group-title="Général" tvg-chno="416",Canale Europa
+https://f123d461fa05419a8d092e49bf7ba9a6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_CanaleEuropaTV/playlist.m3u8
+#EXTINF:-1 channel-id="samsung-ITBD4100006EE" tvg-id="samsung-ITBD4100006EE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4100006EE_20231115T012432SQUARE.png_20231115012432.png" group-title="Italie" tvg-chno="441",Dolomiti Life TV
+https://d3b6x1igzwsv34.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-anw1tg4801b4n/index.m3u8
+#EXTINF:-1 channel-id="samsung-ITBD3600001Z9" tvg-id="samsung-ITBD3600001Z9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3600001Z9_20230926T032334SQUARE.png_20230926032335.png" group-title="Italie" tvg-chno="455",Premio Direct - GCTV
+https://dgzghldq8xau4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2cvlr00ubwsjn/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Musique" tvg-chno="713",Radio Capital TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Musique" tvg-chno="715",M2O TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Musique" tvg-chno="772",Radio Monte-Carlo TV
+https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Musique" tvg-chno="786",Virgin Radio TV
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="C155.api.telerama.it" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RAI%203.png" group-title="Général" tvg-chno="808",RAI 3 (Südtirol)
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+#EXTINF:-1 tvg-id="SanMarinoRTV.sm" tvg-logo="https://i.imgur.com/lJpOlLv.png" group-title="Général" tvg-chno="831",RTV San Marino 
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMmhydm5vNWJ3NnRnMi5jbG91ZGZyb250Lm5ldC9zbXJ0di1jaDAxL19kZWZpbnN0Xy9zbWlsOmNoLTAxLnNtaWwvcGxheWxpc3QubTN1OCIsIkNvbmRpdGlvbiI6eyJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn0sIkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzA4ODA5NDk5NTkwfX19XX0_&Key-Pair-Id=APKAJXRZCR3BYC6OEKKA&Signature=dV5e24A~t1tZHfgQL4zDSfcLkCOU-pjACMeOSZookmj8kKQ8P67dpLptWbKaGPS3KWvFpZNswdtvNGxKG-Nj3GL~8rW4t59Z9~gRrG7IiC2bHp~4MsYeMQGn~Sa~oa9fS95R1ziXHg83sL0Sc~aIp-ZFLfP7UXH2BaC2-pG-W5uEYSmSpfvxHA2pmA9aEvbQMZj3P0k5-vKSofsh~QSB~JDfBhvZznu-UwIQ938aDXe6sSws5SOJmz7egMwLonF8ROEBg4k6G1I-RLtB2ias0fTqKsTTTRDV5M0NN56qpxoYygp7ZZw8iG0VkHyh-TSq5~5iuza-l7rBrfMUNSg-~g__
+#EXTINF:-1 tvg-id="SuperSix.it" tvg-logo="https://i.imgur.com/kHSuyub.png" group-title="Jeunesse" tvg-chno="877",Super Six
+https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioTvSerieA.it" tvg-logo="" group-title="Sport" tvg-chno="899",Serie A con RDS TV
+https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
+#EXTINF:-1 tvg-id="RTL1025TVBest.it" tvg-logo="https://i.imgur.com/ahWJwvT.png" tgroup-title="Radios" vg-chno="3601",RTL 102.5 Best 
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RTL1025TVBroandSis.it" tvg-logo="https://i.imgur.com/1ZutMTJ.png" group-title="Radios" tvg-chno="3602",RTL 102.5 Bro & Sis
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist.m3u8
+#EXTINF:-1 tvg-id="RTL1025TVDoc.it" tvg-logo="https://i.imgur.com/1gAeWPP.png" group-title="Radios" tvg-chno="3603",RTL 102.5 Doc
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RTL1025TVNapule.it" tvg-logo="https://i.imgur.com/jFD0oOD.png" group-title="Radios" tvg-chno="3604",RTL 102.5 Napulè
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cloud.rtl.it/assets/play.rtl.it/2.0.146/img/broadcaster/TV/44.svg.png" group-title="Radios" tvg-chno="3605",RTL 102.5 Caliente
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
+#EXTINF:-1 tvg-id="Sportitalia24.it" tvg-logo="https://net-static.tcccdn.com/template/sportitalia.com/img/streaming/si_live24.png" group-title="Sport" tvg-chno="6001",Sportitalia (Live 24)
+https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Sport" tvg-chno="6002",Sportitalia (SoloCalcio)
+https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radiofirenzeviola.it/template/radiofirenzeviola.it/default/img/head-logo.png" group-title="Sport" tvg-chno="6003",Radio Firenze Viola TV
+https://tmw.fluid.stream/rfviola_tv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radiofirenzeviola.it/template/radiofirenzeviola.it/default/img/head-logo.png" group-title="Sport" tvg-chno="6004",TMW Radio TV
+https://tmw.fluid.stream/TMWRadioTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://net-static.tcccdn.com/template/sportitalia.com/img/streaming/rbn.png" group-title="Sport" tvg-chno="6802",RBN TV (Radio Bianco Nera)
+https://tmw.fluid.stream/RadioBianconeraTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Zerounomusic.it" tvg-logo="https://i.imgur.com/RMPVvGR.png" group-title="Musique" tvg-chno="6806",Zerouno TV Music 
+https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
+#EXTINF:-1 tvg-id="ZerounoTVNews.it" tvg-logo="https://i0.wp.com/www.zerounotv.it/wp-content/uploads/2021/07/cropped-cropped-cropped-Logo-per-streaming-1920-x-1080-per-facebook-2-768x153-1.png?w=768&ssl=1" group-title="Information" tvg-chno="6815",Zerouno TV News
+https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
+
 #EXTINF:-1 tvg-id="LemanBleu.ch" tvg-logo=" " group-title="Régionales" tvg-chno="3",Léman Bleu
 https://livevideo.vedge.infomaniak.com/livecast/naxoo/master.m3u8
 #EXTINF:-1 tvg-id="BX1.be" tvg-logo="https://i.imgur.com/0OkSa6c.png" group-title="Régionales" tvg-chno="5",BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Régionales" tvg-chno="9",Chiconi FM TV
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/ChiconiFMTV.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.telecity.it/wp-content/uploads/2024/01/canale_piemonte.jpg" group-title="Régionales" tvg-chno="10",Telecity (Piemonte)
+https://64b16f23efbee.streamlock.net/telecitypiemonte/telecitypiemonte/playlist.m3u8
+#EXTINF:-1 tvg-id="Primocanale.it" tvg-logo="https://www.lyngsat-stream.com/logo/tv/pp/primocanale.png" group-title="Régionales" tvg-chno="10",Primocanale
+https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Régionales" tvg-chno="11",Éclair TV
 https://etvgp.vedge.infomaniak.com/livecast/etvgp/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/gPK7e4f.png" group-title="Régionales" tvg-chno="11",Telecupole
+https://nrvideo1.newradio.it/euhsbdamnx/euhsbdamnx/playlist.m3u8
+#EXTINF:-1 tvg-id="Telenord.it" tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/telenord_it.png" group-title="Régionales" tvg-chno="11",Telenord
+https://5f22d76e220e1.streamlock.net/telenord/telenord/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/teleradiopace-1-it.png" group-title="Régionales" tvg-chno="12",Telepace 1
+https://64b16f23efbee.streamlock.net/telepace1/telepace1/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.mediapason.it/wp-content/uploads/2016/11/VIDEOGRUPPO-LOGO-MENU-DEFINITIVO.png" group-title="Régionales" tvg-chno="12",Videogruppo
+https://ythls.armelin.one/channel/UC3yM6JHZSBlU8crXIDHK-kQ.m3u8
+#EXTINF:-1 tvg-id="GoldTV.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gold-tv-it.png" group-title="Régionales" tvg-chno="13",Gold TV Netweek
+https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
+#EXTINF:-1 tvg-id="Primantenna.it" tvg-logo="https://www.lyngsat-stream.com/logo/tv/pp/primantenna_it.png" group-title="Régionales" tvg-chno="14",Primantenna
+https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/NZJi7mm.png" group-title="Régionales" tvg-chno="14",Telegenova
+https://5db313b643fd8.streamlock.net/Telegenova/Telegenova/playlist.m3u8
+#EXTINF:-1 tvg-id="GRP.it" tvg-logo="https://lh7-us.googleusercontent.com/sheets/APBGjhZiIRVON8BGkM_1K07PnZtwrihDY2gP-imX6LPyG4yycrD2cuJEp9ZjUd1ua_rMjsIOpQ8bXHLlIy2VHlmuBSpmVNeWG7bQRS-GibYnvN59nWYhPA98IgHpLxoMu57tzx5DK52i85XmBBMSimSy4xsyOLqXZdiInqU=w60-h47" group-title="Régionales" tvg-chno="15",GRP - Vera TV
+https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5.m3u8
+#EXTINF:-1 tvg-id="Teleliguriasud.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tele_liguria_it_sud.png" group-title="Régionales" tvg-chno="15",TLS - Tele Liguria Sud
+https://64b16f23efbee.streamlock.net/teleliguriasud/teleliguriasud/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://lh7-us.googleusercontent.com/sheets/APBGjhbQ54mL6le_rWHUM5I_lcp8uU1mtHTVh_72AMyZGwinceSsVRZ9RIdEo4nYkjDWcxuCUdKF7yvpeVsLRZ1jQ0hcJJREYH4K3en97CSlF6sIcwnHbLQZ92ckm8b1Xl4HleYMjGiQtGtHmKsZphCKGhKe1s20tjdf=w60-h43" group-title="Régionales" tvg-chno="15",TVd'A
+https://stream.cp.ets-sistemi.it:1936/tvda/tvda/playlist.m3u8
+#EXTINF:-1 tvg-id="Sestarete.it" tvg-logo="https://i.imgur.com/0B0S2gI.png" group-title="Régionales" tvg-chno="16",Sesta Rete
+https://stream10.xdevel.com/video0s977089-1792/stream/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.tvdream.net/img/vco-azzurra-tv.png" group-title="Régionales" tvg-chno="17",VCO Azzura TV
+https://ed05.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8
+#EXTINF:-1 tvg-id="EntellaTV.it" tvg-logo="https://i.imgur.com/pGJcMmB.png" group-title="Régionales" tvg-chno="19",Telecupole Liguria
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/TelecupoleLiguria.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AJAYgyN.png" group-title="Régionales" tvg-chno="19",Videonovara
+https://ed05.top-ix.org/avtvlive/videonovara/streaming/chunklist_w199420119.m3u8
 #EXTINF:-1 tvg-id="AngersTele.fr" tvg-logo="" group-title="Régionales" tvg-chno="30",Angers Télé
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/angerstele.m3u8
 #EXTINF:-1 tvg-id="BFMAlsace.fr" tvg-logo=" " group-title="Régionales" tvg-chno="30",BFM Régions (Alsace)
@@ -304,6 +505,32 @@ https://lives.digiteka.com/stream/920f083a-9e61-4c09-9bc2-bdb664063aa9/index.m3u
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Telegrenoble.m3u8
 #EXTINF:-1 tvg-id="MonacoInfo.mc" tvg-logo="https://i.ibb.co/MZLCTmN/monacoinfo.png" group-title="Régionales" tvg-chno="70",Monaco Info
 https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
+#EXTINF:-1 tvg-id="EntellaTV.it" tvg-logo="https://i.imgur.com/pGJcMmB.png" group-title="Régionales" tvg-chno="75",Entella TV
+https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="Radio104.it" tvg-logo="https://www.radio104.it/wp-content/uploads/2020/08/cropped-LOGO-RADIO-104-LIKE-IT-NERO-rid.png" group-title="Régionales" tvg-chno="77",Radio 104 TV
+https://57068da1deb21.streamlock.net/radio104/radio104/playlist.m3u8
+#EXTINF:-1 tvg-id="MotoriTV.it" tvg-logo="https://i.imgur.com/NWXQKbl.png" group-title="Régionales" tvg-chno="78",Motori TV
+https://5f22d76e220e1.streamlock.net/servizio01/servizio01/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hE4i2ft.png" group-title="Régionales" tvg-chno="78",Telepace 3
+https://live.mariatvcdn.com/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/index.m3u8
+#EXTINF:-1 tvg-id="OndaNovaraTV.it" tvg-logo="https://i.imgur.com/Qoh9CFy.png" group-title="Régionales" tvg-chno="80",Onda Novara TV
+https://585b674743bbb.streamlock.net/9006/9006/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://lh7-us.googleusercontent.com/sheets/AMQP-dg1BfV4zY6zGisE5bJwP668aZTqmOmo5RMhD53eHKL78ZStNeRImzDU7F4wmk4nkQ8nfncPHb7cAz0rvdIEH1FiXJfPhEjjcDw9w-io-ggNDm7YAnTlKPV3ERbPC2rlZyXlzNNLjQCcOptNYKyLsqmH69C0ZQ=w60-h43" group-title="Italie" tvg-chno="81",[Ligurie] Luna TV
+https://5f22d76e220e1.streamlock.net/lunatv/lunatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvdream.net/img/tv-yes.png" group-title="Régionales" tvg-chno="84",TV Yes Italia
+https://stream1.aswifi.it/radioyes/live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qvcf6QC.png" group-title="Régionales" tvg-chno="85",Telepace 2
+https://live.mariatvcdn.com/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/index.m3u8
+#EXTINF:-1 tvg-id="RBETV.it" tvg-logo="https://rbe.it/wp-content/themes/rbe6/img/RBE-web-01.png" group-title="Régionales" tvg-chno="87",RBE TV
+https://5f22d76e220e1.streamlock.net/rbetv/rbetv/playlist.m3u8
+#EXTINF:-1 tvg-id="ReteBiellaTV.it" tvg-logo="https://i.imgur.com/e2ryHx7.png" group-title="Régionales" tvg-chno="91",Rete Biella TV
+https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radiocity4you.it/wp-content/uploads/2022/08/city4you-web.png" group-title="Régionales" tvg-chno="98",Radio 4 You TV
+https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
+#EXTINF:-1 tvg-id="111TV.it" tvg-logo="https://i.imgur.com/4jY8yAI.png" group-title="Régionales" tvg-chno="111",111 TV
+https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://radiojukebox.info/wp-content/uploads/2019/11/manutenzione-e1610699766130.png" group-title="Régionales" tvg-chno="192",Radio Jukebox TV
+https://5926fc9c7c5b2.streamlock.net/9108/9108/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/zRLKgFS/alpehuez.png" group-title="Régionales" tvg-chno="801",Alpe d'Huez TV
 https://edge14.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
 
