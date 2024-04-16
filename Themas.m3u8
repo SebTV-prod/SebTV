@@ -30,7 +30,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=570
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Découverte" tvg-chno=" ",TV Famille
 https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="A3Cine.es" tvg-logo=" " group-title="Cinéma-Séries" tvg-chno="",A3 Cine
 http://stream.flynetwifi.com:1935/live/mobile-028/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/ .png" group-title="Cinéma-Séries",A3 Clasicos
@@ -55,7 +54,6 @@ https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/grBSqt4/novela.png" group-title="Cinéma-Séries",Stormcast Telenovela
 https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="Xite.nl" tvg-logo=" " group-title="Musique" tvg-chno="27",Xite
 https:/ms2.mx-cd.net/tv/XITE_NL.smil/playlist.m3u8
