@@ -439,6 +439,8 @@ https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8
 https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="Primafree.it" tvg-logo="" group-title="Général" tvg-chno="170",Prima Free
 https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport" tvg-chno="214",Sport Channel News
+https://github.com/Sibprod/streams/blob/main/ressources/twitch/hls/Sportchannel214.m3u8
 #EXTINF:-1 tvg-id="RadioRomaTelevision.it" tvg-logo="https://i.imgur.com/E2BhLK4.png" group-title="Radios" tvg-chno="222",Radio Roma Television
 https://5926fc9c7c5b2.streamlock.net/rtfeunawfu/rtfeunawfu/playlist.m3u8
 #EXTINF:-1 tvg-id="WelcomeIn.it" tvg-logo=" " group-title="Découverte" tvg-chno="226",Welcome In
