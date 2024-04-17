@@ -261,7 +261,7 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/inde
 #EXTINF:-1 tvg-id="Apunt.es" tvg-logo="https://i.imgur.com/B4OcQwT.png"  group-title="Général" tvg-chno="7",À Punt 
 https://bcovlive-a.akamaihd.net/a51c31c10f6e42b2bbb7c7649e9f305c/eu-west-1/6057955885001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="CanalsurAndalucia.es" tvg-logo=" " group-title="Général" tvg-chno="7",Canal Sur Andalucía
-https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
+https://cdnlive.codev8.net/rtvalive/smil:DtRLVjt1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ETB1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/512px-ETB1_2022_logo.svg.png" group-title="Général" tvg-chno="7",ETB 1
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Général" tvg-chno="7",Telemadrid
@@ -272,6 +272,8 @@ https://ythls.armelin.one/channel/UCTQrUTmzCWIfG6h4EVCdOCQ.m3u8
 https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
 #EXTINF:-1 tvg-id="TVG.es" tvg-logo="https://i.imgur.com/rS9i9RL.png" group-title="Général" tvg-chno="7",TVG
 https://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="Ten.es" tvg-logo="https://estaticos.tdt1.com/canales/logoten.jpg" group-title="Divertissement" tvg-chno="10",Ten
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:26_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="Trece.es" tvg-logo="" group-title="Style de Vie" tvg-chno="13",Trece
 https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal24horas.es" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100004J1_20230614T005926SQUARE.png_20230614005927.png" group-title="Information" tvg-chno=" ",24h TVE
@@ -533,6 +535,28 @@ https://tmw.fluid.stream/RadioBianconeraTV/livestream/playlist.m3u8
 https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
 #EXTINF:-1 tvg-id="ZerounoTVNews.it" tvg-logo="https://i0.wp.com/www.zerounotv.it/wp-content/uploads/2021/07/cropped-cropped-cropped-Logo-per-streaming-1920-x-1080-per-facebook-2-768x153-1.png?w=768&ssl=1" group-title="Information" tvg-chno="6815",Zerouno TV News
 https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://i.imgur.com/w7GV86i.png" group-title="Général" tvg-chno="1",RTP 1
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP2.pt" tvg-logo=" " group-title="Général" tvg-chno="2",RTP 2
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SIC.pt" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/ .png" group-title="Général" tvg-chno="3",SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:-1 tvg-id="ARTV.pt" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/ .png" group-title="Institutions" tvg-chno="5",ARTV
+https://playout175.livextend.cloud/livenlin4/2liveartvpub2/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-logo=" " group-title="Général" tvg-chno="6",RTP 3
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist_DVR_slpt.m3u8
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/RTP_África_2016_%28Reduced_Version%29.svg/512px-RTP_África_2016_%28Reduced_Version%29.svg.png" group-title="Général" tvg-chno="8",RTP África
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="Général" tvg-chno="10",RTP Internacional
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo=" " group-title="Général" tvg-chno="11",RTP Açores
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/RTP_Madeira_%282017%29.svg/langfr-250px-RTP_Madeira_%282017%29.svg.png" group-title="Général" tvg-chno="12",RTP Madeira
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+
+
+
 
 #EXTINF:-1 channel-id="samsung-FR300004J5" tvg-id="FR300004J5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300004J5_20240319T052333SQUARE.png" group-title="Découverte" tvg-chno=" ",BFM Grands Reportages
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END
