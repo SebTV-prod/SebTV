@@ -12,6 +12,8 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLfr/Teva.m3u
 https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Ivoirechannel.png" group-title="Divertissement",Ivoire Channel
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/00097237-94fa-42c6-bafc-54c55785b847-profile_image-70x70.png" group-title="Divertissement" tvg-chno="",La Cinq
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Lacinq.m3u8
 
 #EXTINF:-1 tvg-id="C .api.telerama.fr" tvg-logo="https://i.ibb.co/ZgqnqnJ/cgtnfr.png" group-title="Découverte" tvg-chno="87",CGTN (Français)
 https://livefr.cgtn.com/1000f/prog_index.m3u8
