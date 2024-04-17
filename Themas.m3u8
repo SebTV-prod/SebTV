@@ -54,6 +54,8 @@ https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/grBSqt4/novela.png" group-title="Cinéma-Séries",Stormcast Telenovela
 https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-logo=" " group-title="Cinéma-Séries",TVI Ficção
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Xite.nl" tvg-logo=" " group-title="Musique" tvg-chno="27",Xite
 https:/ms2.mx-cd.net/tv/XITE_NL.smil/playlist.m3u8
@@ -193,6 +195,10 @@ https://585b1526dec74509b4bacb3edfffa885.msvdn.net/live/S34780352/RcBUa84Fth0C/p
 https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ItalianFishing.it" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBB2000001QB_20230208T013137SQUARE.png_20230208013138.png" group-title="Style de Vie" tvg-chno="811",Italian Fishing
 https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LrnwFnz/andacocina.png",Andalucía Cocina
+https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHKKnt3/andaturismo.png",Andalucía Turismo
+https://cloud.fastchannel.es/mic/manifiest/hls/aturismo/aturismo.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Style de Vie",MDL
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/TV%20Lourdes.png" group-title="Style de Vie",TV Lourdes
