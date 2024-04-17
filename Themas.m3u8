@@ -5,6 +5,8 @@ https://play.cdn.enetres.net/56495F77FD124FECA75590A906965F2C022/022/playlist.m3
 https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalEuropa.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Général" tvg-chno=" ",TVE Internacional (Europa)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_1080.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/l1cun8s.png" group-title="Général" tvg-chno=" ",TVI Internacional
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
 
 #EXTINF:-1 tvg-id="C191.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Teva.png" group-title="Divertissement" tvg-chno="59",Téva
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLfr/Teva.m3u8
@@ -14,6 +16,8 @@ https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/00097237-94fa-42c6-bafc-54c55785b847-profile_image-70x70.png" group-title="Divertissement" tvg-chno="",La Cinq
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Lacinq.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vBbSHB4/Tvi-africa.png" group-title="Divertissement" tvg-chno=" ",TVI África
+https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="C .api.telerama.fr" tvg-logo="https://i.ibb.co/ZgqnqnJ/cgtnfr.png" group-title="Découverte" tvg-chno="87",CGTN (Français)
 https://livefr.cgtn.com/1000f/prog_index.m3u8
@@ -136,6 +140,8 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 tvg-id="LN24.be" tvg-logo="https://raw.githubusercontent.com/Sibprod/SibTV/main/assets/LN24.png" group-title="Information" tvg-chno="118",LN24
 https://live-ln24.digiteka.com/1911668011/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Information" tvg-chno="",CNN (Portugal)
+https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Information",Médi 1 (Afrique)
 https://streaming1.medi1tv.com/live/smil:medi1fr.smil/.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Information" tvg-chno="230",B Smart
@@ -152,6 +158,10 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/business24_tv/hls_video/
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC39000033J_20230809T053828SQUARE.png_20230809053829.png" group-title="Information",El País
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/Gi6Q26M.png" group-title="Information",SIC Noticias
+https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/5hQrgqd/SICNovelas.png" group-title="Information",SIC Novelas
+https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/cCXgWWw/tvfinance.jpg" group-title="Information",TV Finance
 https://strhlslb01.streamakaci.tv/str_tvfinance_tvfinance/str_tvfinance_multi/playlist.m3u8
 
