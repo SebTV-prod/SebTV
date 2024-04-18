@@ -300,6 +300,8 @@ https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/play
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main.m3u8
 #EXTINF:-1 tvg-id="A3Series.es" tvg-logo=" " group-title="Cinéma-Séries" tvg-chno="30",A3Series
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="SX3.es" tvg-logo=" " group-title="Jeunesse" tvg-chno="32",SX3
+https://directes-tv-int.ccma.cat/live-content/super3-hls/master.m3u8
 #EXTINF:-1 tvg-id="El33.es" tvg-logo="https://statics.ccma.cat/img/logos/33.svg" group-title="Découverte" tvg-chno="33",El 33
 https://directes-tv-int.ccma.cat/live-content/c33-super3-hls/master.m3u8
 #EXTINF:-1 tvg-id="BeMad.es" tvg-logo="https://estaticos.tdt1.com/canales/logobemad.jpg" group-title="Cinéma-Séries" tvg-chno=" ",BeMad
