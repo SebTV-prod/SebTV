@@ -260,12 +260,16 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:7_HD.smil/manif
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="LaSexta.es" tvg-logo="https://i.imgur.com/aKV5voq.png" group-title="Général" tvg-chno="6",La Sexta
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/index.m3u8
-#EXTINF:-1 tvg-id="Apunt.es" tvg-logo="https://i.imgur.com/B4OcQwT.png"  group-title="Général" tvg-chno="7",À Punt 
+#EXTINF:-1 tvg-id="Apunt.es" tvg-logo="https://i.imgur.com/B4OcQwT.png" group-title="Général" tvg-chno="7",À Punt 
 https://bcovlive-a.akamaihd.net/a51c31c10f6e42b2bbb7c7649e9f305c/eu-west-1/6057955885001/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-logo=" " group-title="Général" tvg-chno="7",Canal Extremadura
+https://cdnapisec.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3w/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-id="CanalsurAndalucia.es" tvg-logo=" " group-title="Général" tvg-chno="7",Canal Sur Andalucía
 https://cdnlive.codev8.net/rtvalive/smil:DtRLVjt1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ETB1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/512px-ETB1_2022_logo.svg.png" group-title="Général" tvg-chno="7",ETB 1
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Général" tvg-chno="7",La 7 Región de Murcia
+https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Général" tvg-chno="7",Telemadrid
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-id="RTVC.es" tvg-logo="" group-title="Général" tvg-chno="7",Televisión Canaria
@@ -274,6 +278,14 @@ https://ythls.armelin.one/channel/UCTQrUTmzCWIfG6h4EVCdOCQ.m3u8
 https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
 #EXTINF:-1 tvg-id="TVG.es" tvg-logo="https://i.imgur.com/rS9i9RL.png" group-title="Général" tvg-chno="7",TVG
 https://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Général" tvg-chno="8",La 8 Mediterráneo
+https://streaming004.gestec-video.com/hls/8TV.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Général" tvg-chno="8",La Otra
+https://laotra-1-23-secure2.akamaized.net/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LtG0fMD/galic.jpg" group-title="Général" tvg-chno="8",TVG 2
+https://crtvg-tvg2.flumotion.cloud/playlist.m3u8
+#EXTINF:-1 tvg-id="Apunt.es" tvg-logo="https://i.imgur.com/B4OcQwT.png" group-title="Général" tvg-chno="9",À Punt 
+https://bcovlive-a.akamaihd.net/a51c31c10f6e42b2bbb7c7649e9f305c/eu-west-1/6057955885001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="324.es" tvg-logo="https://i.imgur.com/SG7D0gt.png" group-title="Information" tvg-chno="9",Canal 3/24
 https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:-1 tvg-id="Ten.es" tvg-logo="https://estaticos.tdt1.com/canales/logoten.jpg" group-title="Divertissement" tvg-chno="10",Ten
