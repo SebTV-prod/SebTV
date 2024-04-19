@@ -329,6 +329,10 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:13_HD.smil/manif
 #EXTINF:-1 tvg-id="Paramountchannel.es" tvg-logo="https://estaticos.tdt1.com/canales/logoparamountnetwork.jpg" group-title="Cinéma-Séries" tvg-chno="",Paramount Channel (España)
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:22_HD.smil/manifest.m3u8
 
+#EXTINF:-1 tvg-id="RAI1.it" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RAI%201.png" group-title="Général" tvg-chno="1",RAI 1
+#EXTVLCOPT:http-referrer=http://ott-cdn.ucom.am/s29/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
+http://ott-cdn.ucom.am/s29/index.m3u8
 #EXTINF:-1 tvg-id="La7.it" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1500002NL_20231011T084817SQUARE.png_20231011084818.png" group-title="Général" tvg-chno="7",La 7
 https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://www.telecity.it/wp-content/uploads/2024/01/canale_piemonte.jpg" group-title="Régionales" tvg-chno="10",Telecity (Piemonte)
