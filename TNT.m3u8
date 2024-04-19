@@ -77,7 +77,7 @@ https://github.com/BG47510/sniftv/raw/main/bouy/li.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceInfo.m3u8
 #EXTINF:-1 tvg-id="C145.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Paris%20Premiere.png" group-title="Divertissement" tvg-chno="41",Paris Première
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/RTLfr/ParisPremiere.m3u8
-#EXTINF:-1 tvg-id="AB1.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/AB1.png" group-title="Cinéma-Séries" tvg-chno="44",AB1
+#EXTINF:-1 tvg-id="AB1.fr" tvg-logo="https://cdn.infiniweb.fr/images/channel/140/channel-landscape-png/300.png" group-title="Cinéma-Séries" tvg-chno="44",AB1
 https://wza.idipper.com/live/_definst_/channel/3000/AB1/playlist.m3u8?tracking=IWe8e64f129853026309&ticket=a30f4770-608c-48fb-be0d-fc96921d6357
 
 #EXTINF:-1 tvg-id="C.api.telerama.fr" tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Antennereunion.png" group-title="Général" tvg-chno="2",Antenne Réunion
