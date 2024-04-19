@@ -260,8 +260,6 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:7_HD.smil/manif
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="LaSexta.es" tvg-logo="https://i.imgur.com/aKV5voq.png" group-title="Général" tvg-chno="6",La Sexta
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/index.m3u8
-#EXTINF:-1 tvg-id="Apunt.es" tvg-logo="https://i.imgur.com/B4OcQwT.png" group-title="Général" tvg-chno="7",À Punt 
-https://bcovlive-a.akamaihd.net/a51c31c10f6e42b2bbb7c7649e9f305c/eu-west-1/6057955885001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-logo=" " group-title="Général" tvg-chno="7",Canal Extremadura
 https://cdnapisec.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3w/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-id="CanalsurAndalucia.es" tvg-logo=" " group-title="Général" tvg-chno="7",Canal Sur Andalucía
