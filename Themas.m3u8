@@ -16,12 +16,20 @@ https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/00097237-94fa-42c6-bafc-54c55785b847-profile_image-70x70.png" group-title="Divertissement" tvg-chno="",La Cinq
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Lacinq.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Divertissement" tvg-chno=" ",MTV (France)
+https://wza.idipper.com/live/_definst_/channel/3015/MTV_FRANCE_HD/playlist.m3u8?tracking=IWe8e64f129853026309&ticket=d1dc6c2f-6153-4340-bf33-e8e03b38dea5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vBbSHB4/Tvi-africa.png" group-title="Divertissement" tvg-chno=" ",TVI África
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="C .api.telerama.fr" tvg-logo="https://i.ibb.co/ZgqnqnJ/cgtnfr.png" group-title="Découverte" tvg-chno="87",CGTN (Français)
+#EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-logo="https://cdn.infiniweb.fr/images/channel/147/channel-landscape-png/300.png" group-title="Découverte" tvg-chno="63",Ushuaïa TV
+https://wza.idipper.com/live/_definst_/channel/3008/USHUAIATV/playlist.m3u8?tracking=IWe8e64f129853026309&ticket=064e09c3-cece-445a-a627-b2858418b1ca
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-logo="https://cdn.infiniweb.fr/images/channel/142/channel-landscape-png/300.png" group-title="Découverte" tvg-chno="74",Animaux
+https://wza.idipper.com/live/_definst_/channel/3003/ANIMAUX_TV/playlist.m3u8?tracking=IWe8e64f129853026309&ticket=53373641-bbdc-4608-b09d-33d219cae651
+#EXTINF:-1 tvg-id="CGTN.fr" tvg-logo="https://i.ibb.co/ZgqnqnJ/cgtnfr.png" group-title="Découverte" tvg-chno="87",CGTN (Français)
 https://livefr.cgtn.com/1000f/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yPsXSFf/esprsorc.png" group-title="Découverte" tvg-chno="111",L'Esprit Sorcier TV
+#EXTINF:-1 tvg-id="HistoireTV.fr" tvg-logo="https://cdn.infiniweb.fr/images/channel/144/channel-landscape-png/300.png" group-title="Découverte" tvg-chno="89",Histoire TV
+https://wza.idipper.com/live/_definst_/channel/3005/HISTOIRE_HD/playlist.m3u8?tracking=IWe8e64f129853026309&ticket=22b73e85-3b29-4289-9972-fa79a73e498c
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/yPsXSFf/esprsorc.png" group-title="Découverte" tvg-chno="111",L'Esprit Sorcier TV
 #EXTVLCOPT:http-referrer=https://player.castr.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 https://stream.castr.com/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
@@ -36,6 +44,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=570
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Découverte" tvg-chno=" ",TV Famille
 https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TVBreizh.fr" tvg-logo="https://cdn.infiniweb.fr/images/channel/145/channel-landscape-png/300.png" group-title="Cinéma-Séries" tvg-chno="49",TV Breizh
+https://wza.idipper.com/live/_definst_/channel/3006/TVBREIZH/playlist.m3u8?tracking=IWe8e64f129853026309&ticket=745293d6-4a01-4469-8379-c0e9ff1ade9c
+#EXTINF:-1 tvg-id="RTL9.lu" tvg-logo="https://cdn.infiniweb.fr/images/channel/141/channel-landscape-png/300.png" group-title="Cinéma-Séries" tvg-chno="58",RTL 9
+https://wza.idipper.com/live/_definst_/channel/3001/RTL9/playlist.m3u8?tracking=IWe8e64f129853026309&ticket=199796b3-5df9-4df2-adb3-cb35d38b1ea5
 #EXTINF:-1 tvg-id="A3Cine.es" tvg-logo=" " group-title="Cinéma-Séries" tvg-chno="",A3 Cine
 http://stream.flynetwifi.com:1935/live/mobile-028/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/ .png" group-title="Cinéma-Séries",A3 Clasicos
@@ -54,6 +66,8 @@ https://ssh101.bozztv.com/ssh101/a2fc54rg14yu/playlist.m3u8
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Novelachannel.png" group-title="Cinéma-Séries",Novela Channel
 https://video1.getstreamhosting.com:1936/8494/8494/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Cinéma-Séries",Paramount Channel (France)
+https://wza.idipper.com/live/_definst_/channel/3010/PARAMOUNT_CHANNEL/playlist.m3u8?tracking=IWe8e64f129853026309&ticket=e52e5f3e-6758-4872-99d7-aeef282f41d2
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/Sibprod/SibTV/raw/main/assets/Seriemax.png" group-title="Cinéma-Séries",Série Max
 https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8
 #EXTINF:-1 tvg-id="StarTVE.es" tvg-logo="https://i.imgur.com/zsCZHMh.png" group-title="Cinéma-Séries" tvg-chno=" ",Star TVE
@@ -105,6 +119,8 @@ https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
 https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
 #EXTINF-1 tvg-id="MoozRo.ro" tvg-logo=" " group-title="Musique",Mooz Ro
 https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
+#EXTINF-1 tvg-id="MTVHits.fr" tvg-logo=" " group-title="Musique",MTV Hits
+https://wza.idipper.com/live/_definst_/channel/3016/MTV_HITS_HD/playlist.m3u8?tracking=IWe8e64f129853026309&ticket=9a4e6840-2970-48f3-bca4-bd4d04f66b39
 #EXTINF-1 tvg-id="" tvg-logo=" " group-title="Musique",Qello Concerts by Stingray
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/62052a20-db91-467b-977a-993b051ed7f3/3.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20231011T084725SQUARE.png_20231011084726.png" group-title="Musique",Sol Música
@@ -185,6 +201,8 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Style de Vie" tvg-chno="31",N31
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/n31.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.infiniweb.fr/images/channel/143/channel-landscape-png/300.png" group-title="Style de Vie" tvg-chno="40",Automoto
+https://wza.idipper.com/live/_definst_/channel/3004/AB_MOTEURS/playlist.m3u8?tracking=IWe8e64f129853026309&ticket=ae155324-d7e2-4c16-aebd-e9b3424942cb
 #EXTINF:-1 tvg-id="C .api.telerama.fr" tvg-logo="https://i.ibb.co/883phd1/ktook.png" group-title="Style de Vie" tvg-chno="61",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Style de Vie" tvg-chno="79",Dieu TV
