@@ -581,7 +581,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="samsung-FR300004J5" tvg-id="FR300004J5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300004J5_20240319T052333SQUARE.png" group-title="Découverte" tvg-chno=" ",BFM Grands Reportages
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Cinéma-Séries" tvg-chno=" ",France TV Séries
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9rmSGqP/frsr.png" group-title="Cinéma-Séries" tvg-chno=" ",France TV Séries
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceTVSeries.m3u8
 #EXTINF:-1 tvg-id="FRBC4200004XH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200004XH_20230414T072304SQUARE.png_20230414072305.png" group-title="Sport" tvg-chno="4501",L'Equipe Live 1
 https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
