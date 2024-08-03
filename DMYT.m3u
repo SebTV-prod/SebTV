@@ -27,6 +27,8 @@ http://tvradiozap.eu/tools/dm.m3u8.php/x5gv5rr.m3u8
 http://tvradiozap.eu/tools/dm.m3u8.php/x5gv6be.m3u8
 #EXTINF:-1,Canal+ Sport (Test)
 http://tvradiozap.eu/tools/dm.m3u8.php/x8kf9q7.m3u8
+#EXTINF:-1,Canal 2 International
+https://tvradiozap.eu/tools/dm.m3u8.php/x8t0282.m3u8
 #EXTINF:-1,CNews
 https://tvradiozap.eu/tools/dm.m3u8.php/x3b68jn.m3u8
 #EXTINF:-1,CStar
@@ -43,6 +45,8 @@ https://tvradiozap.eu/tools/dm.m3u8.php/x2j4lj9.m3u8
 https://tvradiozap.eu/tools/yt.m3u8.php/@euronewsfr.m3u8
 #EXTINF:-1,Europe 1
 https://tvradiozap.eu/tools/dm.m3u8.php/xqjkfz.m3u8
+#EXTINF:-1,FM93 Québec
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/FM93Quebec.m3u8
 #EXTINF:-1,France Bleu Elsass
 https://tvradiozap.eu/tools/dm.m3u8.php/x72b0ey.m3u8
 #EXTINF:-1,Franceinfo (TV)
@@ -61,8 +65,12 @@ https://tvradiozap.eu/tools/dm.m3u8.php/x8fy3fv.m3u8
 https://tvradiozap.eu/tools/dm.m3u8.php/xxtuy6.m3u8
 #EXTINF:-1,Gabon 24
 https://tvradiozap.eu/tools/yt.m3u8.php/@tvgabon24.m3u8
+#EXTINF:-1,Guadeloupe 4 TV
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Guadeloupe4TV.m3u8
 #EXTINF:-1,Kosmo (Français)
 https://tvradiozap.eu/tools/yt.m3u8.php/@Kosmo_FR.m3u8
+#EXTINF:-1,La 16 TV
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/la16TV.m3u8
 #EXTINF:-1,L'Equipe
 https://tvradiozap.eu/tools/dm.m3u8.php/x2lefik.m3u8
 #EXTINF:-1,LCP
@@ -73,6 +81,8 @@ https://tvradiozap.eu/tools/dm.m3u8.php/x6qdjk7.m3u8
 https://tvradiozap.eu/tools/yt.m3u8.php/@LeMédiaOfficiel.m3u8
 #EXTINF:-1,Le Sanctuaire Notre-Dame-de-Lourdes
 https://tvradiozap.eu/tools/yt.m3u8.php/@LeSanctuaireNotreDamedeLourdes.m3u8
+#EXTINF:-1,LMTV Sarthe
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/LMTVSarthe.m3u8
 #EXTINF:-1,Lyon Capitale
 https://tvradiozap.eu/tools/dm.m3u8.php/x7z3zqa.m3u8
 #EXTINF:-1,M Le Média
@@ -89,10 +99,14 @@ https://tvradiozap.eu/tools/dm.m3u8.php/x2kr3hs.m3u8
 https://tvradiozap.eu/tools/yt.m3u8.php/@mosaiktv.m3u8
 #EXTINF:-1,Mouv'
 https://tvradiozap.eu/tools/dm.m3u8.php/x8g9lfe.m3u8
+#EXTINF:-1,MyTV Caraïbes
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/MyTVCaraibes.m3u8
 #EXTINF:-1,N31
 https://tvradiozap.eu/tools/dm.m3u8.php/x6nkjg1.m3u8
 #EXTINF:-1,NCA (La Nouvelle Chaîne Africaine)
 https://tvradiozap.eu/tools/yt.m3u8.php/@NCA-TV.m3u8
+#EXTINF:-1,Nolife
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Tubekathodique.m3u8
 #EXTINF:-1,Paris.TV
 https://tvradiozap.eu/tools/yt.m3u8.php/@PARISTVCOM.m3u8
 #EXTINF:-1,Pitit Manman Mari TV
@@ -127,8 +141,14 @@ https://tvradiozap.eu/tools/yt.m3u8.php/@sqooltv.m3u8
 https://tvradiozap.eu/tools/dm.m3u8.php/x8jqxru.m3u8
 #EXTINF:-1,Sud Radio
 https://tvradiozap.eu/tools/yt.m3u8.php/@SudRadioOfficiel.m3u8
+#EXTINF:-1,Tahiti Webradio
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Tahitiwebradio.m3u8
 #EXTINF:-1,Tech & Co
 https://tvradiozap.eu/tools/yt.m3u8.php/@TechAndCoBFM.m3u8
+#EXTINF:-1,Télégrenoble
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Telegrenoble.m3u8
+#EXTINF:-1,Télé-Mag
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Telemag.m3u8
 #EXTINF:-1,Télénantes
 https://tvradiozap.eu/tools/dm.m3u8.php/x5so98l.m3u8
 #EXTINF:-1,Telesud
@@ -139,8 +159,14 @@ https://tvradiozap.eu/tools/dm.m3u8.php/x7wcr45.m3u8
 https://tvradiozap.eu/tools/dm.m3u8.php/x89yjnn.m3u8
 #EXTINF:-1,TV7 Sud-Ouest
 https://tvradiozap.eu/tools/yt.m3u8.php/@Tv7Bordeaux33.m3u8
+#EXTINF:-1,TVC 9
+https://tvradiozap.eu/tools/yt.m3u8.php/@CablevisionTVC9.m3u8
+#EXTINF:-1,TVPi
+https://tvradiozap.eu/tools/yt.m3u8.php/@DiffusionTVPI.m3u8
 #EXTINF:-1,Ubiznews-OM5 TV
 https://tvradiozap.eu/tools/dm.m3u8.php/x8dicii.m3u8
+#EXTINF:-1,Valloire TV
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/ValloireTV.m3u8
 #EXTINF:-1,Vatican News (Français)
 https://tvradiozap.eu/tools/yt.m3u8.php/@VaticanNewsFR.m3u8
 #EXTINF:-1,Webcam Boulogne-sur-Mer
