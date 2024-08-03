@@ -31,6 +31,8 @@ http://tvradiozap.eu/tools/dm.m3u8.php/x5gv6be.m3u8
 http://tvradiozap.eu/tools/dm.m3u8.php/x8kf9q7.m3u8
 #EXTINF:-1,Canal 2 International
 https://tvradiozap.eu/tools/dm.m3u8.php/x8t0282.m3u8
+#EXTINF:-1,Chiconi FM TV
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/ChiconiFMTV.m3u8
 #EXTINF:-1,CNews
 https://tvradiozap.eu/tools/dm.m3u8.php/x3b68jn.m3u8
 #EXTINF:-1,CStar
