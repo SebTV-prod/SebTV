@@ -182,10 +182,14 @@ https://tvradiozap.eu/tools/dm.m3u8.php/x86oo1i.m3u8
 
 #EXTGRP:Youtube
 #EXTGRP:FRANÇAIS
+#EXTINF:-1,7 à Limoges
+https://tvradiozap.eu/tools/yt.m3u8.php/@7alimoges964.m3u8
 #EXTINF:-1,7 Info
 https://tvradiozap.eu/tools/yt.m3u8.php/@7infoci.m3u8
 #EXTINF:-1,Africanews (Français)
 https://tvradiozap.eu/tools/yt.m3u8.php/@africanewsfr.m3u8
+#EXTINF:-1,Astrocenter TV
+https://tvradiozap.eu/tools/yt.m3u8.php/@astrocenterFR.m3u8
 #EXTINF:-1,BibleVision Français
 https://tvradiozap.eu/tools/yt.m3u8.php/@biblevisionfrancais.m3u8
 #EXTINF:-1,Euronews (Français)
@@ -228,6 +232,8 @@ https://tvradiozap.eu/tools/yt.m3u8.php/@RMC.m3u8
 https://tvradiozap.eu/tools/yt.m3u8.php/@RTDTELEDJIBOUTI.m3u8
 #EXTINF:-1,Senegal 7 TV 
 https://tvradiozap.eu/tools/yt.m3u8.php/@Senegal7tv.m3u8
+#EXTINF:-1,Sqool TV
+https://tvradiozap.eu/tools/yt.m3u8.php/@sqooltv.m3u8
 #EXTINF:-1,Sud Radio
 https://tvradiozap.eu/tools/yt.m3u8.php/@SudRadioOfficiel.m3u8
 #EXTINF:-1,Tech & Co
@@ -246,12 +252,14 @@ https://tvradiozap.eu/tools/yt.m3u8.php/@station_mcw.m3u8
 https://tvradiozap.eu/tools/yt.m3u8.php/@VilledeSaintMalo35400.m3u8
 #EXTINF:-1,Webcam Vannes-Golfe du Morbihan
 https://tvradiozap.eu/tools/yt.m3u8.php/@GolfeMorbihan.m3u8
-#EXTINF:-1,ZEE English
-https://tvradiozap.eu/tools/dm.m3u8.php/@ZeeEnglish.m3u8
 
 #EXTGRP:ITALIANO
 #EXTINF:-1,Euronews Italiano
 https://tvradiozap.eu/tools/yt.m3u8.php/@euronewsit.m3u8
+#EXTINF:-1,La Tenda TV
+https://tvradiozap.eu/tools/yt.m3u8.php/@LaTendaTv.m3u8
+#EXTINF:-1,Lineagem
+https://tvradiozap.eu/tools/yt.m3u8.php/@Lineagem_Luca.m3u8
 #EXTINF:-1,QVC (Italia)
 https://tvradiozap.eu/tools/yt.m3u8.php/@qvcitalia.m3u8
 #EXTINF:-1,Sky TG24
@@ -268,6 +276,8 @@ https://tvradiozap.eu/tools/yt.m3u8.php/@VaticanNewsIT.m3u8
 #EXTGRP:ESPANOL
 #EXTINF:-1,24 Horas (Chile)
 https://tvradiozap.eu/tools/yt.m3u8.php/@24Horas_TVNChile.m3u8
+#EXTINF:-1,A24
+https://tvradiozap.eu/tools/yt.m3u8.php/@A24com.m3u8
 #EXTINF:-1,C5N
 https://tvradiozap.eu/tools/yt.m3u8.php/@c5n.m3u8
 #EXTINF:-1,Cadena 3 (Argentina)
@@ -306,6 +316,8 @@ https://tvradiozap.eu/tools/yt.m3u8.php/@radiolared.m3u8
 https://tvradiozap.eu/tools/yt.m3u8.php/@Radiomitre.m3u8
 #EXTINF:-1,Television Canaria
 https://tvradiozap.eu/tools/yt.m3u8.php/@TelevisionCanaria.m3u8
+#EXTINF:-1,Todo Noticias
+https://tvradiozap.eu/tools/yt.m3u8.php/@todonoticias.m3u8
 #EXTINF:-1,Urbana Play FM
 https://tvradiozap.eu/tools/yt.m3u8.php/@UrbanaPlayFM.m3u8
 #EXTINF:-1,VPI TV
@@ -362,6 +374,8 @@ https://tvradiozap.eu/tools/yt.m3u8.php/@CNBC.m3u8
 https://tvradiozap.eu/tools/yt.m3u8.php/@cnnnews18.m3u8
 #EXTINF:-1,Dark Monkey Music
 https://tvradiozap.eu/tools/yt.m3u8.php/@darkmonkey.m3u8
+#EXTINF:-1,Disney Junior
+https://tvradiozap.eu/tools/yt.m3u8.php/@disneyjunior.m3u8
 #EXTINF:-1,DW (English)
 https://tvradiozap.eu/tools/yt.m3u8.php/@dwnews.m3u8
 #EXTINF:-1,Earth TV
@@ -378,6 +392,8 @@ https://tvradiozap.eu/tools/yt.m3u8.php/@France24_en.m3u8
 https://tvradiozap.eu/tools/yt.m3u8.php/@GBNewsOnline.m3u8
 #EXTINF:-1,Hits Energy Radio
 https://tvradiozap.eu/tools/yt.m3u8.php/@hitsenergy.m3u8
+#EXTINF:-1,Ideal World
+https://tvradiozap.eu/tools/yt.m3u8.php/@IdealWorldTV.m3u8
 #EXTINF:-1,India Today
 https://tvradiozap.eu/tools/yt.m3u8.php/@indiatoday.m3u8
 #EXTINF:-1,Live Now from FOX
@@ -418,14 +434,20 @@ https://tvradiozap.eu/tools/yt.m3u8.php/@SaltFMUganda.m3u8
 https://tvradiozap.eu/tools/yt.m3u8.php/@SkyNews.m3u8
 #EXTINF:-1,Sonlife Broadcasting Network
 https://tvradiozap.eu/tools/yt.m3u8.php/@SonlifeTV.m3u8
-#EXTINF:-1,Sqool TV
-https://tvradiozap.eu/tools/yt.m3u8.php/@sqooltv.m3u8
+#EXTINF:-1,Talk TV
+https://tvradiozap.eu/tools/yt.m3u8.php/@talktv.m3u8
 #EXTINF:-1,The Good Life Radio
 https://tvradiozap.eu/tools/yt.m3u8.php/@TheGoodLiferadio
+#EXTINF:-1,TJC Style
+https://tvradiozap.eu/tools/yt.m3u8.php/@TJCStyle.m3u8
 #EXTINF:-1,Tomorrowland
-https://tvradiozap.eu/tools/yt.m3u8.php/@tomorrowland.m3u8
+https://tvradiozap.eu/tools/yt.m3u8.php/@tomorrowland.m3u
+#EXTINF:-1,Toolroom Records
+https://tvradiozap.eu/tools/yt.m3u8.php/@toolroomrecords.m3u8
 #EXTINF:-1,Top Hits - Live Radio
 https://tvradiozap.eu/tools/yt.m3u8.php/@topradios.m3u8
+#EXTINF:-1,TRT World
+https://tvradiozap.eu/tools/yt.m3u8.php/@trtworld.m3u8
 #EXTINF:-1,United Nations TV
 https://tvradiozap.eu/tools/yt.m3u8.php/@unitednations.m3u8
 #EXTINF:-1,Vatican News English
