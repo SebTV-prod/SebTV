@@ -1,18 +1,26 @@
 #EXTM3U
-#EXTGRP:Dailymotion
-#EXTGRP:FRANÇAIS
+#EXTINF:-1,7 à Limoges
+https://tvradiozap.eu/tools/yt.m3u8.php/@7alimoges964.m3u8
+#EXTINF:-1,7 Info
+https://tvradiozap.eu/tools/yt.m3u8.php/@7infoci.m3u8
 #EXTINF:-1,8 Mont-Blanc
 https://tvradiozap.eu/tools/dm.m3u8.php/x3wqv8b.m3u8
 #EXTINF:-1,8 Mont-Blanc (2d flux)
 https://tvradiozap.eu/tools/dm.m3u8.php/x71o73v.m3u8
 #EXTINF:-1,Africanews (Français)
 https://tvradiozap.eu/tools/dm.m3u8.php/x6i37o5.m3u8
+#EXTINF:-1,Africanews (Français)
+https://tvradiozap.eu/tools/yt.m3u8.php/@africanewsfr.m3u8
 #EXTINF:-1,Angers Télé
 https://tvradiozap.eu/tools/dm.m3u8.php/x8r7256.m3u8
 #EXTINF:-1,Arabel
 https://tvradiozap.eu/tools/dm.m3u8.php/x7teocz.m3u8
+#EXTINF:-1,Astrocenter TV
+https://tvradiozap.eu/tools/yt.m3u8.php/@astrocenterFR.m3u8
 #EXTINF:-1,B Smart
 https://tvradiozap.eu/tools/dm.m3u8.php/x7tn4fp.m3u8
+#EXTINF:-1,BibleVision Français
+https://tvradiozap.eu/tools/yt.m3u8.php/@biblevisionfrancais.m3u8
 #EXTINF:-1,C8
 http://tvradiozap.eu/tools/dm.m3u8.php/x5gv5rr.m3u8
 #EXTINF:-1,Canal+
@@ -31,44 +39,80 @@ https://tvradiozap.eu/tools/dm.m3u8.php/x8azdl4.m3u8
 https://tvradiozap.eu/tools/dm.m3u8.php/x8azdk1.m3u8
 #EXTINF:-1,Euronews (Français)
 https://tvradiozap.eu/tools/dm.m3u8.php/x2j4lj9.m3u8
+#EXTINF:-1,Euronews (Français)
+https://tvradiozap.eu/tools/yt.m3u8.php/@euronewsfr.m3u8
 #EXTINF:-1,Europe 1
 https://tvradiozap.eu/tools/dm.m3u8.php/xqjkfz.m3u8
 #EXTINF:-1,France Bleu Elsass
 https://tvradiozap.eu/tools/dm.m3u8.php/x72b0ey.m3u8
 #EXTINF:-1,Franceinfo (TV)
 https://tvradiozap.eu/tools/dm.m3u8.php/x4rdeu6.m3u8
+#EXTINF:-1,Franceinfo (TV)
+https://tvradiozap.eu/tools/yt.m3u8.php/@franceinfo.m3u8
 #EXTINF:-1,Franceinfo (Radio)
 https://tvradiozap.eu/tools/dm.m3u8.php/x26eox4.m3u8
 #EXTINF:-1,France Inter
 https://tvradiozap.eu/tools/dm.m3u8.php/x17qw0a.m3u8
+#EXTINF:-1,France Inter
+https://tvradiozap.eu/tools/yt.m3u8.php/@FranceInter.m3u8
 #EXTINF:-1,Fun Radio (Belgique)
 https://tvradiozap.eu/tools/dm.m3u8.php/x8fy3fv.m3u8
 #EXTINF:-1,Fun Radio (France)
 https://tvradiozap.eu/tools/dm.m3u8.php/xxtuy6.m3u8
+#EXTINF:-1,Gabon 24
+https://tvradiozap.eu/tools/yt.m3u8.php/@tvgabon24.m3u8
+#EXTINF:-1,Kosmo (Français)
+https://tvradiozap.eu/tools/yt.m3u8.php/@Kosmo_FR.m3u8
 #EXTINF:-1,L'Equipe
 https://tvradiozap.eu/tools/dm.m3u8.php/x2lefik.m3u8
 #EXTINF:-1,LCP
 https://tvradiozap.eu/tools/dm.m3u8.php/xgepjr.m3u8
 #EXTINF:-1,Le Journal du Golf TV
 https://tvradiozap.eu/tools/dm.m3u8.php/x6qdjk7.m3u8
+#EXTINF:-1,Le Media TV
+https://tvradiozap.eu/tools/yt.m3u8.php/@LeMédiaOfficiel.m3u8
+#EXTINF:-1,Le Sanctuaire Notre-Dame-de-Lourdes
+https://tvradiozap.eu/tools/yt.m3u8.php/@LeSanctuaireNotreDamedeLourdes.m3u8
 #EXTINF:-1,Lyon Capitale
 https://tvradiozap.eu/tools/dm.m3u8.php/x7z3zqa.m3u8
 #EXTINF:-1,M Le Média
 https://tvradiozap.eu/tools/dm.m3u8.php/x8j47xa.m3u8
 #EXTINF:-1,Maison & Travaux TV
 https://tvradiozap.eu/tools/dm.m3u8.php/x85e5l8.m3u8
+#EXTINF:-1,Martinique La 1ère (Radio)
+https://tvradiozap.eu/tools/yt.m3u8.php/@martiniquela1ere.m3u8
+#EXTINF:-1,Maurienne TV
+https://tvradiozap.eu/tools/yt.m3u8.php/@MaurienneTV-fr.m3u8
 #EXTINF:-1,Men's Up TV
 https://tvradiozap.eu/tools/dm.m3u8.php/x2kr3hs.m3u8
+#EXTINF:-1,Mosaïk Cristal
+https://tvradiozap.eu/tools/yt.m3u8.php/@mosaiktv.m3u8
 #EXTINF:-1,Mouv'
 https://tvradiozap.eu/tools/dm.m3u8.php/x8g9lfe.m3u8
 #EXTINF:-1,N31
 https://tvradiozap.eu/tools/dm.m3u8.php/x6nkjg1.m3u8
+#EXTINF:-1,NCA (La Nouvelle Chaîne Africaine)
+https://tvradiozap.eu/tools/yt.m3u8.php/@NCA-TV.m3u8
+#EXTINF:-1,Paris.TV
+https://tvradiozap.eu/tools/yt.m3u8.php/@PARISTVCOM.m3u8
+#EXTINF:-1,Pitit Manman Mari TV
+https://tvradiozap.eu/tools/yt.m3u8.php/@pititmanmanmaritv3524.m3u8
 #EXTINF:-1,Public Sénat
 https://tvradiozap.eu/tools/dm.m3u8.php/xkxbzc.m3u8
+#EXTINF:-1,Radio Espérance
+https://tvradiozap.eu/tools/dm.m3u8.php/x8n8jzl.m3u8
 #EXTINF:-1,Radio Karaoké
 https://tvradiozap.eu/tools/dm.m3u8.php/x8yse8i.m3u8
-#EXTINF:-1,RFM Sénégal
+#EXTINF:-1,Radio Vision d'Espoir
+https://tvradiozap.eu/tools/yt.m3u8.php/@visiondespoirtv.m3u8
+#EXTINF:-1,RFI
+https://tvradiozap.eu/tools/yt.m3u8.php/@RFI_Fr.m3u8
+#EXTINF:-1,RFM (Sénégal)
 https://tvradiozap.eu/tools/dm.m3u8.php/x7wi5y1.m3u8
+#EXTINF:-1,RMC La Radio
+https://tvradiozap.eu/tools/yt.m3u8.php/@RMC.m3u8
+#EXTINF:-1,RTD 4
+https://tvradiozap.eu/tools/yt.m3u8.php/@RTDTELEDJIBOUTI.m3u8
 #EXTINF:-1,RTL (France)
 https://tvradiozap.eu/tools/dm.m3u8.php/xl1km0.m3u8
 #EXTINF:-1,RTL 2 (France)
@@ -77,16 +121,40 @@ https://tvradiozap.eu/tools/dm.m3u8.php/x2tzzpj.m3u8
 https://tvradiozap.eu/tools/dm.m3u8.php/x7rkbk4.m3u8
 #EXTINF:-1,Sport En France
 https://tvradiozap.eu/tools/dm.m3u8.php/x8sayn8.m3u8
+#EXTINF:-1,Sqool TV
+https://tvradiozap.eu/tools/yt.m3u8.php/@sqooltv.m3u8
 #EXTINF:-1,Sud Radio
 https://tvradiozap.eu/tools/dm.m3u8.php/x8jqxru.m3u8
+#EXTINF:-1,Sud Radio
+https://tvradiozap.eu/tools/yt.m3u8.php/@SudRadioOfficiel.m3u8
+#EXTINF:-1,Tech & Co
+https://tvradiozap.eu/tools/yt.m3u8.php/@TechAndCoBFM.m3u8
 #EXTINF:-1,Télénantes
 https://tvradiozap.eu/tools/dm.m3u8.php/x5so98l.m3u8
 #EXTINF:-1,Telesud
 https://tvradiozap.eu/tools/dm.m3u8.php/x8tl030.m3u8
+#EXTINF:-1,TFM (Sénégal)
+https://tvradiozap.eu/tools/dm.m3u8.php/x7wcr45.m3u8
 #EXTINF:-1,Top Santé TV
 https://tvradiozap.eu/tools/dm.m3u8.php/x89yjnn.m3u8
+#EXTINF:-1,TV7 Sud-Ouest
+https://tvradiozap.eu/tools/yt.m3u8.php/@Tv7Bordeaux33.m3u8
 #EXTINF:-1,Ubiznews-OM5 TV
 https://tvradiozap.eu/tools/dm.m3u8.php/x8dicii.m3u8
+#EXTINF:-1,Vatican News (Français)
+https://tvradiozap.eu/tools/yt.m3u8.php/@VaticanNewsFR.m3u8
+#EXTINF:-1,Webcam Boulogne-sur-Mer
+https://tvradiozap.eu/tools/yt.m3u8.php/x7xwrn4.m3u8
+#EXTINF:-1,Webcam Fort-Mahon-Plage
+https://tvradiozap.eu/tools/yt.m3u8.php/@fort-mahonplage-lawebcam1332.m3u8
+#EXTINF:-1,Webcam Les Karellis
+https://tvradiozap.eu/tools/yt.m3u8.php/@leskarellisstationdesavoie5395.m3u8
+#EXTINF:-1,Webcam Météo Corse
+https://tvradiozap.eu/tools/yt.m3u8.php/@station_mcw.m3u8
+#EXTINF:-1,Webcam Saint-Malo 
+https://tvradiozap.eu/tools/yt.m3u8.php/@VilledeSaintMalo35400.m3u8
+#EXTINF:-1,Webcam Vannes-Golfe du Morbihan
+https://tvradiozap.eu/tools/yt.m3u8.php/@GolfeMorbihan.m3u8
 
 #EXTGRP:ITALIANO
 #EXTINF:-1,Euronews (Italiano)
@@ -181,72 +249,6 @@ https://tvradiozap.eu/tools/dm.m3u8.php/x86oo35.m3u8
 https://tvradiozap.eu/tools/dm.m3u8.php/x86oo1i.m3u8
 
 #EXTGRP:Youtube
-#EXTGRP:FRANÇAIS
-#EXTINF:-1,7 à Limoges
-https://tvradiozap.eu/tools/yt.m3u8.php/@7alimoges964.m3u8
-#EXTINF:-1,7 Info
-https://tvradiozap.eu/tools/yt.m3u8.php/@7infoci.m3u8
-#EXTINF:-1,Africanews (Français)
-https://tvradiozap.eu/tools/yt.m3u8.php/@africanewsfr.m3u8
-#EXTINF:-1,Astrocenter TV
-https://tvradiozap.eu/tools/yt.m3u8.php/@astrocenterFR.m3u8
-#EXTINF:-1,BibleVision Français
-https://tvradiozap.eu/tools/yt.m3u8.php/@biblevisionfrancais.m3u8
-#EXTINF:-1,Euronews (Français)
-https://tvradiozap.eu/tools/yt.m3u8.php/@euronewsfr.m3u8
-#EXTINF:-1,Franceinfo (TV)
-https://tvradiozap.eu/tools/yt.m3u8.php/@franceinfo.m3u8
-#EXTINF:-1,France Inter
-https://tvradiozap.eu/tools/yt.m3u8.php/@FranceInter.m3u8
-#EXTINF:-1,Gabon 24
-https://tvradiozap.eu/tools/yt.m3u8.php/@tvgabon24.m3u8
-#EXTINF:-1,Kosmo Français
-https://tvradiozap.eu/tools/yt.m3u8.php/@Kosmo_FR.m3u8
-#EXTINF:-1,Le Media TV
-https://tvradiozap.eu/tools/yt.m3u8.php/@LeMédiaOfficiel.m3u8
-#EXTINF:-1,Le Sanctuaire Notre-Dame-de-Lourdes
-https://tvradiozap.eu/tools/yt.m3u8.php/@LeSanctuaireNotreDamedeLourdes.m3u8
-#EXTINF:-1,Martinique La 1ère (Radio)
-https://tvradiozap.eu/tools/yt.m3u8.php/@martiniquela1ere.m3u8
-#EXTINF:-1,Maurienne TV
-https://tvradiozap.eu/tools/yt.m3u8.php/@MaurienneTV-fr.m3u8
-#EXTINF:-1,Mosaïk Cristal
-https://tvradiozap.eu/tools/yt.m3u8.php/@mosaiktv.m3u8
-#EXTINF:-1,NCA (La Nouvelle Chaîne Africaine)
-https://tvradiozap.eu/tools/yt.m3u8.php/@NCA-TV.m3u8
-#EXTINF:-1,Paris.TV
-https://tvradiozap.eu/tools/yt.m3u8.php/@PARISTVCOM.m3u8
-#EXTINF:-1,Pitit Manman Mari TV
-https://tvradiozap.eu/tools/yt.m3u8.php/@pititmanmanmaritv3524.m3u8
-#EXTINF:-1,Radio Vision d'Espoir
-https://tvradiozap.eu/tools/yt.m3u8.php/@visiondespoirtv.m3u8
-#EXTINF:-1,RFI
-https://tvradiozap.eu/tools/yt.m3u8.php/@RFI_Fr.m3u8
-#EXTINF:-1,RMC Info
-https://tvradiozap.eu/tools/yt.m3u8.php/@RMC.m3u8
-#EXTINF:-1,RTD 4
-https://tvradiozap.eu/tools/yt.m3u8.php/@RTDTELEDJIBOUTI.m3u8
-#EXTINF:-1,Sqool TV
-https://tvradiozap.eu/tools/yt.m3u8.php/@sqooltv.m3u8
-#EXTINF:-1,Sud Radio
-https://tvradiozap.eu/tools/yt.m3u8.php/@SudRadioOfficiel.m3u8
-#EXTINF:-1,Tech & Co
-https://tvradiozap.eu/tools/yt.m3u8.php/@TechAndCoBFM.m3u8
-#EXTINF:-1,TV7 Sud-Ouest
-https://tvradiozap.eu/tools/yt.m3u8.php/@Tv7Bordeaux33.m3u8
-#EXTINF:-1,Vatican News Français
-https://tvradiozap.eu/tools/yt.m3u8.php/@VaticanNewsFR.m3u8
-#EXTINF:-1,Webcam Fort-Mahon-Plage
-https://tvradiozap.eu/tools/yt.m3u8.php/@fort-mahonplage-lawebcam1332.m3u8
-#EXTINF:-1,Webcam Les Karellis
-https://tvradiozap.eu/tools/yt.m3u8.php/@leskarellisstationdesavoie5395.m3u8
-#EXTINF:-1,Webcam Météo Corse
-https://tvradiozap.eu/tools/yt.m3u8.php/@station_mcw.m3u8
-#EXTINF:-1,Webcam Saint-Malo 
-https://tvradiozap.eu/tools/yt.m3u8.php/@VilledeSaintMalo35400.m3u8
-#EXTINF:-1,Webcam Vannes-Golfe du Morbihan
-https://tvradiozap.eu/tools/yt.m3u8.php/@GolfeMorbihan.m3u8
-
 #EXTGRP:ITALIANO
 #EXTINF:-1,Euronews Italiano
 https://tvradiozap.eu/tools/yt.m3u8.php/@euronewsit.m3u8
