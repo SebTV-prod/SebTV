@@ -128,6 +128,8 @@ https://media1.radioservers.biz:1936/cnv/cnv/playlist.m3u8
 https://srv.webtvmanager.fr:3635/stream/play.m3u8
 #EXTINF:-1 tvg-logo=" ",CPAC (Français)
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+#EXTINF:-1 tvg-logo=" ",Csur.TV
+https://player.castr.com/live_f88ae0808c9911ee9d20297cbe04ce6d
 #EXTINF:-1 tvg-logo=" ",D5 Music
 https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/592.m3u8
 #EXTINF:-1 tvg-logo="",D5 TV
@@ -356,6 +358,8 @@ https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
 https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3KuRD19.png",TV Com
 https://tvlocales-live.freecaster.com/95d2f656-50f1-432b-84a6-ce11c6cdb482/95d2f656-50f1-432b-84a6-ce11c6cdb482.isml/master.m3u8
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/bb6a74b4-9f8e-4d29-b0a5-4ec997a08545-profile_image-70x70.png",TVCTK
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/TVCTK.m3u8
 #EXTINF:-1 tvg-logo="https://tvfrancophonie.org/templates/tvf-3-5-titre-centre/images/header.jpg",TV Francophonie.org
 https://5421175365ea3.streamlock.net/live/switch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ljbdWkC.png",TV Lux
