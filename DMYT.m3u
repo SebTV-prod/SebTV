@@ -173,6 +173,8 @@ https://tvradiozap.eu/tools/dm.m3u8.php/x8dicii.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/ValloireTV.m3u8
 #EXTINF:-1,Vatican News (Français)
 https://tvradiozap.eu/tools/yt.m3u8.php/@VaticanNewsFR.m3u8
+#EXTINF:-1,Ville de Montréal
+https://tvradiozap.eu/tools/yt.m3u8.php/@MTLVille.m3u8
 #EXTINF:-1,Webcam Boulogne-sur-Mer
 https://tvradiozap.eu/tools/yt.m3u8.php/x7xwrn4.m3u8
 #EXTINF:-1,Webcam Fort-Mahon-Plage
