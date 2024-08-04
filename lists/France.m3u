@@ -232,8 +232,6 @@ https://streaming1.medi1tv.com/live/medi1tv.smil/master.m3u8
 https://live.creacast.com/telemelody/smil:telemelody-211112.smil/.m3u8
 #EXTINF:-1 tvg-logo=" ",Mezzo
 https://bkm.beetv.kz/btv/live/hls/000000030.m3u8
-#EXTINF:-1 tvg-logo=" ",MGG
-https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/MGG.m3u8
 #EXTINF:-1 tvg-logo=" ",Monaco Info
 https://webtv.monacoinfo.com/live/prod/index.m3u8
 #EXTINF:-1 tvg-logo=" ",Moselle TV
@@ -382,193 +380,201 @@ https://tvlocales-live.freecaster.com/95d2f480-3c9f-48ba-ba4e-af64b58431ef/95d2f
 https://streamer01.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018_medium/index.m3u8
 
 -DM,YT,TWITCH-
-#EXTINF:-1,7 à Limoges
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/f-dQzTnkyRbC_znNPbvUv9XpJYqJZf_NTeujXEr_8ttjOdcwuEktPBMaMcWYsxQM-69jiOTRbA=s176-c-k-c0x00ffffff-no-rj-mo",7 à Limoges
 https://tvradiozap.eu/tools/yt.m3u8.php/@7alimoges964.m3u8
-#EXTINF:-1,7 Info
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Fsc48YuvrJh5sWWN6PgAJPmCmahCwh-6R1haMgcltx0ncjvQfukHOG5UEzA7Ow0cwP6-7bFM=s176-c-k-c0x00ffffff-no-rj-mo",7 Info
 https://tvradiozap.eu/tools/yt.m3u8.php/@7infoci.m3u8
-#EXTINF:-1,8 Mont-Blanc
+#EXTINF:-1 tvg-logo="",8 Mont-Blanc
 https://tvradiozap.eu/tools/dm.m3u8.php/x3wqv8b.m3u8
-#EXTINF:-1,8 Mont-Blanc (2d flux)
+#EXTINF:-1 tvg-logo="",8 Mont-Blanc (2d flux)
 https://tvradiozap.eu/tools/dm.m3u8.php/x71o73v.m3u8
-#EXTINF:-1,Africanews (Français)
+#EXTINF:-1 tvg-logo="",Africanews (Français)
 https://tvradiozap.eu/tools/dm.m3u8.php/x6i37o5.m3u8
-#EXTINF:-1,Africanews (Français)
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nPCPPLjp-33-ae31fQNCUONzD_xU9OYLH0GCbz28e8dco=s176-c-k-c0x00ffffff-no-rj-mo",Africanews (Français)
 https://tvradiozap.eu/tools/yt.m3u8.php/@africanewsfr.m3u8
-#EXTINF:-1,Angers Télé
+#EXTINF:-1 tvg-logo="",Angers Télé
 https://tvradiozap.eu/tools/dm.m3u8.php/x8r7256.m3u8
-#EXTINF:-1,Arabel
+#EXTINF:-1 tvg-logo="",Arabel
 https://tvradiozap.eu/tools/dm.m3u8.php/x7teocz.m3u8
-#EXTINF:-1,Astrocenter TV
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/p-57LN8SfcBA1AqhXs7qdTyC1bCLw-Y6BCfHOm3puyCGomtNckRgQzo-f6EzXBlEMXvJWHJf7A=s176-c-k-c0x00ffffff-no-rj-mo",Astrocenter TV
 https://tvradiozap.eu/tools/yt.m3u8.php/@astrocenterFR.m3u8
-#EXTINF:-1,ASTV
+#EXTINF:-1 tvg-logo="",ASTV
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/ASTV.m3u8
-#EXTINF:-1,B Smart
+#EXTINF:-1 tvg-logo="",B Smart
 https://tvradiozap.eu/tools/dm.m3u8.php/x7tn4fp.m3u8
-#EXTINF:-1,BibleVision Français
+#EXTINF:-1 tvg-logo="",BibleVision Français
 https://tvradiozap.eu/tools/yt.m3u8.php/@biblevisionfrancais.m3u8
-#EXTINF:-1,C8
+#EXTINF:-1 tvg-logo="",C8
 http://tvradiozap.eu/tools/dm.m3u8.php/x5gv5rr.m3u8
-#EXTINF:-1,Canal+
+#EXTINF:-1 tvg-logo="",Canal+
 http://tvradiozap.eu/tools/dm.m3u8.php/x5gv6be.m3u8
-#EXTINF:-1,Canal+ Sport (Test)
+#EXTINF:-1 tvg-logo="",Canal+ Sport (Test)
 http://tvradiozap.eu/tools/dm.m3u8.php/x8kf9q7.m3u8
-#EXTINF:-1,Canal 2 International
+#EXTINF:-1 tvg-logo="",Canal 2 International
 https://tvradiozap.eu/tools/dm.m3u8.php/x8t0282.m3u8
-#EXTINF:-1,Chiconi FM TV
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/81ba876d-fb66-485e-8c04-382dd5d0dc92-profile_image-150x150.png",Chiconi FM TV (not 24/7)
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/ChiconiFMTV.m3u8
-#EXTINF:-1,CNews
+#EXTINF:-1 tvg-logo="",CNews
 https://tvradiozap.eu/tools/dm.m3u8.php/x3b68jn.m3u8
-#EXTINF:-1,CStar
+#EXTINF:-1 tvg-logo="",CStar
 https://tvradiozap.eu/tools/dm.m3u8.php/x5gv5v0.m3u8
-#EXTINF:-1,EMCI (Afrique)
+#EXTINF:-1 tvg-logo="",EMCI (Afrique)
 https://tvradiozap.eu/tools/dm.m3u8.php/x8azdkm.m3u8
-#EXTINF:-1,EMCI (Amérique)
+#EXTINF:-1 tvg-logo="",EMCI (Amérique)
 https://tvradiozap.eu/tools/dm.m3u8.php/x8azdl4.m3u8
-#EXTINF:-1,EMCI (Europe)
+#EXTINF:-1 tvg-logo="",EMCI (Europe)
 https://tvradiozap.eu/tools/dm.m3u8.php/x8azdk1.m3u8
-#EXTINF:-1,Euronews (Français)
+#EXTINF:-1 tvg-logo="",Euronews (Français)
 https://tvradiozap.eu/tools/dm.m3u8.php/x2j4lj9.m3u8
-#EXTINF:-1,Euronews (Français)
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/HTOTZi2U8zk4wk6MqJa07U5PpZ_G8wKOMYI49rlaxUUPVGWEfOK-FXFnPU6t2Eiowfz-F1Tm4Q=s176-c-k-c0x00ffffff-no-rj-mo",Euronews (Français)
 https://tvradiozap.eu/tools/yt.m3u8.php/@euronewsfr.m3u8
-#EXTINF:-1,Europe 1
+#EXTINF:-1 tvg-logo="",Europe 1
 https://tvradiozap.eu/tools/dm.m3u8.php/xqjkfz.m3u8
-#EXTINF:-1,FM93 Québec
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/0eba5085-f93f-4f84-bd0b-bf132e495e3e-profile_image-150x150.png",FM93 Québec
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/FM93Quebec.m3u8
-#EXTINF:-1,France Bleu Elsass
+#EXTINF:-1 tvg-logo="",France Bleu Elsass
 https://tvradiozap.eu/tools/dm.m3u8.php/x72b0ey.m3u8
-#EXTINF:-1,Franceinfo (TV)
+#EXTINF:-1 tvg-logo="",Franceinfo (TV)
 https://tvradiozap.eu/tools/dm.m3u8.php/x4rdeu6.m3u8
-#EXTINF:-1,Franceinfo (TV)
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nHB3lxXh8PcGgMTgBPmFKovSbKRxBTavrjbjomHTg1HpFp=s176-c-k-c0x00ffffff-no-rj-mo",Franceinfo (TV)
 https://tvradiozap.eu/tools/yt.m3u8.php/@franceinfo.m3u8
-#EXTINF:-1,Franceinfo (Radio)
+#EXTINF:-1 tvg-logo="",Franceinfo (Radio)
 https://tvradiozap.eu/tools/dm.m3u8.php/x26eox4.m3u8
-#EXTINF:-1,France Inter
+#EXTINF:-1 tvg-logo="",France Inter
 https://tvradiozap.eu/tools/dm.m3u8.php/x17qw0a.m3u8
-#EXTINF:-1,France Inter
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a3JSTbtCxqvP67gtm-lIOrWFUvOPQWJIm9LOWmoG38v6as_OgjISVE5w0PsFA9My48CdnBXTKQ=s176-c-k-c0x00ffffff-no-rj-mo",France Inter
 https://tvradiozap.eu/tools/yt.m3u8.php/@FranceInter.m3u8
-#EXTINF:-1,Fun Radio (Belgique)
+#EXTINF:-1 tvg-logo="",Fun Radio (Belgique)
 https://tvradiozap.eu/tools/dm.m3u8.php/x8fy3fv.m3u8
-#EXTINF:-1,Fun Radio (France)
+#EXTINF:-1 tvg-logo="",Fun Radio (France)
 https://tvradiozap.eu/tools/dm.m3u8.php/xxtuy6.m3u8
-#EXTINF:-1,Gabon 24
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/6hYz1o3RdUxQ_0yL0dodfXqTTI9kCPxQecISZb9ewMjGrdhMfB6wCud9vihroQw3p41JojYt=s176-c-k-c0x00ffffff-no-rj-mo",Gabon 24
 https://tvradiozap.eu/tools/yt.m3u8.php/@tvgabon24.m3u8
-#EXTINF:-1,Guadeloupe 4 TV
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/18c6b431-c3db-4ac8-92bd-104554a2bb95-profile_image-150x150.png",Guadeloupe 4 TV
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Guadeloupe4TV.m3u8
-#EXTINF:-1,Kosmo (Français)
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ZDLMk8sm1aFCkzw_29qLJvIUMQVmBrrzaCIumBYDucp0YhXib6Dz7jxyqbkIsnd89b1UOfMnLA=s176-c-k-c0x00ffffff-no-rj-mo",Kosmo (Français)
 https://tvradiozap.eu/tools/yt.m3u8.php/@Kosmo_FR.m3u8
-#EXTINF:-1,La 16 TV
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/37f95bf6-dec0-48b4-824c-01b50ebb1d94-profile_image-150x150.png",La 16 TV
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/la16TV.m3u8
-#EXTINF:-1,L'Equipe
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mx_Jqx4izle7VIL6DUjs2z1e7i8Ngx1xm-i68Lf-91Gg=s160-c-k-c0x00ffffff-no-rj",La Chaîne 32
+https://tvradiozap.eu/tools/yt.m3u8.php/@lachaine3219.m3u8
+#EXTINF:-1 tvg-logo="",L'Equipe
 https://tvradiozap.eu/tools/dm.m3u8.php/x2lefik.m3u8
-#EXTINF:-1,LCP
+#EXTINF:-1 tvg-logo="",LCP
 https://tvradiozap.eu/tools/dm.m3u8.php/xgepjr.m3u8
-#EXTINF:-1,Le Journal du Golf TV
+#EXTINF:-1 tvg-logo="",Le Journal du Golf TV
 https://tvradiozap.eu/tools/dm.m3u8.php/x6qdjk7.m3u8
-#EXTINF:-1,Le Media TV
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ntdqL1G0BupqDhbD2Sxejdx2tmv07nmFtUW9fpFslCTXc=s176-c-k-c0x00ffffff-no-rj-mo",Le Media TV
 https://tvradiozap.eu/tools/yt.m3u8.php/@LeMédiaOfficiel.m3u8
-#EXTINF:-1,Le Sanctuaire Notre-Dame-de-Lourdes
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/WSq_VxcqTx-9jF4UrPdqKUJk0dx5l94JGAzMPBLuinbzrzntRaWvra0u82y1HYAW_gOMpQQjDjA=s176-c-k-c0x00ffffff-no-rj-mo",Le Sanctuaire Notre-Dame-de-Lourdes
 https://tvradiozap.eu/tools/yt.m3u8.php/@LeSanctuaireNotreDamedeLourdes.m3u8
-#EXTINF:-1,LMTV Sarthe
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/1922e9e2-2c7a-48cd-9095-d5cd85562178-profile_image-70x70.png",LMTV Sarthe
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/LMTVSarthe.m3u8
-#EXTINF:-1,Lyon Capitale
+#EXTINF:-1 tvg-logo="",Lyon Capitale
 https://tvradiozap.eu/tools/dm.m3u8.php/x7z3zqa.m3u8
-#EXTINF:-1,M Le Média
+#EXTINF:-1 tvg-logo="",M Le Média
 https://tvradiozap.eu/tools/dm.m3u8.php/x8j47xa.m3u8
-#EXTINF:-1,Maison & Travaux TV
+#EXTINF:-1 tvg-logo="",Maison & Travaux TV
 https://tvradiozap.eu/tools/dm.m3u8.php/x85e5l8.m3u8
-#EXTINF:-1,Martinique La 1ère (Radio)
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lmO70gzBSdbnFfNEYN1LiC6dIGYjxdVgQYNf-9aOzWv-A=s176-c-k-c0x00ffffff-no-rj-mo",Martinique La 1ère (Radio)
 https://tvradiozap.eu/tools/yt.m3u8.php/@martiniquela1ere.m3u8
-#EXTINF:-1,Maurienne TV
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lyvTfBPX3MRGglvY8bjDu8gkm4PVH4BT_Vs1Qmdg5SOZo=s176-c-k-c0x00ffffff-no-rj-mo",Maurienne TV
 https://tvradiozap.eu/tools/yt.m3u8.php/@MaurienneTV-fr.m3u8
-#EXTINF:-1,Men's Up TV
+#EXTINF:-1 tvg-logo="",Men's Up TV
 https://tvradiozap.eu/tools/dm.m3u8.php/x2kr3hs.m3u8
-#EXTINF:-1,Mosaïk Cristal
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/743b0ac7-a5be-4bbc-bfe9-179341be5264-profile_image-150x150.png",MGG
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/MGG.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kZV2pNnr_cwz95_g7RxkABrAImyzwQ-u1Oxm8BxukhHF0=s176-c-k-c0x00ffffff-no-rj-mo",Mosaïk Cristal
 https://tvradiozap.eu/tools/yt.m3u8.php/@mosaiktv.m3u8
-#EXTINF:-1,Mouv'
+#EXTINF:-1 tvg-logo="",Mouv'
 https://tvradiozap.eu/tools/dm.m3u8.php/x8g9lfe.m3u8
-#EXTINF:-1,MyTV Caraïbes
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/667f0bd6-8dea-4ba5-8f90-fbb0c5e75385-profile_image-150x150.png",MyTV Caraïbes
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/MyTVCaraibes.m3u8
-#EXTINF:-1,N31
+#EXTINF:-1 tvg-logo="",N31
 https://tvradiozap.eu/tools/dm.m3u8.php/x6nkjg1.m3u8
-#EXTINF:-1,NCA (La Nouvelle Chaîne Africaine)
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/2EU3POJGSoY4847AkO6Cs4-7IJNdBIQ-Aaa977sCFWCwtiXzlGsXatf0lFHSXQEUXMTOpxzlmw=s160-c-k-c0x00ffffff-no-rj",NCA (La Nouvelle Chaîne Africaine)
 https://tvradiozap.eu/tools/yt.m3u8.php/@NCA-TV.m3u8
-#EXTINF:-1,Nolife
-https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Tubekathodique.m3u8
-#EXTINF:-1,Paris.TV
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ndCx_cElX-WyeXSbGy5iya4eh18ry4XidpMN6GgAyDgg=s160-c-k-c0x00ffffff-no-rj",Paris.TV
 https://tvradiozap.eu/tools/yt.m3u8.php/@PARISTVCOM.m3u8
-#EXTINF:-1,Pitit Manman Mari TV
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lX89wHEBd4vnN417kNpTgN-xEPtdrFL1-u1a4yahe3VA=s176-c-k-c0x00ffffff-no-rj-mo",Pitit Manman Mari TV
 https://tvradiozap.eu/tools/yt.m3u8.php/@pititmanmanmaritv3524.m3u8
-#EXTINF:-1,Public Sénat
+#EXTINF:-1 tvg-logo="",Public Sénat
 https://tvradiozap.eu/tools/dm.m3u8.php/xkxbzc.m3u8
-#EXTINF:-1,Radio Espérance
+#EXTINF:-1 tvg-logo="",Radio Espérance
 https://tvradiozap.eu/tools/dm.m3u8.php/x8n8jzl.m3u8
-#EXTINF:-1,Radio Karaoké
+#EXTINF:-1 tvg-logo="",Radio Karaoké
 https://tvradiozap.eu/tools/dm.m3u8.php/x8yse8i.m3u8
-#EXTINF:-1,Radio Vision d'Espoir
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Uq6JE_-ZfUWpbCkYZrqe8_Qye2Ntpbc-EEqknz2YS7QvCdAHbhDWi9QfCl0_9Q-tfz7X3HvI=s176-c-k-c0x00ffffff-no-rj-mo",Radio Vision d'Espoir
 https://tvradiozap.eu/tools/yt.m3u8.php/@visiondespoirtv.m3u8
-#EXTINF:-1,RFI
+#EXTINF:-1 tvg-logo="",RFI
 https://tvradiozap.eu/tools/yt.m3u8.php/@RFI_Fr.m3u8
-#EXTINF:-1,RFM (Sénégal)
+#EXTINF:-1 tvg-logo="",RFM (Sénégal)
 https://tvradiozap.eu/tools/dm.m3u8.php/x7wi5y1.m3u8
-#EXTINF:-1,RMC La Radio
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k7rcILtB71q3kwlCwX14_jfamwiA4_U74MX8PZ6-sC7Rk=s160-c-k-c0x00ffffff-no-rj",RMC La Radio
 https://tvradiozap.eu/tools/yt.m3u8.php/@RMC.m3u8
-#EXTINF:-1,RTD 4
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kl3Wqm_QljIzgI5HmGQhFUfsGaXo7GhGy20XV77OpEApo=s176-c-k-c0x00ffffff-no-rj-mo",RTD 4
 https://tvradiozap.eu/tools/yt.m3u8.php/@RTDTELEDJIBOUTI.m3u8
-#EXTINF:-1,RTL (France)
+#EXTINF:-1 tvg-logo="",RTL (France)
 https://tvradiozap.eu/tools/dm.m3u8.php/xl1km0.m3u8
-#EXTINF:-1,RTL 2 (France)
+#EXTINF:-1 tvg-logo="",RTL 2 (France)
 https://tvradiozap.eu/tools/dm.m3u8.php/x2tzzpj.m3u8
-#EXTINF:-1,RTL 2 (France (2d flux))
+#EXTINF:-1 tvg-logo="",RTL 2 (France (2d flux))
 https://tvradiozap.eu/tools/dm.m3u8.php/x7rkbk4.m3u8
-#EXTINF:-1,Sport En France
+#EXTINF:-1 tvg-logo="",Sport En France
 https://tvradiozap.eu/tools/dm.m3u8.php/x8sayn8.m3u8
-#EXTINF:-1,Sqool TV
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/kmBR8wlZ879LmJaVowBubu2v0dC9WotZpd7Sk8fJA5xCIsvwFllb1DS-NtJl7Sh07RREas_vqHI=s176-c-k-c0x00ffffff-no-rj-mo",Sqool TV
 https://tvradiozap.eu/tools/yt.m3u8.php/@sqooltv.m3u8
-#EXTINF:-1,Sud Radio
+#EXTINF:-1 tvg-logo="",Sud Radio
 https://tvradiozap.eu/tools/dm.m3u8.php/x8jqxru.m3u8
-#EXTINF:-1,Sud Radio
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mM_hJaFqBjhhgiugGLXJnHWJV_fogaa1rsiPe9ztHeUsc=s176-c-k-c0x00ffffff-no-rj-mo",Sud Radio
 https://tvradiozap.eu/tools/yt.m3u8.php/@SudRadioOfficiel.m3u8
-#EXTINF:-1,Tahiti Webradio
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/28071841-c617-44cc-91bf-7d3ad0dfb938-profile_image-150x150.png",Tahiti Webradio
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Tahitiwebradio.m3u8
-#EXTINF:-1,Tech & Co
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/IXO_qhkW7Xpeb10fuy2cZHt4TVMnEP5SGiOszTELI8HGwMFU1oTKSjcLaZJMeJBLeh9UWJ_LSw=s176-c-k-c0x00ffffff-no-rj-mo",Tech & Co
 https://tvradiozap.eu/tools/yt.m3u8.php/@TechAndCoBFM.m3u8
-#EXTINF:-1,Télégrenoble
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/64e8bf3d-f86e-46a6-9874-978eac737828-profile_image-150x150.png",Télégrenoble
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Telegrenoble.m3u8
-#EXTINF:-1,Télé-Mag
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/7618db0d-c0ea-4ba7-95ce-1424feb23b6e-profile_image-150x150.png",Télé-Mag
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Telemag.m3u8
-#EXTINF:-1,Télénantes
+#EXTINF:-1 tvg-logo="",Télénantes
 https://tvradiozap.eu/tools/dm.m3u8.php/x5so98l.m3u8
-#EXTINF:-1,Telesud
+#EXTINF:-1 tvg-logo="",Telesud
 https://tvradiozap.eu/tools/dm.m3u8.php/x8tl030.m3u8
-#EXTINF:-1,TFM (Sénégal)
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/02af62c8-463c-4b9a-9833-a4cd83a79268-profile_image-150x150.png",TL7 Loire
+https://github.com/Sibprod/streams/blob/main/ressources/twitch/hls/TL7.m3u8
+#EXTINF:-1 tvg-logo="",TFM (Sénégal)
 https://tvradiozap.eu/tools/dm.m3u8.php/x7wcr45.m3u8
-#EXTINF:-1,Top Santé TV
+#EXTINF:-1 tvg-logo="",Top Santé TV
 https://tvradiozap.eu/tools/dm.m3u8.php/x89yjnn.m3u8
-#EXTINF:-1,TV7 Sud-Ouest
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/e8c6f7f6-95f9-4485-916a-039ca11cb76f-profile_image-150x150.png",Tube Kathodique
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Tubekathodique.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/XQjs10GSQZJ-8n_YNvRTMUW9HXGxtMZqF4O6L1F2JJuJ7RrcxWfuIB-T9anlJsQXUtSXih1jtg=s176-c-k-c0x00ffffff-no-rj-mo",TV7 Sud-Ouest
 https://tvradiozap.eu/tools/yt.m3u8.php/@Tv7Bordeaux33.m3u8
-#EXTINF:-1,TVC 9
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kwuotiURj2a1D9SLLZAyWF6xekUdyuWh39-j4E6xrnWg=s160-c-k-c0x00ffffff-no-rj",TVC 9
 https://tvradiozap.eu/tools/yt.m3u8.php/@CablevisionTVC9.m3u8
-#EXTINF:-1,TVPi
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mCUGfzELzWsMBxIVdKUH-7LHCQg4EdRCAGjCgjb98Kv80=s176-c-k-c0x00ffffff-no-rj-mo",TVPi
 https://tvradiozap.eu/tools/yt.m3u8.php/@DiffusionTVPI.m3u8
-#EXTINF:-1,Ubiznews-OM5 TV
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/d5e4f37a-1cf1-4b4f-af6c-10ec32f27d64-profile_image-150x150.png",TV Séries 80
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/TVSeries80.m3u8
+#EXTINF:-1 tvg-logo="",Ubiznews-OM5 TV
 https://tvradiozap.eu/tools/dm.m3u8.php/x8dicii.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/4c2f908d-01d0-4ea0-9089-f3477dd89015-profile_image-50x50.jpeg",Valloire TV
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/4c2f908d-01d0-4ea0-9089-f3477dd89015-profile_image-150x150.jpeg",Valloire TV
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/ValloireTV.m3u8
-#EXTINF:-1,Vatican News (Français)
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ai_j5MorFV2disksIzIJbERAMKjxvICgmHvWBY9D205-OSwUPINPFCyctY75g_Up3-GI9T33Wz0=s176-c-k-c0x00ffffff-no-rj-mo",Vatican News (Français)
 https://tvradiozap.eu/tools/yt.m3u8.php/@VaticanNewsFR.m3u8
-#EXTINF:-1,Ville de Montréal
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/LDG5mHXe8NxHVUGoHkIMErphagQLgo722uKr6ozAJPK228RxMMHo94RiIlHi9KlowbeEHWLikg=s176-c-k-c0x00ffffff-no-rj-mo",Ville de Montréal
 https://tvradiozap.eu/tools/yt.m3u8.php/@MTLVille.m3u8
-#EXTINF:-1,Webcam Boulogne-sur-Mer
-https://tvradiozap.eu/tools/yt.m3u8.php/x7xwrn4.m3u8
-#EXTINF:-1,Webcam Fort-Mahon-Plage
+#EXTINF:-1 tvg-logo="",Webcam Boulogne-sur-Mer
+https://tvradiozap.eu/tools/dm.m3u8.php/x7xwrn4.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/stX5nFfGUuv-6HvN4LgpCXvQgi3kfHFhTkW1naAkew_2DIS2RQo2jZyZasBIGAseIVvAP-IrsQ=s160-c-k-c0x00ffffff-no-rj",Webcam Fort-Mahon-Plage
 https://tvradiozap.eu/tools/yt.m3u8.php/@fort-mahonplage-lawebcam1332.m3u8
-#EXTINF:-1,Webcam Les Karellis
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/uKEJJVPpYUb69lGjKF9Nx6CqcwhTU76Hqmczbl7YqJRh3O3BOPuyH9kjkuP1DW5KoMp4ojHFBJ4=s160-c-k-c0x00ffffff-no-rj",Webcam Les Karellis
 https://tvradiozap.eu/tools/yt.m3u8.php/@leskarellisstationdesavoie5395.m3u8
-#EXTINF:-1,Webcam Météo Corse
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/fA4Yk8-JWn5sRnPFnR4SIwK6tyo4qxffroaxGekDD6XWxwTR4I0lwWKb-OUl6T7-W1y9oUVwyg=s160-c-k-c0x00ffffff-no-rj",Webcam Météo Corse MCW
 https://tvradiozap.eu/tools/yt.m3u8.php/@station_mcw.m3u8
-#EXTINF:-1,Webcam Saint-Malo 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_njqhptBCnVG0Bi_o0MmyRdOvAnoXlzEjkSK9dhRj48Uzo=s160-c-k-c0x00ffffff-no-rj",Webcam Saint-Malo 
 https://tvradiozap.eu/tools/yt.m3u8.php/@VilledeSaintMalo35400.m3u8
-#EXTINF:-1,Webcam Vannes-Golfe du Morbihan
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l-b9NBRnX9W234Wrgq-ThOBFC_2JK5O_CIJw9AGkmgqg=s160-c-k-c0x00ffffff-no-rj",Webcam Vannes-Golfe du Morbihan
 https://tvradiozap.eu/tools/yt.m3u8.php/@GolfeMorbihan.m3u8
 
 -FAST-
