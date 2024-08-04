@@ -77,16 +77,20 @@ https://tvradiozap.eu/tools/yt.m3u8.php/@Kosmo_FR.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/la16TV.m3u8
 #EXTINF:-1,L'Equipe
 https://tvradiozap.eu/tools/dm.m3u8.php/x2lefik.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'Equipe Live Foot
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-foot.m3u8
 #EXTINF:-1,LCP
 https://tvradiozap.eu/tools/dm.m3u8.php/xgepjr.m3u8
-#EXTINF:-1,Le Journal du Golf TV
-https://tvradiozap.eu/tools/dm.m3u8.php/x6qdjk7.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Xt5YPJY/jdgolf.png",Le Journal du Golf TV
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/jdg-tv/jdg-tv.m3u8
 #EXTINF:-1,Le Media TV
 https://tvradiozap.eu/tools/yt.m3u8.php/@LeMédiaOfficiel.m3u8
 #EXTINF:-1,Le Sanctuaire Notre-Dame-de-Lourdes
 https://tvradiozap.eu/tools/yt.m3u8.php/@LeSanctuaireNotreDamedeLourdes.m3u8
 #EXTINF:-1,LMTV Sarthe
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/LMTVSarthe.m3u8
+#EXTINF:-1 tvg-logo="",Love Wine
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewinefrance-lgfr/playlist.m3u8
 #EXTINF:-1,Lyon Capitale
 https://tvradiozap.eu/tools/dm.m3u8.php/x7z3zqa.m3u8
 #EXTINF:-1,M Le Média
