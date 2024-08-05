@@ -90,6 +90,8 @@ https://59959724487e3.streamlock.net/radio/live/playlist.m3u8
 https://srv.webtvmanager.fr:3508/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NbZ7Y4j.png",Canal 3 (Bénin)
 https://live.creacast.com/bluediamond/stream/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="",Canal 4
+https://vdo2.pro-fhi.net:3931/live/bvpazwtylive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TNciMh2.png",Canal 9
 http://livehd.vedge.infomaniak.com/livecast/livehd/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-534.png",Canal 32
@@ -190,6 +192,8 @@ https://streamer20.multimedia.blue/Eltrona/HesperangeTV/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8326/8326/.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-781.png",i24 News (Français)
 https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all.m3u8
+#EXTINF:-1 tvg-logo="https://mllolidruvzs.i.optimole.com/w:1920/h:796/q:mauto/ig:avif/https://idf-tv.fr/wp-content/uploads/2024/06/LOGO_IDFTV-BLANCµ-01.png",IDF TV
+https://srv.webtvmanager.fr:3534/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fVhrJHK.png",IL TV
 https://live.creacast.com/iltv/smil:iltv.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-94.png",Infosport+
@@ -286,7 +290,7 @@ https://puissancetelevision.vedge.infomaniak.com/livecast/ik:puissancetelevision
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ljbdWkC.png",Radio Contact
 https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
-#EXTINF:-1 tvg-logo="",Radio Extremix
+#EXTINF:-1 tvg-logo="https://radioextremix.be/wp-content/uploads/2021/06/cropped-LOGO-ETE.png",Radio Extremix
 https://srv.webtvmanager.fr:3630/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://s2.dmcdn.net/u/4rZZp1RyzQzL0zgQa/120x120",Radio Mont-Blanc
 https://live.creacast.com/radiomontblanc-ch1/smil:radiomontblanc-ch1.smil/playlist.m3u8
