@@ -31,7 +31,7 @@ https://vdo2.pro-fhi.net:3711/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/090tCQ5.png",Alpe d'Huez TV
 https://adhtv.vedge.infomaniak.com/livecast/adhtv/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EPIMMaB.png",Antenne Réunion
-https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
+https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-111.png",ARTE (Français)
 https://artesimulcast.akamaized.net/hls/live/2031003-b/artelive_fr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9UmR6cs.png",Bam TV
