@@ -76,8 +76,14 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?start=LIVE&
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YQjm4U5.png" group-title="Locales",BIP TV
 https://biptv.tv/live/biptvstream_orig/index.m3u8
+#EXTINF:-1 tvg-logo="https://bordomediagroup.fr/wp-content/uploads/2023/03/LOGO-BORDO-TV-BLANC-RECTANGULAIRE-768x232.png" group-title="Locales",Bordo TV
+https://srv.webtvmanager.fr:3463/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://bordomediagroup.fr/wp-content/uploads/2023/03/LOGO-BORDO-TV-BLANC-ET-ROUGE-RECTANGULAIRE-768x255.png" group-title="Sport",Bordo TV Sport
+https://srv.webtvmanager.fr:3225/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/STLavel.png" group-title="Locales",Boukè
 https://tvlocales-live.freecaster.com/95d2f70d-9229-478b-9aed-bc4fa220316d/95d2f70d-9229-478b-9aed-bc4fa220316d.isml/master.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Locales",Brionnais TV
+https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a9v5CbU.png" group-title="Information",Burkina Info
 https://dvrfl06.tulix.tv/astv/astv-infoburkina/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zZFl3vy.png" group-title="Information",Business 24 
@@ -162,6 +168,10 @@ https://video1.getstreamhosting.com:1936/8492/8492/playlist.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France2.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-80.png" group-title="Généralistes",France 3
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-308.png" group-title="Généralistes",France 3 Régions (Corse - Via Stella)
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_Corse-ViaStella.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Généralistes",France 3 Régions (NoA)
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_NoA.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-78.png" group-title="Divertissement",France 4
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France4.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-47.png" group-title="Découverte",France 5
@@ -306,14 +316,20 @@ https://lives.digiteka.com/stream/e0fe6433-554e-4568-9a7e-31969136d8ff/index.m3u
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/TeleBielingue_Logo.svg/512px-TeleBielingue_Logo.svg.png" group-title="Locales",Telebielingue
 http://telebielinguech.vedge.infomaniak.com/livecast/telebielinguech/manifest.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Locales",Télé Gohelle
+https://videas.agglo-lenslievin.fr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XAggjM4.png" group-title="Locales",Télé MB
 https://tvlocales-live.freecaster.com/95d2f6c9-e85f-4388-8e9c-596260a4206f/95d2f6c9-e85f-4388-8e9c-596260a4206f.isml/master.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Locales",Tele Paese
+https://srv.webtvmanager.fr:3118/live/viatelepaeselive.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e1/TQcLogo_rgb_2020.png/300px-TQcLogo_rgb_2020.png" group-title="Généralistes",Télé Québec
 https://bcovlive-a.akamaihd.net/0903168c3aaa4b8b84406dfd5f1ffbb7/us-west-2/6101674910001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TuIAkA3.png" group-title="Locales",Télésambre
 https://tvlocales-live.freecaster.com/95d2f67c-de80-486b-9e60-9c72cb2782e2/95d2f67c-de80-486b-9e60-9c72cb2782e2.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/udSzfHD.png" group-title="Généralistes",Télé Tchad
 https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Cinéma-Séries",Terror TV (not 24/7)
+https://vdo2.pro-fhi.net:3594/live/rmlegahmlive.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-191.png" group-title="Divertissement",Téva
 https://github.com/Sibprod/streams/raw/main/ressources/RTLfr/Teva.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IAtKJZk.png" group-title="Locales",Teveka
@@ -344,6 +360,8 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Locales",TV7 Colmar
 https://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-273.png" group-title="Locales",TV7 Sud-Ouest
+https://lives.digiteka.com/stream/17c6dea8-fb3f-46fe-b170-2ac88cd5667b/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Locales",TV78
 https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
 #EXTINF:-1 tvg-logo="https://tvcbenin.com/assets/img/logo-tvc-benin.png" group-title="Divertissement",TVC 
@@ -352,6 +370,8 @@ https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m
 https://tvlocales-live.freecaster.com/95d2f656-50f1-432b-84a6-ce11c6cdb482/95d2f656-50f1-432b-84a6-ce11c6cdb482.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/bb6a74b4-9f8e-4d29-b0a5-4ec997a08545-profile_image-70x70.png" group-title="Locales",TVCTK
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/TVCTK.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Information",TV Finance
+https://strhlslb01.streamakaci.tv/str_tvfinance_tvfinance/str_tvfinance_multi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvfrancophonie.org/templates/tvf-3-5-titre-centre/images/header.jpg" group-title="Découverte",TV Francophonie.org
 https://5421175365ea3.streamlock.net/live/switch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ljbdWkC.png" group-title="Locales",TV Lux
@@ -364,12 +384,24 @@ https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-
 https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Locales",TV Tarn
 https://live.creacast.com/albi-tv-ch1/stream/.m3u8
+#EXTINF:-1 tvg-logo="" tvg-group="Locales",TV Tours - Val-de-Loire
+https://lives.digiteka.com/stream/920f083a-9e61-4c09-9bc2-bdb664063aa9/index.m3u8
+#EXTINF:-1 tvg-logo="" tvg-group="Locales",TV Vendée
+https://streamer01.myvideoplace.tv/streamer02/hls/VDE_EVEN_PAD_130923.m3u8
 #EXTINF:-1 tvg-logo="https://vdo.pro-fhi.net/uploads/directorylists/kbawbfec.jpg" group-title="Musique",UTV (Underground TV)
 https://vdo.pro-fhi.net:3744/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7LnH6yu.png" group-title="Locales",Vedia
 https://tvlocales-live.freecaster.com/95d2f480-3c9f-48ba-ba4e-af64b58431ef/95d2f480-3c9f-48ba-ba4e-af64b58431ef.isml/master.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Locales",viàATV
 https://streamer01.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018_medium/index.m3u8
+#EXTINF:-1 tvg-logo="" tvg-group="Locales",viàOccitanie
+https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/index.m3u8
+#EXTINF:-1 tvg-logo="" tvg-group="Locales",Vosges Télévision
+https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-group="Locales",Wéo - La Voix du Nord
+https://lives.digiteka.com/stream/c58028c2-a58b-4526-9ec8-389cad4a71e8/index.m3u8
+#EXTINF:-1 tvg-logo="" tvg-group="Locales",Wéo - Le Courrier Picard
+https://lives.digiteka.com/stream/bbb843db-8540-4156-98a5-b7c85da54d8e/index.m3u8
 
 -DM,YT,TWITCH-
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/f-dQzTnkyRbC_znNPbvUv9XpJYqJZf_NTeujXEr_8ttjOdcwuEktPBMaMcWYsxQM-69jiOTRbA=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Locales",7 à Limoges
@@ -760,3 +792,38 @@ https://helga.iptv2022.com/NTI_Television/index.m3u8
 https://helga.iptv2022.com/SophiaTV-fr/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/23836/logo_256_1710873190.jpg" group-title="Cinéma-Séries",Star+ Novelas
 https://helga.iptv2022.com/Stars_Novelas/index.m3u8
+
+-CHAINES ETRANGERES : CATALAN-
+#EXTINF:-1 tvg-logo=" " group-title="Information",3/24
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Généralistes",À Punt
+https://bcovlive-a.akamaihd.net/a51c31c10f6e42b2bbb7c7649e9f305c/eu-west-1/6057955885001/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Généralistes",Bondia
+https://directes-tv-int.ccma.cat/live-content/bondia-hls/master.m3u8
+#EXTINF:-1 tvg-id="Canal4Mallorca.es" tvg-logo="https://estaticos.tdt1.com/canales/logocanal4baleares.jpg" group-title="Cinéma-Séries",Canal 4 [Baleares]
+https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
+#EXTINF:-1 tvg-id="Canal4Mallorca.es" tvg-logo="https://estaticos.tdt1.com/canales/logocanal4baleares.jpg" group-title="Cinéma-Séries",Canal 4 [Catalunya]
+https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Divertissement",El 33
+https://directes-tv-int.ccma.cat/live-origin/c33-super3-hls/master.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Sport",Esport 3
+https://directes-tv-int.ccma.cat/live-origin/esport3-hls/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Information",Euronews Español
+https://is.gd/6uiciU?profile=corgol.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Généralistes",IB3
+https://ythls.armelin.one/channel/UCff_CBVJDTHP4wOHPjP5BMg.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Musique",Molahits TV
+https://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CnhTn8i.png" group-title="Locales",RTV Andorra
+https://play.cdn.enetres.net/56495F77FD124FECA75590A906965F2C021/021/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Généralistes",TV3
+https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
+
+-CHAINES ETRANGERES : ANGLAIS-
+#EXTINF:-1 tvg-logo=" " group-title="Information",BBC World News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Information",CNN International
+https://ucdn.beetv.kz/btv/live/hls/000000707.m3u8
+
+-CHAINES ETRANGERES : ITALIEN-
+
