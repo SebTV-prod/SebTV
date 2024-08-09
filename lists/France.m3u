@@ -740,4 +740,6 @@ https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1e/Viva-Logo.png?20061019084414" group-title="Musique",Viva Russia
 https://hls.goodgame.ru/manifest/180805_master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/djkPc9w.png" group-title="Divertissement",VTM
+https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
 
