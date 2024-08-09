@@ -102,13 +102,13 @@ https://tvlocales-live.freecaster.com/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e
 #EXTINF:-1 tvg-logo="https://i.imgur.com/atlgnum.png" group-title="Locales",Cannes Lérins TV
 https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/74/CARAC1_logo_2023.svg/langfr-200px-CARAC1_logo_2023.svg.png" group-title="Divertissement",Carac 1
-https://event.vedge.infomaniak.com/livecast/event/manifest.m3u8
+http://event.vedge.infomaniak.com/livecast/event/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e8/CARAC2_logo_2023.svg/langfr-200px-CARAC2_logo_2023.svg.png" group-title="Divertissement",Carac 2
-https://onefmhd.vedge.infomaniak.com/livecast/onefmhd/manifest.m3u8
+http://onefmhd.vedge.infomaniak.com/livecast/onefmhd/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/55/CARAC3_logo_2023.svg/langfr-200px-CARAC3_logo_2023.svg.png" group-title="Divertissement",Carac 3
-https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/manifest.m3u8
+http://lfmhd.vedge.infomaniak.com/livecast/lfmhd/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/02/CARAC4_logo_2023.svg/langfr-200px-CARAC4_logo_2023.svg.png" group-title="Divertissement",Carac 4
-https://compack_media_1.vedge.infomaniak.com/livecast/compack_media_1/manifest.m3u8
+http://compack_media_1.vedge.infomaniak.com/livecast/compack_media_1/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/CGTN_-_français.png/640px-CGTN_-_français.png" group-title="Découverte",CGTN (Français)
 https://livefr.cgtn.com/1000f/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1399.png" group-title="Divertissement",Chérie 25
