@@ -734,9 +734,28 @@ https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:26_HD.smil/mani
 
 
 #EXTGRP:CANALI ITALIANI
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/512px-Canale_5_-_2018_logo.svg.png" group-title="Généralistes",Canale 5
+https://bozztv.com/dvrfl05/gin-canale5/index.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1500002NL_20231011T084817SQUARE.png_20231011084818.png" group-title="Généralistes",La 7
+https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sM0A3GD.png" group-title="Divertissement",La7d
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS/Live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0Kmh49G.png" group-title="Radios",Radio 3i
 https://vstream-cdn.ch/hls/radio3i.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-156.png" group-title="Généralistes",Rai 1
+https://ilglobotv-live.global.ssl.fastly.net/RAI1UK/Live.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-154.png" group-title="Généralistes",Rai 2
+https://ilglobotv-live.global.ssl.fastly.net/RAI2UK/Live.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-155.png" group-title="Généralistes",Rai 3
+https://ilglobotv-live.global.ssl.fastly.net/RAI3UK/Live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n2u57y3.png" group-title="Information",Rai News 24
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=16
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/512px-Rai_Scuola_-_Logo_2017.svg.png" group-title="Découverte",RAI Scuola
+https://ilglobotv-live.global.ssl.fastly.net/RAIScuolaUK/Live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/512px-Rai_Storia_-_Logo_2017.svg.png" group-title="Découverte",RAI Storia 
+https://ilglobotv-live.global.ssl.fastly.net/RAIStoriaUK/Live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/75qUdR7.png" group-title="Radios",RTL 102.5 TV
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 
 #EXTGRP:INTERNATIONAL CHANNELS
 #EXTINF:-1 tvg-logo="https://4fun.tv/assets/images/4fun-tv.png" group-title="Musique",4 Fun TV
