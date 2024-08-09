@@ -95,6 +95,16 @@ http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/manifest.m3u8
 http://canalalpha.vedge.infomaniak.com/livecast/canalalpha/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-34.png" group-title="Généralistes",Canal+
 https://hls-m007.p-cdnlive-edge020311-dual.scy.canalplus-cdn.net/__token__id%3D1a569a48e47690c700c0f71662c87679~hmac%3D6d2114baa9bb694f530073a9f707530612577a89d4d0a36aaa72374fa9e12049/live/disk/canalplusclair-hd/hls-v3-hd-clair/canalplusclair-hd.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-35.png" group-title="Sport",Canal+ Sport
+https://dvrfl06.tulix.tv/astv/astv-canalplussport1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-35.png" group-title="Sport",Canal+ Sport 2
+https://dvrfl06.tulix.tv/astv/astv-canalplussport2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-35.png" group-title="Sport",Canal+ Sport 3
+https://dvrfl06.tulix.tv/astv/astv-canalplussport3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-35.png" group-title="Sport",Canal+ Sport 4
+https://dvrfl06.tulix.tv/astv/astv-canalplussport4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-35.png" group-title="Sport",Canal+ Sport 5
+https://dvrfl06.tulix.tv/astv/astv-canalplussport5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png" group-title="Sport",Canal+ Sport 360
 https://dvrfl06.tulix.tv/astv/astv-canalplussport360/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hUvYpOA.png" group-title="Locales",Canal Zoom
@@ -665,13 +675,14 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTGRP:CANALI ITALIANI
 
 
-#EXTGRP:DEUTSCHE KANÄLEN
-#EXTINF:-1 tvg-id=" " tvg-logo="https://www.kronehit.at/static/base/main/img/logo.ecbaf631e769.png?v2" group-title="Musique",Kronehit TV
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
 #EXTGRP:INTERNATIONAL CHANNELS
 #EXTINF:-1 tvg-logo="https://4fun.tv/assets/images/4fun-tv.png" group-title="Musique",4 Fun TV
 https://stream.4fun.tv:8888/hls/4f.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eJsnYwj.png" group-title="Divertissement",Helvetia One TV
+http://compack_media_2.vedge.infomaniak.com/livecast/compack_media_2/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.kronehit.at/static/base/main/img/logo.ecbaf631e769.png?v2" group-title="Musique",Kronehit TV
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goodgame.ru/files/avatars/av_1393822_dLSf.jpg" group-title="Musique",Mixm TV
 https://hls.goodgame.ru/manifest/181490_master.m3u8
 #EXTINF:-1 tvg-logo="https://mooz.tv/site/img/mooz-ro1.png" group-title="Musique",Mooz Ro
@@ -686,6 +697,10 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1gr.cz/o/ocko/logo.jpg" group-title="Musique",Óčko Star
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fkW5Gbl.png" group-title="Généralistes",RTL Télé Lëtzebuerg
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7SmCtyy.png" group-title="Généralistes",RTL Zwee
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1e/Viva-Logo.png?20061019084414" group-title="Musique",Viva Russia
 https://hls.goodgame.ru/manifest/180805_master.m3u8
 
