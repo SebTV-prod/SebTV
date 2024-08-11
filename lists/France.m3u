@@ -135,7 +135,7 @@ https://bcovlive-a.akamaihd.net/0903168c3aaa4b8b84406dfd5f1ffbb7/us-west-2/61016
 #EXTINF:-1 tvg-logo="https://beacon.playback.api.brightcove.com/savoirmedia/uploads/settings/2_e11b729e19a45b1c3f677217c5410c25_images_logo-h100_w100.png" group-title="Découverte" tvg-chno="29",Savoir.media
 https://hls.savoir.media/live/stream.m3u8
 
-#EXTGRP:FR-Régionales
+#EXTGRP:FR-TNT-Régionales
 #EXTINF:-1 tvg-logo="https://i.imgur.com/090tCQ5.png" group-title="Locales" tvg-chno="30",Alpe d'Huez TV
 https://adhtv.vedge.infomaniak.com/livecast/adhtv/.m3u8
 #EXTINF:-1 tvg-logo="https://s1.dmcdn.net/u/4dvD01cIGb6U8DkhT/120x120" group-title="Locales" tvg-chno="30",Angers Télé
@@ -211,8 +211,14 @@ https://lives.digiteka.com/stream/920f083a-9e61-4c09-9bc2-bdb664063aa9/index.m3u
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/64e8bf3d-f86e-46a6-9874-978eac737828-profile_image-150x150.png" group-title="Locales" tvg-chno="38",Télégrenoble
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Telegrenoble.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/f-dQzTnkyRbC_znNPbvUv9XpJYqJZf_NTeujXEr_8ttjOdcwuEktPBMaMcWYsxQM-69jiOTRbA=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Locales",7 à Limoges
+#EXTGRP:FR-Régionales-Cable
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/f-dQzTnkyRbC_znNPbvUv9XpJYqJZf_NTeujXEr_8ttjOdcwuEktPBMaMcWYsxQM-69jiOTRbA=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Locales" tvg-chno="31",7 à Limoges
 https://tvradiozap.eu/tools/yt.m3u8.php/@7alimoges964.m3u8
+
+#EXTGRP:FR-Régionales-IPTV
+
+
+
 #EXTINF:-1 channel-id="samsung-FRBD39000064E" tvg-id="FRBD39000064E" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD39000064E_20240214T035739SQUARE.png_20240214035740.png" group-title="Découverte",100% Docs
 https://jmp2.uk/SamsungTVPlus/FRBD39000064E.m3u8
 #EXTINF:-1 channel-id="samsung-FRBD5100001ZA" tvg-id="FRBD5100001ZA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100001ZA_20240214T035741SQUARE.png_20240214035742.png" group-title="Jeunesse",ADN
@@ -716,6 +722,47 @@ https://ztnr.rtve.es/ztnr/2795617.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Radio4RNE/picture?width=200&height=200" group-title="Radios",Ràdio 4
 https://ztnr.rtve.es/ztnr/6782425.m3u8
 
+#EXTGRP:ES-CCMA
+#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logo324.jpg" group-title="ES|Locales",3/24
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://i2.wp.com/blocs.mesvilaweb.cat/wp-content/uploads/sites/1858/2018/11/BONDIA.png" group-title="ES|Locales",Bondia
+https://directes-tv-int.ccma.cat/live-content/bondia-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logo33.jpg" group-title="ES|Locales",El 33
+https://directes-tv-int.ccma.cat/live-origin/c33-super3-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logoesport3.jpg" group-title="ES|Locales",Esport 3
+https://directes-tv-int.ccma.cat/live-origin/esport3-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logosuper3.jpg" group-title="ES|Locales",SX3
+https://directes-tv-int.ccma.cat/live-origin/super3-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logotv3.jpg" group-title="ES|Locales",TV3
+https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
+
+#EXTGRP:ES-CRTVG
+#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logotvg.jpg" group-title="Généraliste",TVG
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logotvg.jpg" group-title="Jeunesse",TVG Xabarín
+https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8
+
+#EXTGRP:RTVA
+#EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal_Sur_2_-_2017_logo.png" group-title="Locales",Canal Sur 2
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Andalucía_TV_2018_logo.svg/langfr-100px-Andalucía_TV_2018_logo.svg.png" group-title="ES|Locales",Canal Sur Andalucía
+https://cdnlive.codev8.net/rtvalive/smil:DtRLVjt1.smil/playlist.m3u8
+
+#EXTGRP:Telemadrid
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/512px-TeleMadrid.svg.png" group-title="ES|Locales",Telemadrid
+https://telemadrid-23-secure2.akamaized.net/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/La_Otra_logo_%282017%29.svg/512px-La_Otra_logo_%282017%29.svg.png" group-title="ES|Locales",La Otra
+https://laotra-1-23-secure2.akamaized.net/master.m3u8
+
+#EXTGRP:ES-Autres chaînes publiques autonomistes
+#EXTINF:-1 tvg-logo=" " group-title="Généralistes",À Punt
+https://bcovlive-a.akamaihd.net/a51c31c10f6e42b2bbb7c7649e9f305c/eu-west-1/6057955885001/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CMMediaes/picture?width=200&height=200" group-title="Locales",Castilla-La Mancha Media
+https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/protocol/https/format/applehttp/.m3u8
+#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logoib3.jpg" group-title="Locales",IB3
+https://ythls.armelin.one/channel/UCff_CBVJDTHP4wOHPjP5BMg.m3u8
+
+
 #EXTGRP:ES-Atresmedia
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="Cinéma-Séries",Atresplayer Clásicos
 https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8
@@ -733,6 +780,10 @@ https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e417
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
 
 #EXTGRP:ES-Autres groupes
+#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logocanal4baleares.jpg" group-title="Divertissement",Canal 4 Baleares
+https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
+#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logocanal4baleares.jpg" group-title="Divertissement",Canal 4 Catalunya
+https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nUYuCAP.png" group-title="Cinéma-Séries",Paramount Channel (España)
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:22_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Hd2WYs49wYCBMAphVpvvpBzd-EJFU8XFQgccPIw=s200" group-title="Divertissement",¡Hola! Play
@@ -755,100 +806,15 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Jeunesse",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logomolatv.jpg" group-title="Musique",Molahits TV
+https://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/MundoNautica/picture?width=200&height=200" group-title="Sport",Mundo Nautica
 https://cloud.fastchannel.es/mic/manifiest/hls/mundonautica/mundonautica.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Sport",Real Madrid TV
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:27_HD.smil/manifest.m3u8
 
-#EXTGRP:ES-Régionales:Andalousie
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKb6DZpbxOMbN_VANCdenLck4ceg7gxMk5tnkjmM=s200" group-title="ES|Locales",Andalucía Cocina
-https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYsl5e6jEIMtXIoTUHvkJqXxDfASrvQP_QFRRww=s200" group-title="ES|Locales",Andalucía Turismo
-https://cloud.fastchannel.es/mic/manifiest/hls/aturismo/aturismo.m3u8
-#EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal_Sur_2_-_2017_logo.png" group-title="ES|Locales",Canal Sur 2
-https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Andalucía_TV_2018_logo.svg/langfr-100px-Andalucía_TV_2018_logo.svg.png" group-title="ES|Locales",Canal Sur Andalucía
-https://cdnlive.codev8.net/rtvalive/smil:DtRLVjt1.smil/playlist.m3u8
-
-#EXTGRP:ES-Régionales:Aragon
-#EXTINF:-1 tvg-id="AragonTV.TV" tvg-logo="https://graph.facebook.com/AragonTV/picture?width=200&height=200" group-title="ES|Locales",Aragón TV
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tvbarbastro/picture?width=200&height=200" group-title="ES|Locales",Canal 25 Barbastro
-https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
-
-#EXTGRP:ES-Régionales:Asturies
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/VinxTV/picture?width=200&height=200" group-title="ES|Locales",Vinx TV
-https://tv.radiocast.es:5443/vinxtv/streams/vinxtvlive.m3u8
-
-#EXTGRP:ES-Régionales:Cantabrie
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/populartvcantabria/picture?width=200&height=200" group-title="ES|Locales",Popular TV Cantabria
-https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
-
-#EXTGRP:ES-Régionales:Castille-La Manche
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/canal4villarrobledo/picture?width=200&height=200" group-title="ES|Locales",Canal 4 Mancha Centro
-https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CMMediaes/picture?width=200&height=200" group-title="ES|Locales",Castilla-La Mancha Media
-https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/protocol/https/format/applehttp/.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Teletoledo/picture?width=200&height=200" group-title="ES|Locales",Tele Toledo
-https://cloud.fastchannel.es/mic/manifiest/hls/teletoledo/teletoledo.m3u8
-
-#EXTGRP:ES-Régionales:Catalogne
-#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logo324.jpg" group-title="ES|Locales",3/24
-https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://i2.wp.com/blocs.mesvilaweb.cat/wp-content/uploads/sites/1858/2018/11/BONDIA.png" group-title="ES|Locales",Bondia
-https://directes-tv-int.ccma.cat/live-content/bondia-hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logocanal4baleares.jpg" group-title="ES|Locales",Canal 4
-https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/canal.terresdelebre/picture?width=200&height=200" group-title="ES|Locales",Canal TE (Terres de l'Ebre)
-https://ingest1-video.streaming-pro.com/canalteABR/ctestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/canalterrassa/picture?width=200&height=200" group-title="ES|Locales",Canal Terrassa
-https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logo33.jpg" group-title="ES|Locales",El 33
-https://directes-tv-int.ccma.cat/live-origin/c33-super3-hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/empordatv/picture?width=200&height=200" group-title="ES|Locales",Empordà TV
-https://video3.lhdserver.es/empordatv2/live.m3u8
-#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logoesport3.jpg" group-title="ES|Locales",Esport 3
-https://directes-tv-int.ccma.cat/live-origin/esport3-hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tvgirona/picture?width=200&height=200" group-title="ES|Locales",TV de Girona
-https://ventdelnord.tv:8080/girona/directe.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/LleidaTV/picture?width=200&height=200" group-title="ES|Locales",Lleida TV
-https://liveingesta318.cdnmedia.tv/lleidatvlive/live-900/chunklist.m3u8?DVR
-#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logomolatv.jpg" group-title="ES|Locales",Molahits TV
-https://ventdelnord.tv:8080/mola/directe.m3u8
-#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logosuper3.jpg" group-title="ES|Locales",SX3
-https://directes-tv-int.ccma.cat/live-origin/super3-hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tacdotze/picture?width=200&height=200" group-title="ES|Locales",TAC 12
-https://ingest1-video.streaming-pro.com/tac12_ABR/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logotv3.jpg" group-title="ES|Locales",TV3
-https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
-
-#EXTGRP:ES-Régionales:Communauté de Madrid
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/512px-TeleMadrid.svg.png" group-title="ES|Locales",Telemadrid
-https://telemadrid-23-secure2.akamaized.net/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/La_Otra_logo_%282017%29.svg/512px-La_Otra_logo_%282017%29.svg.png" group-title="ES|Locales",La Otra
-https://laotra-1-23-secure2.akamaized.net/master.m3u8
-
-#EXTGRP:ES-Régionales:Îles Baléares
-#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logocanal4baleares.jpg" group-title="ES|Locales",Canal 4
-https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
-#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logoib3.jpg" group-title="ES|Locales",IB3
-https://ythls.armelin.one/channel/UCff_CBVJDTHP4wOHPjP5BMg.m3u8
-
-#EXTGRP:ES-Régionales:Îles Canaries
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CANAL4TENERIFE/picture?width=200&height=200" group-title="ES|Locales",Canal 4 Tenerife
-https://5940924978228.streamlock.net/Directo2/Directo2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1498617906560737281/iOri7Ujk_200x200.jpg" group-title="ES|Locales",Factoría de Carnaval
-https://eu1.servers10.com:8081/8116/index.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/NGDcQX5v1Px2BBFD5G4aHYNrCyDWoEkRF5Gpsyfz-b_9swNpy6s-Z7-Glu-9WDr7JpP_MsCB=s200" group-title="ES|Locales",Fuerteventura TV
-https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/288850935035196/picture?width=200&height=200" group-title="ES|Locales",Lancelot TV
-https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/mirametvcom/picture?width=200&height=200" group-title="ES|Locales",Mírame TV
-https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
-
 #EXTGRP:ES-Régionales:Pays Valencien
-#EXTINF:-1 tvg-logo=" " group-title="ES|Locales",À Punt
-https://bcovlive-a.akamaihd.net/a51c31c10f6e42b2bbb7c7649e9f305c/eu-west-1/6057955885001/playlist_dvr.m3u8
+
 #EXTINF:-1 tvg-logo="https://laocho.tv/web2/assets/img/logos-pie/logo_header.svg" group-title="ES|Locales",La 8 Mediterráneo
 https://streaming004.gestec-video.com/hls/8TV.m3u8
 
