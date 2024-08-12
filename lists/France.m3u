@@ -877,6 +877,7 @@ https://vimnitaly.akamaized.net/hls/live/2094034/super/master-2500.m3u8
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=16
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X8BI1Md.png" group-title="Style de Vie",Casa Italia 53
 https://6e94aeeb1b42461d95f973ae34be5167.msvdn.net/ac115_live/canale3.smil/playlist.m3u8
+https://liveac115.b-cdn.net/canale3.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/512px-Rai_Scuola_-_Logo_2017.svg.png" group-title="Découverte",RAI Scuola
 https://ilglobotv-live.global.ssl.fastly.net/RAIScuolaUK/Live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/512px-Rai_Storia_-_Logo_2017.svg.png" group-title="Découverte",RAI Storia 
@@ -909,6 +910,8 @@ https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XqNhQp6.png" group-title="Radios",Radio Italia TV
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZqxOFkN.png" group-title="Divertissement",Canale Italia
+https://liveac115.b-cdn.net/canale1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WBcwDb7.png" group-title="Radios",Radio Bruno 
 https://router.xdevel.com/video0s975758-473/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pGJcMmB.png" group-title="Locales",Entella TV
