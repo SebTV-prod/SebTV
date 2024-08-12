@@ -966,6 +966,8 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playl
 https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
 #EXTINF:-1 tvg-id="RAIItalia.it" tvg-logo="https://i.imgur.com/F4gyqhw.png" group-title="Divertissement",Mediaset Italia
 https://ilglobotv-live.global.ssl.fastly.net/MediasetItalia/Live.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Jeunesse",Mondo Kids
+https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0Kmh49G.png" group-title="Radios",Radio 3i
 https://vstream-cdn.ch/hls/radio3i.m3u8
 #EXTINF:-1 tvg-logo="https://studiopiu.net/tvwebapp/images/logoonly.png" group-title="Radios",Radio Studio Più
