@@ -228,13 +228,13 @@ https://ilglobotv-live.global.ssl.fastly.net/RAIStoriaUK/Live.m3u8
 #EXTVLCOPT:http-referrer=https://player.castr.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 https://stream.castr.com/604b6e10ad1e130d20dedd12/live_1b2633f0158b11eeb388a5854e7a8f3a/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="" tvg-group="|IT_DTT|",Alma TV
+#EXTINF:-1 tvg-logo=""  group-title="|IT_DTT|",Alma TV
 https://sportitaliaamd.akamaized.net/live/Alma_TV/hls/8B620B531085AB9D79DAB5B98F2ADEF3A7F5BE2B/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-group="|IT_DTT|",BOM Channel
+#EXTINF:-1 tvg-logo=""  group-title="|IT_DTT|",BOM Channel
 https://5f22d76e220e1.streamlock.net/canale6/canale6/.m3u8
-#EXTINF:-1 tvg-logo="" tvg-group="|IT_DTT|",RTV San Marino
+#EXTINF:-1 tvg-logo=""  group-title="|IT_DTT|",RTV San Marino
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="" tvg-group="|IT_DTT|",RTV San Marino Sport
+#EXTINF:-1 tvg-logo=""  group-title="|IT_DTT|",RTV San Marino Sport
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8
 
 
