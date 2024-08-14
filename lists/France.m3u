@@ -208,21 +208,21 @@ https://ilglobotv-live.global.ssl.fastly.net/RAI2UK/Live.m3u8
 https://ilglobotv-live.global.ssl.fastly.net/RAI3UK/Live.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|IT_DTT|",La 7
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
-#EXTINF:-1 tvg-logo="" tvg-group="|IT_DTT|",TV 2000
+#EXTINF:-1 tvg-logo=""  group-title="|IT_DTT|",TV 2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|IT_DTT|",La 7d
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|IT_DTT|",QVC 
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/720p/720p.m3u8
-#EXTINF:-1 tvg-logo="" tvg-group="|IT_DTT|",Super!
+#EXTINF:-1 tvg-logo=""  group-title="|IT_DTT|",Super!
 https://vimnitaly.akamaized.net/hls/live/2094034/super/master-2500.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n2u57y3.png" tvg-group="|IT_DTT|",Rai News 24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n2u57y3.png" group-title="|IT_DTT|",Rai News 24
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=16
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPmvbGH.png" tvg-group="|IT_DTT|",TG Com 24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPmvbGH.png" group-title="|IT_DTT|",TG Com 24
 https://ilglobotv-live.global.ssl.fastly.net/TGCOM242/Live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/512px-Rai_Scuola_-_Logo_2017.svg.png" tvg-group="|IT_DTT|",Rai Scuola
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/512px-Rai_Scuola_-_Logo_2017.svg.png" group-title="|IT_DTT|",Rai Scuola
 https://ilglobotv-live.global.ssl.fastly.net/RAIScuolaUK/Live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/512px-Rai_Storia_-_Logo_2017.svg.png" tvg-group="|IT_DTT|",Rai Storia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/512px-Rai_Storia_-_Logo_2017.svg.png" group-title="|IT_DTT|",Rai Storia
 https://ilglobotv-live.global.ssl.fastly.net/RAIStoriaUK/Live.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|IT_DTT|",Go-TV
 #EXTVLCOPT:http-referrer=https://player.castr.com/
