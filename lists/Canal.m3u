@@ -2,13 +2,25 @@
 #EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Action
 http://178.170.42.126/ACTION/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Animaux
-http://178.170.42.126/ANIMAUX/index.m3u8c
+http://178.170.42.126/ANIMAUX/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",BBC News
+http://178.170.42.126/BBCNEWS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",BFM Business
+http://178.170.42.126/BFMBUSINESS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",BFM TV
+http://178.170.42.126/BFM/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Bloomberg
+http://178.170.42.126/BLOOMBERG/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Canal+
 http://178.170.42.126/CANALPLUS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Canal+ Box Office
+http://178.170.42.126/CANALBOXOFFICE/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Canal+ Cinéma(s)
 http://178.170.42.126/CANALCINEMA/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Canal+ Docs
 http://178.170.42.126/CANALDOCS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Canal+ Grand Écran
+http://178.170.42.126/CANALGRANDECRAN/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Canal+ Kids
 http://178.170.42.126/CANALKIDS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Canal+ Séries
@@ -19,24 +31,46 @@ http://178.170.42.126/CANALSPORT/index.m3u8
 http://178.170.42.126/CHASSEPECHE/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Ciné+ Premier
 http://178.170.42.126/CINEPREMIER/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",CNBC
+http://178.170.42.126/CNBC/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",CNews
+http://178.170.42.126/CNEWS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Crime District
 http://178.170.42.126/CRIMEDISTRICT/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Discovery France
 http://178.170.42.126/DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Euronews France
+http://178.170.42.126/EURONEWS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",France 24 Français
+http://178.170.42.126/FRANCE24/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Golf+
+http://178.170.42.126/GOLFPLUS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Golf Channel France
 http://178.170.42.126/GOLFCHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Histoire
 http://178.170.42.126/HISTOIRE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",i24 News
+http://178.170.42.126/I24/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",ID France
 http://178.170.42.126/DISCOVERYINVESTIGATION/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Infosport+
+http://178.170.42.126/INFOSPORT/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",LCI
+http://178.170.42.126/LCI/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Nat Geo Wild France
 http://178.170.42.126/NATGEOWILD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",National Geographic Channel France
 http://178.170.42.126/NATGEO/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Paramount Channel France
+http://178.170.42.126/PARAMOUNT/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",RMC Découverte
+http://178.170.42.126/RMCDECOUVERTE/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Science & Vie TV
 http://178.170.42.126/SCIENCEVIE/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Seasons
 http://178.170.42.126/SEASONS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",TCM Cinéma
+http://178.170.42.126/TCMCINEMA/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Teletoon
 http://178.170.42.126/TELETOON/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",TiJi
@@ -49,3 +83,5 @@ http://178.170.42.126/TOUTELHISTOIRE/index.m3u8
 http://178.170.42.126/TREK/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Ushuaïa TV
 http://178.170.42.126/USHUAIATV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Warner Bros TV France
+http://178.170.42.126/WARNER/index.m3u8
