@@ -1,129 +1,131 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-34.png" group-title="Canal" tvg-chno="4",Canal+
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-34.png" group-title="|Canal|" tvg-chno="4",Canal+
 http://178.170.42.126/CANALPLUS/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-234.png" group-title="Canal" tvg-chno="13",LCP
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-234.png" group-title="|Canal|" tvg-chno="13",LCP
 http://178.170.42.126/LCP/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-481.png" group-title="Canal" tvg-chno="15",BFM TV
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-481.png" group-title="|Canal|" tvg-chno="15",BFM TV
 http://178.170.42.126/BFM/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-226.png" group-title="Canal" tvg-chno="16",CNews
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-226.png" group-title="|Canal|" tvg-chno="16",CNews
 http://178.170.42.126/CNEWS/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1400.png" group-title="Canal" tvg-chno="24",RMC Découverte
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1400.png" group-title="|Canal|" tvg-chno="24",RMC Découverte
 http://178.170.42.126/RMCDECOUVERTE/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-112.png" group-title="Canal" tvg-chno="26",LCI
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-112.png" group-title="|Canal|" tvg-chno="26",LCI
 http://178.170.42.126/LCI/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-2111.png" group-title="Canal" tvg-chno="27",Franceinfo
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-2111.png" group-title="|Canal|" tvg-chno="27",Franceinfo
 http://178.170.42.126/FRANCEINFO/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="30",Canal+ Box Office
+#EXTINF:-1 tvg-logo="" group-title="|Canal|" tvg-chno="30",Canal+ Box Office
 http://178.170.42.126/CANALBOXOFFICE/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3349.png" group-title="Canal" tvg-chno="31",Canal+ Grand Écran
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3349.png" group-title="|Canal|" tvg-chno="31",Canal+ Grand Écran
 http://178.170.42.126/CANALGRANDECRAN/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-33.png" group-title="Canal" tvg-chno="32",Canal+ Cinéma(s)
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-33.png" group-title="|Canal|" tvg-chno="32",Canal+ Cinéma(s)
 http://178.170.42.126/CANALCINEMA/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-282.png" group-title="Canal" tvg-chno="33",Ciné+ Premier
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-282.png" group-title="|Canal|" tvg-chno="33",Ciné+ Premier
 http://178.170.42.126/CINEPREMIER/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1562.png" group-title="Canal" tvg-chno="43",Paramount Channel
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1562.png" group-title="|Canal|" tvg-chno="43",Paramount Channel
 http://178.170.42.126/PARAMOUNT/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-185.png" group-title="Canal" tvg-chno="45",TCM Cinéma
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-185.png" group-title="|Canal|" tvg-chno="45",TCM Cinéma
 http://178.170.42.126/TCMCINEMA/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1563.png" group-title="Canal" tvg-chno="50",Canal+ Séries
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1563.png" group-title="|Canal|" tvg-chno="50",Canal+ Séries
 http://178.170.42.126/CANALSERIES/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-2334.png" group-title="Canal" tvg-chno="53",Warner TV 
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-2334.png" group-title="|Canal|" tvg-chno="53",Warner TV 
 http://178.170.42.126/WARNER/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3504.png" group-title="Canal" tvg-chno="60",Canal+ Sport 360
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3504.png" group-title="|Canal|" tvg-chno="60",Canal+ Sport 360
 https://dvrfl06.tulix.tv/astv/astv-canalplussport360/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-35.png" group-title="Canal" tvg-chno="62",Canal+ Sport
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-35.png" group-title="|Canal|" tvg-chno="62",Canal+ Sport
 http://178.170.42.126/CANALSPORT/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-94.png" group-title="Canal" tvg-chno="63",Infosport+
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-94.png" group-title="|Canal|" tvg-chno="63",Infosport+
 http://178.170.42.126/INFOSPORT/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="75",Golf+
+#EXTINF:-1 tvg-logo="" group-title="|Canal|" tvg-chno="75",Golf+
 http://178.170.42.126/GOLFPLUS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp" group-title="Canal" tvg-chno="78",Sport En France
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp" group-title="|Canal|" tvg-chno="78",Sport En France
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="86",TLC
+#EXTINF:-1 tvg-logo="" group-title="|Canal|" tvg-chno="86",TLC
 http://178.170.42.126/DISCOVERYSCIENCE/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3347.png" group-title="Canal" tvg-chno="110",Canal+ Docs
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3347.png" group-title="|Canal|" tvg-chno="110",Canal+ Docs
 http://178.170.42.126/CANALDOCS/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-147.png" group-title="Canal" tvg-chno="111",Planète+ 
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-147.png" group-title="|Canal|" tvg-chno="111",Planète+ 
 http://178.170.42.126/PLANETEPLUS/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-662.png" group-title="Canal" tvg-chno="112",Planète+ Crime
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-662.png" group-title="|Canal|" tvg-chno="112",Planète+ Crime
 http://178.170.42.126/PLANETEPLUSCI/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-402.png" group-title="Canal" tvg-chno="113",Planète+ Aventure
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-402.png" group-title="|Canal|" tvg-chno="113",Planète+ Aventure
 http://178.170.42.126/PLANETEPLUSAE/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1072.png" group-title="Canal" tvg-chno="114",Museum TV
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1072.png" group-title="|Canal|" tvg-chno="114",Museum TV
 https://live.creacast.com/museum-france/smil:museum-france.smil/.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-243.png" group-title="Canal" tvg-chno="115",National Geographic Channel
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-243.png" group-title="|Canal|" tvg-chno="115",National Geographic Channel
 http://178.170.42.126/NATGEO/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-719.png" group-title="Canal" tvg-chno="116",Nat Geo Wild
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-719.png" group-title="|Canal|" tvg-chno="116",Nat Geo Wild
 http://178.170.42.126/NATGEOWILD/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-400.png" group-title="Canal" tvg-chno="120",Discovery
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-400.png" group-title="|Canal|" tvg-chno="120",Discovery
 http://178.170.42.126/DISCOVERY/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="121",ID
+#EXTINF:-1 tvg-logo="" group-title="|Canal|" tvg-chno="121",ID
 http://178.170.42.126/DISCOVERYINVESTIGATION/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-173.png" group-title="Canal" tvg-chno="122",Seasons
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-173.png" group-title="|Canal|" tvg-chno="122",Seasons
 http://178.170.42.126/SEASONS/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3348.png" group-title="Canal" tvg-chno="130",Canal+ Kids
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3348.png" group-title="|Canal|" tvg-chno="130",Canal+ Kids
 http://178.170.42.126/CANALKIDS/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-229.png" group-title="Canal" tvg-chno="134",TiJi
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-229.png" group-title="|Canal|" tvg-chno="134",TiJi
 http://178.170.42.126/TIJI/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-197.png" group-title="Canal" tvg-chno="137",Teletoon
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-197.png" group-title="|Canal|" tvg-chno="137",Teletoon
 http://178.170.42.126/TELETOON/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-529.png" group-title="Canal" tvg-chno="166",France 24
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-529.png" group-title="|Canal|" tvg-chno="166",France 24
 http://178.170.42.126/FRANCE24/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-140.png" group-title="Canal" tvg-chno="167",Euronews
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-140.png" group-title="|Canal|" tvg-chno="167",Euronews
 http://178.170.42.126/EURONEWS/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-19.png" group-title="Canal" tvg-chno="169",BBC News
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-19.png" group-title="|Canal|" tvg-chno="169",BBC News
 http://178.170.42.126/BBCNEWS/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1073.png" group-title="Canal" tvg-chno="171",BFM Business
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1073.png" group-title="|Canal|" tvg-chno="171",BFM Business
 http://178.170.42.126/BFMBUSINESS/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-410.png" group-title="Canal" tvg-chno="173",Bloomberg
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-410.png" group-title="|Canal|" tvg-chno="173",Bloomberg
 http://178.170.42.126/BLOOMBERG/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="174",CNBC
+#EXTINF:-1 tvg-logo="" group-title="|Canal|" tvg-chno="174",CNBC
 http://178.170.42.126/CNBC/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-781.png" group-title="Canal" tvg-chno="175",i24 News
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-781.png" group-title="|Canal|" tvg-chno="175",i24 News
 http://178.170.42.126/I24/index.m3u8
-#EXTINF:-1 tvg-logo="https://m6pub.fr/content/uploads/2020/02/mcm-top-logo.png" group-title="Canal" tvg-chno="182",MCM Top
+#EXTINF:-1 tvg-logo="https://m6pub.fr/content/uploads/2020/02/mcm-top-logo.png" group-title="|Canal|" tvg-chno="182",MCM Top
 https://bkm.beetv.kz/btv/live/hls/000000327.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9GVyQ6x.png" group-title="Canal" tvg-chno="188",Melody
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9GVyQ6x.png" group-title="|Canal|" tvg-chno="188",Melody
 https://live.creacast.com/telemelody/smil:telemelody-211112.smil/.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-125.png" group-title="Canal" tvg-chno="200",Mezzo
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-125.png" group-title="|Canal|" tvg-chno="200",Mezzo
 https://bkm.beetv.kz/btv/live/hls/000000030.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/p-57LN8SfcBA1AqhXs7qdTyC1bCLw-Y6BCfHOm3puyCGomtNckRgQzo-f6EzXBlEMXvJWHJf7A=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Canal" tvg-chno="212",Astrocenter TV
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/p-57LN8SfcBA1AqhXs7qdTyC1bCLw-Y6BCfHOm3puyCGomtNckRgQzo-f6EzXBlEMXvJWHJf7A=s176-c-k-c0x00ffffff-no-rj-mo" group-title="|Canal|" tvg-chno="212",Astrocenter TV
 https://tvradiozap.eu/tools/yt.m3u8.php/@astrocenterFR.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Fransat" tvg-chno="38",Golf Channel
+#EXTINF:-1 tvg-logo="" group-title="|Fransat|" tvg-chno="38",Golf Channel
 http://178.170.42.126/GOLFCHANNEL/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-64.png" group-title="Fransat" tvg-chno="39",Equidia
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-64.png" group-title="|Fransat|" tvg-chno="39",Equidia
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-live.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-2037.png" group-title="Fransat" tvg-chno="48",Crime District
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-2037.png" group-title="|Fransat|" tvg-chno="48",Crime District
 http://178.170.42.126/CRIMEDISTRICT/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-10.png" group-title="Fransat" tvg-chno="50",Action
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-10.png" group-title="|Fransat|" tvg-chno="50",Action
 http://178.170.42.126/ACTION/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-110.png"  group-title="Fransat" tvg-chno="61",KTO
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-110.png"  group-title="|Fransat|" tvg-chno="61",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-451.png" group-title="Fransat" tvg-chno="63",Ushuaïa TV
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-451.png" group-title="|Fransat|" tvg-chno="63",Ushuaïa TV
 http://178.170.42.126/USHUAIATV/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-38.png" group-title="Fransat" tvg-chno="72",Chasse & Pêche
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-38.png" group-title="|Fransat|" tvg-chno="72",Chasse & Pêche
 http://178.170.42.126/CHASSEPECHE/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-63.png" group-title="Fransat" tvg-chno="73",Science & Vie TV
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-63.png" group-title="|Fransat|" tvg-chno="73",Science & Vie TV
 http://178.170.42.126/SCIENCEVIE/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-12.png" group-title="Fransat" tvg-chno="74",Animaux
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-12.png" group-title="|Fransat|" tvg-chno="74",Animaux
 http://178.170.42.126/ANIMAUX/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-7.png" group-title="Fransat" tvg-chno="75",Toute l'Histoire
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-7.png" group-title="|Fransat|" tvg-chno="75",Toute l'Histoire
 http://178.170.42.126/TOUTELHISTOIRE/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1776.png" group-title="Fransat" tvg-chno="76",Trek
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1776.png" group-title="|Fransat|" tvg-chno="76",Trek
 http://178.170.42.126/TREK/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-88.png" group-title="Fransat" tvg-chno="89",Histoire
+#EXTINF:-1 tvg-logo=" " group-title="|Fransat|" tvg-chno="81",Tech & Co
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-88.png" group-title="|Fransat|" tvg-chno="89",Histoire
 http://178.170.42.126/HISTOIRE/index.m3u8
-#EXTINF:-1 tvg-logo="https://s2.dmcdn.net/u/HT2x1bLFVCKZ1ymd/120x120" group-title="Fransat" tvg-chno="501",France Inter
+#EXTINF:-1 tvg-logo="https://s2.dmcdn.net/u/HT2x1bLFVCKZ1ymd/120x120" group-title="|Fransat|" tvg-chno="501",France Inter
 https://tvradiozap.eu/tools/dm.m3u8.php/x17qw0a.m3u8
-#EXTINF:-1 tvg-logo="https://s1.dmcdn.net/u/c0lS1bLFavUQXP2i/120x120" group-title="Fransat" tvg-chno="505",Franceinfo (Radio)
+#EXTINF:-1 tvg-logo="https://s1.dmcdn.net/u/c0lS1bLFavUQXP2i/120x120" group-title="|Fransat|" tvg-chno="505",Franceinfo (Radio)
 https://tvradiozap.eu/tools/dm.m3u8.php/x26eox4.m3u8
-#EXTINF:-1 tvg-logo="https://s2.dmcdn.net/u/1W-uR1cXxuODbj1JS/120x120" group-title="Fransat" tvg-chno="513",Europe 1
+#EXTINF:-1 tvg-logo="https://s2.dmcdn.net/u/1W-uR1cXxuODbj1JS/120x120" group-title="|Fransat|" tvg-chno="513",Europe 1
 https://tvradiozap.eu/tools/dm.m3u8.php/xqjkfz.m3u8
-#EXTINF:-1 tvg-logo="https://s1.dmcdn.net/u/612i61brQ6JoPPTkr/120x120" group-title="Fransat" tvg-chno="602",France Bleu Elsass
+#EXTINF:-1 tvg-logo="https://s1.dmcdn.net/u/612i61brQ6JoPPTkr/120x120" group-title="|Fransat|" tvg-chno="602",France Bleu Elsass
 https://tvradiozap.eu/tools/dm.m3u8.php/x72b0ey.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SFRTV" tvg-chno="52",E! 
+#EXTINF:-1 tvg-logo="" group-title="|SFRTV|" tvg-chno="52",E! 
 https://dvrfl07.bozztv.com/astv-entertainmentfrancais/index.m3u8
 
 
