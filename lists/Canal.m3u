@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Action
+http://178.170.42.126/ACTION/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Animaux
+http://178.170.42.126/ANIMAUX/index.m3u8c
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Canal+
+http://178.170.42.126/CANALPLUS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Canal+ Cinéma(s)
+http://178.170.42.126/CANALCINEMA/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Canal+ Docs
+http://178.170.42.126/CANALDOCS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Canal+ Kids
+http://178.170.42.126/CANALKIDS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Canal+ Séries
+http://178.170.42.126/CANALSERIES/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Canal+ Sport
+http://178.170.42.126/CANALSPORT/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Chasse & Pêche
+http://178.170.42.126/CHASSEPECHE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Ciné+ Premier
+http://178.170.42.126/CINEPREMIER/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Crime District
+http://178.170.42.126/CRIMEDISTRICT/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Discovery France
+http://178.170.42.126/DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Golf Channel France
+http://178.170.42.126/GOLFCHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Histoire
+http://178.170.42.126/HISTOIRE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",ID France
+http://178.170.42.126/DISCOVERYINVESTIGATION/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Nat Geo Wild France
+http://178.170.42.126/NATGEOWILD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",National Geographic Channel France
+http://178.170.42.126/NATGEO/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Science & Vie TV
+http://178.170.42.126/SCIENCEVIE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Seasons
+http://178.170.42.126/SEASONS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Teletoon
+http://178.170.42.126/TELETOON/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",TiJi
+http://178.170.42.126/TIJI/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",TLC France
+http://178.170.42.126/DISCOVERYSCIENCE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Toute l'Histoire
+http://178.170.42.126/TOUTELHISTOIRE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Trek
+http://178.170.42.126/TREK/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="",Ushuaïa TV
+http://178.170.42.126/USHUAIATV/index.m3u8
