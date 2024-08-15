@@ -57,11 +57,11 @@ https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceInfo.m3u8
 http://178.170.42.126/CANALPLUS/index.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-145.png" group-title="|TNT|",Paris Première
 
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-33.png" group-title="|TNT|",Canal+ Sport
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-35.png" group-title="|TNT|",Canal+ Sport
 http://178.170.42.126/CANALSPORT/index.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-33.png" group-title="|TNT|",Canal+ Cinéma(s) 
 http://178.170.42.126/CANALCINEMA/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-35.png" group-title="|TNT|",Planète+
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-147.png" group-title="|TNT|",Planète+
 http://178.170.42.126/PLANETEPLUS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-245.png" group-title="|TNT|",Réunion La 1ère (journaux uniquement)
