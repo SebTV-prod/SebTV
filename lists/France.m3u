@@ -57,7 +57,8 @@ https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceInfo.m3u8
 https://streamer01.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018_medium/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|TNT|",Antenne Réunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="|TNT|",BFM Toulon-Var
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-421.png" group-title="|TNT|",8 Mont-Blanc
 https://tvradiozap.eu/tools/dm.m3u8.php/x3wqv8b.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-701.png" group-title="|TNT|",20 Minutes TV
@@ -110,6 +111,14 @@ http://compack_media_1.vedge.infomaniak.com/livecast/compack_media_1/manifest.m3
 https://bcovlive-a.akamaihd.net/0903168c3aaa4b8b84406dfd5f1ffbb7/us-west-2/6101674910001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://beacon.playback.api.brightcove.com/savoirmedia/uploads/settings/2_e11b729e19a45b1c3f677217c5410c25_images_logo-h100_w100.png" group-title="|TNT|",Savoir.media
 https://hls.savoir.media/live/stream.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|TNT|",BFM Nice-Côte d'Azur
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="" group-title="|TNT|",BFM Marseille-Provence
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo=" " group-title="|TNT|",BFM D!ci Alpes 
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo=" " group-title="|TNT|",BFM D!ci Haute-Provence
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_HAUTEPROVENCE/index.m3u8?start=LIVE&end=END
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vJlAZsV.png" group-title="|DAB+|",bel RTL
 https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
