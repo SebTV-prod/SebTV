@@ -53,6 +53,29 @@ https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/lci.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-2111.png" group-title="|TNT|",Franceinfo
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceInfo.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-295.png" group-title="|TNT|",viàATV
+https://streamer01.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018_medium/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|TNT|",Antenne Réunion
+https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8
+
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-421.png" group-title="|TNT|",8 Mont-Blanc
+https://tvradiozap.eu/tools/dm.m3u8.php/x3wqv8b.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-701.png" group-title="|TNT|",20 Minutes TV
+https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-529.png" group-title="|TNT|",France 24
+https://bozztv.com/dvrfl05/gin-france24french/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a8RuRUQ.png" group-title="|TNT|",Le Figaro TV
+https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m5E2VP0.png" group-title="|TNT|",ETV Guadeloupe
+https://etvgp.vedge.infomaniak.com/livecast/etvgp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-232.png" group-title="|TNT|",TV5 Monde Europe
+https://muutube.sonmezalp.com/proxy.php/https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-205.png" group-title="|TNT|",TV5 Monde FBSM
+https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|TNT|",Monaco Info
+https://webtv.monacoinfo.com/live/prod_720/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|TNT|",TV Monaco
+https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
 #EXTINF:-1 tvg-id="C34.api.telerama.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-34.png" group-title="|TNT|",Canal+
 http://178.170.42.126/CANALPLUS/index.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-145.png" group-title="|TNT|",Paris Première
@@ -63,36 +86,18 @@ http://178.170.42.126/CANALSPORT/index.m3u8
 http://178.170.42.126/CANALCINEMA/index.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-147.png" group-title="|TNT|",Planète+
 http://178.170.42.126/PLANETEPLUS/index.m3u8
-
+#EXTINF:-1 channel-id="samsung-FRBB49000059E" tvg-id="FRBB49000059E" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB49000059E_20230614T005617SQUARE.png_20230614005618.png" group-title="|TNT|",Tahiti TV
+https://jmp2.uk/SamsungTVPlus/FRBB49000059E.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|TNT|",Léman Bleu
+http://naxoo.vedge.infomaniak.com/livecast/naxoo/manifest.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|TNT|",Canal Alpha (Jura)
+http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/manifest.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|TNT|",Canal Alpha (Neuchâtel)
+http://canalalpha.vedge.infomaniak.com/livecast/canalalpha/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-245.png" group-title="|TNT|",Réunion La 1ère (journaux uniquement)
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_reunion_metro.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|TNT|",Mayotte La 1ère (journaux uniquement)
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/La1ere_mayotte_metro.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-295.png" group-title="|TNT|",viàATV
-https://streamer01.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018_medium/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="|TNT|",Antenne Réunion
-https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8
-#EXTINF:-1 channel-id="samsung-FRBB49000059E" tvg-id="FRBB49000059E" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB49000059E_20230614T005617SQUARE.png_20230614005618.png" group-title="|TNT|",Tahiti TV
-https://jmp2.uk/SamsungTVPlus/FRBB49000059E.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m5E2VP0.png" group-title="|TNT|",ETV Guadeloupe
-https://etvgp.vedge.infomaniak.com/livecast/etvgp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-421.png" group-title="|TNT|",8 Mont-Blanc
-https://tvradiozap.eu/tools/dm.m3u8.php/x3wqv8b.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-701.png" group-title="|TNT|",20 Minutes TV
-https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a8RuRUQ.png" group-title="|TNT|",Le Figaro TV
-https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-529.png" group-title="|TNT|",France 24
-https://bozztv.com/dvrfl05/gin-france24french/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-232.png" group-title="|TNT|",TV5 Monde Europe
-https://muutube.sonmezalp.com/proxy.php/https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-205.png" group-title="|TNT|",TV5 Monde FBSM
-https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="|TNT|",Monaco Info
-https://webtv.monacoinfo.com/live/prod_720/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="|TNT|",TV Monaco
-https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|TNT|",Carac 1
 http://rougetv.vedge.infomaniak.com/livecast/rougetv/manifest.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|TNT|",Carac 2
@@ -101,12 +106,6 @@ http://onefmhd.vedge.infomaniak.com/livecast/onefmhd/manifest.m3u8
 http://lfmhd.vedge.infomaniak.com/livecast/lfmhd/manifest.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|TNT|",Carac 4
 http://compack_media_1.vedge.infomaniak.com/livecast/compack_media_1/manifest.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="|TNT|",Léman Bleu
-http://naxoo.vedge.infomaniak.com/livecast/naxoo/manifest.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="|TNT|",Canal Alpha (Jura)
-http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/manifest.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="|TNT|",Canal Alpha (Neuchâtel)
-http://canalalpha.vedge.infomaniak.com/livecast/canalalpha/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e1/TQcLogo_rgb_2020.png/300px-TQcLogo_rgb_2020.png" group-title="|TNT|",Télé Québec
 https://bcovlive-a.akamaihd.net/0903168c3aaa4b8b84406dfd5f1ffbb7/us-west-2/6101674910001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://beacon.playback.api.brightcove.com/savoirmedia/uploads/settings/2_e11b729e19a45b1c3f677217c5410c25_images_logo-h100_w100.png" group-title="|TNT|",Savoir.media
