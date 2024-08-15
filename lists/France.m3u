@@ -121,11 +121,6 @@ https://bcovlive-a.akamaihd.net/0903168c3aaa4b8b84406dfd5f1ffbb7/us-west-2/61016
 #EXTINF:-1 tvg-logo="https://beacon.playback.api.brightcove.com/savoirmedia/uploads/settings/2_e11b729e19a45b1c3f677217c5410c25_images_logo-h100_w100.png" group-title="|TNT|" tvg-chno="829",Savoir.media
 https://hls.savoir.media/live/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1073.png" group-title="|Fransat|" tvg-chno="51",BFM Business
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-logo=" " group-title="|Fransat|" tvg-chno="81",Tech & Co
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vJlAZsV.png" group-title="|DAB+|",bel RTL
 https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0OkSa6c.png" group-title="|DAB+|",BX1+
