@@ -8,7 +8,9 @@ https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/138.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-34.png" group-title="|Canal|" tvg-chno="4",Canal+
 http://178.170.42.126/CANALPLUS/index.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-118.png" group-title="|Canal|" tvg-chno="6",M6
-https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/102.m3u8
+https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/70.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-111.png" group-title="|Canal|" tvg-chno="7",ARTE
+https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/72.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-445.png" group-title="|Canal|" tvg-chno="8",C8
 https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/92.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-119.png" group-title="|Canal|" tvg-chno="9",W9
