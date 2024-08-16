@@ -29,12 +29,20 @@ http://178.170.42.126/TCMCINEMA/index.m3u8
 http://178.170.42.126/CANALSERIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-2334.png" group-title="|Canal|" tvg-chno="53",Warner TV 
 http://178.170.42.126/WARNER/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Canal|" tvg-chno="57",Novelas TV
+https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/103.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3504.png" group-title="|Canal|" tvg-chno="60",Canal+ Sport 360
 https://dvrfl06.tulix.tv/astv/astv-canalplussport360/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Canal|" tvg-chno="61",Canal+ Foot
+https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/88.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-35.png" group-title="|Canal|" tvg-chno="62",Canal+ Sport
 http://178.170.42.126/CANALSPORT/index.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-94.png" group-title="|Canal|" tvg-chno="63",Infosport+
 http://178.170.42.126/INFOSPORT/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Canal|" tvg-chno="72",Eurosport 1 
+https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/59.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Canal|" tvg-chno="73",Eurosport 2
+https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/60.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|Canal|" tvg-chno="75",Golf+
 http://178.170.42.126/GOLFPLUS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp" group-title="|Canal|" tvg-chno="78",Sport En France
@@ -61,12 +69,18 @@ http://178.170.42.126/DISCOVERY/index.m3u8
 http://178.170.42.126/DISCOVERYINVESTIGATION/index.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-173.png" group-title="|Canal|" tvg-chno="122",Seasons
 http://178.170.42.126/SEASONS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Canal|" tvg-chno="125",TV Monaco
+https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/85.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3348.png" group-title="|Canal|" tvg-chno="130",Canal+ Kids
 http://178.170.42.126/CANALKIDS/index.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-229.png" group-title="|Canal|" tvg-chno="134",TiJi
 http://178.170.42.126/TIJI/index.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-197.png" group-title="|Canal|" tvg-chno="137",Teletoon
 http://178.170.42.126/TELETOON/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Canal|" tvg-chno="141",Cartoon Network
+https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/76.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Canal|" tvg-chno="157",Game One
+https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/104.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-529.png" group-title="|Canal|" tvg-chno="166",France 24
 http://178.170.42.126/FRANCE24/index.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-140.png" group-title="|Canal|" tvg-chno="167",Euronews
@@ -81,6 +95,8 @@ http://178.170.42.126/BLOOMBERG/index.m3u8
 http://178.170.42.126/CNBC/index.m3u8
 #EXTINF:-1 tvg-logo="https://m6pub.fr/content/uploads/2020/02/mcm-top-logo.png" group-title="|Canal|" tvg-chno="182",MCM Top
 https://bkm.beetv.kz/btv/live/hls/000000327.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Canal|" tvg-chno="183",NRJ Hits
+https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/109.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9GVyQ6x.png" group-title="|Canal|" tvg-chno="188",Melody
 https://live.creacast.com/telemelody/smil:telemelody-211112.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-125.png" group-title="|Canal|" tvg-chno="200",Mezzo
@@ -100,10 +116,14 @@ http://178.170.42.126/ACTION/index.m3u8
 http://178.170.42.126/I24/index.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-205.png" group-title="|Fransat|" tvg-chno="56",TV5 Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Fransat|" tvg-chno="58",RTL9
+https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/93.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-110.png"  group-title="|Fransat|" tvg-chno="61",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Fransat|" tvg-chno="62",Mangas
+https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/97.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-451.png" group-title="|Fransat|" tvg-chno="63",Ushuaïa TV
-http://178.170.42.126/USHUAIATV/index.m3u8
+https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/94.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-38.png" group-title="|Fransat|" tvg-chno="72",Chasse & Pêche
 http://178.170.42.126/CHASSEPECHE/index.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-63.png" group-title="|Fransat|" tvg-chno="73",Science & Vie TV
