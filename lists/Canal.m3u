@@ -1,12 +1,30 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-192.png" group-title="|Canal|" tvg-chno="1",TF1
+https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/87.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-4.png" group-title="|Canal|" tvg-chno="2",France 2
+https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/137.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-80.png" group-title="|Canal|" tvg-chno="3",France 3
+https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/138.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-34.png" group-title="|Canal|" tvg-chno="4",Canal+
 http://178.170.42.126/CANALPLUS/index.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-118.png" group-title="|Canal|" tvg-chno="6",M6
+https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/102.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-445.png" group-title="|Canal|" tvg-chno="8",C8
+https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/92.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-119.png" group-title="|Canal|" tvg-chno="9",W9
+https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/79.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-195.png" group-title="|Canal|" tvg-chno="10",TMC
+https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/78.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-446.png" group-title="|Canal|" tvg-chno="11",TFX
+https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/77.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-234.png" group-title="|Canal|" tvg-chno="13",LCP
 http://178.170.42.126/LCP/index.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-481.png" group-title="|Canal|" tvg-chno="15",BFM TV
 http://178.170.42.126/BFM/index.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-226.png" group-title="|Canal|" tvg-chno="16",CNews
 http://178.170.42.126/CNEWS/index.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1402.png" group-title="|Canal|" tvg-chno="23",RMC Story
+https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/80.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1400.png" group-title="|Canal|" tvg-chno="24",RMC Découverte
 http://178.170.42.126/RMCDECOUVERTE/index.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-112.png" group-title="|Canal|" tvg-chno="26",LCI
