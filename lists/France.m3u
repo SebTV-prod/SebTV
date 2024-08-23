@@ -56,6 +56,8 @@ https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceInfo.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="|TNT|" tvg-chno="30",Alpe d'Huez TV
 https://livevideo.vedge.infomaniak.com/livecast/adhtv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|TNT|" tvg-chno="30",Angers Télé
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/angerstele.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|TNT|" tvg-chno="30",BFM Régions - Alsace
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0uiiZRo.png" group-title="|TNT|" tvg-chno="30",BFM Régions - Lyon-Métropole
@@ -70,6 +72,8 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?start=LIVE&
 #EXTVLCOPT:http-referrer=https://srv.webtvmanager.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 https://srv.webtvmanager.fr:3118/live/viatelepaeselive.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|TNT|" tvg-chno="30",TV Tarn
+https://live.creacast.com/albi-tv-ch1/stream/master.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|TNT|" tvg-chno="30",Wéo - La Voix du Nord
 https://lives.digiteka.com/stream/c58028c2-a58b-4526-9ec8-389cad4a71e8/index.m3u8
 
@@ -85,6 +89,10 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?end=END&sta
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-logo=" " group-title="|TNT|" tvg-chno="31",Tébéo
 https://lives.digiteka.com/stream/e0fe6433-554e-4568-9a7e-31969136d8ff/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Telenantes.png" group-title="|TNT|" tvg-chno="31",Télénantes
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/telenantes.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|TNT|" tvg-chno="31",viàOccitanie
+https://lives.digiteka.com/stream/9c424a1c-d202-465c-84e1-3efb89a43fee/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|TNT|" tvg-chno="31",Vosges Télévision
 https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
 
@@ -99,13 +107,21 @@ https://livevideo.vedge.infomaniak.com/livecast/canal32/manifest.m3u8
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-logo=" " group-title="|TNT|" tvg-chno="33",France 3 Régions - Via Stella
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_Corse-ViaStella.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|TNT|" tvg-chno="33",LMTV Sarthe
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/LMTVSarthe.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Logo_Moselle_TV.png/300px-Logo_Moselle_TV.png" group-title="|TNT|" tvg-chno="33",Moselle TV
 https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|TNT|" tvg-chno="33",TLC - Télévision Locale du Choletais
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/TLC.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|TNT|" tvg-chno="33",TV7 Sud-Ouest
+https://lives.digiteka.com/stream/17c6dea8-fb3f-46fe-b170-2ac88cd5667b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a8RuRUQ.png" group-title="|TNT|" tvg-chno="34",Le Figaro TV
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|TNT|" tvg-chno="34",Ma Télé
 https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|TNT|" tvg-chno="34",TV Vendée
+https://streamer01.myvideoplace.tv/streamer02/hls/VDE_EVEN_PAD_130923.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="|TNT|" tvg-chno="35",TVR
 https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
@@ -148,7 +164,7 @@ https://streamer01.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018_medium/in
 #EXTINF:-1 tvg-logo=" " group-title="|TNT|" tvg-chno="202",Antenne Réunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8
 #EXTINF:-1 channel-id="samsung-FRBB49000059E" tvg-id="FRBB49000059E" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB49000059E_20230614T005617SQUARE.png_20230614005618.png" group-title="|TNT|" tvg-chno="203",Tahiti TV
-https://jmp2.uk/SamsungTVPlus/FRBB49000059E.m3u8
+https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m5E2VP0.png" group-title="|TNT|" tvg-chno="601",ETV Guadeloupe
 https://etvgp.vedge.infomaniak.com/livecast/etvgp/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|TNT|" tvg-chno="803",Carac 1
@@ -184,6 +200,8 @@ https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-318.png" group-title="|Fransat|" tvg-chno="87",CGTN Français
 https://livefr.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Noa.svg.png" group-title="|Fransat|" tvg-chno="325",France 3 Régions - NoA
+https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_NoA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MgBeU52.png" group-title="|Fransat|" tvg-chno="501",France Inter
 https://tvradiozap.eu/tools/dm.m3u8.php/x17qw0a.m3u8
 #EXTINF:-1 tvg-logo="https://s1.dmcdn.net/u/c0lS1bLFavUQXP2i/120x120" group-title="|Fransat|" tvg-chno="505",Franceinfo
