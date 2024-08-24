@@ -1,1 +1,20 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo=" " group-title="|TNT|" tvg-chno="2",Ici Télé
+https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e1/TQcLogo_rgb_2020.png/300px-TQcLogo_rgb_2020.png" group-title="|TNT|" tvg-chno="17",Télé Québec
+https://bcovlive-a.akamaihd.net/0903168c3aaa4b8b84406dfd5f1ffbb7/us-west-2/6101674910001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://beacon.playback.api.brightcove.com/savoirmedia/uploads/settings/2_e11b729e19a45b1c3f677217c5410c25_images_logo-h100_w100.png" group-title="|TNT|" tvg-chno="829",Savoir.media
+https://hls.savoir.media/live/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x0vLIWr.png" group-title="|TNT|" tvg-chno="47",ICI (La Chaîne Internationale)
+https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqM4nI5DLEvf2EjD7EG1QoCVPzLBO2s5eJL_wP5s=s176-c-k-c0x00ffffff-no-rj" group-title="|Bell Fibe|" tvg-chno="109",TVC 9
+https://ythls.armelin.one/channel/UC0JP0ek-HhcqisiEpsZiQZA.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sibprod/SibTV/main/assets/IciRDI.png" group-title="|Bell Fibe|" tvg-chno="117",Ici RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqM2dP80gkZP-sc1ZRFQKEColJHeuS5OlbDEl8o8=s48-c-k-c0x00ffffff-no-rj" group-title="|Bell Fibe|" tvg-chno="119",Télé-Mag Québec
+
+#EXTINF:-1 tvg-logo=" " group-title="|Bell Fibe|" tvg-chno="143",Canal de l'Assemblée Nationale
+https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/512px-2016_CPAC_logo.svg.png" group-title="|Bell Fibe|" tvg-chno="144",CPAC
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
