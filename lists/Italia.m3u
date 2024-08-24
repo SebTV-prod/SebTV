@@ -1,63 +1,66 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RAI%201.png" group-title="|IT_DTT|",Rai 1
+#EXTINF:-1 tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RAI%201.png" group-title="|DTT|" tvg-chno="1",Rai 1
 https://ilglobotv-live.global.ssl.fastly.net/RAI1UK/Live.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RAI%202.png" group-title="|IT_DTT|",Rai 2
+#EXTINF:-1 tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RAI%202.png" group-title="|DTT|" tvg-chno="2",Rai 2
 https://ilglobotv-live.global.ssl.fastly.net/RAI2UK/Live.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RAI%203.png" group-title="|IT_DTT|",Rai 3
+#EXTINF:-1 tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RAI%203.png" group-title="|DTT|" tvg-chno="3",Rai 3
 https://ilglobotv-live.global.ssl.fastly.net/RAI3UK/Live.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="|IT_DTT|",La 7
+#EXTINF:-1 tvg-logo=" " group-title="|DTT|" tvg-chno="7",La 7
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
-#EXTINF:-1 tvg-logo=""  group-title="|IT_DTT|",TV 2000
+#EXTINF:-1 tvg-logo=""  group-title="|DTT|" tvg-chno="28",TV 2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="|IT_DTT|",La 7d
+#EXTINF:-1 tvg-logo=" " group-title="|DTT|" tvg-chno="29",La 7d
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="|IT_DTT|",QVC 
+#EXTINF:-1 tvg-logo=" " group-title="|DTT|" tvg-chno="32",QVC 
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/720p/720p.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat-logo.com/logo/radio/rr/rtl_1025_radiovisione.png" group-title="|IT_DTT|",RTL 102.5 TV
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat-logo.com/logo/radio/rr/rtl_1025_radiovisione.png" group-title="|DTT|" tvg-chno="36",RTL 102.5 TV
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
-#EXTINF:-1 tvg-logo=""  group-title="|IT_DTT|",Super!
+#EXTINF:-1 tvg-logo=""  group-title="|DTT|" tvg-chno="47",Super!
 https://vimnitaly.akamaized.net/hls/live/2094034/super/master-2500.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n2u57y3.png" group-title="|IT_DTT|",Rai News 24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n2u57y3.png" group-title="|DTT|" tvg-chno="48",Rai News 24
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=16
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPmvbGH.png" group-title="|IT_DTT|",TG Com 24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPmvbGH.png" group-title="|DTT|" tvg-chno="51",TG Com 24
 https://ilglobotv-live.global.ssl.fastly.net/TGCOM242/Live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/512px-Rai_Scuola_-_Logo_2017.svg.png" group-title="|IT_DTT|",Rai Scuola
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/512px-Rai_Scuola_-_Logo_2017.svg.png" group-title="|DTT|" tvg-chno="54",Rai Scuola
 https://ilglobotv-live.global.ssl.fastly.net/RAIScuolaUK/Live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/512px-Rai_Storia_-_Logo_2017.svg.png" group-title="|IT_DTT|",Rai Storia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/512px-Rai_Storia_-_Logo_2017.svg.png" group-title="|DTT|" tvg-chno="57",Rai Storia
 https://ilglobotv-live.global.ssl.fastly.net/RAIStoriaUK/Live.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="|IT_DTT|",Go-TV
+#EXTINF:-1 tvg-logo=" " group-title="|DTT|" tvg-chno="63",Go-TV
 #EXTVLCOPT:http-referrer=https://player.castr.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 https://stream.castr.com/604b6e10ad1e130d20dedd12/live_1b2633f0158b11eeb388a5854e7a8f3a/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo=""  group-title="|IT_DTT|",Alma TV
+#EXTINF:-1 tvg-logo=""  group-title="|DTT|" tvg-chno="65",Alma TV
 https://sportitaliaamd.akamaized.net/live/Alma_TV/hls/8B620B531085AB9D79DAB5B98F2ADEF3A7F5BE2B/index.m3u8
-#EXTINF:-1 tvg-logo=""  group-title="|IT_DTT|",BOM Channel
+#EXTINF:-1 tvg-logo=""  group-title="|DTT|" tvg-chno="68",BOM Channel
 https://5f22d76e220e1.streamlock.net/canale6/canale6/.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/deejay-tv-it.png" group-title="|IT_DTT|",Deejay TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/deejay-tv-it.png" group-title="|DTT|" tvg-chno="69",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/radio/rr/radio-italia-it.png" group-title="|IT_DTT|",Radio Italia
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/radio/rr/radio-italia-it.png" group-title="|DTT|" tvg-chno="70",Radio Italia
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kiss-kiss-tv-it.png" group-title="|IT_DTT|",Radio Kiss Kiss TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/radio-bruno-tv-it.png" group-title="|DTT|" tvg-chno="73",Radio Bruno
+https://stream4.xdevel.com/video0s975758-473/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kiss-kiss-tv-it.png" group-title="|DTT|" tvg-chno="158",Radio Kiss Kiss TV
 https://59253971be783.streamlock.net/KKMulti/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/radio-freccia-tv-it.svg" group-title="|IT_DTT|",Radio Freccia TV
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/radio-freccia-tv-it.svg" group-title="|DTT|" tvg-chno="258",Radio Freccia TV
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rds-social-tv-it.png" group-title="|IT_DTT|",RDS Social TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rds-social-tv-it.png" group-title="|DTT|" tvg-chno="265",RDS Social TV
 https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/radio-zeta-radiovisione-it.png" group-title="|IT_DTT|",Radio Zeta TV 
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/radio-zeta-radiovisione-it.png" group-title="|DTT|" tvg-chno="266",Radio Zeta TV 
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
-
-#EXTINF:-1 tvg-logo=""  group-title="|IT_DTT|",RTV San Marino
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/m2o_it_tv.png" group-title="|DTT|" tvg-chno="715",Radio M2O
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 tvg-logo=""  group-title="|DTT|" tvg-chno="831",RTV San Marino
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo=""  group-title="|IT_DTT|",RTV San Marino Sport
+
+#EXTINF:-1 tvg-logo=""  group-title="|DTT_Emilia-Romagna|" tvg-chno="73",RTV San Marino Sport
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/m2o_it_tv.png" group-title="|DAB+|",M2O TV
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="|DAB+|",Radio 4 You TV
+#EXTINF:-1 tvg-logo=" " group-title="|DTT_Piemonte|" tvg-chno="98",Radio 4 You TV
 https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
-#EXTINF:-1 channel-id="samsung-ITBA2200008IM" tvg-id="ITBA2200008IM" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/30/ITBA2200008IM_20220608T011637.png" group-title="|DAB+|",Radio Italia Trend
+
+#EXTINF:-1 channel-id="samsung-ITBA2200008IM" tvg-id="ITBA2200008IM" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/30/ITBA2200008IM_20220608T011637.png" group-title="|Tivùsat|" tvg-chno="726",Radio Italia Trend
 https://radioitalia-samsungitaly.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8cpuaG5.png" group-title="|DAB+|",Radio Number One
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8cpuaG5.png" group-title="|Sky|" tvg-chno="631",Radio Number One
 https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/radio-bruno-tv-it.png" group-title="|DAB+|",Radio Bruno
-https://stream4.xdevel.com/video0s975758-473/stream/playlist.m3u8
+
