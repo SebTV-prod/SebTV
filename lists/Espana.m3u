@@ -169,6 +169,8 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|IPTV|",Es Tu Tele
 https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|IPTV|" tvg-chno=" ",Euronews - En Español
+https://tvradiozap.eu/tools/dm.m3u8.php/x2j7hpf.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qkHrttj.png" group-title="|IPTV|",Logos TV
 https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|IPTV|",XPTV 1
