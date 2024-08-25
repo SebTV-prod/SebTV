@@ -354,27 +354,27 @@ https://vdo.pro-fhi.net:3744/stream/play.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|FR|IPTV|",Valloire TV
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/ValloireTV.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="|DAB+|",France Bleu Elsass
+#EXTINF:-1 tvg-logo=" " group-title="|FR|DAB+|",France Bleu Elsass
 http://tvradiozap.eu/tools/dm.m3u8.php/x72b0ey.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="|DAB+|",Fun Radio
+#EXTINF:-1 tvg-logo=" " group-title="|FR|DAB+|",Fun Radio
 https://tvradiozap.eu/tools/dm.m3u8.php/xxtuy6.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="|DAB+|",Generations
+#EXTINF:-1 tvg-logo=" " group-title="|FR|DAB+|",Generations
 https://generation-tv.vedge.infomaniak.com/livecast/generation-tv/manifest.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="|DAB+|",Littoral TV
+#EXTINF:-1 tvg-logo=" " group-title="|FR|DAB+|",Littoral TV
 https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="|DAB+|",Martinique La 1ère (Radiovision)
+#EXTINF:-1 tvg-logo=" " group-title="|FR|DAB+|",Martinique La 1ère (Radiovision)
 https://tvradiozap.eu/tools/yt.m3u8.php/@martiniquela1ere.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="|DAB+|",Radio Espérance
+#EXTINF:-1 tvg-logo=" " group-title="|FR|DAB+|",Radio Espérance
 https://tvradiozap.eu/tools/dm.m3u8.php/x8n8jzl.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="|DAB+|",Radio Mont-Blanc
+#EXTINF:-1 tvg-logo=" " group-title="|FR|DAB+|",Radio Mont-Blanc
 https://live.creacast.com/radiomontblanc-ch1/smil:radiomontblanc-ch1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="|DAB+|",RFI
+#EXTINF:-1 tvg-logo=" " group-title="|FR|DAB+|",RFI
 https://tvradiozap.eu/tools/yt.m3u8.php/@RFI_Fr.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="|DAB+|",RTL
+#EXTINF:-1 tvg-logo=" " group-title="|FR|DAB+|",RTL
 https://tvradiozap.eu/tools/dm.m3u8.php/xl1km0.m3u8 
-#EXTINF:-1 tvg-logo=" " group-title="|DAB+|",RTL 2
+#EXTINF:-1 tvg-logo=" " group-title="|FR|DAB+|",RTL 2
 https://tvradiozap.eu/tools/dm.m3u8.php/x2tzzpj.m3u8 
-#EXTINF:-1 tvg-logo=" " group-title="|DAB+|",Sud Radio
+#EXTINF:-1 tvg-logo=" " group-title="|FR|DAB+|",Sud Radio
 https://tvradiozap.eu/tools/dm.m3u8.php/x8jqxru.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sibprod/SibTV/main/assets/LN24.png" group-title="|FR|Proximus|" tvg-chno="18",LN24
