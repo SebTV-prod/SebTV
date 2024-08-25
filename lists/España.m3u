@@ -3,51 +3,107 @@
 https://jmp2.uk/SamsungTVPlus/ESBC4100001NZ.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|TDT|",La 2 TVE
 https://jmp2.uk/SamsungTVPlus/ESBC4100002AG.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|TDT|",Tdp TVE
-https://jmp2.uk/SamsungTVPlus/ESBC410000577.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|TDT|",24h TVE
-https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="|TDT|",Clan TVE
-https://jmp2.uk/SamsungTVPlus/ESBC4100003WE.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NYLnABb.png" group-title="|TDT|",Cuatro
+#EXTINF:-1 tvg-logo=" " group-title="|TDT|",Cuatro
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nUYuCAP.png" group-title="|TDT|",Boing! (España)
-https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CnhTn8i.png" group-title="|TDT|",RTV Andorra
+https://play.cdn.enetres.net/56495F77FD124FECA75590A906965F2C021/021/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logoten.jpg" group-title="|TDT|",Ten
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:26_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="|TDT|",Tr3ce
 https://live-edge-ams-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|TDT|",Tdp TVE
+https://jmp2.uk/SamsungTVPlus/ESBC410000577.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="|TDT|",Real Madrid TV
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:27_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|TDT|",24h TVE
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logoeltorotv.jpg" group-title="|TDT|",El Toro TV
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|TDT|",Clan TVE
+https://jmp2.uk/SamsungTVPlus/ESBC4100003WE.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nUYuCAP.png" group-title="|TDT|",Boing! (España)
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logodisneychannel.jpg" group-title="|TDT|",Disney Channel (España)
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nUYuCAP.png" group-title="|TDT|",Paramount Channel (España)
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:22_HD.smil/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CnhTn8i.png" group-title="|TDT_Andorra|",RTV Andorra
-https://play.cdn.enetres.net/56495F77FD124FECA75590A906965F2C021/021/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logocanal4baleares.jpg" group-title="|TDT_Baleares|",Canal 4
+#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logocanal4baleares.jpg" group-title="|TDT_Autonomicas|",Canal 4 - Mallorca
 https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="|TDT_Catalunya|",TV3
+#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logotv3.jpg" group-title="|TDT_Autonomicas|",TV3
 https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logo324.jpg" group-title="|TDT_Catalunya|",3/24
+#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logo324.jpg" group-title="|TDT_Autonomicas|",3/24
 https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="|TDT_Catalunya|",El 33
+#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logo33.jpg" group-title="|TDT_Autonomicas|",El 33
 https://directes-tv-int.ccma.cat/live-origin/c33-super3-hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logosuper3.jpg" group-title="|TDT_Catalunya|",SX3
+#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logosuper3.jpg" group-title="|TDT_Autonomicas|",SX3
 https://directes-tv-int.ccma.cat/live-origin/super3-hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logoesport3.jpg" group-title="|TDT_Catalunya|",Esport 3
+#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logosuper3.jpg" group-title="|TDT_Autonomicas|",SX3 (2d flux)
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:42_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logoesport3.jpg" group-title="|TDT_Autonomicas|",Esport 3
 https://directes-tv-int.ccma.cat/live-origin/esport3-hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logocanal4baleares.jpg" group-title="|TDT_Catalunya|",Canal 4
+#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logoesport3.jpg" group-title="|TDT_Autonomicas|",Esport 3 (2d flux)
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:48_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logocanal4baleares.jpg" group-title="|TDT_Autonomicas|",Canal 4 - Catalunya
 https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
-#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logomolatv.jpg" group-title="|TDT_Catalunya|",Molahits TV
+#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logoesport3.jpg" group-title="|TDT_Autonomicas|",El 9
+https://liveingesta360.cdnmedia.tv/9tvlive/smil:live.smil/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logomolatv.jpg" group-title="|TDT_Autonomicas|",Molahits TV
 https://ventdelnord.tv:8080/mola/directe.m3u8
-
-#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logocanal4baleares.jpg" group-title="|TDT_Madrid|",Canal 4
+#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logocanal4baleares.jpg" group-title="|TDT_Autonomicas|",Canal 4 - Madrid
 https://limited35.todostreaming.es/live/mitjans-livestream2.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/La_7_logo.svg/150px-La_7_logo.svg.png" group-title="|TDT_Murcia|",La 7 (Región de Murcia)
+#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logo7murcia.jpg" group-title="|TDT_Autonomicas|",La 7 (Región de Murcia)
 https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://laocho.tv/web2/assets/img/logos-pie/logo_header.svg" group-title="|TDT_Valencia|",La 8 Mediterráneo
+#EXTINF:-1 tvg-logo="https://laocho.tv/web2/assets/img/logos-pie/logo_header.svg" group-title="|TDT_Autonomicas|",La 8 Mediterráneo
 https://streaming004.gestec-video.com/hls/8TV.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|TDT_Autonomicas|",Pequeradio TV
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="|FAST|",!Hola Play!
+https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|FAST|",Atresmedia Flooxer
+https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|FAST|",Atresmedia Kidz
+https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|FAST|",El Confidential
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|FAST|",El País
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DARK.png" group-title="|Movistar+|" tvg-chno="34",Dark
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:92_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SOMOS.png" group-title="|Movistar+|" tvg-chno="35",Somos
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:104_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FOXGE.png" group-title="|Movistar+|" tvg-chno="38",Star Channel
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:248_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TNT.png" group-title="|Movistar+|" tvg-chno="40",WBTV (España)
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:69_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PCM.png" group-title="|Movistar+|" tvg-chno="41",Comedy Central (España)
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:248_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/COSMO.png" group-title="|Movistar+|" tvg-chno="43",Cosmo
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:75_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGEO.png" group-title="|Movistar+|" tvg-chno="82",National Geographic Channel (España)
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:75_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGW.png" group-title="|Movistar+|" tvg-chno="83",Nat Geo Wild (España)
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:75_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BUENV.png" group-title="|Movistar+|" tvg-chno="91",!Buen Viaje!
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:91_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CACOC.png" group-title="|Movistar+|" tvg-chno="92",Canal Cocina
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:243_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PANDA.png" group-title="|Movistar+|" tvg-chno="99",Enfamilia
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:102_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BABY.png" group-title="|Movistar+|" tvg-chno="110",Baby TV (España)
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:262_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NICKJR.png" group-title="|Movistar+|" tvg-chno="113",Nick.Jr (España)
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:261_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NICK.png" group-title="|Movistar+|" tvg-chno="114",Nickelodeon (España)
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:260_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MTV.png" group-title="|Movistar+|" tvg-chno="120",MTV (España)
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:256_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VH1.png" group-title="|Movistar+|" tvg-chno="121",MTV 00's
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:259_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="|IPTV|",DW (Español)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|IPTV|",Es Tu Tele
+https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8
