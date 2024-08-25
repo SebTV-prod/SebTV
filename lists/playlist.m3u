@@ -169,6 +169,9 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&e
 https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-205.png" group-title="|FR|Fransat|" tvg-chno="56",TV5 Monde FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-5.png" group-title="|FR|Fransat|" tvg-chno="57",AB1
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/73736
+
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-110.png" group-title="|FR|Fransat|" tvg-chno="61",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear- .png" group-title="|FR|Fransat|" tvg-chno="81",Tech & Co
@@ -207,6 +210,8 @@ https://bkm.beetv.kz/btv/live/hls/000000030.m3u8
 https://dvrfl07.bozztv.com/astv-entertainmentfrancais/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|FR|Câble|" tvg-chno="77",TV7 Colmar
 https://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|FR|Câble|" tvg-chno="98",TV3V
+https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|FR|Câble|" tvg-chno="368",TV78
 https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|FR|Câble|" tvg-chno="476",Lyon Capitale TV
@@ -215,10 +220,12 @@ http://tvradiozap.eu/tools/dm.m3u8.php/x7z3zqa.m3u8
 https://live.creacast.com/iltv/smil:iltv.smil/.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|FR|Câble|" tvg-chno="482",ASTV
 https://github.com/Sibprod/streams/blob/main/ressources/twitch/hls/ASTV.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|FR|Câble|" tvg-chno="485",Télé Gohelle
+https://videas.agglo-lenslievin.fr/index.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="|FR|FAST|",France TV Docs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kJjHW61/frdocs.png" group-title="|FR|FAST|",France TV Docs
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceTVDocs.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="|FR|FAST|",France TV Séries
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9rmSGqP/frsr.png" group-title="|FR|FAST|",France TV Séries
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceTVSeries.m3u8
 #EXTINF:-1 channel-id="samsung-FR300004J5" tvg-id="FR300004J5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300004J5_20240319T052333SQUARE.png" group-title="|FR|FAST|",BFM Grands Reportages
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END
@@ -254,14 +261,30 @@ https://linear-821.frequency.stream/mt/studio/821/hls/master/playlist.m3u8
 https://amg02162-newenconnect-amg02162c2-samsung-fr-1077.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Africanews_logo.svg/180px-Africanews_logo.svg.png" group-title="|FR|FAST|",Africanews
 https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2SHJGsj/allocine.png" group-title="|FR|FAST|",Allociné
+https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M5P1TMG/clubbing.png" group-title="|FR|FAST|",Clubbing TV
+https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC900001LB_20230208T013112SQUARE.png_20230208013112.png" group-title="|FR|FAST|",Émotion
 https://amg01736-harmonysecomgro-harmonymelody-samsungfr-n25pe.amagi.tv/playlist/amg01736-harmonysecomgro-harmonymelody-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-140.png" group-title="|FR|FAST|",Euronews
 https://rakuten-euronews-2-fr.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MMpFXQL/gong.jpg" group-title="|FR|FAST|",Gong
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|FR|FAST|",Homicide
 https://amg01796-fastmediabackbo-homicide-plex-xlwam.amagi.tv/playlist/amg01796-fastmediabackbo-homicide-plex/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/grBSqt4/novela.png" group-title="|FR|FAST|",Tele.Novela TV
+https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.topsante.com/wp-content/themes/topsante/assets/images/main-logo.svg" group-title="|FR|FAST|",Top Santé
 https://d3tuo4zu8l334y.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x8ri0qojo9mfh/e5997ac8-9e9c-42cc-a2ef-633dc0a4f5a3/2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvhRkHZ/tracelatina.png" group-title="|FR|FAST|",Trace Latina
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sWxH6cv/tracesports.png" group-title="|FR|FAST|",Trace Sports & Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title="|FR|FAST|",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VvMKr5V/wildside.jpg" group-title="|FR|FAST|",Wild Side TV
+https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="|FR|IPTV|",3ABN (Français)
 https://helga.iptv2022.com/3ABN_Francais/index.m3u8
@@ -301,6 +324,8 @@ https://srv.webtvmanager.fr:3697/stream/play.m3u8
 https://srv.webtvmanager.fr:3534/stream/play.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|FR|IPTV|",La 16 TV
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/la16TV.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="|FR|IPTV|",L'Équipe Live Foot
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive5.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_officiel_Journal_du_Golf.png/225px-Logo_officiel_Journal_du_Golf.png" group-title="|FR|IPTV|",Le Journal du Golf TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/jdg-tv/jdg-tv.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|FR|IPTV|",Le Média
@@ -376,6 +401,20 @@ https://tvradiozap.eu/tools/dm.m3u8.php/xl1km0.m3u8
 https://tvradiozap.eu/tools/dm.m3u8.php/x2tzzpj.m3u8 
 #EXTINF:-1 tvg-logo=" " group-title="|FR|DAB+|",Sud Radio
 https://tvradiozap.eu/tools/dm.m3u8.php/x8jqxru.m3u8
+
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-164.png" group-title="|FR|TNT|" tvg-chno="1",La Une
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/73771
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-187.png" group-title="|FR|TNT|" tvg-chno="2",Tipik
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/73750
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-892.png" group-title="|FR|TNT|" tvg-chno="3",La Trois
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/73769
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-168.png" group-title="|FR|TNT|" tvg-chno="4",RTL tvi
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/73768
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-50.png" group-title="|FR|TNT|" tvg-chno="5",RTL club
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/73734
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-377.png" group-title="|FR|TNT|" tvg-chno="6",RTL plug
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/73733
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sibprod/SibTV/main/assets/LN24.png" group-title="|FR|Proximus|" tvg-chno="18",LN24
 https://live-ln24.digiteka.com/1911668011/playlist.m3u8
