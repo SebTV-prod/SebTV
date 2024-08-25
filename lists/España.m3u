@@ -123,6 +123,8 @@ https://cloud.fastchannel.es/mic/manifiest/hls/aturismo/aturismo.m3u8
 https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|FAST|",Atresmedia Kidz
 https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300003VN_20231115T012147SQUARE.png_20231115012147.png" group-title="|FAST|",Corazón
+https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|FAST|",El Confidential
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|FAST|",El País
@@ -167,3 +169,9 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|IPTV|",Es Tu Tele
 https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qkHrttj.png" group-title="|IPTV|",Logos TV
+https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|IPTV|",XPTV 1
+https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|IPTV|",XPTV 2
+https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
