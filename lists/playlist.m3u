@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTGRP:France (Métropolitaine et Outremer) et Monaco
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-192.png" group-title="|FR|TNT|" tvg-chno="1",TF1
 https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-4.png" group-title="|FR|TNT|" tvg-chno="2",France 2
@@ -402,6 +403,7 @@ https://tvradiozap.eu/tools/dm.m3u8.php/x2tzzpj.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|FR|DAB+|",Sud Radio
 https://tvradiozap.eu/tools/dm.m3u8.php/x8jqxru.m3u8
 
+#EXTGRP:Belgique (Wallonie)
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-164.png" group-title="|FR|TNT|" tvg-chno="1",La Une
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/73771
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-187.png" group-title="|FR|TNT|" tvg-chno="2",Tipik
@@ -414,7 +416,6 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/73768
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/73734
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-377.png" group-title="|FR|TNT|" tvg-chno="6",RTL plug
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/73733
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sibprod/SibTV/main/assets/LN24.png" group-title="|FR|Proximus|" tvg-chno="18",LN24
 https://live-ln24.digiteka.com/1911668011/playlist.m3u8
@@ -454,6 +455,7 @@ https://tvradiozap.eu/tools/dm.m3u8.php/x8fy3fv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ljbdWkC.png" group-title="|FR|DAB+|",NRJ
 https://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
 
+#EXTGRP:Suisse (Romandie)
 #EXTINF:-1 tvg-logo=" " group-title="|FR|TNT|" tvg-chno="3",Carac 1
 http://rougetv.vedge.infomaniak.com/livecast/rougetv/manifest.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|FR|TNT|" tvg-chno="4",Carac 2
@@ -492,6 +494,28 @@ https://tvradiozap.eu/tools/dm.m3u8.php/x8j47xa.m3u8
 https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0Kmh49G.png" group-title="|IT|DAB+|",Radio 3i
 https://vstream-cdn.ch/hls/radio3i.m3u8
+
+#EXTGRP:Canada (Québec)
+
+
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/3c1da7c1ea8cfb2e0c42279d22dcf3e11b3c62b29a0f6e772b184a6518d78b2d/68747470733a2f2f692e696d6775722e636f6d2f345550514e44762e706e67" group-title="|FR|Bell Fibe|" tvg-chno="117",Ici RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/b08e12f6ffd4991d233c8396eda94a638e0ac92d571fe56058dac6c51bd5333d/68747470733a2f2f692e696d6775722e636f6d2f43774c674566572e706e67" group-title="|FR|Bell Fibe|" tvg-chno="143",Canal de l'Assemblée Nationale (Québec)
+https://diffusionm.assnat.qc.ca/diffusion/canal17/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/c42fd09da54c06f26f176bb0f0e332f97ac7b7634cfb1cd6ec8a29e6e252901d/68747470733a2f2f692e696d6775722e636f6d2f52456c643035612e706e67" group-title="|FR|Bell Fibe|" tvg-chno="144",CPAC
+https://cpac-live.cdn.vustreams.com/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/live.m3u8
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/82092a9aae2c0c376a732e9119773062b03019e8788b33b77a3dcb08323cc7e8/68747470733a2f2f692e696d6775722e636f6d2f5a58504c42776c2e706e67" group-title="|FR|Bell Fibe|" tvg-chno="203",Global (Montreal)
+https://dai.google.com/linear/hls/pa/event/wI13hMWhRSKbyZ8Q1DQR3Q/stream/68196085-add5-44f2-b63c-636a77e37bf3:BRU/variant/ba5173e3524788543e336efdf83fd7b2/bandwidth/3027000.m3u8
+
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/6b7231f1606a9ea86247f6d916621132fff9d200cbe35b1cb43b836241c36956/68747470733a2f2f692e696d6775722e636f6d2f797479674d46542e706e67" group-title="|FR|FAST|",Noovo Cinéma
+https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/33c6ca34c0dc9f93e33b1b071c6cc78717577c653a72c3bf89d7dd29fa72a0e8/68747470733a2f2f692e696d6775722e636f6d2f784230424d377a2e706e67" group-title="|FR|FAST|",Noovo Comédies
+https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6x2p3ho0vw00a/Noovo_Comedies_Home.m3u8
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/4fb05fb381b33dd27dc62a699ca90e7fee416f781c7fb16f6d0d836a53b44cce/68747470733a2f2f692e696d6775722e636f6d2f656146443972712e706e67" group-title="|FR|FAST|",Noovo Téléréalités
+https://d29qczaufx5vc3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxg2k6h0o2l6i/Noovo_Telerealites.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="|FR|Régionales|" tvg-chno="",TV RS
+https://stream.castr.com/63bf0d473321d4909a3876ad/live_d6983bc091e611edbddd7fe8982d8daf/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVE.png" group-title="|ES|TDT|" tvg-chno="1",La 1
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
