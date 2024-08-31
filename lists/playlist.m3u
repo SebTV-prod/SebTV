@@ -367,7 +367,7 @@ https://dvvyqyxwlc4tn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d21wdmv2hqydbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n239v7ne7hack/index.m3u8
 #EXTINF:-1 channel-id="samsung-FR300001M1" tvg-id="FR300001M1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300001M1_20240319T052346SQUARE.png" group-title="|FAST|",RMC Wow
 https://d18uxd7zigjv4y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hynzl7bz38ht6/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hcPj99k/fgro.png" group-title="|FR|FAST|",Le Figaro TV Live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hcPj99k/fgro.png" group-title="|FAST|",Le Figaro TV Live
 https://d358c6mfrono1y.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ppx9nh29jpk7-prod/490bc6dd-734b-4242-8810-294896740082/2.m3u8
 #EXTINF:-1 tvg-logo="https://dealabsmag.com/wp-content/uploads/2024/04/sony-one-logo.jpg" group-title="|FAST|",Sony One - Action Hits
 https://linear-817.frequency.stream/mt/studio/817/hls/master/playlist.m3u8
@@ -393,7 +393,7 @@ https://amg01736-harmonysecomgro-harmonymelody-samsungfr-n25pe.amagi.tv/playlist
 https://rakuten-euronews-2-fr.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MMpFXQL/gong.jpg" group-title="|FAST|",Gong
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="|FR|FAST|",Homicide
+#EXTINF:-1 tvg-logo=" " group-title="|FAST|",Homicide
 https://amg01796-fastmediabackbo-homicide-plex-xlwam.amagi.tv/playlist/amg01796-fastmediabackbo-homicide-plex/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/grBSqt4/novela.png" group-title="|FAST|",Tele.Novela TV
 https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
