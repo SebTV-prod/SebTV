@@ -456,6 +456,9 @@ https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/4fb05fb381b33dd27dc62a699ca90e7fee416f781c7fb16f6d0d836a53b44cce/68747470733a2f2f692e696d6775722e636f6d2f656146443972712e706e67" group-title="|FAST|",Noovo Téléréalités
 https://d29qczaufx5vc3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxg2k6h0o2l6i/Noovo_Telerealites.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/bXs5HwMHUNfKHhAQKqX6xf-1200-80.jpg" group-title="|FAST|",CBC News Explore
+https://ythls-v3.onrender.com/channel/UCuFFtHWoLl5fauMMD5Ww2jA.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="|FAST|",!Hola Play!
 https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|FAST|",Andalucía Cocina
