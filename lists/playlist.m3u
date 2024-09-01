@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTGRP:TNT_Français_France
+#EXTGRP:TNT_France
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-192.png" group-title="|TNT|" tvg-chno="1",TF1
 https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-4.png" group-title="|TNT|" tvg-chno="2",France 2
@@ -59,19 +59,19 @@ https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1724747584948891648/Y-8l46J1_400x400.jpg" group-title="|TNT|" tvg-chno="34",Le Figaro TV
 https://static.lefigaro.fr/secom/tnt.m3u8
 
-#EXTGRP:TNT_Français_Monaco
+#EXTGRP:TNT_Monaco
 #EXTINF:-1 tvg-logo="https://monacoinfo.com/wp-content/themes/monacoinfo_v4/assets/img/monacoinfo-color.png" group-title="|TNT|" tvg-chno="70",Monaco Info
 https://webtv.monacoinfo.com/live/prod_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/64ef486c2dea3ecce41aa815/64ef4d4df9dc3aad9060ed45_Logo_Rouge_blanc0-p-500.png" group-title="|TNT|" tvg-chno="71",TV Monaco
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
 
-#EXTGRP:TNT_Français_Italie
+#EXTGRP:TNT_Vallée d'Aoste
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-529.png" group-title="|TNT|" tvg-chno="75",France 24
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:107_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-232.png" group-title="|TNT|" tvg-chno="77",TV5 Monde Europe
 https://muutube.sonmezalp.com/proxy.php/https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
 
-#EXTGRP:TNT_Français_Suisse
+#EXTGRP:TNT_Suisse
 #EXTINF:-1 tvg-logo="https://entremont.netplus.ch/media/image/0/square/carac1-neg.jpg" group-title="|TNT|" tvg-chno="3",Carac 1
 http://rougetv.vedge.infomaniak.com/livecast/rougetv/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://entremont.netplus.ch/media/image/0/square/carac2-neg.jpg" group-title="|TNT|" tvg-chno="4",Carac 2
@@ -81,23 +81,23 @@ http://lfmhd.vedge.infomaniak.com/livecast/lfmhd/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://entremont.netplus.ch/media/image/0/square/carac4-neg.jpg" group-title="|TNT|" tvg-chno="7",Carac 4
 http://compack_media_1.vedge.infomaniak.com/livecast/compack_media_1/manifest.m3u8
 
-#EXTGRP:TNT_Français_Guadeloupe
+#EXTGRP:TNT_Guadeloupe
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m5E2VP0.png" group-title="|TNT|" tvg-chno="11",ETV Guadeloupe
 https://etvgp.vedge.infomaniak.com/livecast/etvgp/playlist.m3u8
 
-#EXTGRP:TNT_Français_Martinique
+#EXTGRP:TNT_Martinique
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-295.png" group-title="|TNT|" tvg-chno="2",viàATV
 https://streamer01.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018_medium/index.m3u8
 
-#EXTGRP:TNT_Français_La Réunion
+#EXTGRP:TNT_La Réunion
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Antenne_Réunion_2011.png/640px-Logo_Antenne_Réunion_2011.png" group-title="|TNT|" tvg-chno="2",Antenne Réunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8
 
-#EXTGRP:TNT_Français_Polynésie Française
+#EXTGRP:TNT_Polynésie Française
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB49000059E_20230614T005617SQUARE.png_20230614005618.png" group-title="|TNT|" tvg-chno="2",Tahiti TV
 https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 
-#EXTGRP:TNT_Français_Région_Provence
+#EXTGRP:TNT_Région_Provence
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h7t0l6q.png" group-title="|TNT|" tvg-chno="30",BFM Régions (Marseille-Provence)
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-logo=" " group-title="|TNT|" tvg-chno="31",BFM Régions (Dici Haute-Provence)
@@ -105,17 +105,19 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_HAUTEPROVENCE/index.m3u8?en
 #EXTINF:-1 tvg-logo=" " group-title="|TNT|" tvg-chno="32",France 3 Régions (Provence-Alpes)
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_Provence_Marseille.m3u8
 
-#EXTGRP:TNT_Français_Région_Alpes
+#EXTGRP:TNT_Région_Alpes
 #EXTINF:-1 tvg-logo="https://i.imgur.com/090tCQ5.png" group-title="|TNT|" tvg-chno="30",Alpe d'Huez TV
 https://adhtv.vedge.infomaniak.com/livecast/adhtv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-421.png" group-title="|TNT|" tvg-chno="31",8 Mont-Blanc
+https://tvradiozap.eu/tools/dm.m3u8.php/x3wqv8b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bV77l68.png" group-title="|TNT|" tvg-chno="31",BFM Régions (Dici Alpes-du-Sud)
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-logo="" group-title="|TNT|" tvg-chno="32",France 3 Régions (Alpes)
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_AuRA_Grenoble.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="|TNT|" tvg-chno="38",Télé Grenoble
+#EXTINF:-1 tvg-logo="" group-title="|TNT|" tvg-chno="38",Télé Grenoble
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Telegrenoble.m3u8
 
-#EXTGRP:TNT_Français_Région_Côte d'Azur
+#EXTGRP:TNT_Région_Côte d'Azur
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Logo_BFM_Toulon_Var.svg/600px-Logo_BFM_Toulon_Var.svg.png" group-title="|TNT|" tvg-chno="30",BFM Régions - Toulon-Var
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Logo_BFM_Nice_Côte_d_Azur.svg/600px-Logo_BFM_Nice_Côte_d_Azur.svg.png" group-title="|TNT|" tvg-chno="31",BFM Régions - Nice-Côte d'Azur
@@ -125,7 +127,7 @@ https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_Provence_N
 #EXTINF:-1 tvg-logo=" " group-title="|TNT|" tvg-chno="33",Cannes Lérins TV
 https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
 
-#EXTGRP:TNT_Français_Région_Corse
+#EXTGRP:TNT_Région_Corse
 #EXTINF:-1 tvg-logo=" " user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" group-title="|TNT|" tvg-chno="30",TelePaese
 #EXTVLCOPT:http-referrer=https://srv.webtvmanager.fr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
@@ -133,7 +135,7 @@ https://srv.webtvmanager.fr:3118/live/viatelepaeselive.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-308.png" group-title="|TNT|" tvg-chno="33",Via Stella
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_Corse-ViaStella.m3u8
 
-#EXTGRP:TNT_Español
+#EXTGRP:TNT_España
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVE.png" group-title="|TNT|" tvg-chno="1",La 1
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/LA2.png" group-title="|TNT|" tvg-chno="2",La 2
@@ -183,7 +185,7 @@ https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:22_HD.smil/mani
 #EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logomolatv.jpg" group-title="|TNT|" tvg-chno="61",Molahits TV
 https://ventdelnord.tv:8080/mola/directe.m3u8
 
-#EXTGRP:TNT_Italiano
+#EXTGRP:TNT_Italia
 #EXTINF:-1 tvg-logo="https://www.tivu.tv/_common/images/loghi_epg/logo_3401.png" group-title="|TNT|" tvg-chno="1",Rai 1
 https://ilglobotv-live.global.ssl.fastly.net/RAI1UK/Live.m3u8
 #EXTINF:-1 tvg-logo="https://www.tivu.tv/_common/images/loghi_epg/logo_3402.png" group-title="|TNT|" tvg-chno="2",Rai 2
@@ -285,13 +287,45 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playl
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kHSuyub.png" group-title="|TNT|" tvg-chno="833",Super Six
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 
-#EXTGRP:TNT_English_UK
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="|TNT|" tvg-chno="231",BBC News
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-
-#EXTGRP:TNT_English_Canada
+#EXTGRP:TNT_Canada
 #EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/82092a9aae2c0c376a732e9119773062b03019e8788b33b77a3dcb08323cc7e8/68747470733a2f2f692e696d6775722e636f6d2f5a58504c42776c2e706e67" group-title="|TNT|" tvg-chno="15",Global (Montreal)
 https://dai.google.com/linear/hls/pa/event/wI13hMWhRSKbyZ8Q1DQR3Q/stream/68196085-add5-44f2-b63c-636a77e37bf3:BRU/variant/ba5173e3524788543e336efdf83fd7b2/bandwidth/3027000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x0vLIWr.png" group-title="|TNT|" tvg-chno="47",ICI - La Chaîne Internationale
+https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+
+#EXTGRP:TNT_UK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="|TNT|" tvg-chno="1",BBC One
+https://d20opqftbkv2z0.cloudfront.net/live11/bbcone/bitrate1-clear.isml/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="|TNT|" tvg-chno="2",BBC Two
+https://d20opqftbkv2z0.cloudfront.net/live13/bbctwo/bitrate1-clear.isml/live.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|TNT|" tvg-chno="3",ITV
+https://d20opqftbkv2z0.cloudfront.net/live17/itv/bitrate1-clear.isml/live.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|TNT|" tvg-chno="4",Channel 4
+https://d20opqftbkv2z0.cloudfront.net/live14/channel4/bitrate1-clear.isml/live.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|TNT|" tvg-chno="5",Channel 5
+https://d20opqftbkv2z0.cloudfront.net/live18/channel5/bitrate1-clear.isml/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3OxXy8H.png" group-title="|TNT|" tvg-chno="13",BFBS Extra
+https://d20opqftbkv2z0.cloudfront.net/live10/bfbsextra/bitrate1-clear.isml/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6TWUVrh.png" group-title="|TNT|" tvg-chno="16",QVC
+https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.freeviewplay.tv/sff75d9fe7b53ecfbcb2ee3b686e2b561?w=160" group-title="|TNT|" tvg-chno="22",TJC
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vFllwLd.png" group-title="|TNT|" tvg-chno="66",TBN UK
+https://tbn-jw.cdn.vustreams.com/live/tbn-uk/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nf0vaAF.png" group-title="|TNT|" tvg-chno="85",Create & Craft
+https://live-hochanda.simplestreamcdn.com/hochanda/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="|TNT|" tvg-chno="91",Wild Earth
+https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="|TNT|" tvg-chno="231",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|TNT|" tvg-chno="232",Sky News
+https://bozztv.com/dvrfl05/gin-skynewsinter/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png" group-title="|TNT|" tvg-chno="236",GBN
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|TNT|" tvg-chno="269",Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KxHWpQB.png" group-title="|TNT|" tvg-chno="280",Talk TV
+https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DARK.png" group-title="|Satellite|" tvg-chno="34",Dark
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:92_HD.smil/manifest.m3u8
@@ -371,6 +405,12 @@ https://live.creacast.com/telemelody/smil:telemelody-211112.smil/.m3u8
 https://bkm.beetv.kz/btv/live/hls/000000030.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/Noa.svg.png" group-title="|Satellite|" tvg-chno="325",France 3 Régions - NoA
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_NoA.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" group-title="|Satellite|" tvg-chno="624",Nick Toons (UK)
+https://d20opqftbkv2z0.cloudfront.net/live13/nicktoons/bitrate1-clear.isml/live.m3u8
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4069.png" group-title="|Satellite|" tvg-chno="642",Nickelodeon (UK)
+https://d20opqftbkv2z0.cloudfront.net/live12/nickelodeon/bitrate1-clear.isml/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="|Satellite|" tvg-chno="645",Nick Jr. (UK)
+https://d20opqftbkv2z0.cloudfront.net/live13/nickjr/bitrate1-clear.isml/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BOGMeio.png" group-title="|Satellite|" tvg-chno="701",UniNettuno University TV
 https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 
@@ -493,6 +533,17 @@ https://cloud.fastchannel.es/mic/manifiest/hls/mundonautica/mundonautica.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|FAST|",Mondo Kids
 https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="|FAST|",CNN International
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1x6zYZr.png" group-title="|FAST|",H&C Free
+https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="|FAST|",Now 70's
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="|FAST|",Now 80's
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="|FAST|",Now Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="|IPTV|",3ABN (Français)
 https://helga.iptv2022.com/3ABN_Francais/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/B_SMART_logo.png/225px-B_SMART_logo.png" group-title="|IPTV|",B Smart
@@ -589,6 +640,10 @@ https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="|IPTV|",Mediaset Italia
 https://ilglobotv-live.global.ssl.fastly.net/MediasetItalia/Live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zRu9WGh.png" group-title="|IPTV|",Nuova TV 1
+https://nuovatv.net:8443/tv/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zRu9WGh.png" group-title="|IPTV|",Nuova TV 2
+https://nuovatv.net:8443/tv2/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.it/wp-content/uploads/2024/08/primaveratv.jpg" group-title="|IPTV|" tvg-chno=" ",Primavera 1 TV
 https://sportitaliaamd.akamaized.net/live/Sportitalia/hls/A2C6100B283BBDC574ADDCF8F9CEAF0D5E6F64A3/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/512px-Rai_Italia_-_Logo_2017.svg.png" group-title="|IPTV|",Rai Italia
@@ -599,9 +654,6 @@ https://ilglobotv-live.global.ssl.fastly.net/RAIW/Live.m3u8
 https://tvradiozap.eu/tools/dm.m3u8.php/x8u05e4.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|IPTV|",Value 24 TV
 https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="|IPTV|",CNN International
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tivu.tv/_common/images/loghi_epg/logo_1307.png" group-title="|DAB+|" tvg-chno="36",RTL 102.5 TV
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
