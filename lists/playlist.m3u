@@ -306,8 +306,12 @@ https://d20opqftbkv2z0.cloudfront.net/live17/itv/bitrate1-clear.isml/live.m3u8
 https://d20opqftbkv2z0.cloudfront.net/live14/channel4/bitrate1-clear.isml/live.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|TNT|" tvg-chno="5",Channel 5
 https://d20opqftbkv2z0.cloudfront.net/live18/channel5/bitrate1-clear.isml/live.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|TNT|" tvg-chno="11",Sky Mix
+https://d2gycgc9ta55s9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cfze07aeomx8b/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3OxXy8H.png" group-title="|TNT|" tvg-chno="13",BFBS Extra
 https://d20opqftbkv2z0.cloudfront.net/live10/bfbsextra/bitrate1-clear.isml/live.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|TNT|" tvg-chno="14",4 Film
+https://rpn.bozztv.com/inim03/live1/film4-hd/chunks.m3u8?nimblesessionid=268827733&wmsAuthSign=c2VydmVyX3RpbWU9OS8xLzIwMjQgNjo1Mjo0NSBQTSZoYXNoX3ZhbHVlPVBkYThjcUNEQ1BvTzBBV0owTWJCV2c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MA==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6TWUVrh.png" group-title="|TNT|" tvg-chno="16",QVC
 https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
 #EXTINF:-1 tvg-logo="https://img.freeviewplay.tv/sff75d9fe7b53ecfbcb2ee3b686e2b561?w=160" group-title="|TNT|" tvg-chno="22",TJC
@@ -318,6 +322,12 @@ https://tbn-jw.cdn.vustreams.com/live/tbn-uk/live.isml/.m3u8
 https://live-hochanda.simplestreamcdn.com/hochanda/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="|TNT|" tvg-chno="91",Wild Earth
 https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
+#EXTINF:-1 tvg-id="KetchupTV.uk" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB2000004BQ_20231115T012324SQUARE.png_20231115012325.png" group-title="|TNT|" tvg-chno="209",Ketchup TV
+https://aa8019675b784a8f86008d57eaefb016.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_Ketchup/playlist.m3u8
+#EXTINF:-1 tvg-id="TinyPop.uk" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3200003T6_20230913T031540SQUARE.png_20230913031541.png" group-title="|TNT|" tvg-chno="210",Tiny Pop
+https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv/playlist/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-id="Yaaas.uk" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300030OP_20231115T012321SQUARE.png_20231115012322.png" group-title="|TNT|" tvg-chno="211",Yaaas !
+https://062e9d49eb79462380d2933b845412cc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_YAAAS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="|TNT|" tvg-chno="231",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|TNT|" tvg-chno="232",Sky News
