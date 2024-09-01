@@ -290,6 +290,8 @@ https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlis
 #EXTGRP:TNT_Canada
 #EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/82092a9aae2c0c376a732e9119773062b03019e8788b33b77a3dcb08323cc7e8/68747470733a2f2f692e696d6775722e636f6d2f5a58504c42776c2e706e67" group-title="|TNT|" tvg-chno="15",Global (Montreal)
 https://dai.google.com/linear/hls/pa/event/wI13hMWhRSKbyZ8Q1DQR3Q/stream/68196085-add5-44f2-b63c-636a77e37bf3:BRU/variant/ba5173e3524788543e336efdf83fd7b2/bandwidth/3027000.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|TNT|" tvg-chno="32",PBS
+https://dvrfl06.bozztv.com/astv/astv-pbs/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x0vLIWr.png" group-title="|TNT|" tvg-chno="47",ICI - La Chaîne Internationale
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 
@@ -349,7 +351,9 @@ https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/MyTVCaraibes.m
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-781.png" group-title="|Satellite|" tvg-chno="54",i24 News (Français)
 https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="|Satellite|" tvg-chno="54",MS Motor TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z6Gg9ip.png" group-title="|Satellite|" tvg-chno="53",MS Channel
+https://96vd9q7ryxq7-hls-live.mariatvcdn.it/ms/ea0e4a77baa23e917acaf517042ac7d8.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NdNFmaE.png" group-title="|Satellite|" tvg-chno="54",MS Motor TV
 https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-205.png" group-title="|Satellite|" tvg-chno="56",TV5 Monde FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
@@ -433,6 +437,16 @@ http://compack_media_1.vedge.infomaniak.com/livecast/compack_media_1/manifest.m3
 #EXTINF:-1 tvg-logo="https://mixor-cdn01.gruppocdt.ch/teleticino/system/images/logo.png" group-title="|Câble|" tvg-chno="460",Teleticino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
 
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/gGcEmJy.png" group-title="|FAST|",Polar Fiction
+https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/police-fiction.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/4qgvfWz.png" group-title="|FAST|",Thriller Fiction
+https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/thriller-fiction.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/xYTnqgs.png" group-title="|FAST|",Comédie Fiction
+https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/comedie-fiction.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/pt98fmf.png" group-title="|FAST|",Saga de l'Été 24/7
+https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/saga-de-lete.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/AR0WjAE.png" group-title="|FAST|",Ushuaïa For Change
+https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/ushuaia-for-change.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kJjHW61/frdocs.png" group-title="|FAST|",France TV Docs
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceTVDocs.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9rmSGqP/frsr.png" group-title="|FAST|",France TV Séries
@@ -646,6 +660,8 @@ https://nuovatv.net:8443/tv/stream.m3u8
 https://nuovatv.net:8443/tv2/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.it/wp-content/uploads/2024/08/primaveratv.jpg" group-title="|IPTV|" tvg-chno=" ",Primavera 1 TV
 https://sportitaliaamd.akamaized.net/live/Sportitalia/hls/A2C6100B283BBDC574ADDCF8F9CEAF0D5E6F64A3/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="|IPTV|",Radio 15 (One Five)
+https://vdo.pro-fhi.net:3531/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/512px-Rai_Italia_-_Logo_2017.svg.png" group-title="|IPTV|",Rai Italia
 https://ilglobotv-live.global.ssl.fastly.net/RAIItaliaZA/Live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tDuKkh3.png" group-title="|IPTV|",Rai World Premium
