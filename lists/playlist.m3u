@@ -54,7 +54,7 @@ https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/lci.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-2111.png" group-title="|TNT|" tvg-chno="27",Franceinfo
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceInfo.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-701.png" group-title="|TNT|" tvg-chno="32",20 Minutes TV [IdF]
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-701.png" group-title="|TNT|" tvg-chno="32",20 Minutes TV
 https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1724747584948891648/Y-8l46J1_400x400.jpg" group-title="|TNT|" tvg-chno="34",Le Figaro TV
 https://static.lefigaro.fr/secom/tnt.m3u8
