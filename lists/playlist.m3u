@@ -811,6 +811,8 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1KhQxpd/dlxwnt.png" group-title="|IPTV|" tvg-chno=" ",Deluxe Winter Time
 https://d2l1hs6hxlg3df.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pb0nloqsgtwc2/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|IPTV|" tvg-chno=" ",Kronehit
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tivu.tv/_common/images/loghi_epg/logo_1307.png" group-title="|DAB+|" tvg-chno="36",RTL 102.5 TV
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
