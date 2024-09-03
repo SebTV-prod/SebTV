@@ -250,6 +250,8 @@ https://stream1.aswifi.it/italiachannel/stream/index.m3u8
 https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.arteinvestimenti.it/ai/wp-content/themes/frontend/immagini/logo-on.png" group-title="|TNT|" tvg-chno="133",Arte Investimenti
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/twitch/hls/Arteinvestimenti.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|TNT|" tvg-chno="134",Juwelo Italia
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8
 #EXTINF:-1 tvg-logo="https://www.centroserena.it/wp-content/uploads/2023/08/cropped-Risorsa-1@2x-1.png" group-title="|TNT|" tvg-chno="144",Centro Serena
 https://streaming.softwarecreation.it/teleitalia/teleitalia/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|TNT|" tvg-chno="145",Padre Pio TV
