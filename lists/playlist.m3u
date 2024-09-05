@@ -156,6 +156,8 @@ https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:26_HD.smil/mani
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/24H.png" group-title="|TNT|" tvg-chno="11",24h
 https://d3pfmk89wc0vm9.cloudfront.net/24H_ES.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/24H.png" group-title="|TNT|" tvg-chno="11",24h
+https://eu1.servers10.com:8081/8032/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/3_24.png" group-title="|TNT|" tvg-chno="12",3/24
 https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/13TV.png" group-title="|TNT|" tvg-chno="13",Tr3ce
