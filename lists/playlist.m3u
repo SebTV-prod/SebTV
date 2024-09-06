@@ -520,10 +520,18 @@ https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sibprod/SibTV/main/assets/LN24.png" group-title="|Câble|" tvg-chno="18",LN24
 https://live-ln24.digiteka.com/1911668011/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|Câble|" tvg-chno="31",Mosaïk Cristal
+https://tvradiozap.eu/tools/yt-m3u8.php/@mosaiktv183ac54d.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|Câble|" tvg-chno="40",Maurienne TV
+https://tvradiozap.eu/tools/yt-m3u8.php/5ARTNKq49WYebef4020.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|Câble|" tvg-chno="52",E! 
 https://dvrfl07.bozztv.com/astv-entertainmentfrancais/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|Câble|" tvg-chno="71",Dieu TV
 https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|Câble|" tvg-chno="77",TV7 (Colmar)
+https://tv7.live-kd.com/live/tv7/ngrp:tv7_Wifi/manifest.mpd
+#EXTINF:-1 tvg-logo=" " group-title="|Câble|" tvg-chno="98",TV3V
+https://tv3v.live-kd.com/live/tv3v/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gz2wbkL/tvm3.png" group-title="|Câble|" tvg-chno="102",TVM 3
 https://tvm3.vedge.infomaniak.com/livecast/tvm3/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/3c1da7c1ea8cfb2e0c42279d22dcf3e11b3c62b29a0f6e772b184a6518d78b2d/68747470733a2f2f692e696d6775722e636f6d2f345550514e44762e706e67" group-title="|Câble|" tvg-chno="117",Ici RDI
@@ -572,17 +580,17 @@ https://d18uxd7zigjv4y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hcPj99k/fgro.png" group-title="|FAST|",Le Figaro TV Live
 https://d358c6mfrono1y.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ppx9nh29jpk7-prod/490bc6dd-734b-4242-8810-294896740082/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XYtgFvZ/Sony-One-Action-Hits.png",Sony One Action Hits
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XYtgFvZ/Sony-One-Action-Hits.png" group-title="|FAST|",Sony One Action Hits
 https://linear-817.frequency.stream/mt/studio/817/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S6Mq95y/Sony-One-blacklist.png",Sony One Blacklist
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S6Mq95y/Sony-One-blacklist.png" group-title="|FAST|",Sony One Blacklist
 https://linear-822.frequency.stream/mt/studio/822/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfK0qb7/Sony-One-Comedy.png",Sony One Comédie
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfK0qb7/Sony-One-Comedy.png" group-title="|FAST|",Sony One Comédie
 https://linear-819.frequency.stream/mt/studio/819/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/V2Q59St/Sony-One-Comedy-Hits.png",Sony One Comédie Hits
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V2Q59St/Sony-One-Comedy-Hits.png" group-title="|FAST|",Sony One Comédie Hits
 https://linear-818.frequency.stream/mt/studio/818/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2ysh3m6/Sony-One-Favoris.png",Sony One Favoris
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2ysh3m6/Sony-One-Favoris.png" group-title="|FAST|",Sony One Favoris
 https://linear-820.frequency.stream/mt/studio/820/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fMzKRRs/Sony-One-Thriller.png",Sony One Thriller
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fMzKRRs/Sony-One-Thriller.png" group-title="|FAST|",Sony One Thriller
 https://linear-821.frequency.stream/mt/studio/821/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD39000064E_20240214T035739SQUARE.png_20240214035740.png" group-title="|FAST|",100% Docs
