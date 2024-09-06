@@ -931,6 +931,99 @@ https://tvradiozap.eu/tools/dm.m3u8.php/x8j47xa.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0Kmh49G.png" group-title="|DAB+|" tvg-chno=" ",Radio 3i
 https://vstream-cdn.ch/hls/radio3i.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="1",TF1
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/62.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="2",France 2
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/64.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="3",France 3
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/66.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="5",France 5
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/68.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="6",M6
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/70.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="7",ARTE
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/72.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="8",C8
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/74.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="9",W9
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/76.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="10",TMC
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/77.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="11",TFX
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/79.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="12",NRJ 12
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/81.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="13",LCP
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/83.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="14",France 4
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/84.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="15",BFM TV
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/86.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="16",CNews
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/87.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="17",CStar
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/88.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="18",Gulli
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/90.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="19",Public Sénat
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/21.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="20",TF1 Séries Films
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/92.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="21",L'Équipe
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/94.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="22",6ter
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/95.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="23",RMC Story
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/96.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="24",RMC Découverte
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/98.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="25",Chérie 25
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/99.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="26",LCI
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/101.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="27",Franceinfo
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/102.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="32",20 Minutes TV
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/818.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="33",France 24 
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/807.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="40",Automoto La Chaîne
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/306.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="41",Paris Première
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/147.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="47",Canal J
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/226.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="48",Crime District
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/170.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="50",Action
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/126.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="51",BFM Business
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/191.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="56",TV5 Monde (FBSM)
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/271.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="57",AB1
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/144.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="58",RTL9
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/151.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="59",Téva
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/146.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="62",Mangas
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/143.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="76",Trek
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/181.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="78",Sport En France
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/22.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="81",Tech & Co
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/1041.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="803",Carac 1
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/826.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="804",Carac 2
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/825.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="805",Carac 3
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/827.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|Sibsat|" tvg-chno="840",Radio Contact
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/910.m3u8
+
 
 
 
