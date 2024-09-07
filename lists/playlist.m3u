@@ -208,6 +208,8 @@ https://ilglobotv-live.global.ssl.fastly.net/RAI2UK/Live.m3u8
 https://ilglobotv-live.global.ssl.fastly.net/RAI3UK/Live.m3u8
 #EXTINF:-1 tvg-logo="https://www.tivu.tv/_common/images/loghi_epg/logo_79.png" group-title="|TNT|" tvg-chno="7",La 7
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS/Live.m3u8
+#EXTINF:-1 tvg-logo="https://www.tivu.tv/_common/images/loghi_epg/logo_17716.png" group-title="|TNT|" tvg-chno="23",Rai 5
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raicinque1/hls/playlist_ma.m3u8?baseuri=%2Fraicinque1%2Fhls%2F&tstart=0&tend=1725687125&tof=86400&tk2=e8524a15b6c0e26f53bd7c3b1052447873ef2631c1da929a45a8edeafa343666
 #EXTINF:-1 tvg-logo="https://www.tivu.tv/_common/images/loghi_epg/logo_3406.png" group-title="|TNT|" tvg-chno="24",Rai Movie
 https://m3u.iranvids.com/rai-movie/output.m3u8
 #EXTINF:-1 tvg-logo="https://www.tivu.tv/_common/images/loghi_epg/logo_8522.png" group-title="|TNT|" tvg-chno="25",Rai Premium
