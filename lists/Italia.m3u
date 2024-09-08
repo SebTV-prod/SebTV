@@ -153,9 +153,11 @@ https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10
 https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|DTT|" tvg-chno="123",Italia Channel
 https://stream1.aswifi.it/italiachannel/stream/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nkJw03Cf2x_DldMVp8NnbVLcvgzxt8jFOt9yXjag=s176-c-k-c0x00ffffff-no-rj" group-title="Italie" tvg-chno="126",[126] Vimarte
+https://5f22d76e220e1.streamlock.net/vimarte/vimarte/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tivu.tv/_common/images/loghi_epg/logo_1332.png" group-title="|DTT|" tvg-chno="128",Gold TV
 https://goldtv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gold-tv-it.png" group-title="|DTT|" tvg-chno="131",Rete Italia
+#EXTINF:-1 tvg-logo=" " group-title="|DTT|" tvg-chno="131",Rete Italia
 https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.arteinvestimenti.it/ai/wp-content/themes/frontend/immagini/logo-on.png" group-title="|DTT|" tvg-chno="133",Arte Investimenti
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/twitch/hls/Arteinvestimenti.m3u8
@@ -194,6 +196,8 @@ https://5a1178b42cc03.streamlock.net/studiopiutv/studiopiutv/playlist.m3u8
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 #EXTINF:-1 tvg-logo="https://cusanonews7.cusanoitaliatv.it/wp-content/uploads/2023/09/logo_news7_01.png" group-title="|DTT|" tvg-chno="234",Cusano News 7
 https://stream9.xdevel.com/video1s975363-1596/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://scontent.fctt1-1.fna.fbcdn.net/v/t39.30808-1/447429251_452780587354081_2184305473215307783_n.jpg?stp=c14.14.172.172a_dst-jpg_p200x200&_nc_cat=101&ccb=1-7&_nc_sid=f4b9fd&_nc_ohc=qsdJ6XyiWHAQ7kNvgHR-WPn&_nc_ht=scontent.fctt1-1.fna&oh=00_AYBCja6r6VKF4dyElPqRa8G61lrcfYMbEt-MFH70sloUfQ&oe=66E3549F" group-title="|TNT|" tvg-chno="242",Sicilia 242
+https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://paroledivita.org/images/logo/favicon_blue_1C91F7.png" group-title="|DTT|" tvg-chno="245",Parole di Vita TV
 https://5db313b643fd8.streamlock.net/Paroledivita/Paroledivita/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|DTT|" tvg-chno="246",Radio 24 TV
