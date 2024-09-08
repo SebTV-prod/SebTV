@@ -310,8 +310,12 @@ https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
 https://64b16f23efbee.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|TNT|" tvg-chno="351",70-80.TV
 https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|DTT|" tvg-chno="410",Business 24
+https://fms.premio.link/business24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC3000007XK_20231115T012421SQUARE.png_20231115012421.png" group-title="|TNT|" tvg-chno="411",Premio Sport - TV Play
 https://d28j1jdx26ss52.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f85qk4neky7f6-ssai-prd/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|DTT|" tvg-chno="412",Automoto
+https://fms.premio.link/automoto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4100006EE_20231115T012432SQUARE.png_20231115012432.png" group-title="|TNT|" tvg-chno="441",Dolomiti Life TV
 https://d3b6x1igzwsv34.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-anw1tg4801b4n/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3600001Z9_20230926T032334SQUARE.png_20230926032335.png" group-title="|TNT|" tvg-chno="455",Premio Direct - GCTV
@@ -319,9 +323,9 @@ https://dgzghldq8xau4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-logo="https://github.com/Sibprod/SibTV/raw/main/logos/RAI%203.png" group-title="|TNT|" tvg-chno="808",RAI 3 (Südtirol)
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:-1 tvg-logo=""  group-title="|TNT|" tvg-chno="831",RTV San Marino
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/playlist.m3u8
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMmhydm5vNWJ3NnRnMi5jbG91ZGZyb250Lm5ldC9zbXJ0di1jaDAxL19kZWZpbnN0Xy9zbWlsOmNoLTAxLnNtaWwvcGxheWxpc3QubTN1OCIsIkNvbmRpdGlvbiI6eyJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn0sIkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzI1Nzk4MjE2OTk5fX19XX0_&Key-Pair-Id=APKAJXRZCR3BYC6OEKKA&Signature=KLRmykd9ww00SXqJJ4StxpN~fvZ0Mwpkwzp2jEp21QiySTPY5y9O5n1ml3h36r0zX9SzpStFsIvJ64DKW8uakk-a8yAJahbgw2ELZP-7pTkARgpmAhj6QE1ywEr6Fh74MoflsUbvTgRLyf7iFtZUIHOHlV0d4MPD7oUIRuBeoKQFNYhn9sTTAEEAkVh-3JMKVfVdK8itGI71LtAGRJGu2C4WszKsYDUMU0eEYSVELi9Elkzy4v7C~0gJ2DOdcrdOjmZ1GHKRSPJXaJnHD50VdvaEYj--L4cKBoJoCEfZmCEaNUmWhr~olftKMl1iCkDxlo58lcefd7hckCq5TfN8Gg__
 #EXTINF:-1 tvg-logo=""  group-title="|TNT|" tvg-chno="832",RTV San Marino Sport
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMmhydm5vNWJ3NnRnMi5jbG91ZGZyb250Lm5ldC9zbXJ0di1jaDAyL19kZWZpbnN0Xy9zbWlsOmNoLTAyLnNtaWwvcGxheWxpc3QubTN1OCIsIkNvbmRpdGlvbiI6eyJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn0sIkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzI1Nzk4Mjg4NzA5fX19XX0_&Key-Pair-Id=APKAJXRZCR3BYC6OEKKA&Signature=n82zWJQF3xyguJD60FM~GwUvY-UlMVbqTmORKOO9q0TV39rr3UajUX5M-pAixpKPYuoUHY8ZinKBei1-JWNnzjyvVXxINnm7vyGEpN4V0zeULfBWAeAoSS4WqEU8hjWGNjAc1eQQP7rK~hP0iak~O-mBvhYfjWRrbaj-tit6Wn389KhGTaefadwYHd0iUz7x0JPDIeq1MwG2~SdCfo4AYZZctTvMaO9aGPaew7m2zMp-CyiV-f4W1lWqmLBCIXlzaY3C8g5NswTgA5QtTyc2O~yhT5Q-9m6Y52gUmYGEJpv7F0lHDPVz6I7-4JOQOcgMWY7tjG5ZBI6CMWrAieu1QA__
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kHSuyub.png" group-title="|TNT|" tvg-chno="833",Super Six
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 
