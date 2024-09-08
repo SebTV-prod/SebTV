@@ -300,6 +300,8 @@ https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8
 https://5f22d76e220e1.streamlock.net/teleambiente2024/teleambiente2024/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://paroledivita.org/images/logo/favicon_blue_1C91F7.png" group-title="|TNT|" tvg-chno="245",Parole di Vita TV
 https://5db313b643fd8.streamlock.net/Paroledivita/Paroledivita/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportitalia.it/wp-content/uploads/2024/02/bike.png" group-title="|DTT|" tvg-chno="259",Bike Channel
+https://cdn02.argocdn.net/argocdn/bikechannel/video.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|TNT|" tvg-chno="262",Byoblu
 https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8
 #EXTINF:-1 `tvg-logo="https://i.imgur.com/RtOvD2M.png" group-title="|TNT|" tvg-chno="314",Paci Contemporary Channel
@@ -890,6 +892,8 @@ https://router.xdevel.com/video0s975360-67/stream/playlist_dvr.m3u8
 https://200912.global.ssl.fastly.net/646b335e2291a2022444bb7c/live_22f84390fe1411ed919df3da85a483cc/tracks-v1a1/rewind-14400.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/radio-freccia-tv-it.svg" group-title="|DAB+|" tvg-chno="258",Radio Freccia TV
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="|DAB+|" tvg-chno="261",Giornale Radio TV
+https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8?FLID=1
 #EXTINF:-1 tvg-logo="https://www.tivu.tv/_common/images/loghi_epg/logo_16977.png" group-title="|DAB+|" tvg-chno="265",RDS Social TV
 https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/radio-zeta-radiovisione-it.png" group-title="|DAB+|" tvg-chno="266",Radio Zeta TV 
