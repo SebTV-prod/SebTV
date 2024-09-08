@@ -286,6 +286,8 @@ http://fms.premio.link/welcomein/index.m3u8
 #EXTVLCOPT:http-referrer=https://player.castr.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 https://155905.global.ssl.fastly.net/60c888bf1dbff32e46b3304d/live_f64a08e02a9a11ec81174bd4ce952c0e/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2023/05/RADIO-STUDIO-PIU-TV.png" group-title="|TNT|" tvg-chno="232",Studiopiù TV
+https://5a1178b42cc03.streamlock.net/studiopiutv/studiopiutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cusanonews7.cusanoitaliatv.it/wp-content/uploads/2023/09/logo_news7_01.png" group-title="|TNT|" tvg-chno="234",Cusano News 7
 https://stream9.xdevel.com/video1s975363-1596/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://paroledivita.org/images/logo/favicon_blue_1C91F7.png" group-title="|TNT|" tvg-chno="245",Parole di Vita TV
