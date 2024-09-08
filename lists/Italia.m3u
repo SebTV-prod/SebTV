@@ -282,11 +282,10 @@ https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BOGMeio.png" group-title="|Satellite|" tvg-chno="701",UniNettuno University TV
 https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.altoadigetv.it/images/resource/logo-alto-adige.png" group-title="|Regionali_Trentino-Alto Adige|" tvg-chno="11",Alto Adige TV
-https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/italia_2_it.png" group-title="|Regionali_Campania|" tvg-chno="179",Italia 2 News
 https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.radiomarte.it/marte/wp-content/uploads/2019/04/RadioMarteLogo.png" group-title="|Regionali_Campania|" tvg-chno="183",Radio Marte TV
+https://router.xdevel.com/video0s975753-750/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMdjSbv2uBgQJnOG2aqb47ClHEHOpBPU3Vl-IOof4J2CDpMrlwiJwczGCfDz8&s" group-title="|Regionali_Campania|" tvg-chno="675",Radio Kiss Kiss Italia TV
 https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
 
@@ -324,23 +323,26 @@ https://5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hbqVWV4.png" group-title="|Regionali_Friuli-Venezia Giulia|" tvg-chno="76",Radio Piter Pan TV
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.laziotv.it/wp-content/uploads/2021/02/Logo-Laziotv-1.png" group-title="|IT|DTT_Regionali|" tvg-chno="13",Lazio TV
+#EXTINF:-1 tvg-logo="https://www.laziotv.it/wp-content/uploads/2021/02/Logo-Laziotv-1.png" group-title="|Regionali_Lazio|" tvg-chno="13",Lazio TV
 https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.grupposciscione.it/wp-content/uploads/2022/11/t9-1080x650-1.png" group-title="|IT|DTT_Regionali|" tvg-chno="17",T9
+#EXTINF:-1 tvg-logo="https://www.grupposciscione.it/wp-content/uploads/2022/11/t9-1080x650-1.png" group-title="|Regionali_Lazio|" tvg-chno="17",T9
 https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.grupposciscione.it/wp-content/uploads/2023/05/LOGHI-1080x650.ai-1080-×-650-px-2.png" group-title="|IT|DTT_Regionali|" tvg-chno="74",Teleregione 
+#EXTINF:-1 tvg-logo="https://www.grupposciscione.it/wp-content/uploads/2023/05/LOGHI-1080x650.ai-1080-×-650-px-2.png" group-title="|Regionali_Lazio|" tvg-chno="74",Teleregione 
 https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9cUUx8H.png" group-title="|IT|DTT_Regionali|" tvg-chno="555",Vatican Media
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cUUx8H.png" group-title="|Regionali_Lazio|" tvg-chno="555",Vatican Media
 https://ythls.armelin.one/channel/UC7E-LYc1wivk33iyt5bR5zQ.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="|IT|DTT_Regionali|" tvg-chno="12",Sardegna 1
-http://tvradiozap.eu/tools/dm.m3u8.php/x893du6;m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="|IT|DTT_Regionali|" tvg-chno="98",Radio 4 You TV
+#EXTINF:-1 tvg-logo=" " group-title="|Regionali_Piemonte|" tvg-chno="98",Radio 4 You TV
 https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="|IT|DTT_Regionali|" tvg-chno="10",RTV 38
+#EXTINF:-1 tvg-logo=" " group-title="|Regionali_Sardegna|" tvg-chno="12",Sardegna 1
+http://tvradiozap.eu/tools/dm.m3u8.php/x893du6.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="|Regionali_Toscana|" tvg-chno="10",RTV 38
 https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.altoadigetv.it/images/resource/logo-alto-adige.png" group-title="|Regionali_Trentino-Alto Adige|" tvg-chno="11",Alto Adige TV
+https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sportitalia.it/wp-content/uploads/2024/08/primaveratv.jpg" group-title="|IT|IPTV|" tvg-chno=" ",Primavera 1 TV
 https://sportitaliaamd.akamaized.net/live/Sportitalia/hls/A2C6100B283BBDC574ADDCF8F9CEAF0D5E6F64A3/index.m3u8
