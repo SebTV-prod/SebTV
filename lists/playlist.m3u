@@ -467,6 +467,8 @@ https://fusiontv.vedge.infomaniak.com/livecast/fusiontv/manifest.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/MyTVCaraibes.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1073.png" group-title="|Satellite|" tvg-chno="51",BFM Business
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/aci-sport-tv-it.png" group-title="|Satellite|" tvg-chno="52",ACI Sport TV
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-781.png" group-title="|Satellite|" tvg-chno="54",i24 News (Français)
 https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z6Gg9ip.png" group-title="|Satellite|" tvg-chno="53",MS Channel
