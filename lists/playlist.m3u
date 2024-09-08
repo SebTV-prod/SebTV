@@ -296,6 +296,8 @@ https://5a1178b42cc03.streamlock.net/studiopiutv/studiopiutv/playlist.m3u8
 https://stream9.xdevel.com/video1s975363-1596/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fctt1-1.fna.fbcdn.net/v/t39.30808-1/447429251_452780587354081_2184305473215307783_n.jpg?stp=c14.14.172.172a_dst-jpg_p200x200&_nc_cat=101&ccb=1-7&_nc_sid=f4b9fd&_nc_ohc=qsdJ6XyiWHAQ7kNvgHR-WPn&_nc_ht=scontent.fctt1-1.fna&oh=00_AYBCja6r6VKF4dyElPqRa8G61lrcfYMbEt-MFH70sloUfQ&oe=66E3549F" group-title="|TNT|" tvg-chno="242",Sicilia 242
 https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.shortpixel.ai/spai/q_glossy+w_1021+to_webp+ret_img/www.teleambiente.it/wp-content/uploads/2022/11/logo-teleambiente-news.png" group-title="|TNT|" tvg-chno="244",Tele Ambiente
+https://5f22d76e220e1.streamlock.net/teleambiente2024/teleambiente2024/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://paroledivita.org/images/logo/favicon_blue_1C91F7.png" group-title="|TNT|" tvg-chno="245",Parole di Vita TV
 https://5db313b643fd8.streamlock.net/Paroledivita/Paroledivita/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="|TNT|" tvg-chno="262",Byoblu
