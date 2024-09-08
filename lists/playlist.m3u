@@ -206,14 +206,22 @@ https://ilglobotv-live.global.ssl.fastly.net/RAI1UK/Live.m3u8
 https://ilglobotv-live.global.ssl.fastly.net/RAI2UK/Live.m3u8
 #EXTINF:-1 tvg-logo="https://www.tivu.tv/_common/images/loghi_epg/logo_3403.png" group-title="|TNT|" tvg-chno="3",Rai 3
 https://ilglobotv-live.global.ssl.fastly.net/RAI3UK/Live.m3u8
+#EXTINF:-1 tvg-logo="https://www.tivu.tv/_common/images/loghi_epg/logo_123.png" group-title="|TNT|" tvg-chno="4",Rete 4
+https://pass.iranvids.com/http://85.209.248.3:8080/Rete4HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.tivu.tv/_common/images/loghi_epg/logo_122.png" group-title="|TNT|" tvg-chno="5",Canale 5
+https://pass.iranvids.com/http://85.209.248.3:8080/Canale5HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/italia1.png" group-title="|TNT|" tvg-chno="6",Italia 1
+https://pass.iranvids.com/http://85.209.248.3:8080/Italia1HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tivu.tv/_common/images/loghi_epg/logo_79.png" group-title="|TNT|" tvg-chno="7",La 7
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS/Live.m3u8
+#EXTINF:-1 tvg-logo="https://www.tivu.tv/_common/images/loghi_epg/logo_17716.png" group-title="|TNT|" tvg-chno="21",Rai 4
+https://pass.iranvids.com/http://85.209.248.3:8080/Rai4HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tivu.tv/_common/images/loghi_epg/logo_17716.png" group-title="|TNT|" tvg-chno="23",Rai 5
-https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raicinque1/hls/playlist_ma.m3u8?baseuri=%2Fraicinque1%2Fhls%2F&tstart=0&tend=1725687125&tof=86400&tk2=e8524a15b6c0e26f53bd7c3b1052447873ef2631c1da929a45a8edeafa343666
+https://pass.iranvids.com/http://85.209.248.3:8080/Rai5HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tivu.tv/_common/images/loghi_epg/logo_3406.png" group-title="|TNT|" tvg-chno="24",Rai Movie
 https://m3u.iranvids.com/rai-movie/output.m3u8
-#EXTINF:-1 tvg-logo="https://www.tivu.tv/_common/images/loghi_epg/logo_8522.png" group-title="|TNT|" tvg-chno="25",Rai Premium
-
+#EXTINF:-1 tvg-logo="https://www.tivu.tv/_common/imags/loghi_epg/logo_8522.png" group-title="|TNT|" tvg-chno="25",Rai Premium
+https://pass.iranvids.com/http://85.209.248.3:8080/RaiPremiumHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tivu.tv/_common/images/loghi_epg/logo_4365.png" group-title="|TNT|" tvg-chno="28",TV 2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.tivu.tv/_common/images/loghi_epg/logo_73.png" group-title="|TNT|" tvg-chno="29",La 7d
@@ -235,7 +243,7 @@ https://ilglobotv-live.global.ssl.fastly.net/RAIScuolaUK/Live.m3u8
 #EXTINF:-1 tvg-logo="https://www.tivu.tv/_common/images/loghi_epg/logo_17714.png" group-title="|TNT|" tvg-chno="58",Rai Sport
 https://pass.iranvids.com/http://85.209.248.3:8080/RaiSportHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.it/wp-content/uploads/2024/02/si_hd.png" group-title="|TNT|" tvg-chno="60",Sportitalia 
-https://sportitaliaamd.akamaized.net/live/Sportitalia/hls/F59D8EB0332E783633CDDE8E265844975635D24F/index.m3u8
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.grupposciscione.it/wp-content/uploads/2024/02/LOGO-TRAVEL-1080x650-1.png" group-title="|TNT|" tvg-chno="61",Travel TV
 https://traveltv.grupposciscione.knoxstreaming.com/live/1080p/livestream_def.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/39cSNHs.png" group-title="|TNT|" tvg-chno="62",Donna TV
