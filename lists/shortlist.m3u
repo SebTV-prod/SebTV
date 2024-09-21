@@ -199,6 +199,5 @@ https://cpac-live.cdn.vustreams.com/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e13
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x0vLIWr.png" group-title="Information" tvg-chno="815",ICI - La Chaîne Internationale
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sibprod/SibTV/main/assets/LN24.png" group-title="Information" tvg-chno="822",LN24
 https://live-ln24.digiteka.com/1911668011/playlist.m3u8
