@@ -2,14 +2,13 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="Général" tvg-chno="1",TF1
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png" group-title="Général" tvg-chno="2",France 2
-https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France2.m3u8
 https://github.com/Sibprod/streams/raw/refs/heads/main/ressources/ftv/py/France2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png" group-title="Général" tvg-chno="3",France 3
-https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3.m3u8
+https://github.com/Sibprod/streams/raw/refs/heads/main/ressources/ftv/py/France3.m3u8
 #EXTINF:-1 tvg-logo="https://s2.dmcdn.net/u/1Ew071cTOAFfl4S5U/120x120" group-title="Général" tvg-chno="4",Canal+
 https://tvradiozap.eu/tools/dm.m3u8.php/x5gv6be.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png" group-title="Découverte" tvg-chno="5",France 5
-https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France5.m3u8
+https://github.com/Sibprod/streams/raw/refs/heads/main/ressources/ftv/py/France5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png" group-title="Général" tvg-chno="7",ARTE (Français)
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-logo="https://s2.dmcdn.net/u/1YP551WAyost7D8IQ/120x120" group-title="Divertissement" tvg-chno="8",C8
@@ -23,7 +22,7 @@ https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 #EXTINF:-1 tvg-logo="https://s2.dmcdn.net/u/1CkLf1aVUMG_e-YmE/120x120" group-title="Information" tvg-chno="13",LCP 100%
 https://tvradiozap.eu/tools/dm.m3u8.php/xgepjr.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VgcrtZ5/fr4blok.png" group-title="Divertissement" tvg-chno="14",France 4
-https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France4.m3u8
+https://github.com/Sibprod/streams/raw/refs/heads/main/ressources/ftv/py/France4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="Information" tvg-chno="15",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://s2.dmcdn.net/u/DhmL1btmnDMUouYA/120x120" group-title="Information" tvg-chno="16",CNews
