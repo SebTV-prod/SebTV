@@ -518,12 +518,16 @@ https://tvradiozap.eu/tools/tw.m3u8.php/somosbellvilletv.m3u8
 https://tvradiozap.eu/tools/tw.m3u8.php/telefe.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/adf5d7c5-e893-4571-b114-316b90ae2dcc-profile_image-150x150.png" group-title="Twitch" tvg-chno=" ",[AR] TV Max Cordoba
 https://tvradiozap.eu/tools/tw.m3u8.php/tvmaxcordoba.m3u8
+
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/f2b9bc58-af71-4b39-b120-9c4cdd07c826-profile_image-150x150.png" group-title="Twitch" tvg-chno=" ",[BR] Chaves TV 24h
 https://tvradiozap.eu/tools/tw.m3u8.php/chavestv24h.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/f3ef2c02-f9fa-4aaf-8713-a8a3837fdea1-profile_image-150x150.png" group-title="Twitch" tvg-chno=" ",[BR] Costa Verde TV
 https://tvradiozap.eu/tools/tw.m3u8.phpcostaverdetv.m3u8
+
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fc3bad72-fe76-4e1d-8de1-786f6903d55c-profile_image-150x150.png" group-title="Twitch" tvg-chno=" ",[CA] Bell Canada
 https://tvradiozap.eu/tools/tw.m3u8.php/bellcanada.m3u8
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/d9eb0f3d-665a-4d34-a891-0859d5d619e6-profile_image-150x150.png" group-title="Twitch" tvg-chno=" ",[CA] CHOQ 
+https://tvradiozap.eu/tools/tw.m3u8.php/choqca.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/86577a53-a275-4bf3-9eb8-fe259401c7ae-profile_image-150x150.png" group-title="Twitch" tvg-chno=" ",[CA] FM93 Québec
 https://tvradiozap.eu/tools/tw.m3u8.php/fm93quebec.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c28ee43e-6109-4e3d-b5cd-093476acfb1a-profile_image-150x150.png" group-title="Twitch" tvg-chno=" ",[CA] Radio Vérité
@@ -532,16 +536,23 @@ https://tvradiozap.eu/tools/tw.m3u8.php/radioverite.m3u8
 https://tvradiozap.eu/tools/tw.m3u8.php/telemagtv.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/bb6a74b4-9f8e-4d29-b0a5-4ec997a08545-profile_image-150x150.png" group-title="Twitch" tvg-chno=" ",[CA] TVC TK
 https://tvradiozap.eu/tools/tw.m3u8.php/tvctklive.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.handelsregister.tv/images/handelsregister-logo.png" group-title="Twitch" tvg-chno=" ",[CH] Handelsregister
 https://tvradiozap.eu/tools/tw.m3u8.php/handelsregister.m3u8
+
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/7a822472-c898-48ec-ae13-b9ed1916117e-profile_image-150x150.jpeg" group-title="Twitch" tvg-chno=" ",[CL] Omega La Radio
 https://tvradiozap.eu/tools/tw.m3u8.php/omegalaradio.m3u8
+
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/7a4b6282-a61a-4778-b056-baca23176a06-profile_image-150x150.png" group-title="Twitch" tvg-chno=" ",[DE] Radio PSF
 https://tvradiozap.eu/tools/tw.m3u8.php/radiopsf.m3u8
+
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/4b08758c-2c8a-4176-9bfa-f98d6bc7bffe-profile_image-150x150.png" group-title="Twitch" tvg-chno=" ",[DO] Canal ECOS
 https://tvradiozap.eu/tools/tw.m3u8.php/canalecos.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.tele-astv.fr/img/logo2024.png" group-title="Twitch" tvg-chno=" ",[FR] ASTV
 https://tvradiozap.eu/tools/tw.m3u8.php/astvstream.m3u8
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/e941fb55-3d4d-47e7-91ce-852c21a4ff06-profile_image-150x150.png" group-title="Twitch" tvg-chno=" ",[FR] B Smart
+https://tvradiozap.eu/tools/tw.m3u8.php/b_smart_tv.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/ffd9c71d-85dd-4e76-82a1-0db6b4e1b994-profile_image-150x150.png" group-title="Twitch" tvg-chno=" ",[FR] Canal 4
 https://tvradiozap.eu/tools/tw.m3u8.php/canal_4_.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/81ba876d-fb66-485e-8c04-382dd5d0dc92-profile_image-150x150.png" group-title="Twitch" tvg-chno=" ",[FR] Chiconi FM TV
@@ -560,6 +571,8 @@ https://tvradiozap.eu/tools/tw.m3u8.php/gm__tv.m3u8
 https://tvradiozap.eu/tools/tw.m3u8.php/golacinq.m3u8
 #EXTINF:-1 tvg-logo="https://guadeloupe4-tv.com/wp-content/uploads/2022/03/Guadeloupe4TV_300x315.png" group-title="Twitch" tvg-chno=" ",[FR] Guadeloupe 4 TV
 https://tvradiozap.eu/tools/tw.m3u8.php/guadeloupe4tv.m3u8
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/9519cf92-a44e-4a2f-a5dc-e94e0eeb0d5f-profile_image-150x150.png" group-title="Twitch" tvg-chno=" ",[FR] IL TV
+https://tvradiozap.eu/tools/tw.m3u8.php/iltvfrance.m3u8
 #EXTINF:-1 tvg-logo="https://www.la16.fr/fr/wp-content/uploads/2021/08/logo-350-100.png" group-title="Twitch" tvg-chno=" ",[FR] La 16 TV
 https://tvradiozap.eu/tools/tw.m3u8.php/la16tv.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b1dd372c-14c5-4cb3-9415-278ca5c75d53-profile_image-150x150.png" group-title="Twitch" tvg-chno=" ",[FR] La Cinq
@@ -580,8 +593,12 @@ https://tvradiozap.eu/tools/tw.m3u8.php/mgg_fr2.m3u8
 https://tvradiozap.eu/tools/tw.m3u8.php/mytvcaraibes97.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/47d0a464-1871-40b1-8933-e11e665ee4fc-profile_image-150x150.png" group-title="Twitch" tvg-chno=" ",[FR] Origine 80
 https://tvradiozap.eu/tools/tw.m3u8.php/origine80.m3u8
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/2fabd572-e7a8-49a5-ab16-6e359d05234b-profile_image-150x150.png" group-title="Twitch" tvg-chno=" ",[FR] Radio Buzz
+https://tvradiozap.eu/tools/tw.m3u8.php/radiobuzzofficiel.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/be970b89-4bb4-4958-97e7-48a94d972cba-profile_image-150x150.png" group-title="Twitch" tvg-chno=" ",[FR] RTL Plus
 https://tvradiozap.eu/tools/tw.m3u8.php/rtl_plus.m3u8
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/73b87055-0de9-4e29-a5e7-6fdc5e95abab-profile_image-150x150.png" group-title="Twitch" tvg-chno=" ",[FR] Sud Radio
+https://tvradiozap.eu/tools/tw.m3u8.php/sudradio.m3u8
 #EXTINF:-1 tvg-logo="https://www.tahitiwebradio.pf/wp-content/uploads/2020/04/Icone.png" group-title="Twitch" tvg-chno=" ",[FR] Tahiti Webradio
 https://tvradiozap.eu/tools/tw.m3u8.php/tahitiwebradio.m3u8
 #EXTINF:-1 tvg-logo="https://www.telegrenoble.net/images/interface/bannerLogo.png" group-title="Twitch" tvg-chno=" ",[FR] Telegrenoble
@@ -594,14 +611,20 @@ https://tvradiozap.eu/tools/tw.m3u8.php/tl7loire.m3u8
 https://tvradiozap.eu/tools/tw.m3u8.php/tubekathodique.m3u8
 #EXTINF:-1 tvg-logo="https://tvradiozap.eu/tv/logos/valloiretv.png" group-title="Twitch" tvg-chno=" ",[FR] Valloire TV
 https://tvradiozap.eu/tools/tw.m3u8.php/valloiretv.m3u8
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/3d73b377-bfc5-4810-837b-6df076795c9d-profile_image-150x150.png" group-title="Twitch" tvg-chno=" ",[FR] Winamax Sport
+https://tvradiozap.eu/tools/tw.m3u8.php/winamaxsport.m3u8
+
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a86bd7fb-9d25-4658-bb7a-edd6fed41d4c-profile_image-150x150.png" group-title="Twitch" tvg-chno=" ",[GR] Pronews TV
 https://tvradiozap.eu/tools/tw.m3u8.php/pronewstv.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/31c8e547-e3e1-4188-87d0-8c37deb7553f-profile_image-150x150.png" group-title="Twitch" tvg-chno=" ",[GR] TV Rodopi
 https://tvradiozap.eu/tools/tw.m3u8.php/tvrodopi.m3u8
+
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/6406dfad-da1c-4259-9ebd-11912ca8a173-profile_image-150x150.png" group-title="Twitch" tvg-chno=" ",[GU] Canal GTV
 https://tvradiozap.eu/tools/tw.m3u8.php/canalgtv502.m3u8
+
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8f70e1ee-5c1f-480a-8ef9-3c40b0ac5a71-profile_image-150x150.png" group-title="Twitch" tvg-chno=" ",[IN] Family TV
 https://tvradiozap.eu/tools/tw.m3u8.php/familytv1971.m3u8
+
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b2490e59-6a6a-4e91-a9ba-f7e5e63370c5-profile_image-150x150.png" group-title="Twitch" tvg-chno=" ",[IT] 111 TV
 https://tvradiozap.eu/tools/tw.m3u8.php/111tv.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/5a7dc37e-9d90-478f-b2a9-d207126aef00-profile_image-150x150.png" group-title="Twitch" tvg-chno=" ",[IT] Antenna Febea
@@ -618,6 +641,8 @@ https://tvradiozap.eu/tools/tw.m3u8.php/canale48webtv.m3u8
 https://tvradiozap.eu/tools/tw.m3u8.php/electrohug2.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/9f81491d-c761-4b44-9a24-7862c8298842-profile_image-150x150.png" group-title="Twitch" tvg-chno=" ",[IT] Etna Channel TV
 https://tvradiozap.eu/tools/tw.m3u8.php/etnachanneltv.m3u8
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/59870e13-735f-4672-a1f8-0ea255032d57-profile_image-150x150.png" group-title="Twitch" tvg-chno=" ",[IT] Incanto Di Napoli Radio
+https://tvradiozap.eu/tools/tw.m3u8.php/incantodinapoliradio.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/aebeeaa7-1501-45d9-ae5b-a08c14a1a16f-profile_image-150x150.png" group-title="Twitch" tvg-chno=" ",[IT] La Q TV
 https://tvradiozap.eu/tools/tw.m3u8.php/laqtv_12.m3u8
 #EXTINF:-1 tvug-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fc41eca1-f94a-4958-9ff6-61e27ba13b3a-profile_image-150x150.png" group-title="Twitch" tvg-chno=" ",[IT] MJ Radio
@@ -690,25 +715,35 @@ https://tvradiozap.eu/tools/tw.m3u8.php/teleradiomaristella.m3u8
 https://tvradiozap.eu/tools/tw.m3u8.php/teleradiostereo.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/2734faa0-f9dc-4b67-ab69-9a554fd4ccc9-profile_image-150x150.png" group-title="Twitch" tvg-chno=" ",[IT] Teleregione Sardegna
 https://tvradiozap.eu/tools/tw.m3u8.php/teleregione_sardegna.m3u8
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/924b3fd1-f44b-425e-91e6-f69c320658bf-profile_image-150x150.png" group-title="Twitch" tvg-chno=" ",[IT] TVM Napoli
+https://tvradiozap.eu/tools/tw.m3u8.php/tvmnapoli.m3u8
 #EXTINF:-1 tvg-logo="https://massimoemanuelli.com/wp-content/uploads/2017/07/video-nord.jpg?w=96&h=109&crop=1" group-title="Twitch" tvg-chno=" ",[IT] Videonord
 https://tvradiozap.eu/tools/tw.m3u8.php/videonord.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/078dde30-0fd4-4834-a888-24e67a148297-profile_image-150x150.png" group-title="Twitch" tvg-chno=" ",[IT] Zerouno TV
 https://tvradiozap.eu/tools/tw.m3u8.php/zerounotv.m3u8
+
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/17eb38eb-9179-4a7d-abcc-e13b6ac6bfd1-profile_image-150x150.png" group-title="Twitch" tvg-chno=" ",[KE] TV 47 Kenya
 https://tvradiozap.eu/tools/tw.m3u8.php/tv47kenya.m3u8
+
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/1e21e405-93cf-4f54-a016-a80a336a8c74-profile_image-150x150.png" group-title="Twitch" tvg-chno=" ",[ME] TV Herceg Novi
 https://tvradiozap.eu/tools/tw.m3u8.php/tvhercegnovi.m3u8
+
 #EXTINF:-1 tvg-logo="https://tv.kolo.mg/wp-content/uploads/2024/02/001.png" group-title="Twitch" tvg-chno=" ",[MG] Kolo TV
 https://tvradiozap.eu/tools/tw.m3u8.php/kolotvlive.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Mainichi_Broadcasting_System_logo.svg" group-title="Twitch" tvg-chno=" ",[MG] MBS
 https://tvradiozap.eu/tools/tw.m3u8.php/malagasynews.m3u8
+
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/bed98873-b79b-4ff2-8167-b5cfa12041f9-profile_image-150x150.png" group-title="Twitch" tvg-chno=" ",[PE] America TV Live
 https://tvradiozap.eu/tools/tw.m3u8.php/americatvlivee.m3u8
+
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/bfb9f8d3-dac0-494a-a410-7f6e5034ed6a-profile_image-150x150.png" group-title="Twitch" tvg-chno=" ",[SE] TV Arena Esport
 https://tvradiozap.eu/tools/tw.m3u8.php/tvarenaesport.m3u8
+
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/ae84f712-694c-4607-b13a-0d457e10e467-profile_image-150x150.png" group-title="Twitch" tvg-chno=" ",[SN] La Chaîne Soninké
 https://tvradiozap.eu/tools/tw.m3u8.php/lachainesoninke.m3u8
+
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/dfe43620-bba6-481f-a308-a1de4fdf9c13-profile_image-150x150.png" group-title="Twitch" tvg-chno=" ",[UK] Shout TV
 https://tvradiozap.eu/tools/tw.m3u8.php/shouttv.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/f586f551-10e5-4d25-aa97-691aecb228ee-profile_image-150x150.png" group-title="Twitch" tvg-chno=" ",[US] DSports TV
+https://tvradiozap.eu/tools/tw.m3u8.php/dsportsok.m3u8
