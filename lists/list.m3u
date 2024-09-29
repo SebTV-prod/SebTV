@@ -154,11 +154,13 @@ https://stream.tvclub.fr/hls/ch08.m3u8
 https://stream.tvclub.fr/hls/ch09.m3u8
 #EXTINF:-1 channel-number=10 tvg-id="CLASSICS.tvclub.cx" tvg-name="Classics" tvg-logo="https://tvclub.fr/logos/10.png" group-title="Cinéma-Séries",Classics
 https://stream.tvclub.fr/hls/ch10.m3u8
-#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/4YmRIL_nGL-TwlFaYvgjFpGyCOLYu8Fk1zzF3PdTxh1-5rOH33LT_LXmuZ_our1WqeJYFBlNOMPZTBMUt1WSkL0flTNo3aqypWTAgZ94WhmXeo8zNM3kLxwB2Ek2i7OuTQ=w1280" group-title="Cinéma-Séries" tvg-chno="311",Nonos TV
-https://vdo3.pro-fhi.net:3696/stream/play.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Cinéma-Séries" tvg-chno="311",Terror TV (not 24/7)
+https://vdo2.pro-fhi.net:3594/live/rmlegahmlive.m3u8
 #EXTINF:-1 channel-number=12 tvg-id="ALIBI.tvclub.cx" tvg-name="Alibi" tvg-logo="https://tvclub.fr/logos/12.png" group-title="Cinéma-Séries",Alibi
 https://stream.tvclub.fr/hls/ch12.m3u8
-#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/9siQ7vn_VYHcwRtGJW9AZa4HOmBDuuXxCFpGjeBRgfSb1qFEZ2fTJGdgQPd6Heu0OwUtYZ2caTuUimZZS7RKtsCrh8gxkuMX_KT6z8t8cpBgw_P6DixSZOD7OfoLywV17w=w1280" group-title="Cinéma-Séries" tvg-chno="313",GM TV (Not 24/7)
+#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/4YmRIL_nGL-TwlFaYvgjFpGyCOLYu8Fk1zzF3PdTxh1-5rOH33LT_LXmuZ_our1WqeJYFBlNOMPZTBMUt1WSkL0flTNo3aqypWTAgZ94WhmXeo8zNM3kLxwB2Ek2i7OuTQ=w1280" group-title="Cinéma-Séries" tvg-chno="313",Nonos TV
+https://vdo3.pro-fhi.net:3696/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/9siQ7vn_VYHcwRtGJW9AZa4HOmBDuuXxCFpGjeBRgfSb1qFEZ2fTJGdgQPd6Heu0OwUtYZ2caTuUimZZS7RKtsCrh8gxkuMX_KT6z8t8cpBgw_P6DixSZOD7OfoLywV17w=w1280" group-title="Cinéma-Séries" tvg-chno="314",GM TV (Not 24/7)
 https://vdo3.pro-fhi.net:3931/live/unfnrwfclive.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Cinéma-Séries" tvg-chno="317",Sony One Action Hits
 https://linear-817.frequency.stream/mt/studio/817/hls/master/playlist.m3u8
