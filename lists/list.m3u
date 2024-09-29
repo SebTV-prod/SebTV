@@ -146,6 +146,8 @@ https://vdo2.pro-fhi.net:3931/live/bvpazwtylive.m3u8
 https://stream.tvclub.fr/hls/ch05.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9rmSGqP/frsr.png" group-title="Cinéma-Séries" tvg-chno="306",France TV Séries
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceTVSeries.m3u8
+#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/23262/thumb_Next_tv_logo.jpg" group-title="Cinéma-Séries" tvg-chno="307",Next TV
+https://helga.iptv2022.com/Next_tv/index.m3u8
 #EXTINF:-1 channel-number=8 tvg-id="PREMIERE.tvclub.cx" tvg-name="Premiere" tvg-logo="https://tvclub.fr/logos/8.png" group-title="Cinéma-Séries",Premiere
 https://stream.tvclub.fr/hls/ch08.m3u8
 #EXTINF:-1 channel-number=9 tvg-id="CINEZ.tvclub.cx" tvg-name="CineZ" tvg-logo="https://tvclub.fr/logos/9.png" group-title="Cinéma-Séries",CineZ
@@ -310,6 +312,8 @@ https://sy.wns.live/hls/stream.m3u8
 https://tvradiozap.eu/tools/dm.m3u8.php/x8azdk1.m3u8
 
 #EXTGRP:Musique
+#EXTINF:-1 tvg-logo=" " group-title="Musique" tvg-chno="801",VIVA Russia
+https://glb.bozztv.com/glb/ssh101/vivarussia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.lesindesradios.fr/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/littoral/images/logo_XVXnlAO28F.png" group-title="Musique" tvg-chno="803",Littoral TV
 https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
 #EXTINF:-1 channel-number=4 tvg-id="MUSICBOX.tvclub.cx" tvg-name="MusicBox" tvg-logo="https://tvclub.fr/logos/4.png" group-title="Musique",MusicBox
@@ -372,3 +376,5 @@ https://tvradiozap.eu/tools/dm-m3u8.php/x8j47xa.m3u8
 https://vdo.pro-fhi.net:3531/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://cnv.ca/images/CNV-ENTETEOFFICIELLE%20copy.jpg" group-title="Radios" tvg-chno="1090",CNV Montréal
 https://www.radiovideoserver.com:19360/cnv/cnv.m3u8
+
+
