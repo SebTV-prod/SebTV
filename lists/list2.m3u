@@ -159,6 +159,8 @@ https://vdo2.pro-fhi.net:3931/live/bvpazwtylive.m3u8
 https://foxkidstv.be:3369/stream/play.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Cinéma-Séries",[1111] Terror TV (not 24/7)
 https://vdo2.pro-fhi.net:3594/live/rmlegahmlive.m3u8
+#EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/ivoirechannel.png" group-title="Divertissement",[1220] Ivoire Channel
+https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/cinemax.png" group-title="Cinéma-Séries",[1221] Ciné Max
 https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/afromagic.png" group-title="Cinéma-Séries",[1222] Afromagic Channel
@@ -167,6 +169,9 @@ https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8494/8494/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/fitinitv.png" group-title="Jeunesse",[1229] Fitini TV
 https://video1.getstreamhosting.com:1936/8492/8492/playlist.m3u8
+/video1.getstreamhosting.com:1936/8494/8494/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/seriemax.png" group-title="Cinéma-Séries",[1230] Série Max
+https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Cinéma-Séries",[1817] Sony One Action Hits
 https://linear-817.frequency.stream/mt/studio/817/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Cinéma-Séries",[1818] Sony One Comédie Hits
