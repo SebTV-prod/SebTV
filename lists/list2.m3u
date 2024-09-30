@@ -57,10 +57,8 @@ https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/extr/py/equidi.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/logoschaines169bfmbusinesscouleursnew.png" group-title="Information",[51] BFM Business
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="Information",[52] BFM Régions (Paris-Île de France)
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="Information",[53] BFM Régions (Lyon-Métropole)
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://s1.dmcdn.net/u/1Q7eQ1cQ2D1PU1AxW/120x120" group-title="Information",[52] Euronews (Français)
+https://tvradiozap.eu/tools/dm.m3u8.php/x2j4lj9.m3u8
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/France_24_logo.png" group-title="Information",[53] France 24
 https://new.cache-stream.workers.dev/stream/UCCCPCZNChQdGa9EkATeye4g/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/225px-LOGO_i24NEWS.png" group-title="Information",[54] i24 News
@@ -93,17 +91,16 @@ https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r
 https://tvradiozap.eu/tools/dm-m3u8.php/x3wqv8b.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Le_Figaro_TV_IDF_%282023%29.png/1200px-Le_Figaro_TV_IDF_%282023%29.png" group-title="Découverte",[89] Le Figaro TV
 https://static.lefigaro.fr/secom/tnt.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ca/Medi_1_TV_logo.png" group-title="Information",[177] Medi 1
 https://streaming1.medi1tv.com/live/medi1fr.smil/master.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Divertissement",[204] NCI
-https://pixa.cdn.easybroadcast.fr/nci/nci.isml/manifest.
+https://pixa.cdn.easybroadcast.fr/nci/nci.isml/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/54/51/1d/54511dd619f6b10fad2af8b22ee6e9f8.png" group-title="Divertissement",[251] BF1
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/7e66f389bec3463dac81e8d55e680431/index.m3u8
 #EXTINF:-1 tvg-logo="https://srtb.bj/storage/2020/02/logo2-1.png" group-title="Général",[270] ORTB
 https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Jeunesse",[271] ADO TV
-https://strhls.streamakaci.tv/ortb/ortb2-multi/pl
+https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/54/Logo-LC-21.png" group-title="Découverte",[476] Lyon Capitale TV
 https://tvradiozap.eu/tools/dm-m3u8.php/x7z3zqa.m3u8
 #EXTINF:-1 tvg-logo="https://s2.dmcdn.net/u/HT2x1bLFVCKZ1ymd/120x120" group-title="Radios",[501] France Inter
