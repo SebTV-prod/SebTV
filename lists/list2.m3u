@@ -45,12 +45,12 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/lci.m3
 https://tvradiozap.eu/tools/dm.m3u8.php/x4rdeu6.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="Information",[30] BFM Régions (Toulon-Var)
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6a/Logo_8_Mont_Blanc_2015.svg/1200px-Logo_8_Mont_Blanc_2015.svg.png" group-title="Découverte",[31] 8 Mont-Blanc
-https://tvradiozap.eu/tools/dm-m3u8.php/x3wqv8b.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20_Minutes_TV_IDF_logo_%282023%29.png/320px-20_Minutes_TV_IDF_logo_%282023%29.png" group-title="Divertissement",[32] 20 Minutes TV
-https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Le_Figaro_TV_IDF_%282023%29.png/1200px-Le_Figaro_TV_IDF_%282023%29.png" group-title="Découverte",[34] Le Figaro TV
-https://static.lefigaro.fr/secom/tnt.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="Information",[31] BFM Régions (Nice-Côte d'Azur)
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://i0.wp.com/lachainevaroise.com/wp-content/uploads/2023/07/Logo_LCV_Blanc-01.png?resize=980%2C461&ssl=1" group-title="Information",[32] La Chaîne Varoise
+https://lachainevaroise.vedge.infomaniak.com/livecast/lachainevaroise/.m3u8
+#EXTINF:-1 tvg-logo="https://lerinstvradio.fr/upload/design/66cf40b8510e04.22508416.png" group-title="Information",[33] Cannes Lérins TV
+https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p0CLPqT/equidia.png" group-title="Sport",[39] Équidia
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/extr/py/equidi.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/74/CARAC1_logo_2023.svg/langfr-200px-CARAC1_logo_2023.svg.png" group-title="Divertissement",[41] Carac 1
@@ -61,6 +61,8 @@ https://onefmmd.vedge.infomaniak.com/livecast/onefmmd/manifest.m3u8
 https://lfmmd.vedge.infomaniak.com/livecast/lfmmd/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/02/CARAC4_logo_2023.svg/langfr-200px-CARAC4_logo_2023.svg.png" group-title="Divertissement",[44] Carac 4
 https://compack_media_1.vedge.infomaniak.com/livecast/compack_media_1/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20_Minutes_TV_IDF_logo_%282023%29.png/320px-20_Minutes_TV_IDF_logo_%282023%29.png" group-title="Divertissement",[45] 20 Minutes TV
+https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/logoschaines169bfmbusinesscouleursnew.png" group-title="Information",[51] BFM Business
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/225px-LOGO_i24NEWS.png" group-title="Information",[54] i24 News 
@@ -71,6 +73,10 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/84793/84793_264_live.m3u8?latency=low
 #EXTINF:-1 tvg-logo="https://i.ibb.co/883phd1/ktook.png" group-title="Style de Vie",[61] KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Le_Figaro_TV_IDF_%282023%29.png/1200px-Le_Figaro_TV_IDF_%282023%29.png" group-title="Découverte",[64] Le Figaro TV
+https://static.lefigaro.fr/secom/tnt.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6a/Logo_8_Mont_Blanc_2015.svg/1200px-Logo_8_Mont_Blanc_2015.svg.png" group-title="Découverte",[68] 8 Mont-Blanc
+https://tvradiozap.eu/tools/dm-m3u8.php/x3wqv8b.m3u8
 #EXTINF:-1 tvg-logo="https://monacoinfo.com/wp-content/themes/monacoinfo_v4/assets/img/monacoinfo-color.png" group-title="Information",[70] Monaco Info
 https://webtv.monacoinfo.com/live/prod/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV_Monaco_logo.png" group-title="Général",[71] TV Monaco
