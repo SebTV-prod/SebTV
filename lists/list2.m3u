@@ -91,6 +91,10 @@ https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r
 https://tvradiozap.eu/tools/dm-m3u8.php/x3wqv8b.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Le_Figaro_TV_IDF_%282023%29.png/1200px-Le_Figaro_TV_IDF_%282023%29.png" group-title="Découverte",[89] Le Figaro TV
 https://static.lefigaro.fr/secom/tnt.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e1/TQcLogo_rgb_2020.png/300px-TQcLogo_rgb_2020.png" group-title="Général",[104] Télé Québec
+https://bcovlive-a.akamaihd.net/329d54c0bae445ff8dc85b8a91da0308/us-west-2/6101674910001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x0vLIWr.png" group-title="Général",[147] ICI - La Chaîne Internationale
+https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ca/Medi_1_TV_logo.png" group-title="Information",[177] Medi 1
 https://streaming1.medi1tv.com/live/medi1fr.smil/master.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Divertissement",[204] NCI
@@ -127,10 +131,16 @@ https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.
 https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/ad/FUN21.png/1200px-FUN21.png" group-title="Radios",[542] Fun Radio (Belgique)
 https://tvradiozap.eu/tools/dm-m3u8.php/x8fy3fv.m3u8
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/469/239/png-clipart-nrj-group-nrj-hits-internet-radio-nrj-international-in-maintenance-text-fm-broadcasting.png" group-title="Radios",[543] NRJ (Belgique)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0OkSa6c.png" group-title="Radios",[543] BX1+
+https://59959724487e3.streamlock.net/radio/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/469/239/png-clipart-nrj-group-nrj-hits-internet-radio-nrj-international-in-maintenance-text-fm-broadcasting.png" group-title="Radios",[544] NRJ (Belgique)
 https://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mlemedia.ch/upload/design/6333f474c31401.16060024.png" group-title="Radios",[605] M Le Média
+#EXTINF:-1 tvg-logo=" " group-title="Radios",[563] RTS Couleur 3
+https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mlemedia.ch/upload/design/6333f474c31401.16060024.png" group-title="Radios",[565] M Le Média
 https://tvradiozap.eu/tools/dm-m3u8.php/x8j47xa.m3u8
+#EXTINF:-1 tvg-logo="https://radioticino.com/wp-content/uploads/2019/09/logon.png" group-title="Radios",[566] Radio Ticino Channel
+https://2-fss-2.themediacdn.com/pl_124/amlst:204654-1927794/playlist.m3u8
 #EXTINF:-1 channel-number=1 tvg-id="CLUB1.tvclub.cx" tvg-name="Club1" tvg-logo="https://tvclub.fr/logos/1.png" group-title="Cinéma-Séries",[1001] Club 1
 https://stream.tvclub.fr/hls/ch01.m3u8
 #EXTINF:-1 channel-number=2 tvg-id="CLUB2.tvclub.cx" tvg-name="Club2" tvg-logo="https://tvclub.fr/logos/2.png" group-title="Cinéma-Séries",[1002] Club 2
