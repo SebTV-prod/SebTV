@@ -22,6 +22,8 @@ https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/lci.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceInfo.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-308.png" group-title="TNT",[033] France 3 Régions - Via Stella
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/France3_Corse-ViaStella.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-64.png" group-title="Sport",Equidia
+https://github.com/schumijo/iptv/raw/main/playlists/equidia/equidia-live.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Découverte",France TV Docs
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceTVDocs.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Cinéma-Séries",France TV Séries
@@ -42,6 +44,8 @@ https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/7e66f389bec
 https://biptv.tv/live/biptvstream_orig/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y94bhqX.jpg" group-title="Information",Brionnais TV
 https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Information",Business 24 
+https://cdn-globecast.akamaized.net/live/eds/business24_tv/hls_video/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0OkSa6c.png" group-title="Radios",BX1+
 https://59959724487e3.streamlock.net/radio/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-34.png" group-title="TNT",[004] Canal+ (en clair uniquement)
@@ -54,8 +58,18 @@ https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logos-marques.com/wp-content/uploads/2022/03/CNews-Logo.jpg" group-title="TNT",[016] CNews
 https://hls-m010-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-ios-fhd-clair/cnews-clair-hd.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Radios",CNV Montréal
+https://media1.radioservers.biz:1936/cnv/cnv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/c42fd09da54c06f26f176bb0f0e332f97ac7b7634cfb1cd6ec8a29e6e252901d/68747470733a2f2f692e696d6775722e636f6d2f52456c643035612e706e67" group-title="Information",CPAC
 https://cpac-live.cdn.vustreams.com/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/live.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Musique",D5 Music
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/592.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Divertissement",D5 TV
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/591.m3u8
+#EXTINF:-1 tvg-logo="https://dieutv.com/img/logo.png" group-title="Style de Vie",Dieu TV
+https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Divertissement",[875] E Télé
+https://livetvsteam.com:1936/etelebenin/etelebenin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kqYssbW.png" group-title="TNT",[018] Gulli
 https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8
 #EXTINF:-1 tvg-logo="https://guineetv1.com/wp-content/uploads/2023/01/logo.png" group-title="Cinéma-Séries",GTV 1
@@ -76,34 +90,52 @@ https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TNT",[034] Le Figaro TV
 https://static.lefigaro.fr/secom/tnt.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y1eg7OC.png" group-title="TNT",[206] Life TV
+https://strhls.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rw72POr.png" group-title="Information",Ma Télé (Belgique)
+https://live.matele.be/hls/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Information",Ma Télé (France)
+https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7oLUSeO.png" group-title="Radios",Mayotte One 
 https://live.mytv.yt:3946/multi_web/play.m3u8
 #EXTINF:-1 tvg-logo="https://m6pub.fr/content/uploads/2020/02/mcm-top-logo.png" group-title="Musique",MCM Top
 https://bkm.beetv.kz/btv/live/hls/000000327.m3u8
 #EXTINF:-1 tvg-logo="https://www.mondeduloisir.fr/wp-content/uploads/2016/07/Logo3_URL_Slogan_Noir_MICRO.png" group-title="Style de Vie",MDL
 https://5f5ef28097114.streamlock.net/tixtv/smil:web.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ca/Medi_1_TV_logo.png" group-title="Information",Medi 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ca/Medi_1_TV_logo.png" group-title="Information",Medi 1 (AFrique)
 https://streaming1.medi1tv.com/live/medi1fr.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ca/Medi_1_TV_logo.png" group-title="Information",[777] Medi 1 TV (Maghreb)
+https://streaming1.medi1tv.com/live/medi1tv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-125.png" group-title="Musique",Mezzo
 https://bkm.beetv.kz/btv/live/hls/000000030.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FPyPaL1.png" group-title="TNT",[070] Monaco Info
 https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Information",Ma Télé
-https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pInICUY.png",My Comedy
+https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/590.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Divertissement",MyTV Channel
+http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TNT",[804] NCI
 https://pixa.cdn.easybroadcast.fr/nci/nci.isml/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/469/239/png-clipart-nrj-group-nrj-hits-internet-radio-nrj-international-in-maintenance-text-fm-broadcasting.png" group-title="Radios",NRJ (Belgique)
 https://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/44/NRJ12-Logo.png" group-title="TNT",[012] NRJ 12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Information",Notélé
+https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://srtb.bj/storage/2020/02/logo2-1.png" group-title="TNT",[870] ORTB
 https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pancrace.tv/uploads/images/logo_site_small_1485347403.jpg" group-title="Sport",Pancrace TV
 https://stream2.mandarine.media/pancracetv/pancracetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1dmBqpf.png",Play TV
+http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
+#EXTINF:-1 tvg-logo=" ",Plex TV
+http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiocontact.be/app/themes/radiocontact/static/assets/images/logo@2x.png" group-title="Radios",Radio Contact
 https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://reflet.tv/wp-content/uploads/2022/12/Logo_RTV.svg" group-title="TNT",[808] Reflet TV
 https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TNT",[111] RTL tvi (journaux uniquement)
+https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Radios",RTS Couleur 3
 https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.ffsnw.fr/wp-content/uploads/2022/04/logo-Sport-en-France.jpg" group-title="Sport",Sport En France
@@ -116,6 +148,8 @@ https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 https://videas.agglo-lenslievin.fr/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e1/TQcLogo_rgb_2020.png/300px-TQcLogo_rgb_2020.png" group-title="TNT",[104] Télé Québec
 https://bcovlive-a.akamaihd.net/329d54c0bae445ff8dc85b8a91da0308/us-west-2/6101674910001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/udSzfHD.png" group-title="TNT",[890] Télé Tchad
+https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IAtKJZk.png" group-title="Information",Teveka (Marie-Galante)
 https://www.teveka.net:8443/show/teveka/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1iOAl2j.png" group-title="Musique",TMA Caraïbes
@@ -126,6 +160,8 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 https://muutube.sonmezalp.com/proxy.php/https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="Information",TV5 Monde (Info)
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:-1 tvg-logo="https://tvcbenin.com/assets/img/logo-tvc-benin.png" group-title="TNT",[874] TVC 
+https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://rsrc.s3wfg.com/web/img/logos/tw-financal.png" group-title="Information",TV Finance
 https://strhlslb01.streamakaci.tv/str_tvfinance_tvfinance/str_tvfinance_multi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvfamille.org/website/images/logo/tv_famille_logo_2019_square_75px.png" group-title="Style de Vie",TV Famille
@@ -387,10 +423,34 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?star
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2MhqYgg/bfm2.png" group-title="Information",BFM 2
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?start=LIVE&end=END
 
+#EXTGRP:Bozz TV
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-529.png" group-title="Information",France 24 (Français)
+https://bozztv.com/dvrfl05/gin-france24french/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a9v5CbU.png" group-title="Information",Burkina Info
+https://dvrfl06.tulix.tv/astv/astv-infoburkina/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TNT",[909] Camnews 24
+https://glb.bozztv.com/glb/ssh101/camnews24/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Sport",Canal+ Sport 1
+https://dvrfl06.tulix.tv/astv/astv-canalplussport1/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Sport",Canal+ Sport 2
+https://dvrfl06.tulix.tv/astv/astv-canalplussport2/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Sport",Canal+ Sport 3
+https://dvrfl06.tulix.tv/astv/astv-canalplussport3/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Sport",Canal+ Sport 4
+https://dvrfl06.tulix.tv/astv/astv-canalplussport4/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Sport",Canal+ Sport 5
+https://dvrfl06.tulix.tv/astv/astv-canalplussport5/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Sport",Canal+ Sport 360
+https://dvrfl06.tulix.tv/astv/astv-canalplussport360/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Sport",Infosport+
+https://dvrfl06.tulix.tv/astv/astv-infosport/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Divertissement",E! (Français)
+https://dvrfl07.bozztv.com/astv-entertainmentfrancais/index.m3u8
+
 #EXTGRP:Creacast
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJdY1m3.png" group-title="Information",Albi TV
 https://live.creacast.com/albi-tv-ch1/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Information",Canal 3 (Bénin)
+#EXTINF:-1 tvg-logo=" " group-title="TNT",[872] Canal 3 (Bénin)
 https://live.creacast.com/bluediamond/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0U8mci6.png" group-title="Information",Canal Local Grosbliederstroff
 https://live.creacast.com/canallocalgrosblie-ch1/smil:canallocalgrosblie-ch1.smil/playlist.m3u8
@@ -466,20 +526,24 @@ https://linear-821.frequency.stream/mt/studio/821/hls/master/playlist.m3u8
 https://linear-822.frequency.stream/mt/studio/822/hls/master/playlist.m3u8
 
 #EXTGRP:Getstreamhosting
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nb6bCgOzPFZaFiDWl24ghJcExUjNf8nP5CE2johTP_waoszi8MYLw0U5SLmSxjPBZg" group-title="Divertissement",A12 TV
-https://video1.getstreamhosting.com:1936/8250/8250/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/afromagic.png" group-title="Cinéma-Séries",Afromagic Channel
-https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/cinemax.png" group-title="Cinéma-Séries",Ciné Max
-https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/fitinitv.png" group-title="Jeunesse",Fitini TV
-https://video1.getstreamhosting.com:1936/8492/8492/playlist.m3u8
+#EXTINF:-1 tvg-logo=" ",Kajou TV
+https://video1.getstreamhosting.com:1936/8055/8055/.m3u8
 #EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/ivoirechannel.png" group-title="Divertissement",Ivoire Channel
-https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/novelachannel.png" group-title="Cinéma-Séries",Novela Channel
-https://video1.getstreamhosting.com:1936/8494/8494/playlist.m3u8
+https://video1.getstreamhosting.com:1936/8244/8244/.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nb6bCgOzPFZaFiDWl24ghJcExUjNf8nP5CE2johTP_waoszi8MYLw0U5SLmSxjPBZg" group-title="Divertissement",A12 TV
+https://video1.getstreamhosting.com:1936/8250/8250/.m3u8
+#EXTINF:-1 tvg-logo=" ",HMI Promz News
+https://video1.getstreamhosting.com:1936/8326/8326/.m3u8
+#EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/cinemax.png" group-title="Cinéma-Séries",Ciné Max
+https://video1.getstreamhosting.com:1936/8432/8432/.m3u8
 #EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/seriemax.png" group-title="Cinéma-Séries",Série Max
-https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8
+https://video1.getstreamhosting.com:1936/8446/8446/.m3u8
+#EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/afromagic.png" group-title="Cinéma-Séries",Afromagic Channel
+https://video1.getstreamhosting.com:1936/8490/8490/.m3u8
+#EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/fitinitv.png" group-title="Jeunesse",Fitini TV
+https://video1.getstreamhosting.com:1936/8492/8492/.m3u8
+#EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/novelachannel.png" group-title="Cinéma-Séries",Novela Channel
+https://video1.getstreamhosting.com:1936/8494/8494/.m3u8
 
 #EXTGRP:Infomaniak
 #EXTINF:-1 tvg-logo="https://africa24tv.com/wp-content/uploads/2021/09/logo.png" group-title="Information",Africa 24
@@ -574,47 +638,54 @@ https://streamer01.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018.m3u8
 https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
 
 #EXTGRP:Webtvmanager
-#EXTINF:-1 tvg-logo=" " group-title="Musique",Alive My TV
-https://vdo2.pro-fhi.net:3711/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://bordomediagroup.fr/wp-content/uploads/2023/03/LOGO-BORDO-TV-BLANC-RECTANGULAIRE-768x232.png" group-title="Information",Bordo TV
-https://srv.webtvmanager.fr:3463/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://bordomediagroup.fr/wp-content/uploads/2023/03/LOGO-BORDO-TV-BLANC-ET-ROUGE-RECTANGULAIRE-768x255.png" group-title="Sport",Bordo TV Sport
-https://srv.webtvmanager.fr:3225/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://www.c11.media/uploads/1/0/5/2/10528808/editor/c11-media.jpg?1694265447" group-title="Découverte",C11 Média
-https://srv.webtvmanager.fr:3508/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/mIjxnFcTNNr_IquXv3Em5DYXXOBfLq4Uuj121iv0Oe543ldjjuBFTHZAekxnk6vAIr78QzHF6A_Irij7gFM1I_OsZEVVRMjXM9tYBI8d7XVTjBDukE2_YHP_sGfdpsNLcQ=w1280" group-title="Cinéma-Séries",Canal 4
-https://vdo2.pro-fhi.net:3931/live/bvpazwtylive.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Information",Cannes Lérins TV
-https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
-#EXTINF:-1 tvg-logo="https://conceptradio.fr/wp-content/uploads/revslider/slider-1-1/logo-conceptradio-2024-blanc-01-1.png" group-title="Musique",Concept Radio
-https://srv.webtvmanager.fr:3635/stream/play.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Information",DCM TV
 https://vdo.pro-fhi.net:3060/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://dolcegroup.fr/wp-content/uploads/2019/08/cropped-cropped-Dolce-Group.png" group-title="Découverte",Dolce TV
-https://srv.webtvmanager.fr:3991/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/9siQ7vn_VYHcwRtGJW9AZa4HOmBDuuXxCFpGjeBRgfSb1qFEZ2fTJGdgQPd6Heu0OwUtYZ2caTuUimZZS7RKtsCrh8gxkuMX_KT6z8t8cpBgw_P6DixSZOD7OfoLywV17w=w1280" group-title="Cinéma-Séries",GM TV (Not 24/7)
-https://vdo3.pro-fhi.net:3931/live/unfnrwfclive.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2c7c47_68750fba00fe48a0a09d0f03e634890c~mv2.png" group-title="Information",Handicap TV
-https://srv.webtvmanager.fr:3697/stream/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Divertissement",IDF TV
-https://srv.webtvmanager.fr:3534/stream/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Jeunesse",Japanim TV
-https://foxkidstv.be:3369/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/hcpE7PeM0izqAwVCSPwfhzEdEbqyJVEh36trObdyx5qeamkJlS7_uH1cCNTrz-jgrmV_oYP1=s160-c-k-c0x00ffffff-no-rj" group-title="Musique",Master TV
-https://srv.webtvmanager.fr:3750/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/4YmRIL_nGL-TwlFaYvgjFpGyCOLYu8Fk1zzF3PdTxh1-5rOH33LT_LXmuZ_our1WqeJYFBlNOMPZTBMUt1WSkL0flTNo3aqypWTAgZ94WhmXeo8zNM3kLxwB2Ek2i7OuTQ=w1280" group-title="Cinéma-Séries",Nonos TV
-https://vdo3.pro-fhi.net:3696/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1gGz3Uw.jpg" group-title="Radios",Radio Basse-Terre
-https://vdo.ssl-stream.com:3412/stream/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Radios",Oxygène TV 974
-https://vdo.pro-fhi.net:3161/stream/play.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Musique",P2M TV
-https://vdo2.pro-fhi.net:3207/stream/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Musique",Afric 4
+https://vdo2.pro-fhi.net:3112/stream/play.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Information",Tele Paese
 https://srv.webtvmanager.fr:3118/live/viatelepaeselive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Radios",Oxygène TV 974
+https://vdo.pro-fhi.net:3161/stream/play.m3u8
+#EXTINF:-1 tvg-logo="",Eibiza Music TV
+https://srv.webtvmanager.fr:3164/stream/play.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Musique",P2M TV
+https://vdo2.pro-fhi.net:3207/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://bordomediagroup.fr/wp-content/uploads/2023/03/LOGO-BORDO-TV-BLANC-ET-ROUGE-RECTANGULAIRE-768x255.png" group-title="Sport",Bordo TV Sport
+https://srv.webtvmanager.fr:3225/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CYy4n0N.png" group-title="Information",Bénin Web TV
+https://vdo.pro-fhi.net:3244/stream/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Jeunesse",Japanim TV
+https://foxkidstv.be:3369/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1gGz3Uw.jpg" group-title="Radios",Radio Basse-Terre
+https://vdo.ssl-stream.com:3412/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://bordomediagroup.fr/wp-content/uploads/2023/03/LOGO-BORDO-TV-BLANC-RECTANGULAIRE-768x232.png" group-title="Information",Bordo TV
+https://srv.webtvmanager.fr:3463/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://www.c11.media/uploads/1/0/5/2/10528808/editor/c11-media.jpg?1694265447" group-title="Découverte",C11 Média
+https://srv.webtvmanager.fr:3508/stream/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Divertissement",IDF TV
+https://srv.webtvmanager.fr:3534/stream/play.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Cinéma-Séries",Terror TV (not 24/7)
 https://vdo2.pro-fhi.net:3594/live/rmlegahmlive.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="Information",Cannes Lérins TV
+https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
+#EXTINF:-1 tvg-logo="",Radio Extremix
+https://srv.webtvmanager.fr:3630/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://conceptradio.fr/wp-content/uploads/revslider/slider-1-1/logo-conceptradio-2024-blanc-01-1.png" group-title="Musique",Concept Radio
+https://srv.webtvmanager.fr:3635/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/4YmRIL_nGL-TwlFaYvgjFpGyCOLYu8Fk1zzF3PdTxh1-5rOH33LT_LXmuZ_our1WqeJYFBlNOMPZTBMUt1WSkL0flTNo3aqypWTAgZ94WhmXeo8zNM3kLxwB2Ek2i7OuTQ=w1280" group-title="Cinéma-Séries",Nonos TV
+https://vdo3.pro-fhi.net:3696/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2c7c47_68750fba00fe48a0a09d0f03e634890c~mv2.png" group-title="Information",Handicap TV
+https://srv.webtvmanager.fr:3697/stream/play.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Musique",Alive My TV
+https://vdo2.pro-fhi.net:3711/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/hcpE7PeM0izqAwVCSPwfhzEdEbqyJVEh36trObdyx5qeamkJlS7_uH1cCNTrz-jgrmV_oYP1=s160-c-k-c0x00ffffff-no-rj" group-title="Musique",Master TV
+https://srv.webtvmanager.fr:3750/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/mIjxnFcTNNr_IquXv3Em5DYXXOBfLq4Uuj121iv0Oe543ldjjuBFTHZAekxnk6vAIr78QzHF6A_Irij7gFM1I_OsZEVVRMjXM9tYBI8d7XVTjBDukE2_YHP_sGfdpsNLcQ=w1280" group-title="Cinéma-Séries",Canal 4
+https://vdo2.pro-fhi.net:3931/live/bvpazwtylive.m3u8
+#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/9siQ7vn_VYHcwRtGJW9AZa4HOmBDuuXxCFpGjeBRgfSb1qFEZ2fTJGdgQPd6Heu0OwUtYZ2caTuUimZZS7RKtsCrh8gxkuMX_KT6z8t8cpBgw_P6DixSZOD7OfoLywV17w=w1280" group-title="Cinéma-Séries",GM TV (Not 24/7)
+https://vdo3.pro-fhi.net:3931/live/unfnrwfclive.m3u8
+#EXTINF:-1 tvg-logo="https://dolcegroup.fr/wp-content/uploads/2019/08/cropped-cropped-Dolce-Group.png" group-title="Découverte",Dolce TV
+https://srv.webtvmanager.fr:3991/stream/play.m3u8
 
 
 
