@@ -182,6 +182,8 @@ https://tvradiozap.eu/tools/dm.m3u8.php/x7tn4fp.m3u8
 https://tvradiozap.eu/tools/dm.m3u8.php/x5gv5rr.m3u8
 #EXTINF:-1 tvg-logo="https://s2.dmcdn.net/u/1Ew071cTOAFfl4S5U/120x120" group-title="Général",Canal+
 https://tvradiozap.eu/tools/dm.m3u8.php/x5gv6be.m3u8
+#EXTINF:-1 tvg-logo="https://s2.dmcdn.net/u/1Ew071cTOAFfl4S5U/120x120" group-title="TNT",[902] Canal 2 International 
+https://tvradiozap.eu/tools/dm.m3u8.php/x8t0282.m3u8
 #EXTINF:-1 tvg-logo="https://s2.dmcdn.net/u/DhmL1btmnDMUouYA/120x120" group-title="Information",CNews
 https://tvradiozap.eu/tools/dm.m3u8.php/x3b68jn.m3u8
 #EXTINF:-1 tvg-logo="https://s2.dmcdn.net/u/28r9J1U75b5laEW66/120x120" group-title="TNT",[017] CStar
