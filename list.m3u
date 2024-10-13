@@ -368,19 +368,19 @@ https://vdopanel.infocomwebservices.com:3840/stream/play.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Nostelevision",Terror TV (not 24/7)
 https://vdo2.pro-fhi.net:3594/live/rmlegahmlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/a12tv.png" group-title="Redmedia",A12 TV
+#EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/a12tv.png" group-title="Channelsat",A12 TV
 https://video1.getstreamhosting.com:1936/8250/8250/.m3u8
-#EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/afromagic.png" group-title="Redmedia",Afromagic Channel
+#EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/afromagic.png" group-title="Channelsat",Afromagic Channel
 https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/cinemax.png" group-title="Redmedia",Ciné Max
+#EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/cinemax.png" group-title="Channelsat",Ciné Max
 https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/fitinitv.png" group-title="Redmedia",Fitini TV
+#EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/fitinitv.png" group-title="Channelsat",Fitini TV
 https://video1.getstreamhosting.com:1936/8492/8492/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/ivoirechannel.png" group-title="Redmedia",Ivoire Channel
+#EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/ivoirechannel.png" group-title="Channelsat",Ivoire Channel
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/novelachannel.png" group-title="Redmedia",Novela Channel
+#EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/novelachannel.png" group-title="Channelsat",Novela Channel
 https://video1.getstreamhosting.com:1936/8494/8494/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/seriemax.png" group-title="Redmedia",Série Max
+#EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/seriemax.png" group-title="Channelsat",Série Max
 https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="Sony One",Sony One Blacklist
