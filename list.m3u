@@ -446,7 +446,7 @@ https://srv.webtvmanager.fr:3225/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y94bhqX.jpg" group-title="Divers",Brionnais TV
 https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s2.dmcdn.net/u/8W2l91Z1sf6jI2bLO/120x120" group-title="Divers",BSmart
-https://tvradiozap.eu/tools/dm.m3u8.php/x7tn4fp.m3u8
+https://tvradiozap.eu/tools/dm-m3u8.php/x7tn4fp.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zZFl3vy.png" group-title="Divers",Business 24 
 https://cdn-globecast.akamaized.net/live/eds/business24_tv/hls_video/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.c11.media/uploads/1/0/5/2/10528808/editor/c11-media.jpg?1694265447" group-title="Divers",C11 Média
