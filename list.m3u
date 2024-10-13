@@ -52,7 +52,7 @@ https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-112.png" group-title="TNT",LCI
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/lci.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-2111.png" group-title="TNT",Franceinfo
-https://tvradiozap.eu/tools/dm.m3u8.php/x4rdeu6.m3u8
+https://tvradiozap.eu/tools/dm-m3u8.php/x4rdeu6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m5E2VP0.png" group-title="TNT",ETV (Guadeloupe)
 https://etvgp.vedge.infomaniak.com/livecast/etvgp/.m3u8
 #EXTINF:-1 tvg-logo="https://television.telerama.fr/chaine/viaatv-martinique" group-title="TNT",viàATV
