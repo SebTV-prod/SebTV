@@ -167,7 +167,7 @@ https://tvlocales-live.freecaster.com/95d2f480-3c9f-48ba-ba4e-af64b58431ef/95d2f
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJdY1m3.png" group-title="Régionales",Albi TV
 https://live.creacast.com/albi-tv-ch1/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s1.dmcdn.net/u/4dvD01cIGb6U8DkhT/120x120" group-title="Régionales",Angers Télé
-https://tvradiozap.eu/tools/dm.m3u8.php/x8r7256.m3u8
+https://tvradiozap.eu/tools/dm-m3u8.php/x8r7256.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-524.png" group-title="Régionales",BFM Régions (Alsace)
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-116.png" group-title="Régionales",BFM Régions (Lyon-Métropole)
@@ -199,7 +199,7 @@ https://new.cache-stream.workers.dev/stream/UCQC0xLG_W0QpqAXQ4-yhwBA/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.tebeo.bzh/wp-content/uploads/2023/05/groupe-logo.png" group-title="Régionales",Tébéo
 https://lives.digiteka.com/stream/e0fe6433-554e-4568-9a7e-31969136d8ff/index.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-491.png" group-title="Régionales",Télénantes
-https://tvradiozap.eu/tools/dm.m3u8.php/x5so98l.m3u8
+https://tvradiozap.eu/tools/dm-m3u8.php/x5so98l.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/02af62c8-463c-4b9a-9833-a4cd83a79268-profile_image-150x150.png" group-title="Régionales",TL7 (Télévision Loire 7)
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/TL7.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Régionales",viàOccitanie
