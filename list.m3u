@@ -829,11 +829,13 @@ https://strhlslb01.streamakaci.tv/str_tvfinance_tvfinance/str_tvfinance_multi/pl
 https://tvm3.vedge.infomaniak.com/livecast/tvm3/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://s1.dmcdn.net/u/4CFDy1a3DhO7zSO3N/120x120" group-title="Divers",Ubiznews-OM5TV
 https://tvradiozap.eu/tools/dm-m3u8.php/x8dicii.m3u8
+#EXTINF:-1 tvg-logo="https://ritsatv.ru/POSTERS/tmf.jpg" group-title="Divers",TMF Rus
+http://195.9.195.3:8080/hls/201891.m3u8
 #EXTINF:-1 tvg-logo="https://vdo.pro-fhi.net/uploads/directorylists/kbawbfec.jpg" group-title="Divers",UTV (Underground TV)
 https://vdo.pro-fhi.net:3744/stream/play.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Divers",Valloire TV
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/ValloireTV.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Divers",VIVA Russia
+#EXTINF:-1 tvg-logo="https://ritsatv.ru/POSTERS/viva.jpg" group-title="Divers",VIVA Russia
 https://glb.bozztv.com/glb/ssh101/vivarussia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s1.dmcdn.net/u/7b6Yk1c9_jguZrk2L/120x120" group-title="DAB+",AraBel
