@@ -521,10 +521,12 @@ https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceTVDocs.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceTVSeries.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/5f/Image_bfm2.png" group-title="Information",BFM 2
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/imgrectangle10920BFMGrandsreportages.jpg" group-title="Information",BFM Grands Reportages
+#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/imgrectangle10920BFMGrandsreportages.jpg" group-title="Découverte",BFM Grands Reportages
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD39000064E_20241015T040149SQUARE.png" group-title="Découverte",100% Docs
 https://jmp2.uk/sam-FRBD39000064E.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Information",Africanews (Français)
+https://euronews-africanews-french-1-fr.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD3900001QP_20241015T040203SQUARE.png" group-title="Cinéma",Allociné
 https://jmp2.uk/sam-FRBD3900001QP.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100001ZA_20241017T163723SQUARE.png" group-title="Jeunesse",ADN
@@ -561,11 +563,11 @@ https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
 https://jmp2.uk/sam-FRBC4000001IO.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1200001N2_20241015T040252SQUARE.png" group-title="Découverte",Doc Story
 https://jmp2.uk/sam-FR1200001N2.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD3600001BQ_20241015T040258SQUARE.png" group-title="Information",Drive TV
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD3600001BQ_20241015T040258SQUARE.png" group-title="Sport",Drive TV
 https://jmp2.uk/sam-FRBD3600001BQ.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3500002E4_20241015T040301SQUARE.png" group-title="Découverte",Échappées Belles & Co
 https://jmp2.uk/sam-FRBC3500002E4.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC900001LB_20241015T040425SQUARE.png" group-title="Information",Émotion
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC900001LB_20241015T040425SQUARE.png" group-title="Musique",Émotion
 https://jmp2.uk/sam-FRBC900001LB.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB340000115_20241015T035931SQUARE.png" group-title="Cinéma",Emotion'L
 https://jmp2.uk/sam-FRBB340000115.m3u8
@@ -719,7 +721,7 @@ https://jmp2.uk/sam-FR300006GF.m3u8
 https://jmp2.uk/sam-FRBD41000097I.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300005WY_20241015T042807SQUARE.png" group-title="Information",RMC Talk Info
 https://jmp2.uk/sam-FR300005WY.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300007IY_20241015T042809SQUARE.png" group-title="Information",RMC Talk Sport
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300007IY_20241015T042809SQUARE.png" group-title="Sport",RMC Talk Sport
 https://jmp2.uk/sam-FR300007IY.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300005WY_20241015T042807SQUARE.png" group-title="Découverte",RMC Wow
 https://jmp2.uk/sam-FR300001M1.m3u8
@@ -743,7 +745,7 @@ https://jmp2.uk/sam-FRBC9000041F.m3u8
 https://jmp2.uk/sam-FRBA330002044.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800004EP_20241015T160012SQUARE.png" group-title="Découverte",TV5 Monde Voyage
 https://jmp2.uk/sam-FR1800004EP.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA2200008H8_20241015T040103SQUARE.png" group-title="Information",Univers Ciné
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA2200008H8_20241015T040103SQUARE.png" group-title="Cinéma",Univers Ciné
 https://jmp2.uk/sam-FRBA2200008H8.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3600005C7_20241022T051726SQUARE.png" group-title="Découverte",Voyages & Saveurs
 https://jmp2.uk/sam-FR3600005C7.m3u8
@@ -803,8 +805,16 @@ https://jmp2.uk/sam-ITBC400005TF.m3u8
 https://jmp2.uk/sam-ITBD600001CL.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100001G5_20241023T143329SQUARE.png" group-title="Cinéma",Chili - Alta Tensione
 https://jmp2.uk/sam-ITBC1100001G5.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cinéma",Chili - Buonumore
+https://chili-chilibuonumore-1-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cinéma",Chili - Indimenticabili
+https://chili-chiliindimenticabili-1-it.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100003KC_20241022T051626SQUARE.png" group-title="Cinéma",Chili - Grandi Nomi
 https://jmp2.uk/sam-ITBC1100003KC.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC11000108G_20241022T051632SQUARE.png" group-title="Musique",Chili - Hip-Hop TV
+https://jmp2.uk/sam-ITBC11000108G.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100011RK_20241022T043817SQUARE.png" group-title="Musique",Chili - Rock TV
+https://jmp2.uk/sam-ITBC1100011RK.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100002ZU_20241022T043826SQUARE.png" group-title="Cinéma",Chili - Smile
 https://jmp2.uk/sam-ITBC1100002ZU.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC11000047F_20241022T043920SQUARE.png" group-title="Cinéma",Chili - Velvet
@@ -821,8 +831,6 @@ https://jmp2.uk/sam-ITBB20000072M.m3u8
 https://jmp2.uk/sam-ITAJ4500023ZX.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBB5000002N0_20241022T051621SQUARE.png" group-title="Radio",Giornale Radio
 https://jmp2.uk/sam-ITBB5000002N0.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC11000108G_20241022T051632SQUARE.png" group-title="Musique",Hip-Hop TV
-https://jmp2.uk/sam-ITBC11000108G.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT600001L6_20241022T051638SQUARE.png" group-title="Style de Vie",Italian Fishing TV
 https://jmp2.uk/sam-IT600001L6.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1500002NL_20241022T051646SQUARE.png" group-title="Général",La 7
@@ -841,8 +849,6 @@ https://jmp2.uk/sam-ITBD2300001MT.m3u8
 https://jmp2.uk/sam-ITBC1100008L4.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD140000119_20241023T143320SQUARE.png" group-title="Divertissement",Risate Cult '80
 https://jmp2.uk/sam-ITBD140000119.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100011RK_20241022T043817SQUARE.png" group-title="Musique",Rock TV
-https://jmp2.uk/sam-ITBC1100011RK.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA2200010O1_20241022T043601SQUARE.png" group-title="Sport",Sportitalia Plus
 https://jmp2.uk/sam-ITBA2200010O1.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700002CO_20241022T043828SQUARE.png" group-title="Sport",Sportitalia - Solocalcio
@@ -882,7 +888,7 @@ https://jmp2.uk/sam-USBA370000104.m3u8
 https://jmp2.uk/sam-GBBD8000016N.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900008O3_20240827T040502SQUARE.png" group-title="Information",CNN FAST
 https://jmp2.uk/sam-GBBD1900008O3.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2500002K0_20240911T172523SQUARE.png" group-title="Information",Cool Summer Channel
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2500002K0_20240911T172523SQUARE.png" group-title="Musique",Cool Summer Channel
 https://jmp2.uk/sam-GB2500002K0.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA14000028T_20240702T044804SQUARE.png" group-title="Style de Vie",CTV @Home
 https://jmp2.uk/sam-CA14000028T.m3u8
@@ -918,8 +924,14 @@ https://jmp2.uk/sam-CA1400001PI.m3u8
 https://jmp2.uk/sam-CABC2300008J0.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB1500004LG_20240821T152347SQUARE.png" group-title="Information",NBC News NOW
 https://jmp2.uk/sam-GBBB1500004LG.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/NOW_70s_%28on-screen%29.png/revision/latest?cb=20200603140756" group-title="Musique",Now 70's
+https://lightning-now70s-xiaomi.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/NOW_80s.png/revision/latest?cb=20180102212624" group-title="Musique",Now 80's
+https://lightning-now80s-xiaomi.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900003B2_20220914T041027SQUARE.png_20220914041027.png" group-title="Musique",Now 80's
 https://jmp2.uk/sam-GBBC900003B2.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/NOW_Rock.png/revision/latest?cb=20221227132922" group-title="Musique",Now Rock
+https://lightning-now90s-xiaomi.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1700001QB_20241022T004910SQUARE.png" group-title="Divertissement",PBS Antiques Roadshow
 https://jmp2.uk/sam-CABD1700001QB.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC430000128_20241023T143705SQUARE.png" group-title="Jeunesse",POP
