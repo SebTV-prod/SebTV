@@ -128,6 +128,10 @@ https://jmp2.uk/sam-FR3600005C7.m3u8
 https://jmp2.uk/sam-FR3200001NQ.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Découverte",[1040] El 33 
 https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Découverte",[1041] CCMA FAST Canal 1
+https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel1/hls/2.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Découverte",[1042] CCMA FAST Canal 2
+https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel1/hls/2.m3u8
 
 ## INFORMATION ##
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-481.png" group-title="Information",[60] BFM TV
