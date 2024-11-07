@@ -128,6 +128,8 @@ https://live.creacast.com/telemelody/smil:telemelody-211112.smil/master.m3u8
 http://195.9.195.3:8080/hls/201891.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_TVM3_2015.png" group-title="Musique",TVM 3
 https://tvm3.vedge.infomaniak.com/livecast/tvm3/manifest.m3u8
+#EXTINF:-1 tvg-id="VH1.HDTV.(East).(VH1HD).us" tvg-name="VH1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="Musique",VH1
+https://v5.thetvapp.to/hls/VH1East/index.m3u8?token=cEJFQ1g2aUt5SklYT0QwSmxNS2FYazhxWGlDcXRaRFowdXFWT08xZA==
 #EXTINF:-1 tvg-logo="https://ritsatv.ru/POSTERS/viva.jpg" group-title="Musique",VIVA Russia
 https://s.catcast.tv/content/39575/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/atlgnum.png" group-title="Régionales",Cannes Lérins TV
