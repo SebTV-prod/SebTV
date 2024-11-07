@@ -26,6 +26,8 @@ https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 https://hls-m010-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-ios-fhd-clair/cnews-clair-hd.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-458.png" group-title="TNT",CStar
 https://tvradiozap.eu/tools/dm-m3u8.php/x5gv5v0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m5E2VP0.png" group-title="TNT",ETV - Éclair TV
+https://etvgp.vedge.infomaniak.com/livecast/etvgp/.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-2111.png" group-title="TNT",France Info
 https://tvradiozap.eu/tools/dm-m3u8.php/x4rdeu6.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1401.png" group-title="TNT",L'Equipe
