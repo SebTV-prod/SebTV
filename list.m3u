@@ -1,7 +1,9 @@
 #EXTM3U
 ## TNT ##
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-701.png" group-title="TNT",20 Minutes TV
-https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
+https://live-20minutestv.digiteka.com/1961167769/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Logo_antenne_reunion_hd.jpg" group-title="TNT",Antenne Réunion
+https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-111.png" group-title="TNT",ARTE (France)
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-481.png" group-title="TNT",BFM TV
@@ -44,6 +46,8 @@ https://bcovlive-a.akamaihd.net/329d54c0bae445ff8dc85b8a91da0308/us-west-2/61016
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV_Monaco_logo.png" group-title="TNT",TV Monaco
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
+#EXTINF:-1 tvg-logo="https://television.telerama.fr/chaine/viaatv-martinique" group-title="TNT",viàATV
+https://streamer01.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018.m3u8
 
 ## THÉMATIQUES ##
 #EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/cinemax.png" group-title="Cinéma",Ciné Max
@@ -52,6 +56,10 @@ https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8
 https://jmp2.uk/sam-CA1400008DK.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA2200008H8_20241015T040103SQUARE.png" group-title="Cinéma",Univers Ciné
 https://jmp2.uk/sam-FRBA2200008H8.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300064WS_20241015T035833SQUARE.png" group-title="Culture",Bel Air TV
+https://jmp2.uk/sam-FRBA3300064WS.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WbjURLo.png" group-title="Culture",Museum TV
+https://live.creacast.com/museum-france/smil:museum-france.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD39000064E_20241015T040149SQUARE.png" group-title="Découverte",100% Docs
 https://jmp2.uk/sam-FRBD39000064E.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3200001NQ_20241015T040214SQUARE.png" group-title="Découverte",BBC Earth
@@ -72,6 +80,8 @@ https://jmp2.uk/sam-FRBB4900002D4.m3u8
 https://jmp2.uk/sam-FR300006GF.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300005WY_20241015T042807SQUARE.png" group-title="Découverte",RMC Wow
 https://jmp2.uk/sam-FR300001M1.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB49000059E_20230614T005617SQUARE.png_20230614005618.png" group-title="Découverte",Tahiti TV
+https://jmp2.uk/SamsungTVPlus/FRBB49000059E.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800004EP_20241015T160012SQUARE.png" group-title="Découverte",TV5 Monde Voyage
 https://jmp2.uk/sam-FR1800004EP.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoPNG.png" group-title="Divertissement",MTV Classics
@@ -92,10 +102,6 @@ https://jmp2.uk/sam-FR300005WY.m3u8
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/fitinitv.png" group-title="Jeunesse",Fitini TV
 https://video1.getstreamhosting.com:1936/8492/8492/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3900003ZH_20241015T040355SQUARE.png" group-title="Jeunesse",MGG FAST
-https://jmp2.uk/sam-FRBC3900003ZH.m3u8
-#EXTINF:-1 tvg-logo="https://s2.dmcdn.net/u/7fiM11W1elfKAeKOR/120x120" group-title="Jeunesse",N31
-https://tvradiozap.eu/tools/dm-m3u8.php/x6nkjg1.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300018I9_20241017T163753SQUARE.png" group-title="Jeunesse",Xilam TV
 https://jmp2.uk/sam-FRBA3300018I9.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB1900001FA_20241015T035901SQUARE.png" group-title="Musique",Clubbing TV
@@ -112,6 +118,12 @@ http://195.9.195.3:8080/hls/201891.m3u8
 https://tvm3.vedge.infomaniak.com/livecast/tvm3/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://ritsatv.ru/POSTERS/viva.jpg" group-title="Musique",VIVA Russia
 https://s.catcast.tv/content/39575/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uKaToAi.png" group-title="Religion",Dieu TV
+https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/883phd1/ktook.png" group-title="Religion",KTO
+https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
+#EXTINF:-1 tvg-logo="https://tvfamille.org/website/images/logo/tv_famille_logo_2019_square_75px.png" group-title="Religion",TV Famille
+https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60d35a74c63c3c0008df6a90/colorLogoPNG.png" group-title="Séries",BBC Drama
 https://jmp2.uk/plu-60d35a74c63c3c0008df6a90.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4700001XG_20241015T040313SQUARE.png" group-title="Séries",Générations Sitcoms
@@ -134,20 +146,40 @@ https://jmp2.uk/sam-FR30000271.m3u8
 https://jmp2.uk/sam-FR360000680.m3u8
 #EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/seriemax.png" group-title="Séries",Série Max
 https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD3600001BQ_20241015T040258SQUARE.png" group-title="Sport",Drive TV
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD3600001BQ_20241015T040258SQUARE.png" group-title="Sport et Loisirs",Drive TV
 https://jmp2.uk/sam-FRBD3600001BQ.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200004XH_20241015T040323SQUARE.png" group-title="Sport",L'Equipe Live 1
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200004XH_20241015T040323SQUARE.png" group-title="Sport et Loisirs",L'Equipe Live 1
 https://jmp2.uk/sam-FRBC4200004XH.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200005X2_20241015T040327SQUARE.png" group-title="Sport",L'Equipe Live 2
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200005X2_20241015T040327SQUARE.png" group-title="Sport et Loisirs",L'Equipe Live 2
 https://jmp2.uk/sam-FRBC4200005X2.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300003ZB_20241015T042802SQUARE.png" group-title="Sport",RMC Mecanic
+#EXTINF:-1 tvg-logo="https://www.mondeduloisir.fr/wp-content/uploads/2016/07/Logo3_URL_Slogan_Noir_MICRO.png" group-title="Sport et Loisirs",MDL
+https://5f5ef28097114.streamlock.net/tixtv/smil:web.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3900003ZH_20241015T040355SQUARE.png" group-title="Sport et Loisirs",MGG FAST
+https://jmp2.uk/sam-FRBC3900003ZH.m3u8
+#EXTINF:-1 tvg-logo="https://s2.dmcdn.net/u/7fiM11W1elfKAeKOR/120x120" group-title="Sport et Loisirs",N31
+https://tvradiozap.eu/tools/dm-m3u8.php/x6nkjg1.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300003ZB_20241015T042802SQUARE.png" group-title="Sport et Loisirs",RMC Mecanic
 https://jmp2.uk/sam-FR300003ZB.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300007IY_20241015T042809SQUARE.png" group-title="Sport",RMC Talk Sport
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300007IY_20241015T042809SQUARE.png" group-title="Sport et Loisirs",RMC Talk Sport
 https://jmp2.uk/sam-FR300007IY.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wVCxf9s.png" group-title="Sport",Rugby Zone.TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wVCxf9s.png" group-title="Sport et Loisirs",Rugby Zone.TV
 https://lte.wiseplayout.com/WiseM3U8_19/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.ffsnw.fr/wp-content/uploads/2022/04/logo-Sport-en-France.jpg" group-title="Sport",Sport En France
+#EXTINF:-1 tvg-logo="https://www.ffsnw.fr/wp-content/uploads/2022/04/logo-Sport-en-France.jpg" group-title="Sport et Loisirs",Sport En France
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+#EXTINF:-1 tvg-logo="https://s2.dmcdn.net/u/7fiM11W1elfKAeKOR/120x120" group-title="Style de Vie",Maison & Travaux TV
+https://tvradiozap.eu/tools/dm-m3u8.php/x85e5l8.m3u8
+#EXTINF:-1 tvg-logo="https://s1.dmcdn.net/u/291mU1SxJRhmNVsDY/120x120" group-title="Style de Vie",Men's Up TV
+https://tvradiozap.eu/tools/dm-m3u8.php/x2kr3hs.m3u8
+#EXTINF:-1 tvg-id="MyZenTV.fr" tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title="Style de Vie",My Zen TV
+https://live.creacast.com/myzentv-france/smil:myzentv-france.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://superyacht.tv/media/cache/header_main_logo/bundles/app/img/logo.png" group-title="Style de Vie",SuperYacht.TV
+https://sy.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD26000031Q_20241015T042859SQUARE.png" group-title="Style de Vie",Top Santé TV
+https://jmp2.uk/sam-FRBD26000031Q.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300063FP_20241015T040118SQUARE.png" group-title="Style de Vie",Wellbeing TV
+https://jmp2.uk/sam-FRBA3300063FP.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T3r1khc.png" group-title="Téléachat",Juwelo (Français)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/84793/84793_264_live.m3u8?latency=low
 
 ## RADIOS ##
 #EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/bel-rtl-logo-png-transparent.png" group-title="Radios",bel RTL
@@ -178,6 +210,8 @@ https://tvradiozap.eu/tools/dm-m3u8.php/x8g9lfe.m3u8
 https://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiocontact.be/app/themes/radiocontact/static/assets/images/logo@2x.png" group-title="Radios",Radio Contact
 https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://s2.dmcdn.net/u/9W8_b1cZDqLPONgnA/120x120" group-title="Radios",Radio Espérance
+https://tvradiozap.eu/tools/dm-m3u8.php/x7zhm.m3u8
 #EXTINF:-1 tvg-logo="https://srv.webtvmanager.fr/uploads/directorylists/vtujxygn.png" group-title="Radios",Radio Extremix
 https://srv.webtvmanager.fr:3630/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://s1.dmcdn.net/u/Akh2E1cmmwvEbVYj7/120x120" group-title="Radios",Radio Karaoké
