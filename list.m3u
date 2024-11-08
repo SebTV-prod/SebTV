@@ -268,6 +268,8 @@ https://jmp2.uk/sam-FRBC4200004XH.m3u8
 https://jmp2.uk/sam-FRBC4200005X2.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/lachainevaroise.com/wp-content/uploads/2023/07/cropped-cropped-Logo_LCV_couleurs-Horinzontal-02-01-01.png?w=350&ssl=1" group-title="Thématiques|Français",La Chaîne Varoise
 https://lachainevaroise.vedge.infomaniak.com/livecast/lachainevaroise/.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_officiel_Journal_du_Golf.png/225px-Logo_officiel_Journal_du_Golf.png" group-title="Thématiques|Français",Le Journal du Golf TV
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/jdg-tv/jdg-tv.m3u8
 #EXTINF:-1 tvg-logo="https://images.lesindesradios.fr/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/littoral/images/logo_XVXnlAO28F.png" group-title="Thématiques|Français",Littoral TV
 https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nR2HsVr/ln24.png" group-title="Thématiques|Français",LN24
