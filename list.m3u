@@ -70,9 +70,9 @@ https://etvgp.vedge.infomaniak.com/livecast/etvgp/.m3u8
 https://bcovlive-a.akamaihd.net/329d54c0bae445ff8dc85b8a91da0308/us-west-2/6101674910001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Logo_antenne_reunion_hd.jpg" group-title="TNT|Français",[200] Antenne Réunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="TNT|Français",[201] RTI 1
+#EXTINF:-1 tvg-logo="https://rti.ci/_nuxt/img/6a12f31.svg" group-title="TNT|Français",[201] RTI 1
 http://69.64.57.208/atv/playlist.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="TNT|Français",[202] RTI 2
+#EXTINF:-1 tvg-logo="https://rti.ci/_nuxt/img/6d85e57.svg" group-title="TNT|Français",[202] RTI 2
 http://69.64.57.208/atv/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TNT|Français",[203] La 3
 http://69.64.57.208/atv/playlist.m3u8
@@ -90,6 +90,10 @@ https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
 https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TNT|Français",[232] Canal 2 International
 https://tvradiozap.eu/tools/dm-m3u8.php/x8t0282.m3u8
+#EXTINF:-1 tvg-logo="https://images.seneweb.com/dynamic/modules/news/images/gen/fb/e6bfc33a577a2ed73e7014d1537b65ce623c2bcf.jpg" group-title="TNT|Français",[246] TFM
+https://tvradiozap.eu/tools/dm-m3u8.php/x7wcr45.m3u8
+#EXTINF:-1 tvg-logo="https://gabon24.tv/wp-content/uploads/2023/02/LOGO_2-e1675877413242.png" group-title="TNT|Français",[299] Gabon 24
+https://tvradiozap.eu/tools/yt-m3u8.php/@tvgabon24.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Logo_Angers_T%C3%A9l%C3%A9_%282023%29.png" group-title="TNT|Français",[300] Angers Télé
 https://tvradiozap.eu/tools/dm-m3u8.php/x8r7256.m3u8
 #EXTINF:-1 tvg-logo="https://images.bfmtv.com/1ebczxrFED3yTu3d4I4gKVg6Hf4=/0x0:0x0/800x0/site_manager_images/image_contenu9_nav_pastilles_1623851237615_1656410376249.jpg" group-title="TNT|Français",[301] BFM Régions (Alsace)
@@ -332,6 +336,8 @@ https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/saga-de-lete.m3u8
 https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.ffsnw.fr/wp-content/uploads/2022/04/logo-Sport-en-France.jpg" group-title="Thématiques|Français",Sport En France
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+#EXTINF:-1 tvg-logo="https://tvradiozap.eu/tv/logos/starnovelas.jpeg" group-title="Thématiques|Français",Stars+ Novelas
+https://helga.iptv2022.com/Stars_Novelas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://superyacht.tv/media/cache/header_main_logo/bundles/app/img/logo.png" group-title="Thématiques|Français",SuperYacht.TV
 https://sy.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB49000059E_20230614T005617SQUARE.png_20230614005618.png" group-title="Thématiques|Français",Tahiti TV
