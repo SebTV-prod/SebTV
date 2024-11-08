@@ -70,12 +70,20 @@ https://etvgp.vedge.infomaniak.com/livecast/etvgp/.m3u8
 https://bcovlive-a.akamaihd.net/329d54c0bae445ff8dc85b8a91da0308/us-west-2/6101674910001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Logo_antenne_reunion_hd.jpg" group-title="TNT|Français",[200] Antenne Réunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TNT|Français",[201] RTI 1
+http://69.64.57.208/atv/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TNT|Français",[202] RTI 2
+http://69.64.57.208/atv/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TNT|Français",[203] La 3
+http://69.64.57.208/atv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://nci.ci/assets/images/logo_nci.png" group-title="TNT|Français",[204] NCI
 https://pixa.cdn.easybroadcast.fr/nci/nci.isml/nci-audio_fre=128000-video=2500000.m3u8
 #EXTINF:-1 tvg-logo="https://tvradiozap.eu/tv/logos/a+ivoire.png" group-title="TNT|Français",[205] A+ Ivoire
 http://69.64.57.208/atv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lifetv.ci/wp-content/uploads/2023/07/logo.png" group-title="TNT|Français",[206] Life TV
 https://strhls.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/str_lifetv_lifetv/str_lifetv_1080p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://reflet.tv/wp-content/uploads/2022/12/Logo_RTV.svg" group-title="TNT|Français",[208] Reflet TV
+https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/video_10801920_p_0.m3u8
 #EXTINF:-1 tvg-logo="https://srtb.bj/storage/2020/02/logo2-1.png" group-title="TNT|Français",[211] ORTB
 https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TNT|Français",[212] Ado TV
