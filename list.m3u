@@ -26,7 +26,7 @@ https://tvradiozap.eu/tools/dm-m3u8.php/xgepjr.m3u8
 https://tvradiozap.eu/tools/dm-m3u8.php/xkxbzc.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-78.png" group-title="TNT|Français",[14] France 4
 https://github.com/Sibprod/streams/raw/refs/heads/main/ressources/ftv/py/France4.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-481.png" group-title="TNT|Français" [15] BFM TV
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-481.png" group-title="TNT|Français",[15] BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-226.png" group-title="TNT|Français",[16] CNews
 https://hls-m010-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-ios-fhd-clair/cnews-clair-hd.m3u8
