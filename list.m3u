@@ -216,12 +216,18 @@ https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS/Live.m3u8
 https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Telenord.it" tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/telenord_it.png" group-title="TNT|Italien",[11] Telenord
 https://5f22d76e220e1.streamlock.net/telenord/telenord/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.teleradiopace.tv/wp-content/uploads/2024/02/TELERADIOPACE1.png" group-title="TNT|Italien",[12] Teleradiopace 1
+https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://netweek.it/wp-content/uploads/2024/05/telecity_logo_ok2.jpg" group-title="TNT|Italien",[13] Telecity
 https://64b16f23efbee.streamlock.net/telecitypiemonte/telecitypiemonte/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NZJi7mm.png" group-title="TNT|Italien",[14] Telegenova
 https://64b16f23efbee.streamlock.net/telegenova/telegenova/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OxgSGUW.png" group-title="TNT|Italien",[15] TLS - Tele Liguria Sud
 https://64b16f23efbee.streamlock.net/teleliguriasud/teleliguriasud/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.telecolor.net/wp-content/uploads/2023/01/logo-Telecolor2023.png" group-title="TNT|Italien",[17] Telecolor
+https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canaleitalia.it/wp-content/uploads/2022/06/logo-canale-italia-streaming.png" group-title="TNT|Italien",[18] Canale Italia
+https://liveac115.b-cdn.net/canale1.smil/chunklist_b1100000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Logo_Telecupole.jpg/260px-Logo_Telecupole.jpg" group-title="TNT|Italien",[19] Telecupole (Liguria)
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/TelecupoleLiguria.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv2000.png" group-title="TNT|Italien",[28] TV2000
@@ -237,6 +243,8 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/p
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tgcom24.png" group-title="TNT|Italien",[51] TGCom 24 
 https://ilglobotv-live.global.ssl.fastly.net/TGCOM24/Live.m3u8
+#EXTINF:-1 tvg-logo="https://casaitalia.tv/wp-content/uploads/2019/05/logo-1400x518.png" group-title="TNT|Italien",[53] Casa Italia 
+https://liveac115.b-cdn.net/canale3.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.it/wp-content/uploads/2024/02/si_hd.png" group-title="TNT|Italien",[60] Sportitalia 
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.grupposciscione.it/wp-content/uploads/2024/02/LOGO-TRAVEL-1080x650-1.png" group-title="TNT|Italien",[61] Travel TV
@@ -263,10 +271,20 @@ https://stream4.xdevel.com/video0s975758-473/stream/playlist.m3u8
 https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.radio104.it/wp-content/uploads/2020/08/cropped-LOGO-RADIO-104-LIKE-IT-NERO-rid.png" group-title="TNT|Italien",[77] Radio 104
 https://57068da1deb21.streamlock.net/radio104/radio104/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.teleradiopace.tv/wp-content/uploads/2024/02/TELERADIOPACE3.png" group-title="TNT|Italien",[78] Teleradiopace 3
+https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://tv.techfiji.com/wp-content/uploads/2024/08/4Bx2321.png" group-title="TNT|Italien",[79] Primantenna TV
+https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/luna-tv-it.png" group-title="TNT|Italien",[81] Luna TV
 https://5f22d76e220e1.streamlock.net/lunatv/lunatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.techfiji.com/wp-content/uploads/2024/08/3CDxatu.png" group-title="TNT|Italien",[84] Radio Yes TV
+https://stream1.aswifi.it/radioyes/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.teleradiopace.tv/wp-content/uploads/2024/02/TELERADIOPACE2.png" group-title="TNT|Italien",[85] Radiotelepace 2
+https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.111tv.it/wp-content/uploads/2021/03/cropped-111-TV-verde-con-scritta-trasparente.png" group-title="TNT|Italien",[111] 111 TV
 https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.techfiji.com/wp-content/uploads/2024/08/fOluzuE.png" group-title="TNT|Italien",[122] Cusano Italia TV
+https://stream9.xdevel.com/video0s975363-69/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TNT|Italien",[123] Italia Channel
 https://stream1.aswifi.it/italiachannel/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/padrepiotv.png" group-title="TNT|Italien",[145] Padre Pio TV
