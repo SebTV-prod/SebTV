@@ -230,6 +230,8 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?start=LIVE&end=END
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/imgrectangle10920BFMGrandsreportages.jpg" group-title="Thématiques|Français",BFM Grands Reportages
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://bx1.be/wp-content/themes/BX1-2017/img/logo.png" group-title="Thématiques|Français",BX1
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/atlgnum.png" group-title="Thématiques|Français",Cannes Lérins TV
 https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
 #EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/cinemax.png" group-title="Thématiques|Français",Ciné Max
