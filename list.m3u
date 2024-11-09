@@ -224,12 +224,93 @@ https://64b16f23efbee.streamlock.net/telegenova/telegenova/playlist.m3u8
 https://64b16f23efbee.streamlock.net/teleliguriasud/teleliguriasud/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Logo_Telecupole.jpg/260px-Logo_Telecupole.jpg" group-title="TNT|Italien",[19] Telecupole (Liguria)
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/TelecupoleLiguria.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv2000.png" group-title="TNT|Italien",[28] TV2000
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.tivu.tv/_common/images/loghi_epg/logo_73.png" group-title="TNT|Italien",[29] La 7d
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/qvc.png" group-title="TNT|Italien",[32] QVC
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+#EXTINF:-1 tvg-id="RTL102.5TV.it" tvg-chno="36" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtl1025tv.png" group-title="TNT|Italien",[36] RTL 102.5
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rainews24.png" group-title="TNT|Italien",[48] Rai News 24
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tgcom24.png" group-title="TNT|Italien",[51] TGCom 24 
+https://ilglobotv-live.global.ssl.fastly.net/TGCOM24/Live.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportitalia.it/wp-content/uploads/2024/02/si_hd.png" group-title="TNT|Italien",[60] Sportitalia 
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.grupposciscione.it/wp-content/uploads/2024/02/LOGO-TRAVEL-1080x650-1.png" group-title="TNT|Italien",[61] Travel TV
+https://traveltv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/39cSNHs.png" group-title="TNT|Italien",[62] Donna TV
+https://donnatv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/almatv.png group-title="TNT|Italien",[65] Alma TV
+https://almatv.grupposciscione.knoxstreaming.com/live/masterpl.m3u
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radio105tv.png" group-title="TNT|Italien",[66] Radio 105 TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/r101tv.png" group-title="TNT|Italien",[67] R101 TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/bomchannel.png" group-title="TNT|Italien",[68] BOM Channel
+https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
+#EXTINF:-1 tvg-id="DeejayTV.it" tvg-chno="69" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/deejaytv.png" group-title="TNT|Italien",[69] Deejay TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioItaliaTV.it" tvg-chno="70" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radioitaliatv.png" group-title="TNT|Italien",[70] Radio Italia
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/radio-bruno-tv-it.png" group-title="TNT|Italien",[73] Radio Bruno
+https://stream4.xdevel.com/video0s975758-473/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pGJcMmB.png" group-title="TNT|Italien",[75] Entella TV
 https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8
-#EXTINF:-1 tvg-id="LunaTV.it" tvg-logo="https://www.lyngsat.com/logo/tv/ll/luna-tv-it.png" group-title="TNT|Italien",[81] Luna TV
+#EXTINF:-1 tvg-logo="https://www.radio104.it/wp-content/uploads/2020/08/cropped-LOGO-RADIO-104-LIKE-IT-NERO-rid.png" group-title="TNT|Italien",[77] Radio 104
+https://57068da1deb21.streamlock.net/radio104/radio104/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/luna-tv-it.png" group-title="TNT|Italien",[81] Luna TV
 https://5f22d76e220e1.streamlock.net/lunatv/lunatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.111tv.it/wp-content/uploads/2021/03/cropped-111-TV-verde-con-scritta-trasparente.png" group-title="TNT|Italien",[111] 111 TV
+https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TNT|Italien",[123] Italia Channel
+https://stream1.aswifi.it/italiachannel/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/padrepiotv.png" group-title="TNT|Italien",[145] Padre Pio TV
+https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiokisskisstv.png" group-title="TNT|Italien",[158] Radio Kiss Kiss
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtl1025tv.png" group-title="TNT|Italien",[233] RTL 102.5 News
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiofrecciatv.png" group-title="TNT|Italien",[258] Radio Freccia
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportitalia.it/wp-content/uploads/2024/02/bike.png" group-title="TNT|Italien",[259] Bike Channel
+https://cdn02.argocdn.net/argocdn/bikechannel/video.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TNT|Italien",[261] Giornale Radio TV
+https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8?FLID=1
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/byoblu.png" group-title="TNT|Italien",[262] Byoblu
+https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rdssocialtv.png" group-title="TNT|Italien",[265] RDS Social TV
+https://stream.rdstv.radio/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiozetatv.png" group-title="TNT|Italien",[266] Radio Zeta
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TNT|Italien",[351] 70-80.TV
+https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TNT|Italien",[410] Business 24
+https://fms.premio.link/business24/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiocapitaltv.png" group-title="TNT|Italien",[713] Radio Capital TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiom2otv.png" group-title="TNT|Italien",[715] M2O TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiomontecarlotv.png" group-title="TNT|Italien",[772] Radio Montecarlo TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/virginradiotv.png" group-title="TNT|Italien",[786] Virgin Radio
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TNT|Italien",[808] RAI 3 (Südtirol)
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtvsanmarino.png" group-title="TNT|Italien",[831] RTV San Marino
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b2192000_slita.m3u8
+#EXTINF:-1 tvg-logo=""  group-title="TNT|Italien",[832] RTV San Marino Sport
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMmhydm5vNWJ3NnRnMi5jbG91ZGZyb250Lm5ldC9zbXJ0di1jaDAyL19kZWZpbnN0Xy9zbWlsOmNoLTAyLnNtaWwvcGxheWxpc3QubTN1OCIsIkNvbmRpdGlvbiI6eyJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn0sIkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzI1Nzk4Mjg4NzA5fX19XX0_&Key-Pair-Id=APKAJXRZCR3BYC6OEKKA&Signature=n82zWJQF3xyguJD60FM~GwUvY-UlMVbqTmORKOO9q0TV39rr3UajUX5M-pAixpKPYuoUHY8ZinKBei1-JWNnzjyvVXxINnm7vyGEpN4V0zeULfBWAeAoSS4WqEU8hjWGNjAc1eQQP7rK~hP0iak~O-mBvhYfjWRrbaj-tit6Wn389KhGTaefadwYHd0iUz7x0JPDIeq1MwG2~SdCfo4AYZZctTvMaO9aGPaew7m2zMp-CyiV-f4W1lWqmLBCIXlzaY3C8g5NswTgA5QtTyc2O~yhT5Q-9m6Y52gUmYGEJpv7F0lHDPVz6I7-4JOQOcgMWY7tjG5ZBI6CMWrAieu1QA__
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kHSuyub.png" group-title="TNT|Italien",[833] Super Six
+https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiotvseriea.png" group-title="TNT|Italien",[899] Radio TV Serie A con RDS
+https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
 
 ## THÉMATIQUES ##
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD39000064E_20241015T040149SQUARE.png" group-title="Thématiques|Français",100% Docs
