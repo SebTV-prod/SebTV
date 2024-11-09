@@ -246,6 +246,8 @@ https://jmp2.uk/sam-FR1200001N2.m3u8
 https://jmp2.uk/sam-FRBD3600001BQ.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC900001LB_20241015T040425SQUARE.png" group-title="Thématiques|Français",Émotion
 https://jmp2.uk/sam-FRBC900001LB.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-64.png" group-title="Thématiques|Français",Equidia
+https://github.com/Sibprod/streams/raw/main/ressources/equidia/py/Equidia.m3u8
 #EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/fitinitv.png" group-title="Thématiques|Français",Fitini TV
 https://video1.getstreamhosting.com:1936/8492/8492/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kJjHW61/frdocs.png" group-title="Thématiques|Français",France TV Docs
