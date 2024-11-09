@@ -206,8 +206,16 @@ https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:26_HD.smil/mani
 https://live-edge-ams-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/INTECO.png" group-title="TNT|Castillan",El Toro TV
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TNT|Castillan",Disney Channel
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/24H.png" group-title="TNT|Castillan",24h
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TNT|Castillan",Activa TV
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TNT|Castillan",Canal Sur 2
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TNT|Castillan",Fibwi
+https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8
 
 ## ITALIEN ##
 #EXTINF:-1 user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148" group-title="TNT|Italien",[1] Rai 1
@@ -560,3 +568,26 @@ https://tvradiozap.eu/tools/dm-m3u8.php/x7wamzq.m3u8
 https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.sudradio.fr/wp-content/uploads/2019/05/logonb.png" group-title="Radios",Sud Radio
 https://tvradiozap.eu/tools/dm-m3u8.php/x8jqxru.m3u8
+
+## ALLEMAND ##
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png" group-title="TNT|Allemand",ARD Alpha
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png" group-title="TNT|Allemand",ARD Tagesschau 24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png" group-title="TNT|Allemand",KiKa
+http://kikageodash.akamaized.net/dash/live/2022694/livetvkika_de/manifest.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png" group-title="TNT|Allemand",ARTE
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TNT|Allemand",RTL
+https://ma.anixa.tv/clips/stream/rtl/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oe24tv.png" group-title="TNT|Allemand",oe24 TV
+https://oe24.mdn.ors.at/live/eds/oe24tv_hd/hls_nodrm/oe24tv_hd-nodrm.m3u8
+
+## PORTUGAIS ##
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png" group-title="TNT|Portugais",[1] RTP 1
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTVLCOPT:http-referrer=https://rtp.pt/
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+
+## ANGLAIS ##
+
