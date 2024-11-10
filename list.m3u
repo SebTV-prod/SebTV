@@ -571,19 +571,38 @@ https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.sudradio.fr/wp-content/uploads/2019/05/logonb.png" group-title="Radios",Sud Radio
 https://tvradiozap.eu/tools/dm-m3u8.php/x8jqxru.m3u8
 
+## ANGLAIS ##
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/30f15c6306301ee13aa6e08d6b78f00a.png" group-title="TNT|Anglais",The Weather Channel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01442-pelmorexcorp-theweathernetwork-lgca/playlist.m3u8
+
 ## ALLEMAND ##
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png" group-title="TNT|Allemand",ARD Alpha
-https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png" group-title="TNT|Allemand",ARD Tagesschau 24
-https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TNT|Allemand",[1] ARD Das Erste
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TNT|Allemand",RTL
+https://ma.anixa.tv/clips/stream/rtl/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png" group-title="TNT|Allemand",KiKa
 http://kikageodash.akamaized.net/dash/live/2022694/livetvkika_de/manifest.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png" group-title="TNT|Allemand",ARTE
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="TNT|Allemand",RTL
-https://ma.anixa.tv/clips/stream/rtl/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png" group-title="TNT|Allemand",ARD Alpha
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png" group-title="TNT|Allemand",ARD Tagesschau 24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oe24tv.png" group-title="TNT|Allemand",oe24 TV
 https://oe24.mdn.ors.at/live/eds/oe24tv_hd/hls_nodrm/oe24tv_hd-nodrm.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Thématiques|Allemand",Deluxe Dance
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Thématiques|Allemand",Deluxe Flashback
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Thématiques|Allemand",Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Thématiques|Allemand",Deluxe Rap
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Thématiques|Allemand",DMF - Deutsche Musik Fernsehen
+https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Thématiques|Allemand",Servus TV Wetter Panorama
+https://rbmn-live.akamaized.net/hls/live/665268/Wetterpanorama/master.m3u8
+
 
 ## PORTUGAIS ##
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png" group-title="TNT|Portugais",[1] RTP 1
@@ -591,5 +610,5 @@ https://oe24.mdn.ors.at/live/eds/oe24tv_hd/hls_nodrm/oe24tv_hd-nodrm.m3u8
 #EXTVLCOPT:http-referrer=https://rtp.pt/
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 
-## ANGLAIS ##
+
 
