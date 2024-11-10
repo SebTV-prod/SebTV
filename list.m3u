@@ -212,7 +212,7 @@ https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/24H.png" group-title="TNT|Castillan",24h
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="TNT|Castillan",Activa TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/activatv.png" group-title="TNT|Castillan",Activa TV
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TNT|Castillan",Canal Sur 2
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
@@ -357,169 +357,251 @@ https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.rtr99.it/wp-content/uploads/2020/02/RTR99-logo-original.png" group-title="TNT|Italien",[990] RTR 99
 https://5e73cf528f404.streamlock.net/RTR99TV/livestream/playlist.m3u8
 
+## ANGLAIS ##
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="TNT|Anglais",[1] BBC One
+https://d20opqftbkv2z0.cloudfront.net/live11/bbcone/bitrate1-clear.isml/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="TNT|Anglais",[2] BBC Two
+https://d20opqftbkv2z0.cloudfront.net/live13/bbctwo/bitrate1-clear.isml/live.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TNT|Anglais",[3] ITV
+https://d20opqftbkv2z0.cloudfront.net/live17/itv/bitrate1-clear.isml/live.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TNT|Anglais",[4] Channel 4
+https://d20opqftbkv2z0.cloudfront.net/live14/channel4/bitrate1-clear.isml/live.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TNT|Anglais",[5] Channel 5
+https://d20opqftbkv2z0.cloudfront.net/live18/channel5/bitrate1-clear.isml/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3OxXy8H.png" group-title="TNT|Anglais",[13] BFBS Extra
+https://d20opqftbkv2z0.cloudfront.net/live10/bfbsextra/bitrate1-clear.isml/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6TWUVrh.png" group-title="TNT|Anglais",[16] QVC
+https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.freeviewplay.tv/sff75d9fe7b53ecfbcb2ee3b686e2b561?w=160" group-title="TNT|Anglais",[22] TJC
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/01.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900007Q5_20241023T143754SQUARE.png" group-title="TNT|Anglais",[52] GREAT! Christmas
+https://jmp2.uk/sam-GBBC900007Q5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vFllwLd.png" group-title="TNT|Anglais",[66] TBN UK
+https://tbn-jw.cdn.vustreams.com/live/tbn-uk/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nf0vaAF.png" group-title="TNT|Anglais",[85] Create & Craft
+https://live-hochanda.simplestreamcdn.com/hochanda/live.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC430000128_20241023T143705SQUARE.png" group-title="TNT|Anglais",[205] POP
+https://jmp2.uk/sam-GBBC430000128.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB25000016G_20240918T151400SQUARE.png" group-title="TNT|Anglais",[207] POP Up
+https://jmp2.uk/sam-GB25000016G.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3200003T6_20230913T031540SQUARE.png_20230913031541.png" group-title="TNT|Anglais",[208] Tiny POP
+https://jmp2.uk/sam-GBBD3200003T6.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC430000128_20241023T143705SQUARE.png" group-title="TNT|Anglais",[209] Ketchup TV
+https://jmp2.uk/sam-GBBB2000004BQ.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB25000016G_20240918T151400SQUARE.png" group-title="TNT|Anglais",[211] YAAAS!
+https://jmp2.uk/sam-GBBA3300030OP.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="TNT|Anglais",[231] BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TNT|Anglais",[233] Sky News
+https://linear417-gb-hls3-prd-ak.cdn.skycdp.com/100e/Content/HLS_004_1080_30/Live/channel(skynews)/index_1080.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB1600008R3_20220412T153106SQUARE.png_20220412153107.png" group-title="TNT|Anglais",[236] GB News
+https://jmp2.uk/sam-GBBB1600008R3.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100002L5_20230823T033121SQUARE.png_20230823033121.png" group-title="TNT|Anglais",[255] France 24 (English)
+https://jmp2.uk/sam-GBBD1100002L5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KxHWpQB.png" group-title="TNT|Anglais",[280] Talk TV
+https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
+
+## ALLEMAND ##
+#EXTINF:-1 tvg-logo=" " group-title="TNT|Allemand",[1] ARD Das Erste
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TNT|Allemand",[4] RTL
+https://ma.anixa.tv/clips/stream/rtl/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TNT|Allemand",[7] ProSieben
+http://85.187.13.40:18000/ProSieben
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png" group-title="TNT|Allemand",[8] ARTE
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png" group-title="TNT|Allemand",[10] ARD Tagesschau 24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png" group-title="TNT|Allemand",[12] KiKa
+http://kikageodash.akamaized.net/dash/live/2022694/livetvkika_de/manifest.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png" group-title="TNT|Allemand",[101] ARD Alpha
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oe24tv.png" group-title="TNT|Allemand",oe24 TV
+https://oe24.mdn.ors.at/live/eds/oe24tv_hd/hls_nodrm/oe24tv_hd-nodrm.m3u8
+
+## PORTUGAIS ##
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png" group-title="TNT|Portugais",[1] RTP 1
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTVLCOPT:http-referrer=https://rtp.pt/
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+
 ## THÉMATIQUES ##
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD39000064E_20241015T040149SQUARE.png" group-title="Thématiques|Français",100% Docs
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD39000064E_20241015T040149SQUARE.png" group-title="Thématiques",100% Docs
 https://jmp2.uk/sam-FRBD39000064E.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60d35a74c63c3c0008df6a90/colorLogoPNG.png" group-title="Thématiques|Français",BBC Drama
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60d35a74c63c3c0008df6a90/colorLogoPNG.png" group-title="Thématiques",BBC Drama
 https://jmp2.uk/plu-60d35a74c63c3c0008df6a90.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3200001NQ_20241015T040214SQUARE.png" group-title="Thématiques|Français",BBC Earth
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3200001NQ_20241015T040214SQUARE.png" group-title="Thématiques",BBC Earth
 https://jmp2.uk/sam-FR3200001NQ.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300064WS_20241015T035833SQUARE.png" group-title="Thématiques|Français",Bel Air TV
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300064WS_20241015T035833SQUARE.png" group-title="Thématiques",Bel Air TV
 https://jmp2.uk/sam-FRBA3300064WS.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/5f/Image_bfm2.png" group-title="Thématiques|Français",BFM 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/5f/Image_bfm2.png" group-title="Thématiques",BFM 2
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/logoschaines169bfmbusinesscouleursnew.png" group-title="Thématiques|Français",BFM Business
+#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/logoschaines169bfmbusinesscouleursnew.png" group-title="Thématiques",BFM Business
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/imgrectangle10920BFMGrandsreportages.jpg" group-title="Thématiques|Français",BFM Grands Reportages
+#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/imgrectangle10920BFMGrandsreportages.jpg" group-title="Thématiques",BFM Grands Reportages
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://bx1.be/wp-content/themes/BX1-2017/img/logo.png" group-title="Thématiques|Français",BX1
+#EXTINF:-1 tvg-logo="https://bx1.be/wp-content/themes/BX1-2017/img/logo.png" group-title="Thématiques",BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/atlgnum.png" group-title="Thématiques|Français",Cannes Lérins TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/atlgnum.png" group-title="Thématiques",Cannes Lérins TV
 https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
-#EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/cinemax.png" group-title="Thématiques|Français",Ciné Max
+#EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/cinemax.png" group-title="Thématiques",Ciné Max
 https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Thématiques|Français",Comédie Fiction
+#EXTINF:-1 tvg-logo=" " group-title="Thématiques",Comédie Fiction
 https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/comedie-fiction.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4000001IO_20241017T163705SQUARE.png" group-title="Thématiques|Français",Destination Nature
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4000001IO_20241017T163705SQUARE.png" group-title="Thématiques",Destination Nature
 https://jmp2.uk/sam-FRBC4000001IO.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uKaToAi.png" group-title="Thématiques|Français",Dieu TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uKaToAi.png" group-title="Thématiques",Dieu TV
 https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1200001N2_20241015T040252SQUARE.png" group-title="Thématiques|Français",Doc Story
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1200001N2_20241015T040252SQUARE.png" group-title="Thématiques",Doc Story
 https://jmp2.uk/sam-FR1200001N2.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD3600001BQ_20241015T040258SQUARE.png" group-title="Thématiques|Français",Drive TV
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD3600001BQ_20241015T040258SQUARE.png" group-title="Thématiques",Drive TV
 https://jmp2.uk/sam-FRBD3600001BQ.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC900001LB_20241015T040425SQUARE.png" group-title="Thématiques|Français",Émotion
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC900001LB_20241015T040425SQUARE.png" group-title="Thématiques",Émotion
 https://jmp2.uk/sam-FRBC900001LB.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-64.png" group-title="Thématiques|Français",Equidia
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-64.png" group-title="Thématiques",Equidia
 https://github.com/Sibprod/streams/raw/main/ressources/equidia/py/Equidia.m3u8
-#EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/fitinitv.png" group-title="Thématiques|Français",Fitini TV
+#EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/fitinitv.png" group-title="Thématiques",Fitini TV
 https://video1.getstreamhosting.com:1936/8492/8492/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kJjHW61/frdocs.png" group-title="Thématiques|Français",France TV Docs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kJjHW61/frdocs.png" group-title="Thématiques",France TV Docs
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceTVDocs.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Thématiques|Français",France TV Séries
+#EXTINF:-1 tvg-logo=" " group-title="Thématiques",France TV Séries
 https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceTVSeries.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4700001XG_20241015T040313SQUARE.png" group-title="Thématiques|Français",Générations Sitcoms
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4700001XG_20241015T040313SQUARE.png" group-title="Thématiques",Générations Sitcoms
 https://jmp2.uk/sam-FRBC4700001XG.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB49000033R_20241015T040315SQUARE.png" group-title="Thématiques|Français",Homicide
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB49000033R_20241015T040315SQUARE.png" group-title="Thématiques",Homicide
 https://jmp2.uk/sam-FRBB49000033R.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sq11nQ1/rdicanada.png" group-title="Thématiques|Français",Ici RDI
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sq11nQ1/rdicanada.png" group-title="Thématiques",Ici RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T3r1khc.png" group-title="Thématiques|Français",Juwelo (Français)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T3r1khc.png" group-title="Thématiques",Juwelo (Français)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/84793/84793_264_live.m3u8?latency=low
-#EXTINF:-1 tvg-logo="https://i.ibb.co/883phd1/ktook.png" group-title="Thématiques|Français",KTO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/883phd1/ktook.png" group-title="Thématiques",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200004XH_20241015T040323SQUARE.png" group-title="Thématiques|Français",L'Equipe Live 1
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200004XH_20241015T040323SQUARE.png" group-title="Thématiques",L'Equipe Live 1
 https://jmp2.uk/sam-FRBC4200004XH.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200005X2_20241015T040327SQUARE.png" group-title="Thématiques|Français",L'Equipe Live 2
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200005X2_20241015T040327SQUARE.png" group-title="Thématiques",L'Equipe Live 2
 https://jmp2.uk/sam-FRBC4200005X2.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/lachainevaroise.com/wp-content/uploads/2023/07/cropped-cropped-Logo_LCV_couleurs-Horinzontal-02-01-01.png?w=350&ssl=1" group-title="Thématiques|Français",La Chaîne Varoise
+#EXTINF:-1 tvg-logo="https://i0.wp.com/lachainevaroise.com/wp-content/uploads/2023/07/cropped-cropped-Logo_LCV_couleurs-Horinzontal-02-01-01.png?w=350&ssl=1" group-title="Thématiques",La Chaîne Varoise
 https://lachainevaroise.vedge.infomaniak.com/livecast/lachainevaroise/.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_officiel_Journal_du_Golf.png/225px-Logo_officiel_Journal_du_Golf.png" group-title="Thématiques|Français",Le Journal du Golf TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_officiel_Journal_du_Golf.png/225px-Logo_officiel_Journal_du_Golf.png" group-title="Thématiques",Le Journal du Golf TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/jdg-tv/jdg-tv.m3u8
-#EXTINF:-1 tvg-logo="https://images.lesindesradios.fr/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/littoral/images/logo_XVXnlAO28F.png" group-title="Thématiques|Français",Littoral TV
+#EXTINF:-1 tvg-logo="https://images.lesindesradios.fr/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/littoral/images/logo_XVXnlAO28F.png" group-title="Thématiques",Littoral TV
 https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nR2HsVr/ln24.png" group-title="Thématiques|Français",LN24
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nR2HsVr/ln24.png" group-title="Thématiques",LN24
 https://live-ln24.digiteka.com/1911668011/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD43000016D_20241015T040350SQUARE.png" group-title="Thématiques|Français",Love Crime & History
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD43000016D_20241015T040350SQUARE.png" group-title="Thématiques",Love Crime & History
 https://jmp2.uk/sam-FRBD43000016D.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3900004DS_20241015T040353SQUARE.png" group-title="Thématiques|Français",Love The Planet
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3900004DS_20241015T040353SQUARE.png" group-title="Thématiques",Love The Planet
 https://jmp2.uk/sam-FRBC3900004DS.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3600005C7_20241022T051726SQUARE.png" group-title="Thématiques|Français",Love Voyages & Saveurs
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3600005C7_20241022T051726SQUARE.png" group-title="Thématiques",Love Voyages & Saveurs
 https://jmp2.uk/sam-FR3600005C7.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/54/Logo-LC-21.png" group-title="Thématiques|Français",Lyon Capitale TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/54/Logo-LC-21.png" group-title="Thématiques",Lyon Capitale TV
 https://tvradiozap.eu/tools/dm-m3u8.php/x7z3zqa.m3u8
-#EXTINF:-1 tvg-logo="https://s2.dmcdn.net/u/7fiM11W1elfKAeKOR/120x120" group-title="Thématiques|Français",Maison & Travaux TV
+#EXTINF:-1 tvg-logo="https://s2.dmcdn.net/u/7fiM11W1elfKAeKOR/120x120" group-title="Thématiques",Maison & Travaux TV
 https://tvradiozap.eu/tools/dm-m3u8.php/x85e5l8.m3u8
-#EXTINF:-1 tvg-logo="https://www.mondeduloisir.fr/wp-content/uploads/2016/07/Logo3_URL_Slogan_Noir_MICRO.png" group-title="Thématiques|Français",MDL
+#EXTINF:-1 tvg-logo="https://www.mondeduloisir.fr/wp-content/uploads/2016/07/Logo3_URL_Slogan_Noir_MICRO.png" group-title="Thématiques",MDL
 https://5f5ef28097114.streamlock.net/tixtv/smil:web.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BPzb19X/melody.png" group-title="Thématiques|Français",Melody
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPzb19X/melody.png" group-title="Thématiques",Melody
 https://live.creacast.com/telemelody/smil:telemelody-211112.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://s1.dmcdn.net/u/291mU1SxJRhmNVsDY/120x120" group-title="Thématiques|Français",Men's Up TV
+#EXTINF:-1 tvg-logo="https://s1.dmcdn.net/u/291mU1SxJRhmNVsDY/120x120" group-title="Thématiques",Men's Up TV
 https://tvradiozap.eu/tools/dm-m3u8.php/x2kr3hs.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3900003ZH_20241015T040355SQUARE.png" group-title="Thématiques|Français",MGG FAST
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3900003ZH_20241015T040355SQUARE.png" group-title="Thématiques",MGG FAST
 https://jmp2.uk/sam-FRBC3900003ZH.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoPNG.png" group-title="Thématiques|Français",MTV Classics
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoPNG.png" group-title="Thématiques",MTV Classics
 https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WbjURLo.png" group-title="Thématiques|Français",Museum TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WbjURLo.png" group-title="Thématiques",Museum TV
 https://live.creacast.com/museum-france/smil:museum-france.smil/master.m3u8
-#EXTINF:-1 tvg-id="MyZenTV.fr" tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title="Thématiques|Français",My Zen TV
+#EXTINF:-1 tvg-id="MyZenTV.fr" tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title="Thématiques",My Zen TV
 https://live.creacast.com/myzentv-france/smil:myzentv-france.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://s2.dmcdn.net/u/7fiM11W1elfKAeKOR/120x120" group-title="Thématiques|Français",N31
+#EXTINF:-1 tvg-logo="https://s2.dmcdn.net/u/7fiM11W1elfKAeKOR/120x120" group-title="Thématiques",N31
 https://tvradiozap.eu/tools/dm-m3u8.php/x6nkjg1.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4900002D4_20241015T042746SQUARE.png" group-title="Thématiques|Français",Nature Time
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4900002D4_20241015T042746SQUARE.png" group-title="Thématiques",Nature Time
 https://jmp2.uk/sam-FRBB4900002D4.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400008DK_20240910T003305SQUARE.png" group-title="Thématiques|Français",Noovo Cinéma
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400008DK_20240910T003305SQUARE.png" group-title="Thématiques",Noovo Cinéma
 https://jmp2.uk/sam-CA1400008DK.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1300001DN_20240702T044808SQUARE.png" group-title="Thématiques|Français",Noovo Comédies
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1300001DN_20240702T044808SQUARE.png" group-title="Thématiques",Noovo Comédies
 https://jmp2.uk/sam-CA1300001DN.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1300001DN_20240702T044808SQUARE.png" group-title="Thématiques|Français",Noovo Téléréalités
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1300001DN_20240702T044808SQUARE.png" group-title="Thématiques",Noovo Téléréalités
 https://jmp2.uk/sam-CA1400006BZ.m3u8
-#EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/novelachannel.png" group-title="Thématiques|Français",Novela Channel
+#EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/novelachannel.png" group-title="Thématiques",Novela Channel
 https://video1.getstreamhosting.com:1936/8494/8494/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1100001V1_20241017T163714SQUARE.png" group-title="Thématiques|Français",Passion Bollywood
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1100001V1_20241017T163714SQUARE.png" group-title="Thématiques",Passion Bollywood
 https://jmp2.uk/sam-FR1100001V1.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD15000024B_20241015T042751SQUARE.png" group-title="Thématiques|Français",Passion Novelas
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD15000024B_20241015T042751SQUARE.png" group-title="Thématiques",Passion Novelas
 https://jmp2.uk/sam-FRBD15000024B.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Thématiques|Français",Police Fiction
+#EXTINF:-1 tvg-logo=" " group-title="Thématiques",Police Fiction
 https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/police-fiction.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300010E4_20240527T200833SQUARE.png" group-title="Thématiques|Français",Radio-Canada Info
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300010E4_20240527T200833SQUARE.png" group-title="Thématiques",Radio-Canada Info
 https://jmp2.uk/sam-CABC2300010E4.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR30000271_20241015T042814SQUARE.png" group-title="Thématiques|Français",RMC Alerte Secours
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR30000271_20241015T042814SQUARE.png" group-title="Thématiques",RMC Alerte Secours
 https://jmp2.uk/sam-FR30000271.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300003ZB_20241015T042802SQUARE.png" group-title="Thématiques|Français",RMC Mecanic
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300003ZB_20241015T042802SQUARE.png" group-title="Thématiques",RMC Mecanic
 https://jmp2.uk/sam-FR300003ZB.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300006GF_20241017T163721SQUARE.png" group-title="Thématiques|Français",RMC Mystère
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300006GF_20241017T163721SQUARE.png" group-title="Thématiques",RMC Mystère
 https://jmp2.uk/sam-FR300006GF.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300005WY_20241015T042807SQUARE.png" group-title="Thématiques|Français",RMC Talk Info
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300005WY_20241015T042807SQUARE.png" group-title="Thématiques",RMC Talk Info
 https://jmp2.uk/sam-FR300005WY.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300007IY_20241015T042809SQUARE.png" group-title="Thématiques|Français",RMC Talk Sport
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300007IY_20241015T042809SQUARE.png" group-title="Thématiques",RMC Talk Sport
 https://jmp2.uk/sam-FR300007IY.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300005WY_20241015T042807SQUARE.png" group-title="Thématiques|Français",RMC Wow
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300005WY_20241015T042807SQUARE.png" group-title="Thématiques",RMC Wow
 https://jmp2.uk/sam-FR300001M1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wVCxf9s.png" group-title="Thématiques|Français",Rugby Zone.TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wVCxf9s.png" group-title="Thématiques",Rugby Zone.TV
 https://lte.wiseplayout.com/WiseM3U8_19/master.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Thématiques|Français",Saga de l'Été
+#EXTINF:-1 tvg-logo=" " group-title="Thématiques",Saga de l'Été
 https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/saga-de-lete.m3u8
-#EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/seriemax.png" group-title="Thématiques|Français",Série Max
+#EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/seriemax.png" group-title="Thématiques",Série Max
 https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.ffsnw.fr/wp-content/uploads/2022/04/logo-Sport-en-France.jpg" group-title="Thématiques|Français",Sport En France
+#EXTINF:-1 tvg-logo="https://www.ffsnw.fr/wp-content/uploads/2022/04/logo-Sport-en-France.jpg" group-title="Thématiques",Sport En France
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvradiozap.eu/tv/logos/starnovelas.jpeg" group-title="Thématiques|Français",Stars+ Novelas
+#EXTINF:-1 tvg-logo="https://tvradiozap.eu/tv/logos/starnovelas.jpeg" group-title="Thématiques",Stars+ Novelas
 https://helga.iptv2022.com/Stars_Novelas/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://superyacht.tv/media/cache/header_main_logo/bundles/app/img/logo.png" group-title="Thématiques|Français",SuperYacht.TV
+#EXTINF:-1 tvg-logo="https://superyacht.tv/media/cache/header_main_logo/bundles/app/img/logo.png" group-title="Thématiques",SuperYacht.TV
 https://sy.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB49000059E_20230614T005617SQUARE.png_20230614005618.png" group-title="Thématiques|Français",Tahiti TV
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB49000059E_20230614T005617SQUARE.png_20230614005618.png" group-title="Thématiques",Tahiti TV
 https://jmp2.uk/SamsungTVPlus/FRBB49000059E.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/logosmenu169TECHCOfond.png" group-title="Thématiques|Français",Tech & Co
+#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/logosmenu169TECHCOfond.png" group-title="Thématiques",Tech & Co
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-logo=" " group-title="Thématiques|Français",Thriller Fiction
+#EXTINF:-1 tvg-logo=" " group-title="Thématiques",Thriller Fiction
 https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/thriller-fiction.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD26000031Q_20241015T042859SQUARE.png" group-title="Thématiques|Français",Top Santé TV
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD26000031Q_20241015T042859SQUARE.png" group-title="Thématiques",Top Santé TV
 https://jmp2.uk/sam-FRBD26000031Q.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800004EP_20241015T160012SQUARE.png" group-title="Thématiques|Français",TV5 Monde Voyage
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800004EP_20241015T160012SQUARE.png" group-title="Thématiques",TV5 Monde Voyage
 https://jmp2.uk/sam-FR1800004EP.m3u8
-#EXTINF:-1 tvg-logo="https://tvfamille.org/website/images/logo/tv_famille_logo_2019_square_75px.png" group-title="Thématiques|Français",TV Famille
+#EXTINF:-1 tvg-logo="https://tvfamille.org/website/images/logo/tv_famille_logo_2019_square_75px.png" group-title="Thématiques",TV Famille
 https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_TVM3_2015.png" group-title="Thématiques|Français",TVM 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_TVM3_2015.png" group-title="Thématiques",TVM 3
 https://tvm3.vedge.infomaniak.com/livecast/tvm3/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA2200008H8_20241015T040103SQUARE.png" group-title="Thématiques|Français",Univers Ciné
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA2200008H8_20241015T040103SQUARE.png" group-title="Thématiques",Univers Ciné
 https://jmp2.uk/sam-FRBA2200008H8.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Thématiques|Français",Ushuaïa For Change
+#EXTINF:-1 tvg-logo=" " group-title="Thématiques",Ushuaïa For Change
 https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/ushuaia-for-change.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300063FP_20241015T040118SQUARE.png" group-title="Thématiques|Français",Wellbeing TV
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300063FP_20241015T040118SQUARE.png" group-title="Thématiques",Wellbeing TV
 https://jmp2.uk/sam-FRBA3300063FP.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300018I9_20241017T163753SQUARE.png" group-title="Thématiques|Français",Xilam TV
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300018I9_20241017T163753SQUARE.png" group-title="Thématiques",Xilam TV
 https://jmp2.uk/sam-FRBA3300018I9.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR360000680_20241015T040917SQUARE.png" group-title="Thématiques|Français",Zee Magic
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR360000680_20241015T040917SQUARE.png" group-title="Thématiques",Zee Magic
 https://jmp2.uk/sam-FR360000680.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB1900001FA_20241015T035901SQUARE.png" group-title="Thématiques|Anglais",Clubbing TV
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB1900001FA_20241015T035901SQUARE.png" group-title="Thématiques",Clubbing TV
 https://jmp2.uk/sam-FRBB1900001FA.m3u8
-
-#EXTINF:-1 tvg-logo="https://ritsatv.ru/POSTERS/tmf.jpg" group-title="Thématiques|Autres",TMF Rus
+#EXTINF:-1 tvg-logo="https://ritsatv.ru/POSTERS/tmf.jpg" group-title="Thématiques",TMF Rus
 http://195.9.195.3:8080/hls/201891.m3u8
-#EXTINF:-1 tvg-logo="https://ritsatv.ru/POSTERS/viva.jpg" group-title="Thématiques|Autres",VIVA Russia
-https://s.catcast.tv/content/39575/index.m3u8
+#EXTINF:-1 tvg-logo="https://ritsatv.ru/POSTERS/viva.jpg" group-title="Thématiques",VIVA Russia
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/30f15c6306301ee13aa6e08d6b78f00a.png" group-title="Thématiques",The Weather Channel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01442-pelmorexcorp-theweathernetwork-lgca/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Thématiques",Deluxe Dance
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Thématiques",Deluxe Flashback
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Thématiques",Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Thématiques",Deluxe Rap
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Thématiques",DMF - Deutsche Musik Fernsehen
+https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kronehittv.png" group-title="Thématiques",Kronehit TV
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Thématiques",Servus TV Wetter Panorama
+https://rbmn-live.akamaized.net/hls/live/665268/Wetterpanorama/master.m3u8
 
 ## RADIOS ##
 #EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/bel-rtl-logo-png-transparent.png" group-title="Radios",bel RTL
@@ -570,45 +652,10 @@ https://tvradiozap.eu/tools/dm-m3u8.php/x7wamzq.m3u8
 https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.sudradio.fr/wp-content/uploads/2019/05/logonb.png" group-title="Radios",Sud Radio
 https://tvradiozap.eu/tools/dm-m3u8.php/x8jqxru.m3u8
-
-## ANGLAIS ##
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/30f15c6306301ee13aa6e08d6b78f00a.png" group-title="TNT|Anglais",The Weather Channel
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01442-pelmorexcorp-theweathernetwork-lgca/playlist.m3u8
-
-## ALLEMAND ##
-#EXTINF:-1 tvg-logo=" " group-title="TNT|Allemand",[1] ARD Das Erste
-https://mcdn.daserste.de/daserste/de/master.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="TNT|Allemand",RTL
-https://ma.anixa.tv/clips/stream/rtl/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png" group-title="TNT|Allemand",KiKa
-http://kikageodash.akamaized.net/dash/live/2022694/livetvkika_de/manifest.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png" group-title="TNT|Allemand",ARTE
-https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png" group-title="TNT|Allemand",ARD Alpha
-https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png" group-title="TNT|Allemand",ARD Tagesschau 24
-https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oe24tv.png" group-title="TNT|Allemand",oe24 TV
-https://oe24.mdn.ors.at/live/eds/oe24tv_hd/hls_nodrm/oe24tv_hd-nodrm.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Thématiques|Allemand",Deluxe Dance
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Thématiques|Allemand",Deluxe Flashback
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Thématiques|Allemand",Deluxe Music
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Thématiques|Allemand",Deluxe Rap
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Thématiques|Allemand",DMF - Deutsche Musik Fernsehen
-https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Thématiques|Allemand",Servus TV Wetter Panorama
-https://rbmn-live.akamaized.net/hls/live/665268/Wetterpanorama/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tv538.png" group-title="Thématiques",Radio 538
+https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
 
 
-## PORTUGAIS ##
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png" group-title="TNT|Portugais",[1] RTP 1
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTVLCOPT:http-referrer=https://rtp.pt/
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 
 
 
