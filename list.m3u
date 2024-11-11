@@ -409,6 +409,8 @@ https://jmp2.uk/sam-GBBB1600008R3.m3u8
 https://jmp2.uk/sam-GBBD1100002L5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KxHWpQB.png" group-title="TNT|Anglais",[280] Talk TV
 https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="TNT|Anglais",[824] ABC News 
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 
 ## ALLEMAND ##
 #EXTINF:-1 tvg-logo=" " group-title="TNT|Allemand",[1] ARD Das Erste
@@ -421,10 +423,10 @@ http://85.187.13.40:18000/ProSieben
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png" group-title="TNT|Allemand",[10] ARD Tagesschau 24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png" group-title="TNT|Allemand",[11] ARD Alpha
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png" group-title="TNT|Allemand",[12] KiKa
 http://kikageodash.akamaized.net/dash/live/2022694/livetvkika_de/manifest.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png" group-title="TNT|Allemand",[101] ARD Alpha
-https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oe24tv.png" group-title="TNT|Allemand",oe24 TV
 https://oe24.mdn.ors.at/live/eds/oe24tv_hd/hls_nodrm/oe24tv_hd-nodrm.m3u8
 
