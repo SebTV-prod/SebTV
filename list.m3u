@@ -459,6 +459,8 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&e
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://bx1.be/wp-content/themes/BX1-2017/img/logo.png" group-title="Thématiques",BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://scontent-mrs2-1.xx.fbcdn.net/v/t39.30808-6/439254809_122098353920299695_6747510116490805716_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=hhs6Eu1h4xQQ7kNvgEGafg6&_nc_zt=23&_nc_ht=scontent-mrs2-1.xx&_nc_gid=AW4E1cUBfqRft1JAL-tJ_DB&oh=00_AYBRPq5NkRjI4wALwAxlcknytMwilH9bX63ynXf_MXAnBw&oe=673999BA" group-title="Thématiques",Canal C Junior
+https://helga.iptv2022.com/Canal_C_Junior/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/atlgnum.png" group-title="Thématiques",Cannes Lérins TV
 https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
 #EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/round/cinemax.png" group-title="Thématiques",Ciné Max
@@ -533,6 +535,8 @@ https://live.creacast.com/myzentv-france/smil:myzentv-france.smil/master.m3u8
 https://tvradiozap.eu/tools/dm-m3u8.php/x6nkjg1.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4900002D4_20241015T042746SQUARE.png" group-title="Thématiques",Nature Time
 https://jmp2.uk/sam-FRBB4900002D4.m3u8
+#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/23255/logo_256_1709055998.jpg" group-title="Thématiques",Next TV
+https://helga.iptv2022.com/Next_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400008DK_20240910T003305SQUARE.png" group-title="Thématiques",Noovo Cinéma
 https://jmp2.uk/sam-CA1400008DK.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1300001DN_20240702T044808SQUARE.png" group-title="Thématiques",Noovo Comédies
