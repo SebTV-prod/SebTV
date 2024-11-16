@@ -18,6 +18,8 @@ https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 https://tvradiozap.eu/tools/dm-m3u8.php/x5gv5rr.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-119.png" group-title="TNT|Français",[9] W9
 https://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/9.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-119.png" group-title="TNT|Français",[9] W9
+https://joaquinito02.es/vavoo/128046615.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-195.png" group-title="TNT|Français",[10] TMC
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-446.png" group-title="TNT|Français",[11] TFX
