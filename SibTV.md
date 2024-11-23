@@ -20,7 +20,7 @@
 
 | #11 | [TFX](https://www.tf1.fr/tfx/direct) |
 
-| #12 | [NRJ 12](https://www.tf1.fr/tfx/direct) |
+| #12 | [NRJ 12](https://www.nrj-play.fr/nrj12/direct) |
 
 | #13 | [LCP](https://www.dailymotion.com/video/xgepjr) | [Public Sénat](https://www.dailymotion.com/video/xkxbzc) |
 
@@ -29,6 +29,8 @@
 | #20 | [TF1 Séries Films](https://www.tf1.fr/tf1-series-films/direct) |
 
 | #21 | [L'Equipe (lien #1)](https://www.dailymotion.com/video/x2lefik) | [L'Equipe (lien #2)](https://www.tf1.fr/l-equipe/direct) |
+
+| #25 | [Chérie 25](https://www.nrj-play.fr/cherie25/direct) |
 
 | #26 | [LCI](https://www.tf1.fr/lci/direct) |
 
