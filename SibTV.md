@@ -43,7 +43,7 @@
 ## France : Régionales
 
 #### Île-de-France
-| #34 | [Le Figaro TV](https://www.tf1.fr/le-figaro/direct) |
+| #34 | [Le Figaro TV (lien #1)](https://video.lefigaro.fr/) | [Le Figaro TV (lien #2)](https://www.tf1.fr/le-figaro/direct) |
 
 
 
