@@ -60,7 +60,7 @@
 
 ## Suisse : Romandie
 
-| [C8 (fenêtre pub CH](https://www.canalplus.com/ch/live/?channel=831) |
+| [C8 (fenêtre pub CH)](https://www.canalplus.com/ch/live/?channel=831) |
 
 ## Canada : Québec
 
