@@ -76,7 +76,7 @@
 
 ## Suisse : Romandie
 
-| [Canal+ Suisse](https://www.canalplus.com/ch/live/?channel=702) |
+| [Canal+ Suisse](https://www.canalplus.com/ch/live/?channel=702) | (diffuse CNews hors IP geo-CH)
 
 | [C8 (fenêtre pub CH)](https://www.canalplus.com/ch/live/?channel=831) |
 
