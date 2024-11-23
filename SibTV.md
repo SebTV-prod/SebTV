@@ -20,6 +20,8 @@
 
 | #11 | [TFX](https://www.tf1.fr/tfx/direct) |
 
+| #12 | [NRJ 12](https://www.tf1.fr/tfx/direct) |
+
 | #13 | [LCP](https://www.dailymotion.com/video/xgepjr) | [Public Sénat](https://www.dailymotion.com/video/xkxbzc) |
 
 | #14 | [France 4](https://www.france.tv/france-4/direct.html) |
@@ -32,6 +34,7 @@
 
 | #27 | [France Info (lien #1)](https://www.france.tv/franceinfo/direct.html) | [France Info (lien #2)](https://www.dailymotion.com/video/x4rdeu6) | [France Info (lien #3)](https://www.youtube.com/watch?v=Z-Nwo-ypKtM) |
 
+| #34 | [Le Figaro TV](https://www.tf1.fr/le-figaro/direct) |
 
 ## France : Outre-Mer
 
