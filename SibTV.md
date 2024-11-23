@@ -2,7 +2,7 @@
 
 ## France : Chaînes Métropolitaines
 
-| #1 | TF1 | [logo](https://focus.telerama.fr/0000/00/01/clear-192.png) | [m3u8](https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tf1.m3u8) | [web](https://www.tf1.fr/tf1/direct) |
+| #1 | (https://focus.telerama.fr/0000/00/01/clear-192.png) | [m3u8](https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tf1.m3u8) | [web](https://www.tf1.fr/tf1/direct) |
 
 | #2 | France 2 | [logo](https://focus.telerama.fr/0000/00/01/clear-4.png) | [m3u8](https://github.com/Sibprod/streams/raw/refs/heads/main/ressources/ftv/py/France2.m3u8) | [web](https://www.france.tv/france-2/direct.html) |
 
