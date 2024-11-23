@@ -24,6 +24,8 @@
 
 | #20 | [TF1 Séries Films](https://www.tf1.fr/tf1-series-films/direct) |
 
+| #21 | [L'Equipe (lien #1)]([ ](https://www.dailymotion.com/video/x2lefik&autoplay=1)) | [L'Equipe (lien #2)](https://www.tf1.fr/l-equipe/direct) |
+
 | #26 | [LCI](https://www.tf1.fr/lci/direct) |
 
 | #27 | [France Info (lien #1)](https://www.france.tv/franceinfo/direct.html) | [France Info (lien #2)](https://www.dailymotion.com/video/x4rdeu6) | [France Info (lien #3)](https://www.youtube.com/watch?v=Z-Nwo-ypKtM) |
