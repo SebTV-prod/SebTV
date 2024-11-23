@@ -8,7 +8,7 @@
 
 | #3 | [France 3](https://www.france.tv/france-3/direct.html) |
 
-| #4 | [Canal+ - lien #1](https://www.canalplus.com/live/?channel=601) | [Canal+ - lien #2](https://www.dailymotion.com/video/x5gv6be&autoplay=1) | 
+| #4 | [Canal+ (lien #1)](https://www.canalplus.com/live/?channel=601) | [Canal+ (lien #2)](https://www.dailymotion.com/video/x5gv6be&autoplay=1) | 
 
 | #5 | France 5 | [stream](https://www.france.tv/france-5/direct.html) |
 
