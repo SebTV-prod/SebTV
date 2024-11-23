@@ -46,9 +46,9 @@
 
 | #22 | [6ter](https://www.m6.fr/6ter/direct) |
 
-| #23 | [BFM TV](https://www.rmcbfmplay.com/direct-tv/rmc-story) |
+| #23 | [RMC Story](https://www.rmcbfmplay.com/direct-tv/rmc-story) |
 
-| #24 | [BFM TV](https://www.rmcbfmplay.com/direct-tv/rmc-decouverte) |
+| #24 | [RMC Découverte](https://www.rmcbfmplay.com/direct-tv/rmc-decouverte) |
 
 | #25 | [Chérie 25](https://www.nrj-play.fr/cherie25/direct) |
 
