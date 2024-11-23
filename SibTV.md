@@ -65,42 +65,44 @@
 ## France : Outre-Mer
 
 #### Guadeloupe
-| #1 | [Guadeloupe La 1ère]() |
+| #1 | [Guadeloupe La 1ère](https://www.france.tv/la1ere/guadeloupe/direct.html) |
 
 #### Martinique
-| #1 | [Martinique La 1ère]() |
+| #1 | [Martinique La 1ère](https://www.france.tv/la1ere/martinique/direct.html) |
 
-| #2 | [viàATV]() |
+| #2 | [viàATV](https://viaatv.tv/direct-tv/) |
 
 #### Guyane Française
-| #1 | [Guyane La 1ère]() |
+| #1 | [Guyane La 1ère](https://www.france.tv/la1ere/guyane/direct.html) |
 
 #### La Réunion
-| #1 | [Réunion La 1ère]() |
+| #1 | [Réunion La 1ère](https://www.france.tv/la1ere/reunion/direct.html) |
 
-| #2 | [Antenne Réunion]() |
+| #2 | [Antenne Réunion](https://www.antennereunion.fr/direct) |
 
 #### Saint-Pierre-et-Miquelon
-| #1 | [SPM La 1ère]() |
+| #1 | [SPM La 1ère](https://www.france.tv/la1ere/saint-pierre-et-miquelon/direct.html) |
 
 #### Mayotte
-| #1 | [Mayotte La 1ère]() |
+| #1 | [Mayotte La 1ère](https://www.france.tv/la1ere/mayotte/direct.html) |
 
 #### Wallis-et-Futuna
 | #1 | [WEF La 1ère]() |
 
 #### Polynésie Française
-| #1 | [Polynésie La 1ère]() |
+| #1 | [Polynésie La 1ère](https://www.france.tv/la1ere/polynesie/direct.html) |
 
-| #2 | [TNTV]() |
+| #2 | [TNTV](https://www.tntv.pf/direct/) |
 
 #### Nouvelle-Calédonie
-| #1 | [NC La 1ère]() |
+| #1 | [NC La 1ère](https://www.france.tv/la1ere/nouvelle-caledonie/direct.html) |
 
 
 ## France : Régionales
 
 #### Île-de-France
+| #32 | [20 Minutes TV](https://www.20minutes.tv/direct/) |
+
 | #34 | [Le Figaro TV (lien #1)](https://video.lefigaro.fr/) | [Le Figaro TV (lien #2)](https://www.tf1.fr/le-figaro/direct) |
 
 
