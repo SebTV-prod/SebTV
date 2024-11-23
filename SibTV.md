@@ -34,8 +34,6 @@
 
 | #27 | [France Info (lien #1)](https://www.france.tv/franceinfo/direct.html) | [France Info (lien #2)](https://www.dailymotion.com/video/x4rdeu6) | [France Info (lien #3)](https://www.youtube.com/watch?v=Z-Nwo-ypKtM) |
 
-| #34 | [Le Figaro TV](https://www.tf1.fr/le-figaro/direct) |
-
 ## France : Outre-Mer
 
 | Canal | M3U8 | Web |
@@ -44,7 +42,8 @@
 
 ## France : Régionales
 
-| Canal | M3U8 | Web |
+## Île-de-France
+| #34 | [Le Figaro TV](https://www.tf1.fr/le-figaro/direct) |
 
 
 
