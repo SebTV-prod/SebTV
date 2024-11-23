@@ -100,12 +100,51 @@
 
 ## France : Régionales
 
+#### Auvergne - Rhône-Alpes
+| #30 | [BFM Régions (Lyon-Métropole)]() |
+
+#### Bretagne
+
+#### Bourgogne - Franche-Comté
+
+#### Centre-Val de Loire
+
+#### Corse
+
+#### Grand-Est
+| #30 | [BFM Régions (Alsace)]() |
+
+#### Hauts-de-France
+| #31 | [BFM Régions (Grand Lille)]() |
+
+| #32 | [BFM Régions (Grand Littoral)]() |
+
 #### Île-de-France
+| #30 | [BFM Régions (Paris-IDF)]() |
+
 | #32 | [20 Minutes TV](https://www.20minutes.tv/direct/) |
 
 | #34 | [Le Figaro TV (lien #1)](https://video.lefigaro.fr/) | [Le Figaro TV (lien #2)](https://www.tf1.fr/le-figaro/direct) |
 
+#### Normandie
+| #33 | [BFM Régions (Normandie)]() |
 
+#### Nouvelle-Aquitaine
+
+#### Occitanie
+
+#### Pays de la Loire
+
+#### Provence-Alpes-Côte d'Azur
+| #30 | [BFM Régions (Marseille-Provence)]() |
+
+| #30 | [BFM Régions (Toulon-Var)]() |
+
+| #31 | [BFM Régions (Dici-Alpes du Sud)]() |
+
+| #31 | [BFM Régions (Dici-Provence)]() |
+
+| #31 | [BFM Régions (Nice-Côte d'Azur)]() |
 
 ## Belgique : Wallonie
 
