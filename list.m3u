@@ -18,8 +18,6 @@ https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 https://tvradiozap.eu/tools/dm-m3u8.php/x5gv5rr.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-119.png" group-title="TNT|Français",[9] W9
 https://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/9.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-119.png" group-title="TNT|Français",[9] W9
-https://joaquinito02.es/vavoo/128046615.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-195.png" group-title="TNT|Français",[10] TMC
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-446.png" group-title="TNT|Français",[11] TFX
@@ -70,14 +68,14 @@ https://webtv.monacoinfo.com/live/prod/index.m3u8
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-529.png" group-title="TNT|Français",[75] France 24
 https://tvradiozap.eu/tools/yt-m3u8.php/@FRANCE24.m3u8
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-295.png" group-title="TNT|Français",[102] viàATV
-https://streamer01.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m5E2VP0.png" group-title="TNT|Français",[111] ETV - Éclair TV
-https://etvgp.vedge.infomaniak.com/livecast/etvgp/.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e1/TQcLogo_rgb_2020.png/300px-TQcLogo_rgb_2020.png" group-title="TNT|Français",[126] Télé Québec
-https://bcovlive-a.akamaihd.net/329d54c0bae445ff8dc85b8a91da0308/us-west-2/6101674910001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Logo_antenne_reunion_hd.jpg" group-title="TNT|Français",[200] Antenne Réunion
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Logo_antenne_reunion_hd.jpg" group-title="TNT|Français",[120] Antenne Réunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m5E2VP0.png" group-title="TNT|Français",[123] ETV - Éclair TV
+https://etvgp.vedge.infomaniak.com/livecast/etvgp/.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-295.png" group-title="TNT|Français",[128] viàATV
+https://streamer01.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TNT|Français",[146] TNTV
+https://bcovlive-a.akamaihd.net/34b9e8a6345d4ee8acb351730d1dbe89/us-west-2/5816339219001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://rti.ci/_nuxt/img/6a12f31.svg" group-title="TNT|Français",[201] RTI 1
 http://69.64.57.208/atv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://rti.ci/_nuxt/img/6d85e57.svg" group-title="TNT|Français",[202] RTI 2
@@ -174,6 +172,8 @@ https://edge20.vedge.infomaniak.com/livecast/compack_media_1/.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-140.png" group-title="TNT|Français",[809] Euronews
 https://tvradiozap.eu/tools/yt-m3u8.php/@euronewsfr.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e1/TQcLogo_rgb_2020.png/300px-TQcLogo_rgb_2020.png" group-title="TNT|Français",[826] Télé Québec
+https://bcovlive-a.akamaihd.net/329d54c0bae445ff8dc85b8a91da0308/us-west-2/6101674910001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-111.png" group-title="TNT|Français",[1007] ARTE 
 https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/arte.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1401.png" group-title="TNT|Français",[1021] L'Equipe
@@ -461,6 +461,8 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&e
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://bx1.be/wp-content/themes/BX1-2017/img/logo.png" group-title="Thématiques",BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/static/canalplus-logo-v2.svg" group-title="Thématiques",Canal+ Suisse
+https://dsh-m009-live-aka-canalplus.akamaized.net/__token__exp%3D1732383016~acl%3D%2Flive%2Fdisk%2Fcanalpluschclair-hd%2F*~id%3D01JDC5Q4W0NXQ8GAN86ZNF8XHY~data%3Dwid%3D0x8220380f~hmac%3Dd280422258d78a33918823772d0da9dfa5915f9c6afe6dc48f8575ce4b232639/live/disk/canalpluschclair-hd/dash-fhddvr-clair/canalpluschclair-hd.mpd
 #EXTINF:-1 tvg-logo="https://scontent-mrs2-1.xx.fbcdn.net/v/t39.30808-6/439254809_122098353920299695_6747510116490805716_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=hhs6Eu1h4xQQ7kNvgEGafg6&_nc_zt=23&_nc_ht=scontent-mrs2-1.xx&_nc_gid=AW4E1cUBfqRft1JAL-tJ_DB&oh=00_AYBRPq5NkRjI4wALwAxlcknytMwilH9bX63ynXf_MXAnBw&oe=673999BA" group-title="Thématiques",Canal C Junior
 https://helga.iptv2022.com/Canal_C_Junior/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/atlgnum.png" group-title="Thématiques",Cannes Lérins TV
