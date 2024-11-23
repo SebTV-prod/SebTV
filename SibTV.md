@@ -36,7 +36,7 @@
 
 | #17 | [CStar (live #1)](https://www.canalplus.com/live/?channel=513) | [CStar (live #2)](https://www.dailymotion.com/video/x5gv5v0) |
 
-| #18 | [Gulli](https://www.m6.fr/m6/direct) |
+| #18 | [Gulli (live #1)](https://replay.gulli.fr/Direct) | [Gulli (live #2)](https://www.m6.fr/m6/direct) |
 
 | #20 | [TF1 Séries Films](https://www.tf1.fr/tf1-series-films/direct) |
 
