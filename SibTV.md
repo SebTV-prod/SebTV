@@ -14,7 +14,7 @@
 
 | #7 | [ARTE](https://www.arte.tv/fr/direct/) |
 
-| #8 | [C8 (lien #1](https://www.canalplus.com/live/?channel=450) | [C8 (lien #2)](https://www.dailymotion.com/video/x5gv5rr&autoplay=1) | 
+| #8 | [C8 (lien #1)](https://www.canalplus.com/live/?channel=450) | [C8 (lien #2)](https://www.dailymotion.com/video/x5gv5rr&autoplay=1) | 
 
 | #14 | France 4 | [stream](https://www.france.tv/france-4/direct.html) |
 
