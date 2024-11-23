@@ -150,6 +150,10 @@
 
 | #32 | [BFM Régions (Grand Littoral)]() |
 
+| #34 | [Ma Télé]() |
+
+| #35 | [Wéo (Le Courrier Picard)]() |
+
 #### Île-de-France
 | #30 | [BFM Régions (Paris-IDF)]() |
 
