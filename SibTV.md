@@ -4,13 +4,13 @@
 
 | #1 | TF1 | [logo](https://focus.telerama.fr/0000/00/01/clear-192.png) | [m3u8](https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tf1.m3u8) | [web](https://www.tf1.fr/tf1/direct) |
 
-| France 2 | [logo](https://focus.telerama.fr/0000/00/01/clear-4.png) | [m3u8](https://github.com/Sibprod/streams/raw/refs/heads/main/ressources/ftv/py/France2.m3u8) | [web](https://www.france.tv/france-2/direct.html) |
+| #2 | France 2 | [logo](https://focus.telerama.fr/0000/00/01/clear-4.png) | [m3u8](https://github.com/Sibprod/streams/raw/refs/heads/main/ressources/ftv/py/France2.m3u8) | [web](https://www.france.tv/france-2/direct.html) |
 
-| France 3 | [logo](https://focus.telerama.fr/0000/00/01/clear-80.png) | [m3u8](https://github.com/Sibprod/streams/raw/refs/heads/main/ressources/ftv/py/France3.m3u8) | [web](https://www.france.tv/france-3/direct.html) |
+| #3 | France 3 | [logo](https://focus.telerama.fr/0000/00/01/clear-80.png) | [m3u8](https://github.com/Sibprod/streams/raw/refs/heads/main/ressources/ftv/py/France3.m3u8) | [web](https://www.france.tv/france-3/direct.html) |
 
-| France 4 | [logo](https://focus.telerama.fr/0000/00/01/clear-78.png) | [m3u8](https://github.com/Sibprod/streams/raw/refs/heads/main/ressources/ftv/py/France4.m3u8) | [web](https://www.france.tv/france-4/direct.html) |
+| #14 | France 4 | [logo](https://focus.telerama.fr/0000/00/01/clear-78.png) | [m3u8](https://github.com/Sibprod/streams/raw/refs/heads/main/ressources/ftv/py/France4.m3u8) | [web](https://www.france.tv/france-4/direct.html) |
 
-| France 5 | [logo](https://focus.telerama.fr/0000/00/01/clear-47.png) | [m3u8](https://github.com/Sibprod/streams/raw/refs/heads/main/ressources/ftv/py/France5.m3u8) | [web](https://www.france.tv/france-5/direct.html) |
+| #5 | France 5 | [logo](https://focus.telerama.fr/0000/00/01/clear-47.png) | [m3u8](https://github.com/Sibprod/streams/raw/refs/heads/main/ressources/ftv/py/France5.m3u8) | [web](https://www.france.tv/france-5/direct.html) |
 
 
 ## France : Outre-Mer
