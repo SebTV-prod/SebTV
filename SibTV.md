@@ -12,7 +12,7 @@
 
 | #5 | [France 5](https://www.france.tv/france-5/direct.html) |
 
-| #7 | [ARTE (lien #1)](https://www.arte.tv/fr/direct/) | [ARTE (lien #2)] (https://www.france.tv/arte/direct.html) | [ARTE (lien #3)] (https://www.tf1.fr/arte/direct) |
+| #7 | [ARTE (lien #1)](https://www.arte.tv/fr/direct/) | [ARTE (lien #2)](https://www.france.tv/arte/direct.html) | [ARTE (lien #3)](https://www.tf1.fr/arte/direct) |
 
 | #8 | [C8 (lien #1)](https://www.canalplus.com/live/?channel=450) | [C8 (lien #2)](https://www.dailymotion.com/video/x5gv5rr&autoplay=1) | 
 
