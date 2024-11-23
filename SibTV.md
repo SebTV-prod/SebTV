@@ -60,7 +60,7 @@
 
 ## Suisse : Romandie
 
-| Canal | M3U8 | Web |
+| [C8 (fenêtre pub CH](https://www.canalplus.com/ch/live/?channel=831) |
 
 ## Canada : Québec
 
