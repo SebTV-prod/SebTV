@@ -2,7 +2,7 @@
 
 ## France : Chaînes Métropolitaines
 
-| #1 | TF1 | [stream](https://www.tf1.fr/tf1/direct) |
+| #1 | [TF1](https://www.tf1.fr/tf1/direct) |
 
 | #2 | France 2 | [stream](https://www.france.tv/france-2/direct.html) |
 
@@ -10,7 +10,7 @@
 
 | #4 | Canal+ | [stream #1](https://www.canalplus.com/live/?channel=601) | [stream #2](https://www.dailymotion.com/video/x5gv6be&autoplay=1) | 
 
-| #5 | France 5 | [stream]https://www.france.tv/france-5/direct.html) |
+| #5 | France 5 | [stream](https://www.france.tv/france-5/direct.html) |
 
 | #7 | ARTE | [stream](https://www.arte.tv/fr/direct/) |
 
