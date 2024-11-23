@@ -67,6 +67,8 @@
 #### Guadeloupe
 | #1 | [Guadeloupe La 1ère](https://www.france.tv/la1ere/guadeloupe/direct.html) |
 
+| #11 | [ETV]() |
+
 #### Martinique
 | #1 | [Martinique La 1ère](https://www.france.tv/la1ere/martinique/direct.html) |
 
@@ -86,6 +88,8 @@
 #### Mayotte
 | #1 | [Mayotte La 1ère](https://www.france.tv/la1ere/mayotte/direct.html) |
 
+| #9 | [Chiconi FM TV]() |
+
 #### Wallis-et-Futuna
 | #1 | [WEF La 1ère]() |
 
@@ -103,18 +107,45 @@
 #### Auvergne - Rhône-Alpes
 | #30 | [BFM Régions (Lyon-Métropole)]() |
 
+| #31 | [8 Mont-Blanc]() |
+
+| #31 | [TL7]() |
+
+| #33 | [LDV Média]() |
+
+| #38 | [Télégrenoble - Isère]() |
+
+| #801 | [Alpe d'Huez TV]() |
+
 #### Bretagne
+| #31 | [Tébéo]() |
+
+| #35 | [TVR]() |
 
 #### Bourgogne - Franche-Comté
 
 #### Centre-Val de Loire
+| #36 | [BIP TV]() |
+
+| #37 | [TV Tours - Val de Loire]() |
 
 #### Corse
+| #30 | [Tele Paese]() |
+
+| #33 | [Via Stella]() |
 
 #### Grand-Est
-| #30 | [BFM Régions (Alsace)]() |
+| #30 | [BFM Régions (Alsace)]()|
+
+| #31 | [Vosges TV]() |
+
+| #32 | [Canal 32]() |
+
+| #33 | [Moselle TV]() |
 
 #### Hauts-de-France
+| #30 | [Wéo (La Voix du Nord)]() |
+
 | #31 | [BFM Régions (Grand Lille)]() |
 
 | #32 | [BFM Régions (Grand Littoral)]() |
@@ -130,10 +161,25 @@
 | #33 | [BFM Régions (Normandie)]() |
 
 #### Nouvelle-Aquitaine
+| #30 | [TVPI]() |
+
+| #33 | [TV7 Sud-Ouest]() |
 
 #### Occitanie
+| #30 | [TV Tarn]() |
+
+| #31 | [viàOccitanie]() |
 
 #### Pays de la Loire
+| #30 | [Angers Télé]() |
+
+| #31 | [Télénantes]() |
+
+| #33 | [LMTV Sarthe]() |
+
+| #33 | [TLC]() |
+
+| #34 | [TV Vendée]() |
 
 #### Provence-Alpes-Côte d'Azur
 | #30 | [BFM Régions (Marseille-Provence)]() |
@@ -151,9 +197,28 @@
 | Canal | M3U8 | Web |
 
 
-## Suisse : Romandie
+## Suisse
 
-| [Canal+ Suisse](https://www.canalplus.com/ch/live/?channel=702) | (diffuse CNews hors IP geo-CH)
+#### Cantons de Berne, Fribourg, Genève, Jura, Neuchâtel et Vaud
+| #1 | [RTS 1](https://www.rts.ch/play/tv/direct/rts-1?tvLiveId=3608506) | (geo-IP CH)
+
+| #2 | [RTS 2](https://www.rts.ch/play/tv/direct/rts-2?tvLiveId=3608517) | (geo-IP CH)
+
+| #3 | [Léman Bleu](https://www.lemanbleu.ch/fr/Direct.html) |
+
+| #4 | [Carac 2](https://carac.tv/lives/carac-2) |
+
+| #5 | [Carac 3](https://carac.tv/lives/carac-3) |
+
+| #6 | [Carac 1](https://carac.tv/lives/carac-1) |
+
+| #7 | [Carac 4](https://carac.tv/lives/carac-4) |
+
+| #8 | [TV5 Monde (FBSM](https://www.tv5monde.com/tv/direct/4/tv5monde-france-belgique-suisse-monaco) |
+
+| #9 | [RTS Info](https://www.rts.ch/play/tv/direct/rts-info?tvLiveId=1967124) | (geo-IP CH)
+
+| [Canal+ Suisse](https://www.canalplus.com/ch/live/?channel=702) | (diffuse CNews hors geo-IP CH)
 
 | [C8 (fenêtre pub CH)](https://www.canalplus.com/ch/live/?channel=831) |
 
