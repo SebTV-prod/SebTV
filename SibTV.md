@@ -228,10 +228,24 @@
 
 | [CStar (fenêtre pub CH)](https://www.canalplus.com/ch/live/?channel=832) |
 
-## Canada : Québec
+## Canada 
 
-| Canal | M3U8 | Web |
+#### Québec
+| 1 | [CBC] |
 
+| 2 | [Ici Télé] |
+
+| 10 | [TVA] |
+
+| 15 | [Global] |
+
+| 26 | [Télé Québec] |
+
+| 32 | [PBS] |
+
+| 35 | [Noovo] |
+
+| 47 | [ICI - La Chaîne Internationale] |
 
 ## Haïti
 
