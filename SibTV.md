@@ -16,7 +16,7 @@
 
 | #14 | France 4 | [stream](https://www.france.tv/france-4/direct.html) |
 
-| #27 | France Info | [stream #1](https://www.france.tv/franceinfo/direct.html) | [stream #2](https://www.dailymotion.com/video/x4rdeu6) | [stream #3] (https://www.youtube.com/watch?v=Z-Nwo-ypKtM)
+| #27 | France Info | [stream #1](https://www.france.tv/franceinfo/direct.html) | [stream #2](https://www.dailymotion.com/video/x4rdeu6) | [stream #3](https://www.youtube.com/watch?v=Z-Nwo-ypKtM)
 
 
 ## France : Outre-Mer
