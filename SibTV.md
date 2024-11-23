@@ -20,13 +20,13 @@
 
 | #11 | [TFX](https://www.tf1.fr/tfx/direct) |
 
-| #14 | France 4 | [stream](https://www.france.tv/france-4/direct.html) |
+| #14 | [France 4](https://www.france.tv/france-4/direct.html) |
 
 | #20 | [TF1 Séries Films](https://www.tf1.fr/tf1-series-films/direct) |
 
 | #26 | [LCI](https://www.tf1.fr/lci/direct) |
 
-| #27 | France Info | [stream #1](https://www.france.tv/franceinfo/direct.html) | [stream #2](https://www.dailymotion.com/video/x4rdeu6) | [stream #3](https://www.youtube.com/watch?v=Z-Nwo-ypKtM) |
+| #27 | [France Info (lien #1)](https://www.france.tv/franceinfo/direct.html) | [France Info (lien #2)](https://www.dailymotion.com/video/x4rdeu6) | [France Info (lien #3)](https://www.youtube.com/watch?v=Z-Nwo-ypKtM) |
 
 
 ## France : Outre-Mer
