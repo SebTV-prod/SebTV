@@ -8,23 +8,25 @@
 
 | #3 | [France 3](https://www.france.tv/france-3/direct.html) |
 
-| #4 | [Canal+ (lien #1)](https://www.canalplus.com/live/?channel=601) | [Canal+ (lien #2)](https://www.dailymotion.com/video/x5gv6be&autoplay=1) | 
+| #4 | [Canal+ (lien #1)](https://www.canalplus.com/live/?channel=601) | [Canal+ (lien #2)](https://www.dailymotion.com/video/x5gv6be) | 
 
 | #5 | [France 5](https://www.france.tv/france-5/direct.html) |
 
 | #7 | [ARTE (lien #1)](https://www.arte.tv/fr/direct/) | [ARTE (lien #2)](https://www.france.tv/arte/direct.html) | [ARTE (lien #3)](https://www.tf1.fr/arte/direct) |
 
-| #8 | [C8 (lien #1)](https://www.canalplus.com/live/?channel=450) | [C8 (lien #2)](https://www.dailymotion.com/video/x5gv5rr&autoplay=1) | 
+| #8 | [C8 (lien #1)](https://www.canalplus.com/live/?channel=450) | [C8 (lien #2)](https://www.dailymotion.com/video/x5gv5rr) | 
 
 | #10 | [TMC](https://www.tf1.fr/tmc/direct) |
 
 | #11 | [TFX](https://www.tf1.fr/tfx/direct) |
 
+| #13 | [LCP](https://www.dailymotion.com/video/xgepjr) | [Public Sénat](https://www.dailymotion.com/video/xkxbzc) |
+
 | #14 | [France 4](https://www.france.tv/france-4/direct.html) |
 
 | #20 | [TF1 Séries Films](https://www.tf1.fr/tf1-series-films/direct) |
 
-| #21 | [L'Equipe (lien #1)](https://www.dailymotion.com/video/x2lefik&autoplay=1) | [L'Equipe (lien #2)](https://www.tf1.fr/l-equipe/direct) |
+| #21 | [L'Equipe (lien #1)](https://www.dailymotion.com/video/x2lefik) | [L'Equipe (lien #2)](https://www.tf1.fr/l-equipe/direct) |
 
 | #26 | [LCI](https://www.tf1.fr/lci/direct) |
 
