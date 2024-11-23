@@ -20,7 +20,7 @@
 
 | #8 | [C8 (lien #1)](https://www.canalplus.com/live/?channel=450) | [C8 (lien #2)](https://www.dailymotion.com/video/x5gv5rr) | 
 
-| #9 | [M6](https://www.m6.fr/w9/direct) |
+| #9 | [W9](https://www.m6.fr/w9/direct) |
 
 | #10 | [TMC](https://www.tf1.fr/tmc/direct) |
 
@@ -44,7 +44,7 @@
 
 | #21 | [L'Equipe (lien #1)](https://www.dailymotion.com/video/x2lefik) | [L'Equipe (lien #2)](https://www.tf1.fr/l-equipe/direct) |
 
-| #22 | [M6](https://www.m6.fr/6ter/direct) |
+| #22 | [6ter](https://www.m6.fr/6ter/direct) |
 
 | #23 | [BFM TV](https://www.rmcbfmplay.com/direct-tv/rmc-story) |
 
