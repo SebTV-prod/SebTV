@@ -8,6 +8,8 @@
 
 | #3 | France 3 | [stream](https://www.france.tv/france-3/direct.html) |
 
+| #4 | Canal+ | [stream #1](https://www.canalplus.com/live/?channel=601) | [stream #2](https://www.dailymotion.com/video/x5gv6be&autoplay=1) | 
+
 | #5 | France 5 | [stream]https://www.france.tv/france-5/direct.html) |
 
 | #7 | ARTE | [stream](https://www.arte.tv/fr/direct/) |
@@ -16,7 +18,7 @@
 
 | #14 | France 4 | [stream](https://www.france.tv/france-4/direct.html) |
 
-| #27 | France Info | [stream #1](https://www.france.tv/franceinfo/direct.html) | [stream #2](https://www.dailymotion.com/video/x4rdeu6) | [stream #3](https://www.youtube.com/watch?v=Z-Nwo-ypKtM)
+| #27 | France Info | [stream #1](https://www.france.tv/franceinfo/direct.html) | [stream #2](https://www.dailymotion.com/video/x4rdeu6) | [stream #3](https://www.youtube.com/watch?v=Z-Nwo-ypKtM) |
 
 
 ## France : Outre-Mer
