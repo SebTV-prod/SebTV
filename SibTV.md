@@ -60,10 +60,42 @@
 
 | #41 | [Paris Première](https://www.m6.fr/pp/direct) |
 
+| #45 | [Planète+](https://www.canalplus.com/live/?channel=270) |
+
 ## France : Outre-Mer
 
-| Canal | M3U8 | Web |
+#### Guadeloupe
+| #1 | [Guadeloupe La 1ère]() |
 
+#### Martinique
+| #1 | [Martinique La 1ère]() |
+
+| #2 | [viàATV]() |
+
+#### Guyane Française
+| #1 | [Guyane La 1ère]() |
+
+#### La Réunion
+| #1 | [Réunion La 1ère]() |
+
+| #2 | [Antenne Réunion]() |
+
+#### Saint-Pierre-et-Miquelon
+| #1 | [SPM La 1ère]() |
+
+#### Mayotte
+| #1 | [Mayotte La 1ère]() |
+
+#### Wallis-et-Futuna
+| #1 | [WEF La 1ère]() |
+
+#### Polynésie Française
+| #1 | [Polynésie La 1ère]() |
+
+| #2 | [TNTV]() |
+
+#### Nouvelle-Calédonie
+| #1 | [NC La 1ère]() |
 
 
 ## France : Régionales
