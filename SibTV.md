@@ -12,7 +12,7 @@
 
 | #7 | ARTE | [logo](https://focus.telerama.fr/0000/00/01/clear-111.png) | [m3u8](https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/master.m3u8) | [web](https://www.arte.tv/fr/direct/) |
 
-| #8 | C8 | [logo](https://focus.telerama.fr/0000/00/01/clear-458.png) | [stream #1](https://www.dailymotion.com/video/x5gv5rr&autoplay=1) - [stream #2](https://www.canalplus.com/live/?channel=450) | [web](https://www.canalplus.com/chaines/c8)) |
+| #8 | C8 | [logo](https://focus.telerama.fr/0000/00/01/clear-446.png) | [stream #1](https://www.dailymotion.com/video/x5gv5rr&autoplay=1) | [stream #2](https://www.canalplus.com/live/?channel=450) | [web](https://www.canalplus.com/chaines/c8)) |
 
 | #14 | France 4 | [logo](https://focus.telerama.fr/0000/00/01/clear-78.png) | [m3u8](https://github.com/Sibprod/streams/raw/refs/heads/main/ressources/ftv/py/France4.m3u8) | [web](https://www.france.tv/france-4/direct.html) |
 
