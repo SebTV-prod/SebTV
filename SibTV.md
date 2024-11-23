@@ -2,6 +2,8 @@
 
 ## France : Chaînes Métropolitaines
 
+#### Chaînes gratuites
+
 | #1 | [TF1](https://www.tf1.fr/tf1/direct) |
 
 | #2 | [France 2](https://www.france.tv/france-2/direct.html) |
@@ -53,6 +55,8 @@
 | #26 | [LCI](https://www.tf1.fr/lci/direct) |
 
 | #27 | [France Info (lien #1)](https://www.france.tv/franceinfo/direct.html) | [France Info (lien #2)](https://www.dailymotion.com/video/x4rdeu6) | [France Info (lien #3)](https://www.youtube.com/watch?v=Z-Nwo-ypKtM) |
+
+#### Chaînes payantes
 
 | #41 | [Paris Première](https://www.m6.fr/pp/direct) |
 
