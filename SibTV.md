@@ -2,9 +2,7 @@
 
 ## France : Chaînes Métropolitaines
 
-| Canal | M3U8 | Web |
-| - | - | - | - | - | - |
-| TF1 | [m3u8](https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tf1.m3u8) - [m3u8#2] () | [web](https://www.tf1.fr/tf1/direct) |
+|TF1|[m3u8](https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tf1.m3u8)|[web](https://www.tf1.fr/tf1/direct)|
 
 ## France : Outre-Mer
 
