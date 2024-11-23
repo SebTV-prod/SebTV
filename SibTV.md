@@ -2,7 +2,7 @@
 
 ## France : Chaînes Métropolitaines
 
-|TF1|[logo](https://focus.telerama.fr/0000/00/01/clear-192.png)|[m3u8](https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tf1.m3u8)|[web](https://www.tf1.fr/tf1/direct)|
+| TF1 | [logo](https://focus.telerama.fr/0000/00/01/clear-192.png) | [m3u8](https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tf1.m3u8) | [web](https://www.tf1.fr/tf1/direct) |
 
 ## France : Outre-Mer
 
