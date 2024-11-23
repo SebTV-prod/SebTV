@@ -26,6 +26,10 @@
 
 | #14 | [France 4](https://www.france.tv/france-4/direct.html) |
 
+| #16 | [CNews (live #1)](https://www.canalplus.com/live/?channel=480) | [CNews (live #2)](https://www.dailymotion.com/video/x3b68jn) |
+
+| #17 | [CStar (live #1)](https://www.canalplus.com/live/?channel=513) | [CStar (live #2)](https://www.dailymotion.com/video/x5gv5v0) |
+
 | #20 | [TF1 Séries Films](https://www.tf1.fr/tf1-series-films/direct) |
 
 | #21 | [L'Equipe (lien #1)](https://www.dailymotion.com/video/x2lefik) | [L'Equipe (lien #2)](https://www.tf1.fr/l-equipe/direct) |
