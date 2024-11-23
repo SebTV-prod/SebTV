@@ -54,7 +54,7 @@
 
 | #27 | [France Info (lien #1)](https://www.france.tv/franceinfo/direct.html) | [France Info (lien #2)](https://www.dailymotion.com/video/x4rdeu6) | [France Info (lien #3)](https://www.youtube.com/watch?v=Z-Nwo-ypKtM) |
 
-| #41 | [M6](https://www.m6.fr/pp/direct) |
+| #41 | [Paris Première](https://www.m6.fr/pp/direct) |
 
 ## France : Outre-Mer
 
