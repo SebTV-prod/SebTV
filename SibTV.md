@@ -418,7 +418,7 @@
 
 | #7 | [Carac 4](https://carac.tv/lives/carac-4) |
 
-| #8 | [TV5 Monde (FBSM](https://www.tv5monde.com/tv/direct/4/tv5monde-france-belgique-suisse-monaco) |
+| #8 | [TV5 Monde (FBSM)](https://www.tv5monde.com/tv/direct/4/tv5monde-france-belgique-suisse-monaco) |
 
 | #9 | [RTS Info](https://www.rts.ch/play/tv/direct/rts-info?tvLiveId=1967124) | (geo-IP CH)
 
