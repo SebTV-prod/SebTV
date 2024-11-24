@@ -166,6 +166,8 @@
 
 | #2 | [TNTV](https://www.tntv.pf/direct/) |
 
+|[Tahiti Webradio](https://www.twitch.tv/tahitiwebradio?&ab_channel=tahitiwebradio) |
+
 ## Nouvelle-Calédonie
 | #1 | [NC La 1ère](https://www.france.tv/la1ere/nouvelle-caledonie/direct.html) |
 
