@@ -1,8 +1,7 @@
-# Canaux TNT
 
-## France : Chaînes Métropolitaines
+# FRANCE
 
-#### Chaînes gratuites
+### Chaînes TNT gratuites
 
 | #1 | [TF1](https://www.tf1.fr/tf1/direct) |
 
@@ -56,23 +55,43 @@
 
 | #27 | [France Info (lien #1)](https://www.france.tv/franceinfo/direct.html) | [France Info (lien #2)](https://www.dailymotion.com/video/x4rdeu6) | [France Info (lien #3)](https://www.youtube.com/watch?v=Z-Nwo-ypKtM) |
 
-#### Chaînes payantes
+### Chaînes TNT payantes
 
 | #41 | [Paris Première](https://www.m6.fr/pp/direct) |
 
 | #45 | [Planète+](https://www.canalplus.com/live/?channel=270) |
 
-## France : Outre-Mer
+### Autres Chaînes
+
+| [France TV Docs](https://www.france.tv/documentaire/direct.html) |
+
+| [France TV Séries](https://www.france.tv/serie/direct.html) |
+
+| [France TV Slash](https://www.twitch.tv/france_tv_slash?&ab_channel=france_tv_slash) |
+
+# OUTRE-MER
 
 #### Guadeloupe
 | #1 | [Guadeloupe La 1ère](https://www.france.tv/la1ere/guadeloupe/direct.html) |
 
-| #11 | [ETV]() |
+| #3 | [Canal 10](https://www.youtube.com/@canal10c10fm/streams) |
+
+| #11 | [ETV](https://www.etv.gp/direct/) |
+
+| [G4 TV (ex-Guadeloupe 4 TV)](https://www.twitch.tv/guadeloupe4tv?&ab_channel=guadeloupe4tv) |
+
+| [Madras TV](https://player.infomaniak.com/?channel=71235&player=11160) |
 
 #### Martinique
-| #1 | [Martinique La 1ère](https://www.france.tv/la1ere/martinique/direct.html) |
+| #1 | [Martinique La 1ère (TV)](https://www.france.tv/la1ere/martinique/direct.html) |
 
 | #2 | [viàATV](https://viaatv.tv/direct-tv/) |
+
+| [Fusion TV](https://player.infomaniak.com/?channel=71605&player=11390) 
+
+| [TV Famille]() |
+
+| [Zouk TV](https://www.youtube.com/@Zouk972TV/streams) |
 
 #### Guyane Française
 | #1 | [Guyane La 1ère](https://www.france.tv/la1ere/guyane/direct.html) |
@@ -102,79 +121,148 @@
 | #1 | [NC La 1ère](https://www.france.tv/la1ere/nouvelle-caledonie/direct.html) |
 
 
-## France : Régionales
+# RÉGIONS MÉTROPOLITAINES DE FRANCE
 
-#### Auvergne - Rhône-Alpes
-| #30 | [BFM Régions (Lyon-Métropole)]() |
+## Auvergne - Rhône-Alpes
+#### Chaînes TNT
+| #30 | [BFM Régions (Lyon-Métropole)](https://www.bfmtv.com/lyon/en-direct/) |
 
 | #31 | [8 Mont-Blanc]() |
 
-| #31 | [TL7]() |
+| #31 | [TL7](https://www.twitch.tv/tl7loire?&ab_channel=TL7Loire) |
 
-| #33 | [LDV Média]() |
-
-| #38 | [Télégrenoble - Isère]() |
+| #38 | [Télégrenoble - Isère](https://www.twitch.tv/telegrenoble?&ab_channel=telegrenoble) |
 
 | #801 | [Alpe d'Huez TV]() |
 
-#### Bretagne
+#### Autres chaînes
+| [Lyon Capitale TV]() |
+
+| [Maurienne TV lien #1](https://www.youtube.com/watch?v=5ARTNKq49WY) | [Maurienne TV lien #2](https://www.twitch.tv/mauriennisezvous?&ab_channel=MauriennisezVous) |
+
+| [Morzine TV](https://www.youtube.com/watch?v=9Od06W-WBg0) |
+
+| [Valloire TV](https://www.twitch.tv/valloiretv?&ab_channel=ValloireTV) |
+
+## Bretagne
 | #31 | [Tébéo]() |
 
 | #35 | [TVR]() |
 
-#### Bourgogne - Franche-Comté
+## Bourgogne - Franche-Comté
 
-#### Centre-Val de Loire
+| [Brionnais TV]() |
+
+| [Concept Radio]() |
+
+## Centre-Val de Loire
 | #36 | [BIP TV]() |
 
 | #37 | [TV Tours - Val de Loire]() |
 
-#### Corse
+## Corse
 | #30 | [Tele Paese]() |
 
 | #33 | [Via Stella]() |
 
-#### Grand-Est
-| #30 | [BFM Régions (Alsace)]()|
+## Grand-Est
+#### Chaînes TNT
+| #30 | [BFM Régions (Alsace)](https://www.bfmtv.com/alsace/en-direct/)|
 
 | #31 | [Vosges TV]() |
 
-| #32 | [Canal 32]() |
+| #32 | [Canal 32](https://www.canal32.fr/direct) |
 
 | #33 | [Moselle TV]() |
 
-#### Hauts-de-France
-| #30 | [Wéo (La Voix du Nord)]() |
+#### Autres chaînes
+| #77 | [TV7 Colmar]() |
 
-| #31 | [BFM Régions (Grand Lille)]() |
+| #82 | [Mosaïk Cristal]() |
 
-| #32 | [BFM Régions (Grand Littoral)]() |
+| #83 | [TV8 Moselle-Est]() |
 
-| #34 | [Ma Télé]() |
+| #98 | [TV3V]() |
 
-| #35 | [Wéo (Le Courrier Picard)]() |
+| [Canal Local Grosbliederstroff]() |
 
-#### Île-de-France
-| #30 | [BFM Régions (Paris-IDF)]() |
+| [Nancy Web TV]() |
+
+| [Puissance Télévision]() |
+
+## Hauts-de-France
+#### Chaînes TNT
+| #30 | [Wéo (La Voix du Nord)](https://www.weo.fr/direct/) |
+
+| #31 | [BFM Régions (Grand Lille)](https://www.bfmtv.com/grand-lille/en-direct/) |
+
+| #32 | [BFM Régions (Grand Littoral)](https://www.bfmtv.com/grand-littoral/en-direct/) |
+
+| #34 | [Ma Télé](https://matele.tv/direct/#/?playlistId=0&videoId=0) |
+
+| #35 | [Wéo (Le Courrier Picard)](https://www.weo.fr/direct-picardie/) |
+
+#### Autres chaînes
+| [ASTV](https://www.twitch.tv/astvstream?&ab_channel=astvstream) |
+
+| [ILTV (lien #1](https://www.iltv.fr/le-direct/) | [ILTV (lien #2](https://www.twitch.tv/iltvfrance?&ab_channel=ILTVfrance) |
+
+| [La Chaîne 32](https://www.youtube.com/watch?v=YZA1Ak_eBYc) |
+
+| [Télé Gohelle](https://telegohelle.agglo-lenslievin.fr/#live) |
+
+## Île-de-France
+#### Chaînes TNT
+| #30 | [BFM Régions (Paris-IDF)](https://www.bfmtv.com/paris/en-direct/) |
 
 | #32 | [20 Minutes TV](https://www.20minutes.tv/direct/) |
 
 | #34 | [Le Figaro TV (lien #1)](https://video.lefigaro.fr/) | [Le Figaro TV (lien #2)](https://www.tf1.fr/le-figaro/direct) |
 
-#### Normandie
-| #33 | [BFM Régions (Normandie)]() |
+#### Autres Chaînes
+| [DCM TV](https://www.dcmtv.fr/direct) |
 
-#### Nouvelle-Aquitaine
-| #30 | [TVPI]() |
+| [IDF TV](https://idf-tv.fr/direct/) |
 
-| #33 | [TV7 Sud-Ouest]() |
+| [P2MTV](https://vdo2.pro-fhi.net/hybrid-stream-video-widget/ckemeovi) |
 
-#### Occitanie
+| [TV 78](https://tv78.com/le-live/) |
+
+## Normandie
+
+#### Chaînes TNT
+| #33 | [BFM Régions (Normandie)](https://www.bfmtv.com/normandie/en-direct/) |
+
+#### Autres Chaînes
+| [Clim Live TV](https://www.twitch.tv/climtvlive?&ab_channel=climtvlive) |
+
+## Nouvelle-Aquitaine
+#### Chaînes TNT
+| #30 | [TVPI](https://www.youtube.com/@DiffusionTVPI) |
+
+| #33 | [TV7 Sud-Ouest](https://www.sudouest.fr/lachainetv7/) |
+
+#### Autres Chaînes
+| #31 | [7 à Limoges](https://www.youtube.com/watch?v=01YW0AL_V08&t=41s) |
+| [Bordo TV](https://bordofm.com/player-bordotv/) |
+| [Bordo Sport TV](https://bordofm.com/bordo-tv-sport/) |
+| [Kanaldude](https://live.kanaldude.eus/z_embed.php?autoplay=1) |
+| [NA TV](https://natv.fr/direct/) |
+| [NoA]() |
+| [Regard d'Ici TV]() |
+
+## Occitanie
+#### Chaînes TNT
 | #30 | [TV Tarn]() |
 
 | #31 | [viàOccitanie]() |
 
-#### Pays de la Loire
+#### Autres Chaînes
+| [C11 Media]() |
+| [Littoral TV]() |
+| [TV Sanctuaire ND-de-Lourdes]() |
+
+## Pays de la Loire
 | #30 | [Angers Télé]() |
 
 | #31 | [Télénantes]() |
@@ -185,25 +273,38 @@
 
 | #34 | [TV Vendée]() |
 
-#### Provence-Alpes-Côte d'Azur
-| #30 | [BFM Régions (Marseille-Provence)]() |
+## Provence-Alpes-Côte d'Azur
+#### Chaînes TNT
+| #30 | [BFM Régions (Marseille-Provence)](https://www.bfmtv.com/marseille/en-direct/) |
 
-| #30 | [BFM Régions (Toulon-Var)]() |
+| #30 | [BFM Régions (Toulon-Var)](https://www.bfmtv.com/var/en-direct/) |
 
-| #31 | [BFM Régions (Dici-Alpes du Sud)]() |
+| #31 | [BFM Régions (Dici-Alpes du Sud)](https://www.bfmtv.com/bfm-dici/alpes-du-sud/en-direct/) |
 
-| #31 | [BFM Régions (Dici-Provence)]() |
+| #31 | [BFM Régions (Dici-Provence)](https://www.bfmtv.com/bfm-dici/haute-provence/en-direct/) |
 
-| #31 | [BFM Régions (Nice-Côte d'Azur)]() |
+| #31 | [BFM Régions (Nice-Côte d'Azur)](https://www.bfmtv.com/cote-d-azur/en-direct/) |
 
-## Belgique : Wallonie
+#### Autres Chaînes
+| [Cannes Lérins TV](https://vdo2.pro-fhi.net/hybrid-stream-video-widget/uppodsfq) |
+| [La Chaîne Varoise](https://player.infomaniak.com/?channel=72382&player=11909) |
 
-| Canal | M3U8 | Web |
+# BELGIQUE
+
+| [AB3]() |
+
+| [ABXplore]() |
+
+| [BX1]() | 
+
+| [LN24]() |
+
+| [Quatre]() | 
 
 
-## Suisse
+# SUISSE
 
-#### Cantons de Berne, Fribourg, Genève, Jura, Neuchâtel et Vaud
+#### Chaînes TNT
 | #1 | [RTS 1](https://www.rts.ch/play/tv/direct/rts-1?tvLiveId=3608506) | (geo-IP CH)
 
 | #2 | [RTS 2](https://www.rts.ch/play/tv/direct/rts-2?tvLiveId=3608517) | (geo-IP CH)
@@ -222,82 +323,97 @@
 
 | #9 | [RTS Info](https://www.rts.ch/play/tv/direct/rts-info?tvLiveId=1967124) | (geo-IP CH)
 
+#### Autres chaînes
 | [Canal+ Suisse](https://www.canalplus.com/ch/live/?channel=702) | (diffuse CNews hors geo-IP CH)
 
 | [C8 (fenêtre pub CH)](https://www.canalplus.com/ch/live/?channel=831) |
 
 | [CStar (fenêtre pub CH)](https://www.canalplus.com/ch/live/?channel=832) |
 
-## Canada 
+# CANADA 
 
-#### Québec
-| 1 | [CBC] |
+### Chaînes Anglophones
+| [CBC]() |
 
-| 2 | [Ici Télé] |
+| [City]() |
 
-| 10 | [TVA] |
+| [Global]() |
 
-| 15 | [Global] |
+| [PBS]() |
 
-| 26 | [Télé Québec] |
+### Chaînes Francophones
+| [ICI - La Chaîne Internationale]() |
 
-| 32 | [PBS] |
+| [Ici RDI]() |
 
-| 35 | [Noovo] |
+| [Ici Télé]() |
 
-| 47 | [ICI - La Chaîne Internationale] |
+| [Noovo]() |
 
-## Haïti
+| [Télé Québec]() |
 
-| Canal | M3U8 | Web |
+| [TVA]() |
 
-
-## Bénin
-
-| Canal | M3U8 | Web |
-
-
-## Cameroun
+# HAïTI
 
 | Canal | M3U8 | Web |
 
 
-## Congo : Brazzaville
+# AFRIQUE
+
+### Bénin
+| Canal | M3U8 | Web |
+
+### Burkina Faso
+
+
+### Cameroun
 
 | Canal | M3U8 | Web |
 
 
-## Congo : Kinshasa
+### République du Congo
 
 | Canal | M3U8 | Web |
 
 
-## Côte d'Ivoire
+### République Démocratique du Congo
 
 | Canal | M3U8 | Web |
 
 
-## Djibouti
+### Côte d'Ivoire
 
 | Canal | M3U8 | Web |
 
 
-## Gabon
+### Djibouti
 
 | Canal | M3U8 | Web |
 
 
-
-## Guinée
-
-| Canal | M3U8 | Web |
-
-
-## Sénégal
+### Gabon
 
 | Canal | M3U8 | Web |
 
 
-## Togo
+### Guinée
+
+| Canal | M3U8 | Web |
+
+### Maroc
+
+### Niger
+
+
+### Sénégal
+
+| Canal | M3U8 | Web |
+
+
+### Tchad
+
+
+### Togo
 
 | Canal | M3U8 | Web |
