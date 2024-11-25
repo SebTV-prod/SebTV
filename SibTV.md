@@ -540,7 +540,7 @@
 
 | [Island TV](https://islandtv.tv/watch-live/#island-tv) |
 
-| [Island TV Plus]([https://islandtv.tv/watch-live/#island-tv](https://islandtv.tv/watch-live/#island-tv-plus) | 
+| [Island TV Plus](https://islandtv.tv/watch-live/#island-tv-plus) | 
 
 # ITALIE
 
