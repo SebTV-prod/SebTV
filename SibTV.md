@@ -480,6 +480,32 @@
 
 | [VTM 4](https://www.vtmgo.be/vtmgo/live-kijken/vtm4) | (geo-IP BE)
 
+# ITALIE
+
+## Val d'Aoste
+
+### Chaînes TNT
+
+| #75 | [France 24 (Français)](https://www.youtube.com/watch?v=l8PMl7tUDIE) |
+
+| #77 | [TV5 Monde (Europe)](https://europe.tv5monde.com/fr/live/group) | (geo-IP hors FR)
+
+# MONACO
+
+### Chaînes TNT
+
+| #70 | [Monaco Info](https://monacoinfo.com/) |
+
+| #71 | [TV Monaco](https://videos.tvmonaco.com/content/le-direct) |
+
+| #772 | [Radio Monte-Carlo TV](https://www.radiomontecarlo.net/sezioni/11995/tv) | (geo-IP IT pour le visionnage en direct sur le site)
+
+### Autres Chaînes
+
+| #78 | [Superyacht.TV](https://superyacht.tv/super-yacht-tv-live-tv/) |
+
+| #79 | [GEM TV](https://gem-tv.com/tv) |
+
 # SUISSE
 
 ### Chaînes TNT
@@ -541,14 +567,6 @@
 | [Island TV](https://islandtv.tv/watch-live/#island-tv) |
 
 | [Island TV Plus](https://islandtv.tv/watch-live/#island-tv-plus) | 
-
-# ITALIE
-
-## Val d'Aoste
-
-| #75 | [France 24 (Français)](https://www.youtube.com/watch?v=l8PMl7tUDIE) |
-
-| #77 | [TV5 Monde (Europe)](https://europe.tv5monde.com/fr/live/group) | (geo-IP hors FR)
 
 # AFRIQUE
 
