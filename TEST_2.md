@@ -12,4 +12,4 @@
 | 17 | CStar | [>](https://geo.dailymotion.com/player.html?video=x5gv5v0) | <img height="20" src="https://s2.dmcdn.net/u/28r9J1U75b5fBuEuT/240x240"/> |
 | 21 | L'Equipe | [>](https://geo.dailymotion.com/player.html?video=x2lefik) | <img height="20" src="https://s2.dmcdn.net/u/2ARqh1c-h7sBe-ssc/240x240"/> |
 | 27 | France Info | [>](https://www.youtube.com/embed/Z-Nwo-ypKtM) | <img height="20" src="https://yt3.ggpht.com/ytc/AIdro_nHB3lxXh8PcGgMTgBPmFKovSbKRxBTavrjbjomHTg1HpFp=s48-c-k-c0x00ffffff-no-rj"/> |
-| 75 | France 24 | [>](https://www.youtube.com/embed/Z-Nwo-ypKtM) | <img height="20" src="https://yt3.ggpht.com/ytc/AIdro_k9aU_SRhYAWJjQ6AO7uzQDZE5mb7gmv4synLrC7hEWGjE=s48-c-k-c0x00ffffff-no-rj"/> | numérotation valable uniquement dans le Val d'Aoste (Italie) |
+| 75 | France 24 | [>](https://www.youtube.com/embed/l8PMl7tUDIE) | <img height="20" src="https://yt3.ggpht.com/ytc/AIdro_k9aU_SRhYAWJjQ6AO7uzQDZE5mb7gmv4synLrC7hEWGjE=s48-c-k-c0x00ffffff-no-rj"/> | numérotation valable uniquement dans le Val d'Aoste (Italie) |
