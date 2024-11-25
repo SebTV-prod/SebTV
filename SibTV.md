@@ -574,18 +574,23 @@
 
 ### Chaînes TNT
 
+| #2 | [Canal Algérie](https://www.entv.dz/live-canal-algerie/) |
 
 ### Autres Chaînes
 
+| [CNA Sat](https://www.creacast.com/play.php?su=cna) |
 
 ## Bénin
 
 ### Chaînes TNT
 
+| #1 | [ORTB - Bénin TV](https://srtb.bj/benintv/) |
+
+| #2 | [Ado FM TV - BTV Juniors](https://srtb.bj/directbenintvjuniors/) |
 
 ### Autres Chaînes
 
-
+| [Bénin Web TV](https://beninwebtv.bj/watch/TOzG5cKcnd1flpi) |
 
 ## Burkina Faso
 
