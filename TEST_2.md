@@ -25,10 +25,10 @@
 | LCN    | Channel        | Link  | Logo | Particularité |
 |:----:|:--------------:|:-----:|:----:|:-------------:|
 | 75 | France 24 | [>](https://www.youtube.com/embed/l8PMl7tUDIE) | <img height="20" src="https://yt3.ggpht.com/ytc/AIdro_k9aU_SRhYAWJjQ6AO7uzQDZE5mb7gmv4synLrC7hEWGjE=s48-c-k-c0x00ffffff-no-rj"/> | LCN valable pour tout poste recevant les émetteurs du Val d'Aoste |
-| 77 | TV5 Monde Europe | [>](https://europe.tv5monde.com/fr/live/group) | <img height="20" src="https://yt3.ggpht.com/Q9R6fW605FVhF0J_hCWENp6W1pe9LdtuKq7oZ-dS6fS8a4CVvN9f9iRBr8fNQqBUBfZ2SrRgrug=s48-c-k-c0x00ffffff-no-rj"/> | LCN valable pour tout poste recevant les émetteurs du Val d'Aoste |
+| 77 | TV5 Monde Europe | [>](https://europe.tv5monde.com/fr/live/group) | <img height="20" src="https://yt3.ggpht.com/Q9R6fW605FVhF0J_hCWENp6W1pe9LdtuKq7oZ-dS6fS8a4CVvN9f9iRBr8fNQqBUBfZ2SrRgrug=s48-c-k-c0x00ffffff-no-rj"/> | LCN valable pour tout poste recevant les émetteurs du Val d'Aoste. Lien geo-IP hors FR |
 
 <h2> TNT SUISSE </h2>
 
 | LCN    | Channel        | Link  | Logo | Particularité |
 |:----:|:--------------:|:-----:|:----:|:-------------:|
-| 08 | TV5 Monde FBSM | [>](https://www.tv5monde.com/tv/direct/4/tv5monde-france-belgique-suisse-monaco) | <img height="20" src="https://yt3.ggpht.com/Q9R6fW605FVhF0J_hCWENp6W1pe9LdtuKq7oZ-dS6fS8a4CVvN9f9iRBr8fNQqBUBfZ2SrRgrug=s48-c-k-c0x00ffffff-no-rj"/> | LCN valable sur tout poste recevant les émetteurs du Salève |
+| 08 | TV5 Monde FBSM | [>](https://www.tv5monde.com/tv/direct/4/tv5monde-france-belgique-suisse-monaco) | <img height="20" src="https://yt3.ggpht.com/Q9R6fW605FVhF0J_hCWENp6W1pe9LdtuKq7oZ-dS6fS8a4CVvN9f9iRBr8fNQqBUBfZ2SrRgrug=s48-c-k-c0x00ffffff-no-rj"/> | LCN valable sur tout poste recevant les émetteurs du Salève. Lien geo-IP FR |
