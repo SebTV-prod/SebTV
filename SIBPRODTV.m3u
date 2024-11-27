@@ -90,6 +90,12 @@ https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/592.m3u8
 #EXTINF:-1 tvg-chno="39" tvg-logo="https://www.molatv.cat/images/molahitstv.png" group-title="Musique",Molahits TV
 https://ventdelnord.tv:8080/mola/directe.m3u8
 
+#EXTINF:-1 tvg-chno="69" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/deejaytv.png" group-title="Musique",Deejay TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="70" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radioitaliatv.png" group-title="Musique",Radio Italia
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+
 #EXTINF:-1 tvg-chno=" " tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/activatv.png" group-title="Musique",Activa TV
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 
