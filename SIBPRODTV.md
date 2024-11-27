@@ -24,7 +24,7 @@
 
 <h2> Musique </h2>
 
-<h2> Musique </h2>
+<h2> Style de Vie </h2>
 
 | LCN    | Channel        | Link  | Logo |
 |:----:|:--------------:|:-----:|:----:|
