@@ -44,7 +44,7 @@ https://strhls.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/str_lifetv_life
 #EXTINF:-1 tvg-chno="15" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQENAVwaA0-sgJ3fFEvCbm2EaBWxCNH1q6J_w&s" group-title="Divertissement",My Comedy
 https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/590.m3u8
 
-#EXTINF:-1 tvg-chno="29" tvg-logo="https://www.tivu.tv/_common/images/loghi_epg/logo_73.png" group-title="Divertissement",[29] La 7d
+#EXTINF:-1 tvg-chno="29" tvg-logo="https://www.tivu.tv/_common/images/loghi_epg/logo_73.png" group-title="Divertissement",La 7d
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
 
 #EXTINF:-1 tvg-chno="32" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-701.png" group-title="Divertissement",20 Minutes TV
@@ -100,7 +100,7 @@ https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 
 ## RADIOS ##
-#EXTINF:-1 tvg-chno="36" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtl1025tv.png" group-title="TNT|Italien",[36] RTL 102.5
+#EXTINF:-1 tvg-chno="36" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtl1025tv.png" group-title="Radios",RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 
 #EXTINF:-1 tvg-chno=" " tvg-logo=" " group-title="Radios",Radio Extremix
