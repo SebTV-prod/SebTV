@@ -22,6 +22,9 @@
 | 71 | TV Monaco | [Live officiel](https://videos.tvmonaco.com/content/le-direct) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/TVMonaco_2023.svg/langfr-150px-TVMonaco_2023.svg.png"/> | Disponible également sur le Service Universel Numérique (LCN 01) et la Box Monaco Telecom (LCN 09) |
 
 <h3> Autres Chaînes </h3>
+
+| LCN    | Channel        | Link  | Logo | Particularité |
+|:----:|:--------------:|:-----:|:----:|:-------------:|
 | 79 | GEM TV | [Live officiel](https://gem-tv.com/tv) | <img height="20" src="https://api.gem-tv.com/asset/7toh590lxzoc084g_90e844e3-1f0c-4035-83c2-c839167623cc.svg"/> | LCN Service Universel Numérique; Disponible également sur la Box Monaco Telecom (LCN 79) |
 | 88 | Superyacht.TV | [Live officiel](https://superyacht.tv/super-yacht-tv-live-tv/) | <img height="20" src="https://superyacht.tv/wp-content/uploads/2022/06/Logo-Superyacht-tv-white-2048x217.png"/> | LCN Service Universel Numérique; Disponible également sur la Box Monaco Telecom (LCN 78) |
 
