@@ -99,9 +99,15 @@ https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 #EXTINF:-1 tvg-chno=" " tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/activatv.png" group-title="Musique",Activa TV
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 
+#EXTINF:-1 tvg-chno=" " tvg-logo="https://i.ibb.co/BPzb19X/melody.png",Melody
+https://live.creacast.com/telemelody/smil:telemelody-211112.smil/master.m3u8
+
 ## RADIOS ##
 #EXTINF:-1 tvg-chno="36" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtl1025tv.png" group-title="Radios",RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+
+#EXTINF:-1 tvg-chno=" " tvg-logo=" " group-title="Radios",Fun Radio (Belgique)
+https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
 
 #EXTINF:-1 tvg-chno=" " tvg-logo=" " group-title="Radios",Radio Extremix
 https://srv.webtvmanager.fr:3630/live/vtujxygnlive.m3u8
