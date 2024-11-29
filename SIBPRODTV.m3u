@@ -88,13 +88,16 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserA
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tgcom24.png" group-title="Information",TGCom 24 
 https://ilglobotv-live.global.ssl.fastly.net/TGCOM24/Live.m3u8
 
-#EXTINF:-1 tvg-chno=" " tvg-logo=https://www.lyngsat.com/logo/tv/bb/bfm-2-fr.svg" group-title="",BFM 2
+#EXTINF:-1 tvg-chno=" " tvg-logo=https://www.lyngsat.com/logo/tv/bb/bfm-2-fr.svg" group-title="Information",BFM 2
 https://live-cdn-bfm2-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 
-#EXTINF:-1 tvg-chno=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png" group-title="",El Toro TV
+#EXTINF:-1 tvg-chno=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png" group-title="Information",El Toro TV
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 
-#EXTINF:-1 tvg-chno=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Logo_VRT_NWS.png/1200px-Logo_VRT_NWS.png" group-title="",VRT Nws
+#EXTINF:-1 tvg-chno=" " tvg-logo="https://i.ibb.co/nR2HsVr/ln24.png" group-title="Information",LN24
+https://live-ln24.digiteka.com/1911668011/index.m3u8
+
+#EXTINF:-1 tvg-chno=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Logo_VRT_NWS.png/1200px-Logo_VRT_NWS.png" group-title="Information",VRT Nws
 https://live.vrtcdn.be/groupa/live/e005a12f-1a23-4141-8819-f29621e5839e/live.isml/dash/live.mpd
 
 ## JEUNESSE ##
@@ -103,6 +106,9 @@ https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/C33.png" group-title="Jeunesse",Super 3
 https://directes-tv-int.3catdirectes.cat/live-content/super3-hls/master.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-logo="https://gamako.net/iptv/logos/round/fitinitv.png" group-title="Jeunesse",Fitini TV
+https://video1.getstreamhosting.com:1936/8492/8492/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/VRT_Ketnet_Junior_logo_%282018-%29.png" group-title="Jeunesse",Ketnet Junior
 https://virtch.vrtcdn.be/v1/channel/KETNET_JUNIOR_PROD_MPEG_DASH/ketnet_junior_prod_mpeg_dash-dash.mpd
@@ -187,7 +193,13 @@ https://stream.rtl.lu/data/live/tele/rtlradiowebtv/1080p.m3u8
 #EXTINF:-1 tvg-chno=" " tvg-logo=" " group-title="Radios",RTL Today
 https://stream.rtl.lu/data/live/tele/rtltodayradio/1080p.m3u8
 
+#EXTINF:-1 tvg-chno=" " tvg-logo=" " group-title="Radios",RTS Couleur 3
+https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
+
 ## SÉRIES & CINÉMA ##
+#EXTINF:-1 tvg-chno=" " tvg-logo="https://gamako.net/iptv/logos/round/cinemax.png" group-title="Séries et Cinéma",Ciné Max
+https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8
+
 #EXTINF:-1 tvg-chno=" " tvg-logo="" group-title="Séries et Cinéma",Corazón
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4830
 
@@ -204,6 +216,9 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/84793/84793_264_live.
 
 #EXTINF:-1 tvg-chno=" " tvg-logo="https://afriquemaisonettravauxtv.com/wp-content/uploads/2024/07/logo_site_-removebg-preview-1.png" group-title="Style de Vie",Afrique Maison & Travaux TV
 https://ugftv.stream/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno=" " tvg-logo="https://i.imgur.com/uKaToAi.png" group-title="Style de Vie",Dieu TV
+https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
 
 #EXTINF:-1 tvg-chno=" " tvg-logo="https://static.wixstatic.com/media/2c7c47_68750fba00fe48a0a09d0f03e634890c~mv2.png/v1/fill/w_516,h_132,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo%20HANDICAP.png" group-title="Style de Vie",Handicap TV
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
