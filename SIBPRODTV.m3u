@@ -100,7 +100,7 @@ https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 
 #EXTINF:-1 tvg-chno=" " tvg-logo="https://i.ibb.co/BPzb19X/melody.png" group-title="Musique",Melody
-https://live.creacast.com/telemelody/smil:telemelody-211112.smil/master.m3u8
+https://live.creacast.com/telemelody/smil:telemelody-yjvCxE7x.smil/playlist.m3u8
 
 ## RADIOS ##
 #EXTINF:-1 tvg-chno="36" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtl1025tv.png" group-title="Radios",RTL 102.5
