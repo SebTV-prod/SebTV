@@ -15,10 +15,10 @@ https://strhls.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/str_lifetv_life
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://www.tivu.tv/_common/images/loghi_epg/logo_79.png" group-title="Général",La 7
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS/Live.m3u8
 
-#EXTINF:-1 tvg-chno="10" tvg-logo="https://play.rtl.lu/images/logo_rtl.svg" group-title="Général",RTL-TV Letzëburg
+#EXTINF:-1 tvg-chno="11" tvg-logo="https://play.rtl.lu/images/logo_rtl.svg" group-title="Général",RTL-TV Letzëburg
 https://stream.rtl.lu/data/live/tele/channel1/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="81" tvg-logo="https://play.rtl.lu/images/logo_rtlzwee.svg" group-title="Général",RTL Zwee
+#EXTINF:-1 tvg-chno="12" tvg-logo="https://play.rtl.lu/images/logo_rtlzwee.svg" group-title="Général",RTL Zwee
 https://stream.rtl.lu/data/live/tele/channel2/playlist.m3u8
 
 ## DÉCOUVERTE ##
@@ -49,6 +49,9 @@ https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/591.m3u8
 
 #EXTINF:-1 tvg-chno="10" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/TEN.png" group-title="Divertissement",Ten
 https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:26_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="12" tvg-logo="https://www.lyngsat.com/logo/tv/aa/a12-tv-fr.png" group-title="Divertissement",A12 TV
+https://video1.getstreamhosting.com:1936/8250/8250/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="15" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQENAVwaA0-sgJ3fFEvCbm2EaBWxCNH1q6J_w&s" group-title="Divertissement",My Comedy
 https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/590.m3u8
@@ -84,6 +87,9 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserA
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tgcom24.png" group-title="Information",TGCom 24 
 https://ilglobotv-live.global.ssl.fastly.net/TGCOM24/Live.m3u8
+
+#EXTINF:-1 tvg-chno=" " tvg-logo=https://www.lyngsat.com/logo/tv/bb/bfm-2-fr.svg" group-title="",BFM 2
+https://live-cdn-bfm2-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 
 #EXTINF:-1 tvg-chno=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png" group-title="",El Toro TV
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
@@ -157,11 +163,29 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/pl
 #EXTINF:-1 tvg-chno=" " tvg-logo="https%3A%2F%2Fcdn-profiles.tunein.com%2Fs2109%2Fimages%2Flogog.png" group-title="Radios",Fun Radio (Belgique)
 https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
 
+#EXTINF:-1 tvg-chno=" " tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/bel-rtl-logo-png-transparent.png" group-title="Radios",bel RTL
+https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
+
 #EXTINF:-1 tvg-chno=" " tvg-logo=" " group-title="Radios",MNM
 https://live-radio.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.isml/.m3u8
 
+#EXTINF:-1 tvg-chno=" " tvg-logo="https://www.radiocontact.be/app/themes/radiocontact/static/assets/images/logo@2x.png" group-title="Radios",Radio Contact
+https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
+
 #EXTINF:-1 tvg-chno=" " tvg-logo="https%3A%2F%2Fdbs.radioline.fr%2Fpictures%2Fradio_0591071d8005b2b376441ee44af50083%2Flogo600.jpg" group-title="Radios",Radio Extremix
 https://srv.webtvmanager.fr:3630/stream/play.m3u8
+
+#EXTINF:-1 tvg-chno=" "  tvg-logo="https%3A%2F%2Fwww.fetedelaradio.com%2Fwp-content%2Fuploads%2FRadioMontBlanc-logo-bleu-vertical-20180920.png" group-title="Radios",Radio Mont-Blanc
+https://live.creacast.com/radiomontblanc-ch1/smil:radiomontblanc-ch1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno=" " tvg-logo=" " group-title="Radios",RTL Gold
+https://stream.rtl.lu/data/live/tele/rtlgold/1080p.m3u8
+
+#EXTINF:-1 tvg-chno=" " tvg-logo=" " group-title="Radios",RTL Radio (Letzëburg)
+https://stream.rtl.lu/data/live/tele/rtlradiowebtv/1080p.m3u8
+
+#EXTINF:-1 tvg-chno=" " tvg-logo=" " group-title="Radios",RTL Today
+https://stream.rtl.lu/data/live/tele/rtltodayradio/1080p.m3u8
 
 ## SÉRIES & CINÉMA ##
 #EXTINF:-1 tvg-chno=" " tvg-logo="" group-title="Séries et Cinéma",Corazón
@@ -184,7 +208,8 @@ https://ugftv.stream/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-chno=" " tvg-logo="https://static.wixstatic.com/media/2c7c47_68750fba00fe48a0a09d0f03e634890c~mv2.png/v1/fill/w_516,h_132,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo%20HANDICAP.png" group-title="Style de Vie",Handicap TV
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
 
-
+#EXTINF:-1 tvg-chno=" " tvg-logo="https://www.lyngsat.com/logo/tv/tt/tarotvision-es.png" group-title="Style de Vie",Tarotvision
+https://stream.andalhost.com/hls/tarotvision.m3u8
 
 
 
