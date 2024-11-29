@@ -15,6 +15,12 @@ https://strhls.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/str_lifetv_life
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://www.tivu.tv/_common/images/loghi_epg/logo_79.png" group-title="Général",La 7
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS/Live.m3u8
 
+#EXTINF:-1 tvg-chno="10" tvg-logo="https://play.rtl.lu/images/logo_rtl.svg" group-title="Général",RTL-TV Letzëburg
+https://stream.rtl.lu/data/live/tele/channel1/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="81" tvg-logo="https://play.rtl.lu/images/logo_rtlzwee.svg" group-title="Général",RTL Zwee
+https://stream.rtl.lu/data/live/tele/channel2/playlist.m3u8
+
 ## DÉCOUVERTE ##
 #EXTINF:-1 tvg-chno="3" tvg-logo="https://estaticos.tdt1.com/canales/logo33.jpg" group-title="Découverte",El 33 
 https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
@@ -26,16 +32,16 @@ https://static.lefigaro.fr/secom/tnt.m3u8
 https://traveltv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
 
 ## DIVERTISSEMENT ##
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/74/CARAC1_logo_2023.svg/langfr-200px-CARAC1_logo_2023.svg.png" group-title="Divertissement",Carac 1
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.lyngsat.com/logo/tv/cc/carac-1-ch.png" group-title="Divertissement",Carac 1
 https://event.vedge.infomaniak.com/livecast/event/manifest.m3u8
 
-#EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e8/CARAC2_logo_2023.svg/langfr-200px-CARAC2_logo_2023.svg.png" group-title="Divertissement",Carac 2
+#EXTINF:-1 tvg-chno="2" tvg-logo="https://www.lyngsat.com/logo/tv/cc/carac-2-ch.png" group-title="Divertissement",Carac 2
 https://onefmhd.vedge.infomaniak.com/livecast/onefmhd/manifest.m3u8
 
-#EXTINF:-1 tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/CARAC3_logo_2023.svg/langfr-200px-CARAC3_logo_2023.svg.png" group-title="Divertissement",Carac 3
+#EXTINF:-1 tvg-chno="3" tvg-logo="https://www.lyngsat.com/logo/tv/cc/carac-3-ch.png" group-title="Divertissement",Carac 3
 https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/manifest.m3u8
 
-#EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/02/CARAC4_logo_2023.svg/langfr-200px-CARAC4_logo_2023.svg.png" group-title="Divertissement",Carac 4
+#EXTINF:-1 tvg-chno="4" tvg-logo="https://www.lyngsat.com/logo/tv/cc/carac-4-ch.png" group-title="Divertissement",Carac 4
 https://edge20.vedge.infomaniak.com/livecast/compack_media_1/.m3u8
 
 #EXTINF:-1 tvg-chno="5" tvg-logo="https://play-lh.googleusercontent.com/5VutmeXOdk3qNnV2E5IVVcVVyh50MoM6Os02lx_2h0csmYGgAfcZ-tHKesg1n9X1HDQ=w240-h480-rw" group-title="Divertissement",D5TV 
@@ -79,31 +85,40 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserA
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tgcom24.png" group-title="Information",TGCom 24 
 https://ilglobotv-live.global.ssl.fastly.net/TGCOM24/Live.m3u8
 
-#EXTINF:-1 tvg-chno=" " tvg-logo="" group-title="",El Toro TV
+#EXTINF:-1 tvg-chno=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png" group-title="",El Toro TV
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 
+#EXTINF:-1 tvg-chno=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Logo_VRT_NWS.png/1200px-Logo_VRT_NWS.png" group-title="",VRT Nws
+https://live.vrtcdn.be/groupa/live/e005a12f-1a23-4141-8819-f29621e5839e/live.isml/dash/live.mpd
+
 ## JEUNESSE ##
-#EXTINF:-1 tvg-chno="2" tvg-logo=" " group-title="Jeunesse",Ado TV
+#EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LOGO_ADOTV.png" group-title="Jeunesse",Ado TV
 https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/C33.png" group-title="Jeunesse",Super 3
 https://directes-tv-int.3catdirectes.cat/live-content/super3-hls/master.m3u8
 
-## MUSIQUE ##
-#EXTINF:-1 tvg-chno="5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlKbZfD1F2SOHmSz6myjKkn9V0etc06fmgFw&s" group-title="Musique",D5 Music
-https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/592.m3u8
+#EXTINF:-1 tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/VRT_Ketnet_Junior_logo_%282018-%29.png" group-title="Jeunesse",Ketnet Junior
+https://virtch.vrtcdn.be/v1/channel/KETNET_JUNIOR_PROD_MPEG_DASH/ketnet_junior_prod_mpeg_dash-dash.mpd
 
+#EXTINF:-1 tvg-chno="" tvg-logo="https://static.wixstatic.com/media/76b12f_7f5399c067cd448cb08f1bc3a01e384f~mv2.png/v1/fill/w_320,h_276,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/antenita_logo_transparente_edited.png" group-title="Jeunesse",Pequeradio TV
+http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+
+## MUSIQUE ##
 #EXTINF:-1 tvg-chno="39" tvg-logo="https://www.molatv.cat/images/molahitstv.png" group-title="Musique",Molahits TV
 https://ventdelnord.tv:8080/mola/directe.m3u8
-
-#EXTINF:-1 tvg-chno="69" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/deejaytv.png" group-title="Musique",Deejay TV
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="70" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radioitaliatv.png" group-title="Musique",Radio Italia
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 
-#EXTINF:-1 tvg-chno=" " tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/activatv.png" group-title="Musique",Activa TV
+#EXTINF:-1 tvg-chno=" " tvg-logo="https%3A%2F%2Fbx-tv.com%2Fwp-content%2Fuploads%2F2021%2F05%2Factivatv.jpg" group-title="Musique",Activa TV
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
+
+#EXTINF:-1 tvg-chno=" " tvg-logo="https%3A%2F%2Ftheplatformtv.online%2Fupload%2Fimages%2Fca.jpg" group-title="Musique",Cadena Elite
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+
+#EXTINF:-1 tvg-chno=" " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlKbZfD1F2SOHmSz6myjKkn9V0etc06fmgFw&s" group-title="Musique",D5 Music
+https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/592.m3u8
 
 #EXTINF:-1 tvg-chno=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC900001LB_20241015T040425SQUARE.png" group-title="Musique",Émotion
 https://emotiontv.cdn.iftv.io/live.m3u8
@@ -111,12 +126,18 @@ https://emotiontv.cdn.iftv.io/live.m3u8
 #EXTINF:-1 tvg-chno=" " tvg-logo="https://i.ibb.co/BPzb19X/melody.png" group-title="Musique",Melody
 https://live.creacast.com/telemelody/smil:telemelody-yjvCxE7x.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno=" " tvg-logo=" " group-title="Musique",MTV 00's
+#EXTINF:-1 tvg-chno=" " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VH1.png" group-title="Musique",MTV 00's
 https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge/smil:259_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-chno=" " tvg-logo="https://www.vibee.tv/wp-content/uploads/2023/08/bitmap.png" group-title="Musique",V2Beat
+https://abr.de1se01.v2beat.live/playlist.m3u8
 
 ## RADIOS ##
 #EXTINF:-1 tvg-chno="36" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtl1025tv.png" group-title="Radios",RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+
+#EXTINF:-1 tvg-chno="69" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/deejaytv.png" group-title="Radios",Deejay TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="77" tvg-logo="https://www.radio104.it/wp-content/uploads/2020/08/cropped-LOGO-RADIO-104-LIKE-IT-NERO-rid.png" group-title="Radios",Radio 104
 https://57068da1deb21.streamlock.net/radio104/radio104/playlist.m3u8
@@ -133,14 +154,16 @@ https://stream.rdstv.radio/index.m3u8
 #EXTINF:-1 tvg-chno="266" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiozetatv.png" group-title="Radios",Radio Zeta
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
 
-#EXTINF:-1 tvg-chno=" " tvg-logo=" " group-title="Radios",Fun Radio (Belgique)
+#EXTINF:-1 tvg-chno=" " tvg-logo="https%3A%2F%2Fcdn-profiles.tunein.com%2Fs2109%2Fimages%2Flogog.png" group-title="Radios",Fun Radio (Belgique)
 https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
 
-#EXTINF:-1 tvg-chno=" " tvg-logo=" " group-title="Radios",Radio Extremix
-https://srv.webtvmanager.fr:3630/live/vtujxygnlive.m3u8
+#EXTINF:-1 tvg-chno=" " tvg-logo=" " group-title="Radios",MNM
+https://live-radio.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.isml/.m3u8
+
+#EXTINF:-1 tvg-chno=" " tvg-logo="https%3A%2F%2Fdbs.radioline.fr%2Fpictures%2Fradio_0591071d8005b2b376441ee44af50083%2Flogo600.jpg" group-title="Radios",Radio Extremix
+https://srv.webtvmanager.fr:3630/stream/play.m3u8
 
 ## SÉRIES & CINÉMA ##
-
 #EXTINF:-1 tvg-chno=" " tvg-logo="" group-title="Séries et Cinéma",Corazón
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4830
 
@@ -152,11 +175,16 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
 
 ## STYLE DE VIE ##
+#EXTINF:-1 tvg-chno="60" tvg-logo="https://www.lyngsat.com/logo/tv/jj/juwelo_tv_de.png" group-title="Style de Vie",Juwelo (Français)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/84793/84793_264_live.m3u8?latency=low
+
 #EXTINF:-1 tvg-chno=" " tvg-logo="https://afriquemaisonettravauxtv.com/wp-content/uploads/2024/07/logo_site_-removebg-preview-1.png" group-title="Style de Vie",Afrique Maison & Travaux TV
 https://ugftv.stream/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno=" " tvg-logo="https://static.wixstatic.com/media/2c7c47_68750fba00fe48a0a09d0f03e634890c~mv2.png/v1/fill/w_516,h_132,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo%20HANDICAP.png" group-title="Style de Vie",Handicap TV
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
+
+
 
 
 
