@@ -152,6 +152,9 @@ https://mondotv-mondotvkids-1-it.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-chno="" tvg-logo="https://static.wixstatic.com/media/76b12f_7f5399c067cd448cb08f1bc3a01e384f~mv2.png/v1/fill/w_320,h_276,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/antenita_logo_transparente_edited.png" group-title="Jeunesse",Pequeradio TV
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
+#EXTINF:-1 tvg-chno="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k6spR1AVLZ0ISqrFP-Z9JeBMHPpAc9T-pmFlG6_lSkNw=s160-c-k-c0x00ffffff-no-rj" group-title="Jeunesse",Xilam TV
+https://xilam-animation-1-fr.samsung.wurl.tv/3000.m3u8
+
 ## MUSIQUE ##
 #EXTINF:-1 tvg-chno="39" tvg-logo="https://www.molatv.cat/images/molahitstv.png" group-title="Musique",Molahits TV
 https://ventdelnord.tv:8080/mola/directe.m3u8
@@ -209,6 +212,9 @@ https://jmp2.uk/plu-65e5d9d2ec9fda0008c35f91.m3u8
 
 #EXTINF:-1 tvg-chno=" " tvg-logo="https://images.pluto.tv/channels/62e8cc10ca869f00078efca8/colorLogoPNG.png" group-title="Musique",VH1+ Music Legends
 https://jmp2.uk/plu-62e8cc10ca869f00078efca8.m3u8
+
+#EXTINF:-1 tvg-chno=" " tvg-logo="https://i.imgur.com/RMPVvGR.png" group-title="Musique",Zerouno TV Music
+https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
 
 ## RADIOS ##
 #EXTINF:-1 tvg-chno="36" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtl1025tv.png" group-title="Radios",RTL 102.5
