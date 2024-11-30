@@ -52,6 +52,9 @@ https://d18uxd7zigjv4y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-chno=" " tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/26510/logo_256_1717486539.jpg" group-title="Découverte",Voyages+
 https://streams2.sofast.tv/ptnr-limex/title-VOYAGES-FRE_LIMEX/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c30aa0d0-fb77-4f9b-8acf-b156ab5b969b/manifest.m3u8
 
+#EXTINF:-1 tvg-chno=" " tvg-logo="https://i.imgur.com/GbyLSc2.png" group-title="Découverte",Teatro TV
+https://m.iostream.it/hls/teatrotv/teatrotv.m3u8
+
 ## DIVERTISSEMENT ##
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.lyngsat.com/logo/tv/cc/carac-1-ch.png" group-title="Divertissement",Carac 1
 https://event.vedge.infomaniak.com/livecast/event/manifest.m3u8
@@ -82,6 +85,9 @@ https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
 
 #EXTINF:-1 tvg-chno="32" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-701.png" group-title="Divertissement",20 Minutes TV
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
+
+#EXTINF:-1 tvg-chno="833" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/SuperSix_TV_Logo.png" group-title="Divertissement",Super Six
+https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/chunklist_w582458576.m3u8
 
 #EXTINF:-1 tvg-chno=" " tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/23255/logo_256_1709055998.jpg" group-title="Divertissement",Next TV
 https://helga.iptv2022.com/Next_tv/index.m3u8
@@ -140,12 +146,18 @@ https://video1.getstreamhosting.com:1936/8492/8492/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-logo=" " group-title="Jeunesse",Japanim TV
 https://foxkidstv.be:3369/stream/play.m3u8
 
+#EXTINF:-1 tvg-chno="" tvg-logo="https://i.imgur.com/g7GXmFY.png" group-title="Jeunesse",Mondo TV Kids
+https://mondotv-mondotvkids-1-it.samsung.wurl.tv/3000.m3u8
+
 #EXTINF:-1 tvg-chno="" tvg-logo="https://static.wixstatic.com/media/76b12f_7f5399c067cd448cb08f1bc3a01e384f~mv2.png/v1/fill/w_320,h_276,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/antenita_logo_transparente_edited.png" group-title="Jeunesse",Pequeradio TV
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 ## MUSIQUE ##
 #EXTINF:-1 tvg-chno="39" tvg-logo="https://www.molatv.cat/images/molahitstv.png" group-title="Musique",Molahits TV
 https://ventdelnord.tv:8080/mola/directe.m3u8
+
+#EXTINF:-1 tvg-chno="63" tvg-logo="https://i.imgur.com/HNrKqGM.png" group-title="Musique",Radio Italia Trend
+https://radioitalia-samsungitaly.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 tvg-chno="70" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radioitaliatv.png" group-title="Musique",Radio Italia
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
@@ -170,6 +182,9 @@ https://live.creacast.com/telemelody/smil:telemelody-yjvCxE7x.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno=" " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VH1.png" group-title="Musique",MTV 00's
 https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge/smil:259_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-chno=" " tvg-logo="https%3A%2F%2Fwww.m2o.it%2Fwp-content%2Fthemes%2Fnetwork-m2o%2Fimg%2Flogo_m2o_1024x1024.png" group-title="Musique",Radio M2O
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b3232934.m3u8
 
 #EXTINF:-1 tvg-chno=" " tvg-logo="https://ritsatv.ru/POSTERS/tmf.jpg" group-title="Musique",TMF Rus
 http://195.9.195.3:8080/hls/201891.m3u8
@@ -297,6 +312,12 @@ https://jmp2.uk/sam-FRBA2200008H8.m3u8
 ## SPORT ##
 #EXTINF:-1 tvg-chno="60" tvg-logo="https://www.sportitalia.it/wp-content/uploads/2024/02/si_hd.png" group-title="Sport",Sportitalia 
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
+
+#EXTINF:-1 tvg-chno=" " tvg-logo="https://i.imgur.com/9lctpnP.png" group-title="Sport",Horse TV
+https://a-cdn.klowdtv.com/live2/horsetv_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-chno=" " tvg-logo=" " group-title="Sport",Nautical Channel
+https://a-cdn.klowdtv.com/live2/nautical_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-chno=" " tvg-logo=" " group-title="Sport",RMC Mecanic
 https://d3bb0xy15a32jc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3gcgvdj5b4sla/index.m3u8
