@@ -216,6 +216,9 @@ https://jmp2.uk/plu-65e5d9d2ec9fda0008c35f91.m3u8
 #EXTINF:-1 tvg-chno=" " tvg-logo="https://images.pluto.tv/channels/62e8cc10ca869f00078efca8/colorLogoPNG.png" group-title="Musique",VH1+ Music Legends
 https://jmp2.uk/plu-62e8cc10ca869f00078efca8.m3u8
 
+#EXTINF:-1 tvg-chno=" " tvg-logo=" " group-title="Musique",VIVA Russia
+http://195.9.195.3:8080/hls/180805.m3u8
+
 #EXTINF:-1 tvg-chno=" " tvg-logo="https://i.imgur.com/RMPVvGR.png" group-title="Musique",Zerouno TV Music
 https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
 
