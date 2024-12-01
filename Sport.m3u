@@ -7,5 +7,7 @@ https://d2l55nvfkhk4sg.cloudfront.net/master.m3u8
 https://d1mdvi698umja9.cloudfront.net/mgg.m3u8
 #EXTINF:-1 tvg-chno="" tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="Sport",MLB
 https://d1yqxv6gx128ca.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300RMCMECANICmono.png" group-title="Sport",RMC Mecanic
+https://d3bb0xy15a32jc.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-chno=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300007IY_20241015T042809SQUARE.png",RMC Talk Sport
 https://d21wdmv2hqydbt.cloudfront.net/index.m3u8
