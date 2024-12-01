@@ -1,19 +1,2 @@
 #EXTM3U
-#EXTINF:-1,GENERALISTES
-https://github.com/Sibprod/SibTV/raw/main/Generalistes.m3u
-#EXTINF:-1,DECOUVERTE
-https://github.com/Sibprod/SibTV/raw/main/Decouverte.m3u
-#EXTINF:-1,DIVERTISSEMENT
-https://github.com/Sibprod/SibTV/raw/main/Divertissement.m3u
-#EXTINF:-1,INFORMATION
-https://github.com/Sibprod/SibTV/raw/main/Information.m3u
-#EXTINF:-1,JEUNESSE
-https://github.com/Sibprod/SibTV/raw/main/Jeunesse.m3u
-#EXTINF:-1,MUSIQUE
-https://github.com/Sibprod/SibTV/raw/main/Musique.m3u
-#EXTINF:-1,RADIOS
-https://github.com/Sibprod/SibTV/raw/main/Radios.m3u
-#EXTINF:-1,SPORT
-https://github.com/Sibprod/SibTV/raw/main/Sport.m3u
-#EXTINF:-1,STYLE DE VIE
-https://github.com/Sibprod/SibTV/raw/main/StyleDeVie.m3u
+
