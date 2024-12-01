@@ -1,3 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="" tvg-logo="",MLB
+#EXTINF:-1 tvg-chno=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200004XH_20241015T040323SQUARE.png",L'Equipe Live 1
+https://d3awaj0f2u3w26.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-chno=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200005X2_20241015T040327SQUARE.png",L'Equipe Live 2
+https://d2l55nvfkhk4sg.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-chno=" " tvg-logo="",MLB
 https://d1yqxv6gx128ca.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-chno=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300007IY_20241015T042809SQUARE.png",RMC Talk Sport
+https://d21wdmv2hqydbt.cloudfront.net/index.m3u8
