@@ -722,20 +722,20 @@ https://d3pnbvng3bx2nj.cloudfront.net/TSN_The_Ocho.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00477-samsungelectron-worldpokertour-samsungfr/playlist.m3u8
 
 ## ALLEMAND ET LANGUES GERMANIQUES ##
-#EXTINF:-1 tvg-chno=" " tvg-logo=" " group-title="Radios",France Bleu (Elsass)
-https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/francebleuelsass.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-logo="https://i.imgur.com/fkW5Gbl.png" group-title="Généralistes",RTL-TV Letzëburg
 https://stream.rtl.lu/data/live/tele/channel1/playlist.m3u8
 #EXTINF:-1 tvg-chno="81" tvg-logo="https://i.imgur.com/7SmCtyy.png" group-title="Généralistes",RTL Zwee
 https://stream.rtl.lu/data/live/tele/channel2/playlist.m3u8
+#EXTINF:-1 tvg-chno=" " tvg-logo=" " group-title="Radios",France Bleu (Elsass)
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/francebleuelsass.m3u8
+#EXTINF:-1 tvg-chno="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/MNM_logo_2024.svg/langfr-150px-MNM_logo_2024.svg.png" tvg-logo=" " group-title="Radios",MNM
+https://live-radio.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.isml/.m3u8
 #EXTINF:-1 tvg-chno=" " tvg-logo="https://i.imgur.com/LzHQoUv.png" group-title="Radios",RTL Gold
 https://stream.rtl.lu/data/live/tele/rtlgold/1080p.m3u8
 #EXTINF:-1 tvg-chno=" " tvg-logo="https://i.imgur.com/qyc8LsE.png" group-title="Radios",RTL Radio (Letzëburg)
 https://stream.rtl.lu/data/live/tele/rtlradiowebtv/1080p.m3u8
 #EXTINF:-1 tvg-chno=" " tvg-logo=" " group-title="Radios",RTL Today
 https://stream.rtl.lu/data/live/tele/rtltodayradio/1080p.m3u8
-#EXTINF:-1 tvg-chno="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/MNM_logo_2024.svg/langfr-150px-MNM_logo_2024.svg.png" tvg-logo=" " group-title="Radios",MNM
-https://live-radio.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.isml/.m3u8
 
 ## RUSSE ET LANGUES SLAVES ##
 #EXTINF:-1 tvg-chno=" " tvg-logo="https://goodgame.ru/files/avatars/av_1393822_dLSf.jpg" group-title="Musique",Mixm TV
