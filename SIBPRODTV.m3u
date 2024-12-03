@@ -154,6 +154,8 @@ https://d29qczaufx5vc3.cloudfront.net/Noovo_Telerealites.m3u8
 https://fusiontv.vedge.infomaniak.com/livecast/fusiontv/.m3u8
 #EXTINF:-1 tvg-chno="12" tvg-logo="https://www.lyngsat.com/logo/tv/aa/a12-tv-fr.png" group-title="Divertissement",A12 TV
 https://video1.getstreamhosting.com:1936/8250/8250/playlist.m3u8
+#EXTINF:-1 tvg-chno=" " tvg-logo="https://i.imgur.com/gKbNqQv.png" group-title="Divertissement",Ivoire Channel
+https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 #EXTINF:-1 tvg-chno=" " tvg-logo="https://i.imgur.com/vh2373L.png" group-title="Divertissement",My TV Channel
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 #EXTINF:-1 tvg-chno=" " tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/23255/logo_256_1709055998.jpg" group-title="Divertissement",Next TV
@@ -166,6 +168,8 @@ https://github.com/Sibprod/streams/raw/main/ressources/ftv/py/FranceTVSeries.m3u
 https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tf1-series-films.m3u8
 #EXTINF:-1 tvg-chno="35" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400008DK_20240910T003305SQUARE.png" group-title="Fiction",Noovo Cinéma
 https://dk4ogs46bjxcw.cloudfront.net/Noovo_Cinema.m3u8
+#EXTINF:-1 tvg-chno=" " tvg-logo="https://gamako.net/iptv/logos/round/afromagic.png" group-title="Fiction",Afromagic Channel
+https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-logo="https://i.imgur.com/EQZPSZx.png" group-title="Fiction",BBC Drama
 https://amg00793-amg00793c28-samsung-fr-4957.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramafrancesamsungfrance-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-chno=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA1000009KO_20241106T142654SQUARE.png" group-title="Fiction",Brefcinéma
@@ -738,8 +742,14 @@ https://stream.rtl.lu/data/live/tele/rtlradiowebtv/1080p.m3u8
 https://stream.rtl.lu/data/live/tele/rtltodayradio/1080p.m3u8
 
 ## RUSSE ET LANGUES SLAVES ##
+#EXTINF:-1 tvg-chno="https://i.imgur.com/YdyFJrl.png" tvg-logo=" ",1st Music Channel (Belarus)
+http://rtmp.one.by:1300
+#EXTINF:-1 tvg-chno=" " tvg-logo=" ",1st Music Channel (Russia)
+http://rtmp.one.by:2300
 #EXTINF:-1 tvg-chno=" " tvg-logo="https://goodgame.ru/files/avatars/av_1393822_dLSf.jpg" group-title="Musique",Mixm TV
 http://195.9.195.3:8080/hls/181490.m3u8
+#EXTINF:-1 tvg-chno=" " tvg-logo="https://ritsatv.ru/files/poster/medium/900778.jpg",RU TV
+https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 tvg-chno=" " tvg-logo="https://ritsatv.ru/POSTERS/tmf.jpg" group-title="Musique",TMF Rus
 http://195.9.195.3:8080/hls/201891.m3u8
 #EXTINF:-1 tvg-chno=" " tvg-logo="https://viva-russia.ru/wp-content/uploads/2021/09/viva_2002_belyj_zhjoltyj_prjamougolnik.png" group-title="Musique",VIVA Russia
