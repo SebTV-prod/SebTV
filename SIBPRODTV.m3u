@@ -22,10 +22,16 @@ https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 https://edge15.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8
 #EXTINF:-1 tvg-chno="23" tvg-logo="https://i.ibb.co/WGHbhfh/latelebe.png" group-title="Généralistes",La Télé
 https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
+#EXTINF:-1 tvg-chno="31" tvg-logo="https://i.ibb.co/qkkHNPR/vosges.png" group-title="Généralistes",Vosges Télévision
+https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
 #EXTINF:-1 tvg-chno="32" tvg-logo="https://i0.wp.com/lachainevaroise.com/wp-content/uploads/2023/07/cropped-cropped-Logo_LCV_couleurs-Horinzontal-02-01-01.png?w=350&ssl=1" group-title="Généralistes",La Chaîne Varoise
 https://lachainevaroise.vedge.infomaniak.com/livecast/ik:lachainevaroise/manifest.m3u8
 #EXTINF:-1 tvg-chno="33" tvg-logo="https://i.ibb.co/vmqkmDB/moselle.jpg" group-title="Généralistes",Moselle TV
 https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="35" tvg-logo="https://www.tvr.bzh/favicon-1024.png" group-title="Généralistes",TVR
+https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
+#EXTINF:-1 tvg-chno="36" tvg-logo="https://i.ibb.co/61mqv2h/biptv.png" group-title="Généralistes",BIP TV
+https://biptv.tv/live/biptvstream_orig/index.m3u8
 #EXTINF:-1 tvg-chno="71" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV_Monaco_logo.png" group-title="Généralistes",TV Monaco
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://srtb.bj/storage/2020/02/logo2-1.png" group-title="Généralistes",ORTB
@@ -354,6 +360,12 @@ https://livehautetension.vedge.infomaniak.com/livecast/livehautetension/.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/radiokaraoke.m3u8
 #EXTINF:-1 tvg-chno=" "  tvg-logo="https%3A%2F%2Fwww.fetedelaradio.com%2Fwp-content%2Fuploads%2FRadioMontBlanc-logo-bleu-vertical-20180920.png" group-title="Radios",Radio Mont-Blanc
 https://live.creacast.com/radiomontblanc-ch1/smil:radiomontblanc-ch1.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Europe1_FLAT.png/170px-Europe1_FLAT.png" group-title="Radios",Europe 1
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/europe1.m3u8
+#EXTINF:-1 tvg-chno=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/RTL_logo.svg/langfr-180px-RTL_logo.svg.png" group-title="Radios",RTL (France)
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/rtl.m3u8
+#EXTINF:-1 tvg-chno=" " tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/RTL2.png/220px-RTL2.png" group-title="Radios",RTL 2 (France)
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/rtl2.m3u8
 #EXTINF:-1 tvg-chno=" " tvg-logo="https://i.imgur.com/VOIwYYd.png" group-title="Radios",RTS Couleur 3
 https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
 #EXTINF:-1 tvg-chno=" " tvg-logo=" " group-title="Radios",Tahiti Webradio
@@ -710,6 +722,8 @@ https://d3pnbvng3bx2nj.cloudfront.net/TSN_The_Ocho.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00477-samsungelectron-worldpokertour-samsungfr/playlist.m3u8
 
 ## ALLEMAND ET LANGUES GERMANIQUES ##
+#EXTINF:-1 tvg-chno=" " tvg-logo=" " group-title="Radios",France Bleu (Elsass)
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/francebleuelsass.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-logo="https://i.imgur.com/fkW5Gbl.png" group-title="Généralistes",RTL-TV Letzëburg
 https://stream.rtl.lu/data/live/tele/channel1/playlist.m3u8
 #EXTINF:-1 tvg-chno="81" tvg-logo="https://i.imgur.com/7SmCtyy.png" group-title="Généralistes",RTL Zwee
@@ -720,7 +734,7 @@ https://stream.rtl.lu/data/live/tele/rtlgold/1080p.m3u8
 https://stream.rtl.lu/data/live/tele/rtlradiowebtv/1080p.m3u8
 #EXTINF:-1 tvg-chno=" " tvg-logo=" " group-title="Radios",RTL Today
 https://stream.rtl.lu/data/live/tele/rtltodayradio/1080p.m3u8
-#EXTINF:-1 tvg-chno=" " tvg-logo=" " group-title="Radios",MNM
+#EXTINF:-1 tvg-chno="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/MNM_logo_2024.svg/langfr-150px-MNM_logo_2024.svg.png" tvg-logo=" " group-title="Radios",MNM
 https://live-radio.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.isml/.m3u8
 
 ## RUSSE ET LANGUES SLAVES ##
