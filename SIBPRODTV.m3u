@@ -22,6 +22,10 @@ https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 https://edge15.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8
 #EXTINF:-1 tvg-chno="23" tvg-logo="https://i.ibb.co/WGHbhfh/latelebe.png" group-title="Généralistes",La Télé
 https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
+#EXTINF:-1 tvg-chno="32" tvg-logo="https://i0.wp.com/lachainevaroise.com/wp-content/uploads/2023/07/cropped-cropped-Logo_LCV_couleurs-Horinzontal-02-01-01.png?w=350&ssl=1" group-title="Généralistes",La Chaîne Varoise
+https://lachainevaroise.vedge.infomaniak.com/livecast/ik:lachainevaroise/manifest.m3u8
+#EXTINF:-1 tvg-chno="33" tvg-logo="https://i.ibb.co/vmqkmDB/moselle.jpg" group-title="Généralistes",Moselle TV
+https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="71" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV_Monaco_logo.png" group-title="Généralistes",TV Monaco
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://srtb.bj/storage/2020/02/logo2-1.png" group-title="Généralistes",ORTB
@@ -46,6 +50,8 @@ https://d3w0weunrynif9.cloudfront.net/index.m3u8
 https://d2mt8for1pddy4.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-chno="24" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300RMCWOWmono.png" group-title="Découverte",RMC Wow
 https://d18uxd7zigjv4y.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-chno="30" tvg-logo="https://i.ibb.co/zRLKgFS/alpehuez.png" group-title="Découverte",Alpe d'Huez TV
+https://adhtv.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
 #EXTINF:-1 tvg-chno="31" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-421.png" group-title="Découverte",8 Mont-Blanc
 https://tvradiozap.eu/tools/dm-m3u8.php/x3wqv8b.m3u8
 #EXTINF:-1 tvg-chno="34" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-e0e79f-b21b70-0@1x.avif" group-title="Découverte",Le Figaro TV
