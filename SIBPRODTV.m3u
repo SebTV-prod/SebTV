@@ -126,6 +126,10 @@ https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/147.m3u8
 #EXTINF:-1 tvg-chno="59" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-191.png" group-title="Divertissement",Téva
 https://accesiptv.com:443/mU2qjcVU8k/bZGV5sV2d3/146.m3u8
+#EXTINF:-1 tvg-chno="59" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-191.png" group-title="Divertissement",Téva (test)
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; Windows NT 6.1; tr-TR) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+https://s2.callofliberty.fr/coltv/teva/mono.m3u8?signature=20241206050000_dc332fb99b2c2b0fb082916edb5694f9233233cd
 #EXTINF:-1 tvg-chno=" " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD3900001QP_20241015T040203SQUARE.png" group-title="Divertissement",Allociné
 https://d1yl6bf4hrzbr0.cloudfront.net/allo.m3u8
 #EXTINF:-1 tvg-chno="" tvg-logo="https://play-lh.googleusercontent.com/5VutmeXOdk3qNnV2E5IVVcVVyh50MoM6Os02lx_2h0csmYGgAfcZ-tHKesg1n9X1HDQ=w240-h480-rw" group-title="Divertissement",D5TV 
