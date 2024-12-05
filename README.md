@@ -1,5 +1,5 @@
-# SibTV.github.io - La Télé, autrement.
-Portail officiel SibTV pour regarder la TV en ligne.
+# SebTV - La Télé, autrement.
+Portail officiel SebTV pour regarder la TV en ligne.
 Toutes les chaînes ici présentes sont des liens directement accessibles sur le site des chaînes présentes.
 
 S'il manque des chaînes, par exemple pour la TNT, c'est parce que les liens de diffusion ne sont pas libres d'accès. 
@@ -9,6 +9,6 @@ Si certaines chaînes sont manquantes, mais que des liens officiels et libres d'
 
 Toute copie de ce site est bien sûr interdite, car étant ma propriété, même si Github est en soi un projet open-source, ça ne veut pas dire que tout y est permis.
 
-https://sibprod.github.io/SibTV
+https://sebtv.fr
 
-©2024 - Sibprod - Tous droits réservés.
+©2024 - SebTV, la télé autrement - Tous droits réservés.
