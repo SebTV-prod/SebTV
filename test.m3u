@@ -13,6 +13,48 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manife
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b834b0f0c2bfee80ac:76b3afbf163f9c3feb6204b8fcf0ff53
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-u2/u2-dash-widevine.isml/manifest.mpd", 
 
+#EXTINF:-1,Rete 4
+#KODIPROP:inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://live3dvbi.msf.cdn.mediaset.net/live/dash-playready-mpx-R4-ll.mpd
+
+#EXTINF:-1,Mediaset 27
+#KODIPROP:inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://live3dvbi.msf.cdn.mediaset.net/live/dash-playready-mpx-TS-ll.mpd
+
+#EXTINF:-1,Cine 34
+#KODIPROP:inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://live3dvbi.msf.cdn.mediaset.net/live/dash-playready-mpx-B6-ll.mpd
+
+#EXTINF:-1,Focus
+#KODIPROP:inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://live3dvbi.msf.cdn.mediaset.net/live/dash-playready-mpx-FU-ll.mpd
+
+#EXTINF:-1,Italia 2
+#KODIPROP:inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://live3dvbi.msf.cdn.mediaset.net/live/dash-playready-mpx-I2-ll.mpd
+
+#EXTINF:-1,TGCom 24
+#KODIPROP:inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://live3dvbi.msf.cdn.mediaset.net/live/dash-playready-mpx-KF-ll.mpd
+
+#EXTINF:-1,Mediaset Extra
+#KODIPROP:inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://live3dvbi.msf.cdn.mediaset.net/live/dash-playready-mpx-MY-ll.mpd
+
 #EXTINF:-1,Mediaset 20
 #KODIPROP:inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
