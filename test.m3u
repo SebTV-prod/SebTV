@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/4-fun-tv-pl.png" group-title="EUROPE",4 Fun TV
+#KODIPROP:inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+
+
+USA
+
 #EXTINF:-1,Mediaset Infinity+ ch.1
 #KODIPROP:inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
