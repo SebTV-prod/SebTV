@@ -1,22 +1,15 @@
 #EXTM3U
-#EXTINF:-1, tvg-id="Atrescine.es" tvg-name="Atrescine" audio-track="1" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/
-Atrescine_logo.svg/640px-Atrescine_logo.svg.png", A3Cine
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d6ff881a6f07986a80d6ad6f041b57d4:b401c87
-c2ab11a1a488ee1c474b109ae
-https://cdn.cvattv.com.ar/live/c7eds/A3_Cine/SA_Live_dash_enc/A3_Cine.mpd
-
-#EXTINF:-1, tvg-id="AtreseriesInternacional.es" tvg-name="Atreseries Internacional"
-audio-track="1"
-tvg-logo="https://www.directv.com/images/logos/channels/dark/large/249.png",
-A3Series
+#EXTINF:-1 tvg-id="Atrescine.es" tvg-name="Atrescine" audio-track="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/640px-Atrescine_logo.svg.png", A3Cine
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":
-[{"kty":"oct","k":"7TDMf1BAp11z9hkyAkknKw","kid":"XjTgiuWuRA8BoD5QXdJKVw"}],"type":
-"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=d6ff881a6f07986a80d6ad6f041b57d4:b401c87c2ab11a1a488ee1c474b109ae
+https://cdn.cvattv.com.ar/live/c7eds/A3_Cine/SA_Live_dash_enc/A3_Cine.mpd
+
+#EXTINF:-1 tvg-id="AtreseriesInternacional.es" tvg-name="Atreseries Internacional"
+audio-track="1" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/249.png",A3Series
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7TDMf1BAp11z9hkyAkknKw","kid":"XjTgiuWuRA8BoD5QXdJKVw"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cdn.cvattv.com.ar/live/c7eds/A3_Series/SA_Live_dash_enc_2A/A3_Series.mpd
 
