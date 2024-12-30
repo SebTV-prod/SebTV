@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Atrescine.es" tvg-name="Atrescine" audio-track="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/640px-Atrescine_logo.svg.png",A3Cine
-#KODIPROP:inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d6ff881a6f07986a80d6ad6f041b57d4:b401c87c2ab11a1a488ee1c474b109ae
-https://cdn.cvattv.com.ar/live/c7eds/A3_Cine/SA_Live_dash_enc/A3_Cine.mpd
-
-#EXTINF:-1 tvg-id="AtreseriesInternacional.es" tvg-name="Atreseries Internacional"audio-track="1" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/249.png",A3Series
-#KODIPROP:inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7TDMf1BAp11z9hkyAkknKw","kid":"XjTgiuWuRA8BoD5QXdJKVw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://cdn.cvattv.com.ar/live/c7eds/A3_Series/SA_Live_dash_enc_2A/A3_Series.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/4-fun-tv-pl.png" group-title="EUROPE 🇪🇺",4 Fun TV
-#KODIPROP:inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-
 
 USA 🇺🇸
 CANADA 🇨🇦
@@ -27,64 +7,3 @@ CÔTE D'IVOIRE 🇨🇮
 ANDORRA 🇦🇩
 SAN MARINO 🇸🇲
 
-#EXTINF:-1,Mediaset Infinity+ ch.1
-#KODIPROP:inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b832a8f0326fbdc02e:ade0533ba667bb7e9847d8f215f03076 
-https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manifest.mpd
-
-#EXTINF:-1,Mediaset Infinity+ ch.2
-#KODIPROP:inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b834b0f0c2bfee80ac:76b3afbf163f9c3feb6204b8fcf0ff53
-https://live03p-seg.msf.cdn.mediaset.net/live/ch-u2/u2-dash-widevine.isml/manifest.mpd", 
-
-#EXTINF:-1,Rete 4
-#KODIPROP:inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://live3dvbi.msf.cdn.mediaset.net/live/dash-playready-mpx-R4-ll.mpd
-
-#EXTINF:-1,Mediaset 27
-#KODIPROP:inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://live3dvbi.msf.cdn.mediaset.net/live/dash-playready-mpx-TS-ll.mpd
-
-#EXTINF:-1,Cine 34
-#KODIPROP:inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://live3dvbi.msf.cdn.mediaset.net/live/dash-playready-mpx-B6-ll.mpd
-
-#EXTINF:-1,Focus
-#KODIPROP:inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://live3dvbi.msf.cdn.mediaset.net/live/dash-playready-mpx-FU-ll.mpd
-
-#EXTINF:-1,Italia 2
-#KODIPROP:inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://live3dvbi.msf.cdn.mediaset.net/live/dash-playready-mpx-I2-ll.mpd
-
-#EXTINF:-1,TGCom 24
-#KODIPROP:inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://live3dvbi.msf.cdn.mediaset.net/live/dash-playready-mpx-KF-ll.mpd
-
-#EXTINF:-1,Mediaset Extra
-#KODIPROP:inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://live3dvbi.msf.cdn.mediaset.net/live/dash-playready-mpx-MY-ll.mpd
-
-#EXTINF:-1,Mediaset 20
-#KODIPROP:inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://live3dvbi.msf.cdn.mediaset.net/live/dash-playready-mpx-LB-ll.mpd
