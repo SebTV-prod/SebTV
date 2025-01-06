@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,F2
+#EXTINF:-1,🇮🇹 Sky TG24
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
