@@ -2,9 +2,9 @@
 #EXTINF:-1,F2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=7c18674fe46f4d138d4196d9b778e824:d4649f1a057f2db3a1a78d0949d1ba0d
-https://live-up.akamaized.net/public/france2/france2.isml/fullhd25shft.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00365edc7f3e81a2be10976e63b46b57:8072faa54c2c80f416a836d415fd6989
+https://linear311-it-dash1-prd.selector.skycdn.it/016a/32519/FHD/tg24/master.mpd
         
 
 USA 🇺🇸
