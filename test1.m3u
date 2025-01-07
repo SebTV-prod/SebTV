@@ -1,17 +1,31 @@
 #EXTM3U
-#EXTINF:-1,🇮🇹 Sky TG24
+#EXTINF:-1,EuroNews
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00365edc7f3e81a2be10976e63b46b57:8072faa54c2c80f416a836d415fd6989
-https://linear311-it-dash1-prd.selector.skycdn.it/016a/32519/FHD/tg24/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=1c0c82b87329437782bfa94d9364e3c8:ecc929c9439e12ca6bc0b089308be334
+https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$39/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_SD&deviceType=mobile&os=
 
-#EXTINF:-1,RMC Story
+#EXTINF:-1,TV5 Monde
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa8be47a53e629b0e0533b28450a1cbb:a8f3e30c8fc28072e8545cda37a997d7
-http://ncdn-live.pfd.sfr.net/sdash/LIVE$NUMERO_23/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#KODIPROP:inputstream.adaptive.license_key=712c992e7e8c4ad7a29d9da6ad908b0e:28d97adc6ce3a6514e7406b364b30ee2 
+https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$33/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_SD&deviceType=mobile&os=
+
+#EXTINF:-1,MCM Pop
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=919f80cd31284f9f8498ac56de005488:dbb0c13ed932c688d0a32d69b4b546bd
+https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$93/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_SD&deviceType=mobile&os=
+
+#EXTINF:-1,MCM Top
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=53f2c5e8c2844a5f939935c9847da1e5:f9fc4ec83da11fb1e260338b1ef60764
+https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$92/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=
 
 
 USA 🇺🇸
