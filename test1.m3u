@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,France 24
+#EXTINF:-1,RMC Sport 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
