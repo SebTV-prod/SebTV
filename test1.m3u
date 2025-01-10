@@ -6,7 +6,12 @@
 #KODIPROP:inputstream.adaptive.license_key=ccb6b2930335ccf1de362b2dcfa53882:49854b26f0857b9eb491516793ac56b5
 https://ac-003.live.p7s1video.net/6e5a61c7/t_003/kronehittv-at/cenc-default.mpd
 
-
+#EXTINF:-1,TV5 QUÉBEC 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=10d25356d658091c298bcf13e2656854:b71d74fca298a0eeb164ef16b804e776
+http://rgs-atsec-bloor-001.rogers-tve-linear-mtnk-mtnk-pil.xcdn.net.rogers.com/TV5HD_HD_RG_RGTVE_70104_0_6476355092678102163.mpd
 
 #EXTINF:-1,TV5 MONDE 
 #KODIPROP:inputstream=inputstream.adaptive
