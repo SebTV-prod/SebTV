@@ -8,12 +8,13 @@ https://ac-003.live.p7s1video.net/6e5a61c7/t_003/kronehittv-at/cenc-default.mpd
 
 
 
-#EXTINF:-1,🇬🇧 ITV 
+#EXTINF:-1,
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2cd55e22f9bf46a0bb543ae9a0d7fd24:06153ec0f57fce3444b29e0f1a3534fa
-https://dar-itv1simadotcom.itv.com/csm/extlive/itv01,itv1-dotcom-dash-proda-multicdn.mpd
+#KODIPROP:inputstream.adaptive.license_key=6115b75f155d1a7a686a525fbd6ca2f6:e9c6bff9b7141a1e289061a8334c34cb
+http://live3-ott.izzigo.tv/out/u/dash/TV5-SD/default.mpd
+
 
 
 
