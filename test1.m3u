@@ -8,12 +8,12 @@ https://ac-003.live.p7s1video.net/6e5a61c7/t_003/kronehittv-at/cenc-default.mpd
 
 
 
-#EXTINF:-1,🇳🇱 RTL 4
+#EXTINF:-1,🇳🇱 Sky Uno
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8adf9e686f6b4c35a65c273c6ba5f50b:1db98fc062825c57a3369aa5fb762786
-https://nlziet-live.akamaized.net/L27/3d5aac95/1698e278.isml/.mpd
+#KODIPROP:inputstream.adaptive.license_key=0036a75f2902fa90a1e97c2e01d9f012:729f1fda62d44e22b909a3426f042c1b
+https://linear313-it-dash1-prd.selector.skycdn.it/016a/32477/FHD/skyuno/master.mpd
 
 USA 🇺🇸
 CANADA 🇨🇦
