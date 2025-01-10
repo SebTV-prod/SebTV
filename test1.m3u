@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Kronehit
+#EXTINF:-1,🇦🇹 Kronehit
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -8,12 +8,12 @@ https://ac-003.live.p7s1video.net/6e5a61c7/t_003/kronehittv-at/cenc-default.mpd
 
 
 
-#EXTINF:-1,Teleticino
+#EXTINF:-1,🇳🇱 RTL 4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=046928a2117e4fe5943d5db2b69f4b69:723d5f3c49a0596f5ffe5449741881ce
-https://wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09110/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=8adf9e686f6b4c35a65c273c6ba5f50b:1db98fc062825c57a3369aa5fb762786
+https://nlziet-live.akamaized.net/L27/3d5aac95/1698e278.isml/.mpd
 
 USA 🇺🇸
 CANADA 🇨🇦
