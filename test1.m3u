@@ -8,12 +8,13 @@ https://ac-003.live.p7s1video.net/6e5a61c7/t_003/kronehittv-at/cenc-default.mpd
 
 
 
-#EXTINF:-1,TV5 Monde
+#EXTINF:-1,TV5 MONDE 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6115b75f155d1a7a686a525fbd6ca2f6:e9c6bff9b7141a1e289061a8334c34cb
-http://live3-ott.izzigo.tv/out/u/dash/TV5-SD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=90c6f016bd4ac475108052486a3b3e72:2529b9c775cf0d67f7f4a849eff1178c
+https://svc40.main.ak.t-online.de/LCID3221228476.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228476/3221228476.mpd
+
 
 
 
