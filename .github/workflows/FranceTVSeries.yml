@@ -1,4 +1,4 @@
-name: FranceTVSeries action
+name: Series action
 
 on:
   schedule:
@@ -16,10 +16,10 @@ jobs:
       - name: config
         run: |
           git config --global user.email "<>"
-          git config --global user.name "FranceTVSeries bot"
+          git config --global user.name "Series bot"
       
       - name: updating freg
-        run: sh ressources/ftv/Series.sh
+        run: sh ressources/FranceTV/Series.sh
         
       - name: git add
         run: |
@@ -29,5 +29,5 @@ jobs:
       - name: commit & push
         run: |
           git pull
-          git commit -m "FranceTVSeries updated"
+          git commit -m "Series updated"
           git push
