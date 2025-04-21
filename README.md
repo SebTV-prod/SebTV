@@ -9,6 +9,4 @@ Si certaines chaînes sont manquantes, mais que des liens officiels et libres d'
 
 Toute copie de ce site est bien sûr interdite, car étant ma propriété, même si Github est en soi un projet open-source, ça ne veut pas dire que tout y est permis.
 
-https://sebtv.fr
-
 ©2024 - SebTV, la télé autrement - Tous droits réservés.
