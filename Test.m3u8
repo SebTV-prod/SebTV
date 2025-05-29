@@ -1,4 +1,5 @@
-#EXTINF:-1
+#EXTM3U
+#EXTINF:-1,TEST
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
