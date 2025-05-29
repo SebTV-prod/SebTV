@@ -1,0 +1,6 @@
+#EXTINF:-1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=843d465a1a3b47c0af8b18b284822223:cb51314357a1cbc3451d8c08f23a3f47
+https://live-crave.video.9c9media.com/f/crave/hbo1/manifest.mpd
