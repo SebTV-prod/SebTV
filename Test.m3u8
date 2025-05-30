@@ -9,3 +9,15 @@ https://live-crave.video.9c9media.com/f/crave/hbo1/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3cf686dc4246f19bc4419c54da0f90bc":"b40f599266c8a262ccf4a384dadce08a","9d8b1b819cfdcff845625b86cc4968f3":"480b03fe4476bc187c6a9d43ba85b9db","6ca2f2c822444ff76d9570741dec7b2b":"9fc3d71ab30e8d33f09ee29e5e453608"}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
+#EXTINF:-1,CH - RTS 1 (geoblocked)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=UNKNOWN:a12a12dbb507daa5143f440c2eb61c5b
+https://rtsun-euwe.akamaized.net/01df18e0-2e99-4fec-a3c5-24ec39a33ba3/rts1.ism/manifest(format=mpd-time-csf,encryption=cenc)
+#EXTINF:-1,CH - RTS 2 (geoblocked)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=UNKNOWN:de64a7130366442711eec0db156e3e70
+https://rtsdeux-euwe.akamaized.net/61858eb4-409e-4fa7-ae74-e0e81531084f/rts2.ism/manifest(format=mpd-time-csf,encryption=cenc)
