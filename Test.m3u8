@@ -1,7 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="5" tvg-logo="" group-title="CINÉMA ET SÉRIES",🇨🇮 A+
+#EXTINF:-1 tvg-chno="108" tvg-logo="" group-title="CINÉMA ET SÉRIES",SKY ONE
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1975d7388e1f13be99a17edf8ca0d384:f14d282a0fc1bd08dbdd579a4e7e79a0
-https://live-molotov.fubo.tv/public/aplus/aplus.isml/fullhd25shft.mpd
+#KODIPROP:inputstream.adaptive.license_key=000b3297ebe2beae1e8e544b9dccc302:4da902eab9f71f7149cbecc33fe2c75c
+https://linear211-de-dash1-prd-ak.cdn12.skycdp.com/0343430/index_stereo.mpd?
+quality=dash2&c3.ri=13507222220563977430
