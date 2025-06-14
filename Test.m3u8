@@ -4,5 +4,6 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=000b3297ebe2beae1e8e544b9dccc302:4da902eab9f71f7149cbecc33fe2c75c
-https://linear211-de-dash1-prd-ak.cdn12.skycdp.com/0343430/index_stereo.mpd?
-quality=dash2&c3.ri=13507222220563977430
+https://linear211-de-dash1-prd-ak.cdn12.skycdp.com/0343430/index_stereo.mpd
+#EXTINF:-1,rai 4
+https://webserver.one/Live/Rai_4_Online.php
